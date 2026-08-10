@@ -59,13 +59,13 @@ const ProductCard = ({ product }) => {
           />
 
           {/* Discount badge (top-left) */}
-          {product.discount > 0 && (
+        {/*  {product.discount > 0 && (
             <div className="absolute top-2 left-2 z-10">
               <div className="inline-flex items-center gap-1 bg-red-600 text-white text-[9px] sm:text-[10px] font-black uppercase tracking-widest px-2 py-0.5 rounded-full shadow-lg shadow-red-600/40">
                 -{product.discount}%
               </div>
             </div>
-          )}
+          )}*/}
 
           {/* Wishlist button (top-right) */}
           <button

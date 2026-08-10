@@ -49,7 +49,7 @@ const ShopByBrands = () => {
   const handleBrandClick = (brandName) => {
     clearFilters();
     const formattedBrand = brandMap[brandName.toUpperCase()] || brandName;
-    navigate(productsUrl({ brand: formattedBrand }));
+    navigate(productsUrl({ bike: formattedBrand }));
   };
 
   const scroll = (direction) => {

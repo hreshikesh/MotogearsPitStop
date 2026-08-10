@@ -191,7 +191,8 @@ const TrustBenefits = () => {
           <span className="hidden sm:inline">·</span>
           <span>4.8★ Rated on Google</span>
           <span className="hidden sm:inline">·</span>
-          <span>Since 2019</span>
+          <span>100% Genuine Products</span>
+      
         </motion.div>
       </div>
     </section>

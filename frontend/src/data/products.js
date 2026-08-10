@@ -14151,7 +14151,7 @@ const catalogProducts = [
         subcategory: 'Helmets',
         brand: 'Axor',
         rating: 4,
-        reviews: 7,
+        reviews: 789,
         isNew: true,
         bikes: ['All'],
         description: 'Dual visor full face helmet with quick release',
@@ -18130,8 +18130,8 @@ const catalogProducts = [
         price: 3840,
         discount: 10,
         image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203796/pro172_iouzzy.png',
-        galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203851/pg1723_tccfqo.png', 
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203852/pg1722_suko4u.png', 
+        galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203851/pg1723_tccfqo.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203852/pg1722_suko4u.png',
             'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203854/pg1721_gcmhko.pngs'],
         category: 'Touring',
         subcategory: 'Saddle bags',
@@ -18155,8 +18155,8 @@ const catalogProducts = [
         discount: 10,
         image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203795/pro173_ubu7yn.jpg',
         galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203846/pg1733_fanxkw.png',
-             'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203847/pg1732_qrdobi.jpg',
-              'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203849/pg1731_b44esb.pngs'],
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203847/pg1732_qrdobi.jpg',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203849/pg1731_b44esb.pngs'],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
         brand: 'Royal Enfield',
@@ -18179,8 +18179,8 @@ const catalogProducts = [
         discount: 10,
         image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203793/pro174_z9n1ub.png',
         galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203841/pg1743_vsqity.png',
-             'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203843/pg1742_vynse7.png',
-              'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203844/pg1741_bmtsti.pngs'],
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203843/pg1742_vynse7.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203844/pg1741_bmtsti.pngs'],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
         brand: 'Royal Enfield',
@@ -18204,7 +18204,7 @@ const catalogProducts = [
         image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203792/p175_x4c75v.jpg',
         galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203837/pg1753_cf4rgo.jpg'
             , 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203838/pg1752_xkehi7.jpg',
-             'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203840/pg1751_yyhwnh.jpgs'],
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203840/pg1751_yyhwnh.jpgs'],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
         brand: 'Royal Enfield',
@@ -18227,8 +18227,8 @@ const catalogProducts = [
         discount: 10,
         image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203791/p176_ylqwwp.jpg',
         galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203832/pg1763_aeqtyo.png',
-             'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203834/pg1762_vniqjr.png',
-              'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203835/pg1761_qp74cn.pngs'],
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203834/pg1762_vniqjr.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203835/pg1761_qp74cn.pngs'],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
         brand: 'Royal Enfield',
@@ -18251,8 +18251,8 @@ const catalogProducts = [
         discount: 10,
         image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203789/p177_sq8bmj.png',
         galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203828/pg1773_pb0fik.png',
-             'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203829/pg1772_yxadxl.png',
-              'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203831/pg1771_jljsys.png'],
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203829/pg1772_yxadxl.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203831/pg1771_jljsys.png'],
         category: 'Touring',
         subcategory: 'Saddle bags',
         brand: 'Royal Enfield',
@@ -18275,8 +18275,8 @@ const catalogProducts = [
         discount: 10,
         image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203787/p178_zg9yuw.jpg',
         galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203823/pg1783_ry3g2r.png',
-             'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203824/pg1782_l8xdm8.png',
-              'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203826/pg1781_bnslio.png'],
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203824/pg1782_l8xdm8.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203826/pg1781_bnslio.png'],
         category: 'Bike Accessories',
         subcategory: 'Wind Deflectors',
         brand: 'Royal Enfield',
@@ -18299,8 +18299,8 @@ const catalogProducts = [
         discount: 10,
         image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203787/p179_blklb4.jpg',
         galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203818/pg1793_p2pyyz.png',
-             'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203820/pg1792_rpcdyh.png',
-              'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203821/pg1791_tdqov9.pngs'],
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203820/pg1792_rpcdyh.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203821/pg1791_tdqov9.pngs'],
         category: 'Touring',
         subcategory: 'Racks',
         brand: 'Royal Enfield',
@@ -18323,8 +18323,8 @@ const catalogProducts = [
         discount: 10,
         image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203786/p180_tqanvm.jpg',
         galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203814/pg1803_po99vo.png',
-             'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203815/pg1802_wpfxaj.png',
-              'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203817/pg1801_ea8egf.pngs'],
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203815/pg1802_wpfxaj.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203817/pg1801_ea8egf.pngs'],
         category: 'Touring',
         subcategory: 'Racks',
         brand: 'Royal Enfield',
@@ -18340,15 +18340,15 @@ const catalogProducts = [
             'Mounting': 'Bolt-on installation'
         }
     },
-{
+    {
         id: 181,
         name: 'MOTO CARE Royal Enfield HEADLIGHT GRILL FOR GUERRILLA 450',
         price: 880,
         discount: 10,
         image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205078/p181_zcnvwj.jpg',
         galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205209/pg1813_yejkq5.jpg',
-             'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205211/pg1812_pwaipu.jpg',
-              'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205212/pg1811_iwjvlk.jpg'],
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205211/pg1812_pwaipu.jpg',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205212/pg1811_iwjvlk.jpg'],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
         brand: 'Royal Enfield',
@@ -18371,8 +18371,8 @@ const catalogProducts = [
         discount: 10,
         image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205077/p182_n6zbrm.jpg',
         galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205195/pg1823_h3dx0w.png',
-             'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205202/pg1822_fmn1w9.png',
-              'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205203/pg1821_homiez.png'],
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205202/pg1822_fmn1w9.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205203/pg1821_homiez.png'],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
         brand: 'Royal Enfield',
@@ -18395,8 +18395,8 @@ const catalogProducts = [
         discount: 10,
         image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205076/p183_xvfzfb.jpg',
         galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205186/pg1833_dqhwvs.png',
-             'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205188/pg1832_d0qex2.png',
-              'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205194/pg1831_jpvxwc.png'],
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205188/pg1832_d0qex2.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205194/pg1831_jpvxwc.png'],
         category: 'Touring',
         subcategory: 'Saddle bags',
         brand: 'Royal Enfield',
@@ -18419,8 +18419,8 @@ const catalogProducts = [
         discount: 10,
         image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205074/p184_zmbgzv.png',
         galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205171/pg1843_unyjf7.png',
-             'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205179/pg1842_jo0ypz.png',
-              'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205180/pg1841_tsui9v.jpg'],
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205179/pg1842_jo0ypz.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205180/pg1841_tsui9v.jpg'],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
         brand: 'Royal Enfield',
@@ -18443,8 +18443,8 @@ const catalogProducts = [
         discount: 10,
         image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205073/p185_eywpzc.jpg',
         galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205166/pg1853_o7cx2m.png',
-             'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205168/pg1852_hqvz93.png',
-              'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205170/pg1851_mrj04x.png'],
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205168/pg1852_hqvz93.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205170/pg1851_mrj04x.png'],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
         brand: 'Royal Enfield',
@@ -18467,8 +18467,8 @@ const catalogProducts = [
         discount: 10,
         image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205072/p186_gnmbas.jpg',
         galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205142/pg1863_vm1udl.png',
-             'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205144/pg1862_sx3tij.png',
-              'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205164/pg1861_leddzc.png'],
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205144/pg1862_sx3tij.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205164/pg1861_leddzc.png'],
         category: 'Touring',
         subcategory: 'Racks',
         brand: 'Royal Enfield',
@@ -18492,7 +18492,7 @@ const catalogProducts = [
         image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205070/p187_ovtj65.png',
         galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205138/pg1873_zdthpp.png'
             , 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205139/pg1872_zwq5m4.png',
-             'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205140/pg1871_zo2zyd.png'],
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205140/pg1871_zo2zyd.png'],
         category: 'Bike Accessories',
         subcategory: 'Wind Deflectors',
         brand: 'Royal Enfield',
@@ -18516,7 +18516,7 @@ const catalogProducts = [
         image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205068/p188_mbghf0.jpg',
         galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205133/pg1883_mmivwd.png'
             , 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205135/pg1882_oxzfea.png',
-             'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205136/pg1881_eppj2v.png'],
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205136/pg1881_eppj2v.png'],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
         brand: 'Royal Enfield',
@@ -18540,7 +18540,7 @@ const catalogProducts = [
         image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205068/p189_dlbmae.png',
         galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205129/pg1893_lgv5s8.png'
             , 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205131/pg1892_ths7s1.png',
-             'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205132/pg1891_tjrztf.pngs'],
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205132/pg1891_tjrztf.pngs'],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
         brand: 'Royal Enfield',
@@ -18563,8 +18563,8 @@ const catalogProducts = [
         discount: 10,
         image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205067/p190_g5n9bp.png',
         galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205096/pg1903_t0ofao.png',
-             'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205097/pg1902_yipcs5.png',
-              'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205128/pg1901_ut3ioj.png'],
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205097/pg1902_yipcs5.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205128/pg1901_ut3ioj.png'],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
         brand: 'Royal Enfield',
@@ -18580,15 +18580,15 @@ const catalogProducts = [
             'Mounting': 'Bolt-on installation'
         }
     },
-{
+    {
         id: 191,
         name: 'MOTO CARE Royal Enfield TYRE HUGGER FOR BEAR 650',
         price: 1600,
         discount: 10,
         image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206035/p191_lwkouv.jpg',
         galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206184/pg1913_cnpx1n.png',
-             'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206190/pg1912_optozf.png',
-              'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206192/pg1911_vw1l7x.png'],
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206190/pg1912_optozf.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206192/pg1911_vw1l7x.png'],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
         brand: 'Royal Enfield',
@@ -18611,8 +18611,8 @@ const catalogProducts = [
         discount: 10,
         image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206034/p192_ucn7ob.jpg',
         galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206174/pg1923_y9xfwe.png',
-             'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206180/pg1922_r8zl3m.png',
-              'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206182/pg1921_ro6imj.png'],
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206180/pg1922_r8zl3m.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206182/pg1921_ro6imj.png'],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
         brand: 'Royal Enfield',
@@ -18634,9 +18634,9 @@ const catalogProducts = [
         price: 3600,
         discount: 10,
         image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206033/p194_xniudq.png',
-        galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206095/pg1933_rblsmr.png', 
+        galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206095/pg1933_rblsmr.png',
             'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206097/pg1932_tbrjt0.png',
-             'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206173/pg1931_luvwyt.png'],
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206173/pg1931_luvwyt.png'],
         category: 'Touring',
         subcategory: 'Racks',
         brand: 'Royal Enfield',
@@ -18658,9 +18658,9 @@ const catalogProducts = [
         price: 1920,
         discount: 10,
         image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206031/p194_lbwmjn.jpg',
-        galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206077/pg1943_wcaewq.png', 
+        galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206077/pg1943_wcaewq.png',
             'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206079/pg1942_ppsvod.png',
-             'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206081/pg1941_hr8zkj.png'],
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206081/pg1941_hr8zkj.png'],
         category: 'Bike Accessories',
         subcategory: 'Wind Deflectors',
         brand: 'Royal Enfield',
@@ -18683,8 +18683,8 @@ const catalogProducts = [
         discount: 10,
         image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206030/p195_gvyzpn.jpg',
         galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206072/pg1954_khtt85.png',
-             'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206074/pg1952_nsxcae.png',
-              'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206075/pg1951_ulwabw.png'],
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206074/pg1952_nsxcae.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206075/pg1951_ulwabw.png'],
         category: 'Touring',
         subcategory: 'Racks',
         brand: 'Royal Enfield',
@@ -18707,8 +18707,8 @@ const catalogProducts = [
         discount: 10,
         image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206028/p196_oyeguv.jpg',
         galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206068/pg1963_stlejm.png',
-             'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206069/pg1962_hnzrhi.png',
-              'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206071/pg1961_iirm3z.png'],
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206069/pg1962_hnzrhi.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206071/pg1961_iirm3z.png'],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
         brand: 'Royal Enfield',
@@ -18731,8 +18731,8 @@ const catalogProducts = [
         discount: 10,
         image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206027/p197_ktm67c.jpg',
         galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206063/pg1973_aovegq.png',
-             'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206064/pg1972_yjuql6.png',
-              'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206066/pg1971_rpquc7.png'],
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206064/pg1972_yjuql6.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206066/pg1971_rpquc7.png'],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
         brand: 'Royal Enfield',
@@ -18755,8 +18755,8 @@ const catalogProducts = [
         discount: 10,
         image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206025/p198_cb9bdf.png',
         galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206058/pg1983_tcxi7l.png',
-             'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206060/pg1982_mwzqbs.png',
-              'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206061/pg1981_ufwblx.pngs'],
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206060/pg1982_mwzqbs.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206061/pg1981_ufwblx.pngs'],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
         brand: 'Royal Enfield',
@@ -18779,8 +18779,8 @@ const catalogProducts = [
         discount: 10,
         image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206024/p199_eic9ss.jpg',
         galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206057/pg1991_ftirr4.png',
-             'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206055/pg1992_zs02jy.png',
-              'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206053/pg1993_hnzkfd.png'],
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206055/pg1992_zs02jy.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206053/pg1993_hnzkfd.png'],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
         brand: 'Royal Enfield',
@@ -18803,7 +18803,7 @@ const catalogProducts = [
         discount: 10,
         image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206022/p200_zde1lh.jpg',
         galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206052/pg2001_iwareb.png',
-             'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206050/pg2002_snljdh.png', 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206049/pg2003_k3r4x2.jpg'],
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206050/pg2002_snljdh.png', 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206049/pg2003_k3r4x2.jpg'],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
         brand: 'Royal Enfield',
@@ -18819,7 +18819,7 @@ const catalogProducts = [
             'Mounting': 'Bolt-on installation'
         }
     },
-{
+    {
         id: 201,
         name: 'MOTO CARE Royal Enfield TYPE 1 - DUAL SLIDER CRASH GUARD FOR SCRAM 440',
         price: 4800,
@@ -19106,7 +19106,7 @@ const catalogProducts = [
             'Mounting': 'Bolt-on installation'
         }
     },
- {
+    {
         id: 211,
         name: 'MOTO CARE CARRIER WITH BACKREST FOR BMW G310R',
         price: 3360,
@@ -19628,7 +19628,7 @@ const catalogProducts = [
         }
     }
 
-,
+    ,
     {
         id: 231,
         name: 'MODERN TECH Royal Enfield Afterburn Performance Slip-On Exhaust for RE Interceptor 650',
@@ -29220,7 +29220,7 @@ const catalogProducts = [
         rating: 5,
         reviews: 234,
         isNew: true,
-        bikes: ['Royal Enfield'],
+        bikes: ['Aprilia'],
         description: 'Improve Performance with BMC Air Filter',
         specifications: {
             'Material': 'Hard Plastic',
@@ -29333,8 +29333,8 @@ const catalogProducts = [
             'Warranty': '1 year'
         }
     },
-  
-      {
+
+    {
         id: 615,
         name: 'Powerage Performance Headers for Himalayan 450 Brushed Steel Finish',
         price: 7990,
@@ -29360,7 +29360,7 @@ const catalogProducts = [
             'Warranty': '1 year'
         }
     },
-     {
+    {
         id: 616,
         name: 'BluArmor C60 pro - Helmet Bluetooth Communication Device, Intercom ',
         price: 24999,
@@ -29386,7 +29386,7 @@ const catalogProducts = [
             'Speakers': 'JBL 45mm'
         }
     },
-     {
+    {
         id: 617,
         name: 'BluArmor C40 - Helmet Bluetooth Communication Device, Intercom ',
         price: 12999,
@@ -29412,7 +29412,7 @@ const catalogProducts = [
             'Speakers': 'JBL 45mm'
         }
     },
-         {
+    {
         id: 618,
         name: 'BluArmor C10 - Helmet Bluetooth Communication Device, Intercom ',
         price: 4999,
@@ -29438,7 +29438,7 @@ const catalogProducts = [
             'Speakers': 'JBL 45mm'
         }
     },
-         {
+    {
         id: 619,
         name: 'BluArmor C60+ - Helmet Bluetooth Communication Device, Intercom ',
         price: 18999,
@@ -29464,7 +29464,7 @@ const catalogProducts = [
             'Speakers': 'JBL 45mm'
         }
     },
-             {
+    {
         id: 620,
         name: 'BluArmor C60 - Helmet Bluetooth Communication Device, Intercom ',
         price: 15999,
@@ -29490,7 +29490,7 @@ const catalogProducts = [
             'Speakers': 'JBL 45mm'
         }
     },
-           {
+    {
         id: 621,
         name: 'BluArmor C60 - Helmet Bluetooth Communication Device, Intercom ',
         price: 15999,
@@ -29516,7 +29516,7 @@ const catalogProducts = [
             'Speakers': 'JBL 45mm'
         }
     },
-             {
+    {
         id: 622,
         name: 'MagDock AHK (C50 Series) - Helmet Bluetooth Communication Device, Intercom ',
         price: 7999,
@@ -29542,7 +29542,7 @@ const catalogProducts = [
             'Speakers': 'JBL 45mm'
         }
     },
-                {
+    {
         id: 623,
         name: 'Additional Helmet Kit (C30 Series) - Helmet Bluetooth Communication Device, Intercom ',
         price: 2999,
@@ -29568,7 +29568,7 @@ const catalogProducts = [
             'Speakers': 'JBL 45mm'
         }
     },
-               {
+    {
         id: 623,
         name: 'Chin Mount (Gen3) ',
         price: 399,
@@ -29594,7 +29594,7 @@ const catalogProducts = [
             'Speakers': 'JBL 45mm'
         }
     },
-                   {
+    {
         id: 624,
         name: 'Chin Mount (Gen3)-Set of 4 ',
         price: 999,
@@ -29618,6 +29618,9187 @@ const catalogProducts = [
             'Battery': '13 hours talk time',
             'Features': 'Music, GPS, Phone calls',
             'Speakers': 'JBL 45mm'
+        }
+    },
+    {
+        id: 625,
+        name: 'Axor Apex Marvel Spider Man Edition Full-Face Helmet With Spoiler',
+        price: 6500,
+        discount: 3,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998253/axor_caafbk.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998252/axo_vc1lfc.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998253/axor1_p6o8ep.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998253/helmets_ysj2yy.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 626,
+        name: 'Axor Apex Scratch Helmet With Spoiler',
+        price: 5498,
+        discount: 2,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1785997912/19_900x_j0dvkl.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785997912/23_d27de4ce-63b6-496e-a064-39d3f99bb57f_900x_ltap7v.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785997912/20_ca3857db-ec54-4db5-9167-79415799d30c_900x_uoluwp.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785997913/25_cc465ee7-da20-446b-a4a6-48fbfe84a616_900x_dtiatz.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 789,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 627,
+        name: 'Axor X Altor Apex Venomous Smart Bluetooth Helmet',
+        price: 7910,
+        discount: 3,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998481/141_900x_h4vtlj.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998482/142_900x_jpsb8u.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998483/144_900x_dqnjur.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998480/72_900x_cbwdmw.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 628,
+        name: 'Axor Brutale Corsa Dual Spoiler Helmet',
+        price: 7991,
+        discount: 3,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998670/64_900x_h9o5oh.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998671/66_900x_keeunk.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998671/68_900x_tgzw2v.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998672/71_900x_upk89o.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 629,
+        name: 'Axor Apex Ascetic Helmet',
+        price: 5498,
+        discount: 3,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998860/127_c_d6h0tz.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998862/129_b_nnyw7x.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998863/131_2_zgb6jj.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998864/135_8_rydbdc.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 630,
+        name: 'Axor xBhp Bionic Helmet',
+        price: 6500,
+        discount: 3,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999006/APEX_XBHP_BIONIC_WEB-3_900x_kcx54s.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999007/APEXXBHPBIONICWEB-7_900x_ckju73.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999009/APEXXBHPBIONICWEB-8_900x_nlviqy.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999010/APEXXBHPBIONICWEB-9_900x_ky3dmk.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 631,
+        name: 'Axor Brutale Kryptic Dual Spoiler Helmet',
+        price: 7991,
+        discount: 3,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999146/46_900x_elsfei.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999147/47_900x_oqxzqd.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999148/50_900x_zl6ua7.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999149/53_900x_yp0ynz.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 632,
+        name: 'Axor Brutale Surges Dual Spoiler Helmet',
+        price: 7991,
+        discount: 3,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999317/130_900x_nzwlqu.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999317/132_900x_wnvqmg.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999319/134_900x_qupjch.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999319/136_900x_p66chz.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 633,
+        name: 'AxorX-Cross Dual Visor Gambling Helmet',
+        price: 7406,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999511/X_CROSS_GAMBLING_BLACK_BLUE_2_900x_dzkqzs.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999512/XCROSSGAMBLINGBLACKBLUE_3_900x_xt2noj.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999513/XCROSSGAMBLINGBLACKBLUE_8_900x_mnmhur.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999514/XCROSSGAMBLINGBLACKBLUE_9_900x_yu6rjj.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 634,
+        name: 'Axor Brutale Solid Colors Dual Spoiler Helmet',
+        price: 7991,
+        discount: 3,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999656/11_11d102cc-ac9b-49a6-b000-8e2cc2a94428_900x_j7y2tg.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999657/13_fb5db30f-3d06-46c3-957a-6a94df7278e9_900x_bk3zsi.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999659/16_aecb2991-7865-4f8b-b051-b28ba0995c4d_900x_wethf8.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999659/19_9a02b9a1-1f46-401d-b7ce-72c791d585d5_900x_ukld25.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 635,
+        name: 'Axor Apex Infinity Helmet',
+        price: 5498,
+        discount: 4,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999786/AXORINFINITY2_900x_nvfhf6.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999788/AXORINFINITY3_900x_y9duvq.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999788/AXORINFINITY4_900x_m5oygl.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999789/AXORINFINITY6_900x_fmaoin.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 636,
+        name: 'Axor X Altor Apex Smart Bluetooth Helmet',
+        price: 7910,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999950/170_b4f790a2-cce5-458f-b467-0c6224753569_900x_apg0co.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999949/169_900x_vumbpm.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999953/172_f65c12a3-487b-4de6-b4f0-13cdd7f2ae42_900x_zwd4gr.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999955/ALTOR_1-6_900x_m9nqwh.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 637,
+        name: 'Axor Hunter DC Superman Helmet',
+        price: 3770,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000222/1_1ee7e1be-f970-4925-ba87-da10985359cc_900x_rx6gvq.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000223/2_453c2bde-c157-49b1-a273-a51a6fab493e_900x_wmmny9.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000225/4_a98c6044-ea39-430f-b54c-79407fedd281_900x_wypl1w.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000226/5_e24243c5-006f-4a36-bee5-b56a1dbeab9b_900x_ynvmxk.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 638,
+        name: 'Axor Street Marvel Captain America Helmet',
+        price: 6500,
+        discount: 4,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000372/StreetCaptainAmericaBlue10802_900x_oegumd.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000374/StreetCaptainAmericaBlue10803_900x_wyhaow.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000375/StreetCaptainAmericaBlue10806_900x_weknav.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000377/StreetCaptainAmericaBlue10809_900x_pgqtdw.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 639,
+        name: 'Axor Saber Sasuke Helmet',
+        price: 4670,
+        discount: 3,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000542/SasukeWeb3_900x_wkyxk3.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000541/SasukeWeb2_900x_rexwx6.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000544/SasukeWeb7_900x_uzj7rd.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000546/SasukeWeb9_900x_bha30q.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 640,
+        name: 'Axor Saber Spark Helmet',
+        price: 4220,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000717/BLACK_RED_3_c6c6ac71-4455-423c-ac7d-fe13e50a0fb3_900x_j7hknh.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000718/BLACK_RED_4_be3ee861-ec48-4754-899f-f27bfab8c04e_900x_qkelci.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000720/BLACK_RED_6_b739da03-8694-4020-a661-2fc5de094b3c_900x_hssr1p.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000721/BLACK_RED_8_5ac9ff76-0f8a-4c45-9073-e3736e4c76f7_900x_mhdjpv.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 641,
+        name: 'Axor Saber Shadow Helmet',
+        price: 4220,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000873/BLACKMBLUE3_900x_d495jx.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000875/BLACKMBLUE6_900x_rmldtm.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000877/BLACKMBLUE9_900x_gju1xh.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001060/BLACKMBLUE1_900x_lxxckz.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 642,
+        name: 'Axor Hunter Shark Helmet',
+        price: 3905,
+        discount: 4,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001174/BLUE_WHITE_3_900x_gi9mpv.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001172/BLUE_WHITE_1_900x_nodo0k.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001177/BLUE_WHITE_5_900x_lary8i.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001178/BLUE_WHITE_9_900x_ema7du.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 643,
+        name: 'Axor Apex Marvel Black Panther Helmet',
+        price: 6500,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001344/BLACK_GOLD_3_900x_og0ogg.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001333/BLACK_GOLD_2_900x_igmy4m.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001345/BLACK_GOLD_8_900x_spd7uk.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001347/BLACK_GOLD_9_900x_xrx7k9.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 644,
+        name: 'Axor X-Cross Dual Visor Speedometer Helmet',
+        price: 7406,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001541/WHITE_GREY_2_900x_yz5jxk.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001544/WHITE_GREY_3_900x_h44x1p.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001546/WHITE_GREY_9_900x_dd4zec.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001539/WHITE_GREY_1_900x_gcpatd.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 645,
+        name: 'Axor X-Cross Dual Visor Flagstaff Helmet',
+        price: 7406,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001671/NEON_YELLOW_BLACK_2_900x_jfkg1k.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001673/NEON_YELLOW_BLACK_3_900x_qdtsp5.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001675/NEON_YELLOW_BLACK_8_900x_upn5vf.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001678/NEON_YELLOW_BLACK_9_900x_nazhsd.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 646,
+        name: 'Axor X-Cross Dual Visor Orbit Helmet',
+        price: 7406,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001885/RED_BLACK_2_be218ed5-bffe-4048-8e47-b105c57caeec_900x_rm0bfu.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001888/RED_BLACK_6_b55e7ffc-58f1-4cb8-9e26-42c715e5c648_900x_kv0xiy.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001883/RED_BLACK_1_7f9bea4a-ee6e-4eed-b2ca-9c642d75c15a_900x_dzytba.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001890/RED_BLACK_9_db4ed4f8-2e1a-4906-8009-230e19d9fb26_900x_his6zy.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 647,
+        name: 'Axor Apex Prism Helmet',
+        price: 5498,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002048/PRISMWHITERED3_900x_l6qvag.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002050/PRISMWHITERED6_900x_nvcyv7.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002052/PRISMWHITERED8_900x_yoo26u.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002055/PRISMWHITERED9_900x_hrcus8.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 648,
+        name: 'Axor Hunter Spear Helmet',
+        price: 3905,
+        discount: 4,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002222/RED_BLACK_3_900x_cn3ovy.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002220/RED_BLACK_1_900x_nfvzkl.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002241/RED_BLACK_9_900x_bj69f2.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002238/RED_BLACK_5_900x_tpvwfq.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 649,
+        name: 'Axor Apex Gloss Carbon Small Checks Helmet',
+        price: 13193,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002389/New_Carbon_Green_3_900x_ny5o9q.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002391/New_Carbon_Green_9_900x_v9tfh9.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002393/New_Carbon_Green6_900x_jehweh.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002386/New_Carbon_Green_1_900x_w6dcjg.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 650,
+        name: 'Axor Hunter Cornet Helmet',
+        price: 3905,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002571/Hunter_VISION_2_yekqvk.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002569/Hunter_SPOILER_2_vavead.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002569/Hunter_SPOILER_2_vavead.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002571/Hunter_VISION_2_yekqvk.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 651,
+        name: 'AxorHunter Turbo Helmet',
+        price: 3905,
+        discount: 3,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002720/WHITERED_3_ecb84f10-6ce4-460b-9120-11a74cb03305_900x_y3ytio.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002723/WHITERED_7_065b77bb-11a3-414a-8248-9cd4a6ac634e_900x_xe0gcj.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002717/WHITERED_1_066a7eea-edd5-4ca2-9409-8209fcc149a6_900x_wj9yzj.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002725/WHITERED_9_827b0b8e-4071-4683-ad92-012b6482d96f_900x_soq6n6.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 652,
+        name: 'Axor Hunter Solid Colors Helmet',
+        price: 3905,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002862/Black_3_edbc848a-41f0-4fae-9b7e-8b41ff8a8fd3_900x_omydto.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002867/Black_8_31f33ff0-377b-47aa-bf01-6387295d3f52_900x_oiwoip.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002864/Black_5_8eec9a4c-9597-46e4-b464-11bf493efd54_900x_rhhsf3.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002869/Black_9_9c961131-3b0a-4da4-8f77-55602e523251_900x_cffsga.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 653,
+        name: 'Axor Saber X-Sport Helmet',
+        price: 4220,
+        discount: 4,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786003025/BLACK_NEON_YELLOW_3_900x_bzyuxj.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786003022/BLACK_NEON_YELLOW_2_900x_evyjfq.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786003019/BLACK_NEON_YELLOW_1_900x_xdckvz.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786003027/BLACK_NEON_YELLOW_4_900x_x3khhy.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 654,
+        name: 'Axor Saber Naruto Helmet',
+        price: 4670,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786003249/BLACK_ORANGE_3_90a52c97-a617-4465-93d0-9f2e3bcf0552_900x_1_ksfdoc.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786003229/BLACKORANGE_8_eacd95fe-47f0-4969-a2a9-d27f6b7dea9c_900x_ffiarc.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786003226/BLACKORANGE_6_ec439ec1-011a-48ac-bfa6-4de134d91879_900x_vlcreb.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786003223/BLACKORANGE_1_2196d818-ee71-404e-8815-da9c582340d0_900x_auduer.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 655,
+        name: 'Axor Saber Single Colors Helmet',
+        price: 4220,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786003894/SaberBlack_3_900x_mb7hrb.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786003890/SaberBlack_2_900x_nwv8cv.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786003887/SaberBlack_1_900x_oiddmf.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786003899/SaberBlack_7_900x_mmsvzb.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 656,
+        name: 'Axor Apex Marvel Deadpool Helmet',
+        price: 6500,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004063/REDBLACK_3_be791107-e02b-4cf5-9cf6-9f4b8668f695_900x_hshylw.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004060/REDBLACK_2_8267343c-bc2e-47e0-9dff-8cc76588e19f_900x_nw2fqi.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004099/REDBLACK_5_8b689e93-b9ae-4dd0-bea5-25e5c6938f02_900x_daivqk.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004057/REDBLACK_1_5395d0a0-7797-4208-a2c4-b28046337c8a_900x_vnifrb.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 657,
+        name: 'Axor Apex Streak Helmet',
+        price: 5498,
+        discount: 4,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004199/BLACKBLUEBLACK_3_900x_brgpch.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004234/BLACKBLUEBLACK_6_900x_kcui5u.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004238/BLACKBLUEBLACK_9_900x_qtq2wi.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004197/BLACKBLUEBLACK_1_900x_elceve.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+
+    {
+        id: 658,
+        name: 'Axor Apex Dynamo Helmet',
+        price: 5498,
+        discount: 4,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004387/BLACKNEONYELLOW3_2f55324d-020f-47e0-bf16-b9401fb3ecdf_900x_v5rbtn.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004391/BLACKNEONYELLOW7_8743c8c9-150f-443c-83a3-ac3a3f5938fc_900x_e4pgub.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004346/BLACKNEONYELLOW2_3d4c936c-903a-43ed-bbbb-9a735a7bf6f8_900x_jadza0.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004394/BLACKNEONYELLOW9_36b5a485-2a32-4aef-89ca-6997f1cd04bb_900x_q17bl8.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 659,
+        name: 'Axor X-cross X1 Dual Visor Helmet',
+        price: 7406,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004536/WHITERED2_900x_dirhck.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004539/WHITERED4_900x_c7wmda.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004542/WHITERED9_900x_ighunh.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004517/WHITERED1_900x_hn6ppz.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 660,
+        name: 'Axor Apex Trance Helmet',
+        price: 5498,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004744/Trance_3_900x_na1j7t.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004770/BLACKRED6copy_ae5fc984-5b24-4235-81cf-1844b63f82d7_900x_fnru3p.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004746/Trance_9_900x_bdkeau.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004740/Trance_1_900x_nehjk8.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 661,
+        name: 'AxorApex Gloss Carbon Helmet',
+        price: 13193,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004911/CarbonFibre_3_900x_bxxhjg.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004914/CarbonFibre_4_900x_kofswx.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004908/CarbonFibre_1_900x_bjtbp5.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004908/CarbonFibre_1_900x_bjtbp5.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 662,
+        name: 'Axor Apex Forged Carbon Helmet',
+        price: 13193,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005058/ForgedCarbon_3_900x_hejm01.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005061/ForgedCarbon_7_900x_m3lhnd.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005071/ForgedCarbon_9_900x_puawyx.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005064/ForgedCarbon_8_900x_d4s37i.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 663,
+        name: 'Axor X-Cross Flash Dual Visor Helmet',
+        price: 7406,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005192/NeonYellowRed_10_900x_slknrn.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005195/NeonYellowRed_11_900x_nicm4e.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005199/NeonYellowRed_16_900x_vz5zoj.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005202/NeonYellowRed_17_900x_evhvyg.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 664,
+        name: 'Axor Apex Marvel Venom Helmet',
+        price: 6500,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005402/BlackRed_3_3d0a99c7-100f-4091-98a1-19f80924818d_900x_hbnb2q.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005399/BlackRed_2_90dab69c-a3ee-4c7c-a33a-5aeb8d40aaba_900x_wscquw.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005405/BlackRed_8_ef5c2925-f751-4946-ac46-27c48b1e09c0_900x_eqzdee.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005386/BlackRed_1_12cdc599-8204-4ee0-b013-bfe53b20f16b_900x_xe1qpw.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 665,
+        name: 'Axor X-Cross Dual Visor Helmet',
+        price: 7406,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005470/BlackOrange_2_900x_muzxpz.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005473/BlackOrange_3_900x_orhliz.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005477/BlackOrange_9_900x_woh8c1.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005467/BlackOrange_1_900x_l2axac.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 666,
+        name: 'Axor Street DC Batman Helmet',
+        price: 6500,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005616/DullAnthraciteBlack_3_900x_kqwch8.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005609/DullAnthraciteBlack_2_900x_aavz1d.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005620/DullAnthraciteBlack_7_900x_fizdhm.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005623/DullAnthraciteBlack_9_900x_dxbfkk.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 667,
+        name: 'Axor Apex DC Joker Helmet',
+        price: 6500,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005757/Jokers_3_900x_jahj4y.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005754/Jokers_2_900x_wzswjo.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005764/Jokers_9_900x_zjgrmx.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005761/Jokers_4_26ccd119-dc61-47ab-8602-0b46821bdb86_900x_uiu2c2.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 668,
+        name: 'Axor xBhp Speed of Thought Helmet',
+        price: 6500,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005911/xbhb_3_900x_mhkzev.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005908/xbhb_2_900x_safa4n.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005985/xbhb_6_900x_bnsc1h.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005988/xbhb_9_900x_zengat.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 669,
+        name: 'Axor Street Solid Black Helmet',
+        price: 5498,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006059/Streetblack_3_900x_hjxikl.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006056/Streetblack_2_caeb5a54-6ea3-4eb2-ade1-25aca6d3ebd4_900x_jyed9e.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006052/Streetblack_1_dd9544ff-39fb-4824-9b86-12d7c063ed3c_900x_gi44re.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006049/Streetblack_1_900x_crnlga.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 670,
+        name: 'Axor X-cross X1 Helmet',
+        price: 5498,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006236/X1WHITERED_2_900x_yakxcx.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006240/X1WHITERED_3_900x_bah5r0.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006244/X1WHITERED_9_900x_abzyio.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006233/X1WHITERED_1_900x_ugttmh.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 671,
+        name: 'Axor Retro Moto-X Helmet',
+        price: 5498,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006397/RetroMotoXAthenaGrey_2_900x_kpcflj.webphttps://res.cloudinary.com/k4uklwi4/image/upload/v1786006236/X1WHITERED_2_900x_yakxcx.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006393/RetroMotoXAthenaGrey_1_900x_hvryvb.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006401/RetroMotoXAthenaGrey_6_900x_scclpu.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006408/RetroMotoXAthenaGrey_9_900x_iqsd5m.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 672,
+        name: 'Axor Apex Turbine Helmet',
+        price: 5498,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006515/TurbineBlackBlue_3_900x_p6ds14.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006519/TurbineBlackBlue_7_900x_zdafdz.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006523/TurbineBlackBlue_9_900x_xtfhwb.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006511/TurbineBlackBlue_2_900x_calw5j.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 673,
+        name: 'Axor Apex Vivid Helmet',
+        price: 5498,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006754/DULLBLACKNEONYELLOW3_900x_bhiu8s.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006754/DULLBLACKNEONYELLOW6_900x_xxkdat.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006754/DULLBLACKNEONYELLOW9_900x_ursaa9.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006753/DULLBLACKNEONYELLOW2_900x_mpf4za.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 674,
+        name: 'Axor Apex Venomous Helmet',
+        price: 5498,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006871/VENOMOUSDULLBLACKGREY_3_900x_t9koa4.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006871/VENOMOUSDULLBLACKGREY_7_900x_f5jgaf.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006871/VENOMOUSDULLBLACKGREY_1_900x_w4esgf.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006871/VENOMOUSDULLBLACKGREY_9_900x_wstnir.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 675,
+        name: 'Axor Apex Seadevil helmet',
+        price: 5498,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007023/SeaDevilBlackGold_3_900x_lm4dhp.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007023/SeaDevilBlackGold_7_900x_r9ap7e.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007023/SeaDevilBlackGold_9_900x_cndckv.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007022/SeaDevilBlackGold_1_900x_caiwi2.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 676,
+        name: 'Axor Apex Hunter Helmet',
+        price: 5498,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007133/NEONBLUE_3_900x_bweg43.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007133/NEONBLUE_6_900x_ympyoi.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007133/NEONBLUE_1_900x_uaudok.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007134/NEONBLUE_9_900x_bna00f.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 677,
+        name: 'Axor Apex Hex-2 Helmet',
+        price: 5498,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007285/CoolGreyRed3_900x_xzuyye.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007257/CoolGreyRed2_900x_-_Copy_yfn5mv.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007256/CoolGreyRed_3_900x_-_Copy_ldmh3u.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007255/CoolGreyRed_2_900x_-_Copy_p3akx8.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 678,
+        name: 'Axor Apex Solid Color Helmet',
+        price: 5498,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007434/HEX_BLUE_3_900x_jx1hgx.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007434/HEX_BLUE_6_900x_ovulcs.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007433/HEX_BLUE_1_900x_sykv3w.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007435/HEX_BLUE_9_900x_wgtcym.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 679,
+        name: 'SMK Typhoon Uni GL200 Gloss Black XL',
+        price: 4950,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786012979/HEL68501_as55pb.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786012979/img_6698-jpeg-600x600_smvvpb.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786012979/img_6706-jpeg-600x600_cyv6nu.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786012980/img_6697-1-jpeg-scaled_cotx4w.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 680,
+        name: 'SMK Typhoon Unicolor MA200 Matt Black',
+        price: 5200,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013186/HEL71321_txmwez.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013186/29272-750_10000664860_b-1-3-600_twsmsc.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013186/HEL71321_txmwez.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013186/HEL71321_txmwez.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 681,
+        name: 'SMK Stellar Sports Stage GL262 Black Grey',
+        price: 4400,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013311/HEL102301_1c0a6c5e-fe5b-4c06-b1f2-8cbd8e2f1817_zkiycf.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013311/HEL102301_1c0a6c5e-fe5b-4c06-b1f2-8cbd8e2f1817_zkiycf.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013311/HEL102301_1c0a6c5e-fe5b-4c06-b1f2-8cbd8e2f1817_zkiycf.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013311/HEL102301_1c0a6c5e-fe5b-4c06-b1f2-8cbd8e2f1817_zkiycf.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 682,
+        name: 'SMK Retro Seven GL130 White Red',
+        price: 6400,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013435/HEL23588SMKRETROSEVENGL130WHTREDL_eki3et.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013435/HEL23588SMKRETROSEVENGL130WHTREDL_eki3et.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013435/HEL23588SMKRETROSEVENGL130WHTREDL_eki3et.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013435/HEL23588SMKRETROSEVENGL130WHTREDL_eki3et.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 683,
+        name: 'SMK STELLAR SPORTS S01 STAGE MA262 MAT BLK GREY',
+        price: 4400,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013580/51XMSS1x8VL._AC__jbtfkk.jpg',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013580/51XMSS1x8VL._AC__jbtfkk.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013580/51XMSS1x8VL._AC__jbtfkk.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013580/51XMSS1x8VL._AC__jbtfkk.jpg'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 684,
+        name: 'SMK Stellar Flight GL256 Black Blue Grey',
+        price: 4400,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013723/HEL22851SMKSTELLARFLIGHTGL256BLKBLUGRYXL2_nhcod6.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013723/HEL22851SMKSTELLARFLIGHTGL256BLKBLUGRYXL2_nhcod6.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013723/OIP_o6rufu.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013723/OIP_o6rufu.jpg'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 685,
+        name: 'SMK Agnar Tektron MA263 Matt Black Grey Red',
+        price: 5900,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013843/HEL22799SMKAGNARTEKTRONMATTBLKGREYREDMA263M2_r3fs65.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013843/HEL22799SMKAGNARTEKTRONMATTBLKGREYREDMA263M2_r3fs65.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013843/HEL22799SMKAGNARTEKTRONMATTBLKGREYREDMA263M2_r3fs65.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013842/AGNAR-TEKTRON-MA-263-2_xwy5bk.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 686,
+        name: 'SMK Stellar K-Power GL231 Gloss Black Red White',
+        price: 4800,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013933/HEL18716SMKSTELLARKPOWERGL231GLOSBLKREDWHTL_pmhixf.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013933/HEL18716SMKSTELLARKPOWERGL231GLOSBLKREDWHTL_pmhixf.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013933/HEL18716SMKSTELLARKPOWERGL231GLOSBLKREDWHTL_pmhixf.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013933/HEL18716SMKSTELLARKPOWERGL231GLOSBLKREDWHTL_pmhixf.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 687,
+        name: 'SMK Typhoon Sports Tour GL651 Grey Blue White',
+        price: 5250,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014004/HEL21203SMKTYPHOONSPORTSTOURGL651GRYBLUWHTM1_8002cdde-fb47-4b33-a887-9188345ac484_ryjlse.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014004/HEL21203SMKTYPHOONSPORTSTOURGL651GRYBLUWHTM1_8002cdde-fb47-4b33-a887-9188345ac484_ryjlse.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014004/HEL21203SMKTYPHOONSPORTSTOURGL651GRYBLUWHTM1_8002cdde-fb47-4b33-a887-9188345ac484_ryjlse.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014004/HEL21203SMKTYPHOONSPORTSTOURGL651GRYBLUWHTM1_8002cdde-fb47-4b33-a887-9188345ac484_ryjlse.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 688,
+        name: 'SMK Stellar Sports Flight GL266 Full Face Helmet Gloss Black Grey Grey',
+        price: 4400,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014096/HEL22804SMKSTELLARSPORTSS01FLIGHTGL266BLKGRYGRYL1_g2c1ry.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014096/HEL22804SMKSTELLARSPORTSS01FLIGHTGL266BLKGRYGRYL2_qul0qp.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014105/HEL22804SMKSTELLARSPORTSS01FLIGHTGL266BLKGRYGRYL3_uj4cns.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014096/HEL22804SMKSTELLARSPORTSS01FLIGHTGL266BLKGRYGRYL1_g2c1ry.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 689,
+        name: 'SMK Agnar Tektron GL265 Black Grey Blue',
+        price: 5900,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014215/1_wkmpv8.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014216/2_rlobkk.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014215/1_wkmpv8.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014216/2_rlobkk.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 690,
+        name: 'SMK Agnar Unicolour MA600 Nardo Grey',
+        price: 5600,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014380/29272-750_10000664860_b-1-3-600_ga0kpm.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014382/HEL22823SMKAGNARUNICOLORMA600NARDOGRYXL1_f6c7lj.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014383/HEL22823SMKAGNARUNICOLORMA600NARDOGRYXL2_qoin3k.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014383/HEL22823SMKAGNARUNICOLORMA600NARDOGRYXL2_qoin3k.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 691,
+        name: 'SMK Agnar Unicolour GL300 Wine Red',
+        price: 5600,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014492/HEL22809SMKAGNARUNICOLORGL300WINEREDM1_vg8d2i.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014494/HEL22809SMKAGNARUNICOLORGL300WINEREDM2_vjflzj.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014496/HEL22809SMKAGNARUNICOLORGL300WINEREDM3_muylzj.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014494/HEL22809SMKAGNARUNICOLORGL300WINEREDM2_vjflzj.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 692,
+        name: 'SMK STELLAR SPORTS SOI UNICOLOUR GL200 GLOSS BLACK',
+        price: 4100,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014590/HEL132541_n75icf.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014590/HEL132541_n75icf.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014590/HEL132541_n75icf.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014590/HEL132541_n75icf.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 693,
+        name: 'SMK Titan Panther MA215 Full Face Helmet Matt Black White Blue',
+        price: 9000,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014678/HEL22889SMKTITANPANTHERMA215MATTBLKWHTBLUL_fcxrps.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014678/HEL22889SMKTITANPANTHERMA215MATTBLKWHTBLUL_fcxrps.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014678/HEL22889SMKTITANPANTHERMA215MATTBLKWHTBLUL_fcxrps.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014678/HEL22889SMKTITANPANTHERMA215MATTBLKWHTBLUL_fcxrps.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 694,
+        name: 'SMK Gullwing Sonic GL652 Flip-Up Modular Helmet Grey Blue Black XL',
+        price: 6650,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014787/HEL22893SMKGULLWINGS01SONICGL652GRYBLUBLKXL1_fgyrr1.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014789/HEL22893SMKGULLWINGS01SONICGL652GRYBLUBLKXL2_lgx0u0.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014787/HEL22893SMKGULLWINGS01SONICGL652GRYBLUBLKXL1_fgyrr1.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014789/HEL22893SMKGULLWINGS01SONICGL652GRYBLUBLKXL2_lgx0u0.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 695,
+        name: 'SMK Agnar Cyborg MA266 Full Face Helmet Matt Black Grey Multi Colour Variants',
+        price: 6700,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014891/HEL24574SMKAGNARCYBORGMA266MATTBLACKGREYGREYS_rwldcq.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014897/HEL24574SMKAGNARCYBORGMA266MATTBLACKGREYGREYS_2_pcoap3.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014899/HEL24574SMKAGNARCYBORGMA266MATTBLACKGREYGREYS_3_gmrbgv.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014891/HEL24574SMKAGNARCYBORGMA266MATTBLACKGREYGREYS_rwldcq.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 696,
+        name: 'SMK Retro Inferno MA558 Blue Green',
+        price: 6000,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015015/HEL23579SMKRETROINFERNOMA558BLUEGRNM2_jz2mmt.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015012/HEL23579SMKRETROINFERNOMA558BLUEGRNM1_wv44gx.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015017/HEL23579SMKRETROINFERNOMA558BLUEGRNM3_xwhyz1.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015015/HEL23579SMKRETROINFERNOMA558BLUEGRNM2_jz2mmt.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 697,
+        name: 'SMK Agnar Cyborg GL265 Full Face Helmet with Multi Colour Variants',
+        price: 5900,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015172/HEL24591SMKAGNARCYBORGGL263BLACKGREYREDS4_t5ibjo.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015161/HEL24589_SMK_AGNAR_CYBORG_GL265_BLACK_GREY_BLUE_XL_qkc3ka.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015159/HEL24582_SMK_AGNAR_CYBORG_GL266_BLACK_GREY_GREY_S_4_mbglpx.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015174/HEL24595_SMK_AGNAR_CYBORG_GL237_BLACK_RED_GOLD_S_4_dvwi4z.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 698,
+        name: 'SMK Allterra S01 Tribou GL527 Blue Black Orange',
+        price: 5900,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015407/HEL23541SMKALLTERRAS01TRIBOUGL527BLUEBLKORGM_ipqxqr.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015407/HEL23541SMKALLTERRAS01TRIBOUGL527BLUEBLKORGM_ipqxqr.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015407/HEL23541SMKALLTERRAS01TRIBOUGL527BLUEBLKORGM_ipqxqr.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015407/HEL23541SMKALLTERRAS01TRIBOUGL527BLUEBLKORGM_ipqxqr.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 699,
+        name: 'SMK Stellar Sport Stage MA262 Matte Black Grey',
+        price: 4400,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015514/4_suzfvy.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015517/5_rxhz6l.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015518/6_krjpyr.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015514/4_suzfvy.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 700,
+        name: 'SMK Stellar K-Power GL231 Black Red White',
+        price: 4400,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015608/HEL18716SMKSTELLARKPOWERGL231GLOSBLKREDWHTL_ct0jey.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015608/HEL18716SMKSTELLARKPOWERGL231GLOSBLKREDWHTL_ct0jey.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015608/HEL18716SMKSTELLARKPOWERGL231GLOSBLKREDWHTL_ct0jey.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015608/HEL18716SMKSTELLARKPOWERGL231GLOSBLKREDWHTL_ct0jey.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 701,
+        name: 'SMK Retro Seven MA260 Black Grey',
+        price: 6000,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015689/HEL23567SMKRETROSEVENMA260BLKGREYXL_msranz.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015689/HEL23567SMKRETROSEVENMA260BLKGREYXL_msranz.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015689/HEL23567SMKRETROSEVENMA260BLKGREYXL_msranz.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015689/HEL23567SMKRETROSEVENMA260BLKGREYXL_msranz.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 702,
+        name: 'SMK Stellar K-Power MA267 Matt Black Grey Orange',
+        price: 4400,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015817/HEL17792SMKSTELLARKPOWERMA267MATBLKGRYORGS_gdrzed.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015817/HEL17792SMKSTELLARKPOWERMA267MATBLKGRYORGS_gdrzed.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015817/HEL17792SMKSTELLARKPOWERMA267MATBLKGRYORGS_gdrzed.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015817/HEL17792SMKSTELLARKPOWERMA267MATBLKGRYORGS_gdrzed.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 703,
+        name: 'SMK Typhoon Sports Tour GL585 Blue Green',
+        price: 5250,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015899/22_gaave4.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015900/33_cnzebz.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015898/11_lhyvl1.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015899/22_gaave4.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 704,
+        name: 'SMK Stellar Sports K-Power GL267 Gloss Black Grey Orange',
+        price: 4400,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015974/12_kg0pcn.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015974/12_kg0pcn.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015974/12_kg0pcn.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015974/12_kg0pcn.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 705,
+        name: 'SMK Gullwing S01 Sonic GL266 Black Grey',
+        price: 6650,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016058/34_npmyyh.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016058/21_h2paoe.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016058/23_bzzost.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016058/34_npmyyh.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 706,
+        name: 'SMK Gullwing Navigator GL263 Gloss Black Grey Red',
+        price: 6650,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016181/HEL16628SMKGULLWINGNAVIGATORGL263GLSBLKGRYREDL_gcditu.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016181/HEL16628SMKGULLWINGNAVIGATORGL263GLSBLKGRYREDL_gcditu.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016181/HEL16628SMKGULLWINGNAVIGATORGL263GLSBLKGRYREDL_gcditu.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016181/HEL16628SMKGULLWINGNAVIGATORGL263GLSBLKGRYREDL_gcditu.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 707,
+        name: 'SMK Stellar Sports S01 Adox MA266 Matt Black Grey',
+        price: 4400,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016284/HEL21485SMKSTELLARSPORTSS01ADOXMA266MATTBLKGREYGREYS_poxojq.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016284/HEL21485SMKSTELLARSPORTSS01ADOXMA266MATTBLKGREYGREYS_poxojq.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016284/HEL21485SMKSTELLARSPORTSS01ADOXMA266MATTBLKGREYGREYS_poxojq.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016284/HEL21485SMKSTELLARSPORTSS01ADOXMA266MATTBLKGREYGREYS_poxojq.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 708,
+        name: 'SMK Typhoon Azonix GL263 Gloss Black Grey Red Full Face Helmet',
+        price: 5250,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016364/122_a49mu0.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016366/124_udxjra.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016365/123_hcmngc.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016364/122_a49mu0.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 709,
+        name: 'SMK Typhoon S01 Sparko GL236 Black Red Grey',
+        price: 5250,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016364/122_a49mu0.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016366/124_udxjra.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016365/123_hcmngc.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016364/122_a49mu0.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 710,
+        name: 'SMK Stellar Sports S01 K-Power GL267 Gloss Black Grey Orange',
+        price: 4400,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016553/111_yeih8s.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016553/111_yeih8s.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016553/111_yeih8s.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016553/111_yeih8s.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 711,
+        name: 'SMK Agnar Tektron GL263 Black Grey Red',
+        price: 6700,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013843/HEL22799SMKAGNARTEKTRONMATTBLKGREYREDMA263M2_r3fs65.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016642/222_r6rknc.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016642/222_r6rknc.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013843/HEL22799SMKAGNARTEKTRONMATTBLKGREYREDMA263M2_r3fs65.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 712,
+        name: 'SMK Gullwing Unicolour GL200 Gloss Black',
+        price: 6150,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016745/333_dqrf0y.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016747/555_b8lofg.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016746/444_ftkhd8.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016745/333_dqrf0y.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 713,
+        name: 'SMK Typhoon Style GL236 Full Face Helmet Gloss Black Red Grey',
+        price: 5150,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016825/666_kjzuv3.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016825/666_kjzuv3.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016825/666_kjzuv3.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016825/666_kjzuv3.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 714,
+        name: 'SMK Allterra Unicolour White GL120 Adventure Full Face Helmet',
+        price: 5900,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016959/HEL207392_jmnz9g.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016960/HEL207394_cu9ril.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016959/HEL207393_zkdy7j.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016959/HEL207392_jmnz9g.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 715,
+        name: 'SMK Gullwing Unicolour GL200 Gloss Black Flip-Up Modular Helmet',
+        price: 6150,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017060/777_sh5zib.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017060/777_sh5zib.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017060/777_sh5zib.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017060/777_sh5zib.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 716,
+        name: 'SMK Stellar Sports S01 Adox GL266 Gloss Black Grey',
+        price: 4400,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017124/888_gtyb4t.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017124/888_gtyb4t.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017124/888_gtyb4t.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017124/888_gtyb4t.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 717,
+        name: 'SMK Gullwing Solid Unicolour GL200 Gloss Black',
+        price: 6350,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017207/1111_jpad08.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017208/2222_wystow.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017209/3333_pl48b2.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017207/1111_jpad08.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 718,
+        name: 'SMK Allterra S01 Unicolour MA260 Matt Black Grey Adventure Full Face Helmet - L',
+        price: 5900,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017316/5555_vz4kdq.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017317/6666_c7obqm.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017318/7777_g3vtho.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017317/6666_c7obqm.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 719,
+        name: 'SMK Stellar Sports Adox MA266 Full Face Helmet Matt Black Grey Grey',
+        price: 4400,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017415/aaa_mueklu.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017416/bbb_jpllvy.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017415/aaa_mueklu.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017416/bbb_jpllvy.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 720,
+        name: 'SMK Gullwing GL200 Flip-Up Modular Helmet Gloss Black XL Size',
+        price: 6350,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017490/q_sxlwbs.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017490/q_sxlwbs.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017490/q_sxlwbs.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017490/q_sxlwbs.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 721,
+        name: 'SMK GTJ Escape MA257 Open Face Helmet Matt Black Blue Orange XL',
+        price: 3800,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017557/z_bemp9e.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017557/z_bemp9e.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017557/z_bemp9e.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017557/z_bemp9e.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 722,
+        name: 'SMK GTJ Unicolor MA600 Open Face Helmet Matt Nardo Grey M Size',
+        price: 3500,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017624/s_rbzutl.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017624/s_rbzutl.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017624/s_rbzutl.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017624/s_rbzutl.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 723,
+        name: 'SMK Terrain Motorcycle Goggles with Clear Lens + Extra Grey Mirror Lens',
+        price: 1500,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018017/w_u9lyl2.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018016/e_e4ebbm.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018017/w_u9lyl2.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018016/e_e4ebbm.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 724,
+        name: 'SMK Stellar Helmet Visor Mechanism Assembly',
+        price: 95,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018116/x_th5sid.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018116/x_th5sid.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018116/x_th5sid.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018116/x_th5sid.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 725,
+        name: 'SMK Stellar Helmet Rear Spoiler',
+        price: 135,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018224/c_g751hn.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018224/c_g751hn.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018224/c_g751hn.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018224/c_g751hn.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 726,
+        name: 'Visor Pro Aftermarket MT V12 Red Smoke / BLU Smoke / BLU Clear / RED Clear',
+        price: 1390,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018318/aa_l2kshk.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018320/ss_m8juby.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018318/aa_l2kshk.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018322/zz_lljgkn.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 727,
+        name: 'SMK Helmet Visor Stellar Pinlock Clear Replacement Shield',
+        price: 600,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018437/aaaa_dzovdx.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018437/aaaa_dzovdx.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018437/aaaa_dzovdx.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018437/aaaa_dzovdx.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 728,
+        name: 'SMK Nose Guard Stellar Helmet Breath Deflector',
+        price: 199,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018524/zzz_qke1qt.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018524/zzz_qke1qt.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018524/zzz_qke1qt.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018524/zzz_qke1qt.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 729,
+        name: 'SMK Typhoon Outer Visor Night Vision Yellow Pinlock 30 Ready',
+        price: 450,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018608/qq_oymymq.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018609/ww_acd2d3.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018608/qq_oymymq.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018609/ww_acd2d3.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    }, {
+        id: 730,
+        name: 'SMK Twister Glide Mirror Outer Visor – Replacement Helmet Shield',
+        price: 500,
+        discount: 5,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018700/qqq_auifko.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018700/qqq_auifko.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018700/qqq_auifko.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018700/qqq_auifko.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'SMK',
+        rating: 4,
+        reviews: 78,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Dual visor full face helmet with quick release',
+        specifications: {
+            'Certification': 'DOT + ISI',
+            'Weight': '1350g',
+            'Visor': 'Dual visor system',
+            'Interior': 'Removable washable'
+        }
+    },
+    {
+        id: 731,
+        name: 'Cramster Raida Explorer Boots | Black',
+        price: 5999,
+        discount: 20,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020257/Cramster_Flux_Boots_Black_01_veaalv.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020258/Cramster_Flux_Boots_Black_03_uwym2q.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020258/Cramster_Flux_Boots_Black_12_pv5xo7.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020258/Cramster_Flux_Boots_Black_03_uwym2q.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Boots',
+        brand: 'Cramster',
+        rating: 5,
+        reviews: 145,
+        isNew: true,
+        bikes: ['All'],
+        description: 'All-day comfort riding boots with ankle protection',
+        specifications: {
+            'Material': 'Leather + Mesh',
+            'Protection': 'Ankle guards, toe box',
+            'Waterproof': 'Water resistant',
+            'Warranty': 'Six months warranty against manufacturing defect',
+            'Sole': 'Anti-slip rubber sole'
+        }
+    },
+    {
+        id: 732,
+        name: 'Cramster VELOCITY MOTORCYCLE JEANS',
+        price: 5299,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020449/Cramster_Velocity_Denim_Jeans_01_ogowwl.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020449/Cramster_Velocity_Denim_Jeans_02_smg2hi.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020449/Cramster_Velocity_Denim_Jeans_06_creol2.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020450/Cramster_Velocity_Denim_Jeans_08_fff19e.jpg'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Pants',
+        brand: 'Cramster',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Waterproof riding pants with CE armor',
+        specifications: {
+            'Material': 'Cordura 600D',
+            'Protection': 'CE knee & hip armor',
+            'Waterproof': 'Yes',
+            'Sizes': '28-40'
+        }
+    },
+    {
+        id: 733,
+        name: 'Cramster OASIS HYDRATION BACKPACK',
+        price: 2799,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020738/Cramster_Oasis_Hydration_Bag_11_New_tqm3vc.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020738/Cramster_Oasis_HydrationBag_02_jd3idu.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020739/Cramster_Oasis_HydrationBag_05_lpyxmj.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020738/Cramster_Oasis_Hydration_Bag_01_New_3_nblvld.webp'
+        ],
+        category: 'Touring',
+        subcategory: 'Saddle Bags',
+        brand: 'Cramster',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the Cramster accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 734,
+        name: 'Cramster BEETLE 2 TANK BAG 9L',
+        price: 1999,
+        discount: 20,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020934/Cramster_Beetle_Tank_Bag_001_wbpkx1.jpg',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020934/Cramster_Beetle_Tank_Bag_002_mtpl9h.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020935/Cramster_Beetle_Tank_Bag_003_vjntbm.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020935/Cramster_Beetle_Tank_Bag_005_gfznax.jpg'
+        ],
+        category: 'Touring',
+        subcategory: 'Tank Bags',
+        brand: 'Cramster',
+        rating: 4,
+        reviews: 345,
+        isNew: true,
+        bikes: ['Yamaha'],
+        description: 'Magnetic tank bag with phone holder',
+        specifications: {
+            'Capacity': '12L expandable',
+            'Mounting': 'Strong magnets',
+            'Features': 'Phone holder, rain cover',
+            'Compatibility': 'FZ series'
+        }
+    },
+    {
+        id: 735,
+        name: 'Cramster TURTLE 2 TANK BAG 24L',
+        price: 2999,
+        discount: 20,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021087/Cramster_Turtle_Tank_Bag_001_svbpwg.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021088/Cramster_Turtle_Tank_Bag_008_c31kxt.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021088/Cramster_Turtle_Tank_Bag_003_hcwgpk.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021088/CramsterTurtaltankbag_04_uszjjg.webp'
+        ],
+        category: 'Touring',
+        subcategory: 'Tank Bags',
+        brand: 'Cramster',
+        rating: 4,
+        reviews: 345,
+        isNew: true,
+        bikes: ['Yamaha'],
+        description: 'Magnetic tank bag with phone holder',
+        specifications: {
+            'Capacity': '12L expandable',
+            'Mounting': 'Strong magnets',
+            'Features': 'Phone holder, rain cover',
+            'Compatibility': 'FZ series'
+        }
+    },
+    {
+        id: 736,
+        name: 'Cramster K2K GLOVES',
+        price: 4999,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021284/Cramster_K2K_Gloves_Black_Grey_01_ysmo9h.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021284/Cramster_K2K_Gloves_Black_Grey_02_zghrj4.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021285/Cramster_K2K_Gloves_Black_Grey_03_o5bbus.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021285/Cramster_K2K_Gloves_Black_Grey_04_cjvvug.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Gloves',
+        brand: 'Cramster',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['All'],
+        description: "Make your ride easy with Cramster",
+        specifications: {
+            'Range': '24 months',
+            'Features': 'quick dry sweet proof',
+            'Speakers': 'accessable'
+        }
+    },
+    {
+        id: 737,
+        name: 'Cramster FLUX WP GLOVES',
+        price: 2299,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021392/Cramster_Flux_WP_Gloves_Black_01_kdajgq.jpg',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021393/Cramster_Flux_WP_Gloves_Black_02_pn5krg.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021393/Cramster_Flux_WP_Gloves_Black_03_vkmnpf.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021394/Cramster_Flux_WP_Gloves_Black_04_hqx2mk.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Gloves',
+        brand: 'Cramster',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['All'],
+        description: "Make your ride easy with Cramster",
+        specifications: {
+            'Range': '24 months',
+            'Features': 'quick dry sweet proof',
+            'Speakers': 'accessable'
+        }
+    }, {
+        id: 738,
+        name: 'Cramster FLUX GLOVES',
+        price: 1899,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021506/Flux-SP-Gloves-Black-White-Cramster_13_jwfam3.jpg',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021505/Flux-SP-Gloves-Black-Red-Cramster_3_sxeuv1.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021504/Flux-SP-Gloves-Black-Red-Cramster_2_mnpqhp.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021503/Flux-SP-Gloves-Black-Red-Cramster_ntoedr.jpg'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Gloves',
+        brand: 'Cramster',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['All'],
+        description: "Make your ride easy with Cramster",
+        specifications: {
+            'Range': '24 months',
+            'Features': 'quick dry sweet proof',
+            'Speakers': 'accessable'
+        }
+    },
+    {
+        id: 739,
+        name: 'Cramster BREEZER SP GLOVES',
+        price: 2949,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021636/Cramster_Breezer_SP_Gloves_Black_White_acmd9b.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021636/CramsterBreezerGlovesBlackWhite02_ehgiu4.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021637/CramsterBreezerGlovesBlackWhite03_fdx1j6.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021637/CramsterBreezerGlovesBlackWhite04_msdr7o.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Gloves',
+        brand: 'Cramster',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['All'],
+        description: "Make your ride easy with Cramster",
+        specifications: {
+            'Range': '24 months',
+            'Features': 'quick dry sweet proof',
+            'Speakers': 'accessable'
+        }
+    },
+    {
+        id: 740,
+        name: 'Cramster RAGE BIONIC KNEE GUARDS',
+        price: 3099,
+        discount: 8,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021771/Cramstar_Rage_Bionic_Knee_Guards_Black_01_im5rhg.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021772/Cramstar_Rage_Bionic_Knee_Guards_Black_2_482104eb-b693-4983-a33a-3c860f866c01_c0rext.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021773/Cramstar_Rage_Bionic_Knee_Guards_Black_3_xwxzd9.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021774/Cramstar_Rage_Bionic_Knee_Guards_Black_4_keznwe.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Knee Guards',
+        brand: 'Cramster',
+        rating: 4,
+        reviews: 456,
+        isNew: false,
+        bikes: ['All'],
+        description: 'CE approved knee and shin guards',
+        specifications: {
+            'Certification': 'CE Level 1',
+            'Material': 'Hard shell plastic',
+            'Adjustable': 'Yes',
+            'Size': 'Universal fit'
+        }
+    }, {
+        id: 741,
+        name: 'Cramster RAGE BIONIC ELBOW GUARDS',
+        price: 2499,
+        discount: 8,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021912/Cramstar_Rage_Bionic_Knee_Guards_Black_01_de3nsx.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021912/Cramstar_Rage_Bionic_Knee_Guards_Black_2_482104eb-b693-4983-a33a-3c860f866c01_eewvdu.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021913/Cramstar_Rage_Bionic_Knee_Guards_Black_3_sybb8g.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021914/Cramstar_Rage_Bionic_Knee_Guards_Black_4_lgkilg.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Knee Guards',
+        brand: 'Cramster',
+        rating: 4,
+        reviews: 456,
+        isNew: false,
+        bikes: ['All'],
+        description: 'CE approved knee and shin guards',
+        specifications: {
+            'Certification': 'CE Level 1',
+            'Material': 'Hard shell plastic',
+            'Adjustable': 'Yes',
+            'Size': 'Universal fit'
+        }
+    },
+    {
+        id: 742,
+        name: 'Cramster VIPER JACKET',
+        price: 4799,
+        discount: 15,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022083/Cramster_Viper_jscket_003_stn0hg.jpg',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022084/Cramster_Viper_jscket_004_sny7d7.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022086/Cramster_ViperJacket_001_080f537c-117e-47b3-b8a4-45073d0229ce_uyqyvz.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022087/Cramster_Viperjscket_002_0b78068a-6e2e-423b-9092-25e012325f07_gekfpw.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Jackets',
+        brand: 'Cramster',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['KTM', 'Royal Enfield', 'Yamaha', 'All'],
+        description: 'Not just the protectors, the entire jacket is Class A certified as per CE Standard EN 17092-4:2020',
+        specifications: {
+            'Material': 'Cordura 500D',
+            'Protection': 'CE Level 2 armor',
+            'Waterproof': 'Yes',
+            'Ventilation': '4-way air vents'
+        }
+    },
+    {
+        id: 743,
+        name: 'Cramster BREEZER JACKET',
+        price: 3799,
+        discount: 15,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022204/CramsterBrezzerJacket_001_2_cii1aa.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022205/CramsterBrezzerJacket_002_1_luvdba.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022204/CramsterBrezzerJacket_001_2_cii1aa.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022205/CramsterBrezzerJacket_002_1_luvdba.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Jackets',
+        brand: 'Cramster',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['KTM', 'Royal Enfield', 'Yamaha', 'All'],
+        description: 'Not just the protectors, the entire jacket is Class A certified as per CE Standard EN 17092-4:2020',
+        specifications: {
+            'Material': 'Cordura 500D',
+            'Protection': 'CE Level 2 armor',
+            'Waterproof': 'Yes',
+            'Ventilation': '4-way air vents'
+        }
+    },
+    {
+        id: 744,
+        name: 'Cramster HYPERFLEX BALACLAVA',
+        price: 199,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022396/Cramster_balaclava_front_s4fzrj.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022396/Cramster_balaclava_back_ownj73.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022396/Cramster_balaclava_front_s4fzrj.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022396/Cramster_balaclava_back_ownj73.jpg'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Helmets',
+        brand: 'Cramster',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['All'],
+        description: "Make your ride easy with Cramster",
+        specifications: {
+            'Range': '24 months',
+            'Features': 'quick dry sweet proof',
+            'Speakers': 'accessable'
+        }
+    },
+    {
+        id: 745,
+        name: 'Cramster HYPERFLEX 2 BASE LAYER - LOWER',
+        price: 999,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022899/Cramster_Performace_BASE_LAYER_lower_001_1_eygowt.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022902/Cramster_Performace_BASE_LAYER_lower_003_xgduz3.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022899/Cramster_Performace_BASE_LAYER_lower_001_1_eygowt.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022900/Cramster_Performace_BASE_LAYER_lower_002_1_sak5x4.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Pants',
+        brand: 'Cramster',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Waterproof riding pants with CE armor',
+        specifications: {
+            'Material': 'Cordura 600D',
+            'Protection': 'CE knee & hip armor',
+            'Waterproof': 'Yes',
+            'Sizes': '28-40'
+        }
+    },
+    {
+        id: 746,
+        name: 'Cramster HYPERFLEX 2 BASE LAYER - UPPER',
+        price: 999,
+        discount: 15,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786023038/Cramster_HyperFlex_Base_layer_Upper_02_efdum8.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786023040/Cramster_HyperFlex_Base_layer_Upper_04_uls1fg.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786023038/Cramster_HyperFlex_Base_layer_Upper_02_efdum8.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786023042/Cramster_HyperFlex_Base_layer_Upper_05_bie08j.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Jackets',
+        brand: 'Cramster',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['KTM', 'Royal Enfield', 'Yamaha', 'All'],
+        description: 'Not just the protectors, the entire jacket is Class A certified as per CE Standard EN 17092-4:2020',
+        specifications: {
+            'Material': 'Cordura 500D',
+            'Protection': 'CE Level 2 armor',
+            'Waterproof': 'Yes',
+            'Ventilation': '4-way air vents'
+        }
+    },
+    {
+        id: 747,
+        name: 'Axor Enzo Riding Gloves',
+        price: 4706,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084094/70_4570016c-23b1-418f-85d7-b967e1d4cb57_900x_y6jdgb.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084094/71_db53eec4-52ca-4fdd-b74b-5d3ce0945005_900x_iofdnk.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084095/72_7dfc475e-f703-4cd4-b421-0246a1ca9827_900x_qcrxwo.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084094/71_db53eec4-52ca-4fdd-b74b-5d3ce0945005_900x_iofdnk.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Gloves',
+        brand: 'Axor',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['All'],
+        description: "Make your ride easy with Axor",
+        specifications: {
+            'Range': '24 months',
+            'Features': 'quick dry sweet proof',
+            'Speakers': 'accessable'
+        }
+    },
+    {
+        id: 748,
+        name: 'Axor Viper Riding Gloves',
+        price: 2996,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084232/76_5de4c067-1575-4042-a621-4927cc49ffcc_900x_rg6gqf.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084232/77_9651f44d-df51-4a67-b5c2-6e1fa7688aed_900x_xbnjdx.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084232/78_6cacc53d-47cd-46a9-b6a7-e3e8a75c2a7c_900x_u1x5ed.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084233/79_0ca33ee5-0799-49a3-8267-4611aafcee40_900x_yha0yw.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Gloves',
+        brand: 'Axor',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['All'],
+        description: "Make your ride easy with Axor",
+        specifications: {
+            'Range': '24 months',
+            'Features': 'quick dry sweet proof',
+            'Speakers': 'accessable'
+        }
+    }, {
+        id: 749,
+        name: 'Axor Airstream Riding Gloves',
+        price: 1646,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084333/88_32ba55f0-61f5-4567-a3a8-e9ecfcac6592_900x_f51mfl.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084334/89_7d50afb3-5239-4902-9bf3-3cf9e3476c17_900x_a5rski.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084333/88_32ba55f0-61f5-4567-a3a8-e9ecfcac6592_900x_f51mfl.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084334/90_790abd28-f5f4-4b29-85d1-d3a1219c1170_900x_ykuyxu.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Gloves',
+        brand: 'Axor',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['All'],
+        description: "Make your ride easy with Axor",
+        specifications: {
+            'Range': '24 months',
+            'Features': 'quick dry sweet proof',
+            'Speakers': 'accessable'
+        }
+    }, {
+        id: 750,
+        name: 'Axor Sela Waterproof Riding Gloves',
+        price: 2843,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084439/119_9c806d2e-0db9-449a-babc-44c13d7a1ff5_900x_khftlb.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084441/120_e00a1aa5-a970-4a1f-b5ab-b8b85bf0a8a3_900x_ibood3.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084441/121_5e251278-5224-4874-8a05-6802f9978d95_900x_ezfypq.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084442/122_1727c93b-1b6f-4834-a2ee-8abca20a3cdb_900x_wohqog.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Gloves',
+        brand: 'Axor',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['All'],
+        description: "Make your ride easy with Axor",
+        specifications: {
+            'Range': '24 months',
+            'Features': 'quick dry sweet proof',
+            'Speakers': 'accessable'
+        }
+    }, {
+        id: 751,
+        name: 'Axor Lycan Riding Gloves',
+        price: 3878,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084545/123_4cf0d25d-32cb-4a88-bfe6-10fd88601ea1_900x_colyfl.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084545/124_4f50367a-91d5-4167-b941-216831f5640b_900x_xzl1ny.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084546/125_5a8e3d07-ae23-40e7-84d8-47810eab5c03_900x_olkyy5.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084546/126_a3d188b9-cfe3-44fd-b413-ea9d74bef406_900x_dl0rtp.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Gloves',
+        brand: 'Axor',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['All'],
+        description: "Make your ride easy with Axor",
+        specifications: {
+            'Range': '24 months',
+            'Features': 'quick dry sweet proof',
+            'Speakers': 'accessable'
+        }
+    },
+    {
+        id: 752,
+        name: 'Axor Nimbuz Jacket',
+        price: 6821,
+        discount: 15,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084697/BlackGrey_2_379e2546-b70b-4974-bf4d-d88f3bc5617a_900x_ekyou8.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084696/BlackGrey_1_048ad273-03e8-4327-b78f-f635e5f1ecf0_900x_ggwgqt.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084698/BlackGrey_3_92115d28-6a8e-4180-a5c4-caa8db6e5276_900x_wh6ny8.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084699/BlackGrey_4_fde12d47-fb1b-4521-8e6d-90be0be1cc53_900x_rhdwip.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Jackets',
+        brand: 'Axor',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['KTM', 'Royal Enfield', 'Yamaha', 'All'],
+        description: 'Not just the protectors, the entire jacket is Class A certified as per CE Standard EN 17092-4:2020',
+        specifications: {
+            'Material': 'Cordura 500D',
+            'Protection': 'CE Level 2 armor',
+            'Waterproof': 'Yes',
+            'Ventilation': '4-way air vents'
+        }
+    },
+    {
+        id: 753,
+        name: 'Axor Diva Womens Jacket',
+        price: 5912,
+        discount: 15,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084836/DivaBlackRed2_900x_jhphhb.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084837/DivaBlackRed3_900x_z9kv9e.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084835/DivaBlackRed1_900x_i0fglj.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084837/DivaBlackRed4_900x_bikpsx.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Jackets',
+        brand: 'Axor',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['KTM', 'Royal Enfield', 'Yamaha', 'All'],
+        description: 'Not just the protectors, the entire jacket is Class A certified as per CE Standard EN 17092-4:2020',
+        specifications: {
+            'Material': 'Cordura 500D',
+            'Protection': 'CE Level 2 armor',
+            'Waterproof': 'Yes',
+            'Ventilation': '4-way air vents'
+        }
+    }, {
+        id: 754,
+        name: 'Axor Inverno Black Thermal Jacket',
+        price: 1799,
+        discount: 15,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084931/Inverno2_900x_gy3soa.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084930/Inverno1_900x_uvobso.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084932/Inverno3_900x_tvc5sa.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084933/Inverno4_900x_oymkod.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Jackets',
+        brand: 'Axor',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['KTM', 'Royal Enfield', 'Yamaha', 'All'],
+        description: 'Not just the protectors, the entire jacket is Class A certified as per CE Standard EN 17092-4:2020',
+        specifications: {
+            'Material': 'Cordura 500D',
+            'Protection': 'CE Level 2 armor',
+            'Waterproof': 'Yes',
+            'Ventilation': '4-way air vents'
+        }
+    }, {
+        id: 755,
+        name: 'Axor Falcon Jacket',
+        price: 8990,
+        discount: 15,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085036/OffWhite_2_900x_rnljvb.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085035/OffWhite_1_900x_o3bkll.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085036/OffWhite_2_900x_rnljvb.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085037/OffWhite_3_900x_-_Copy_gzu1cz.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Jackets',
+        brand: 'Axor',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['KTM', 'Royal Enfield', 'Yamaha', 'All'],
+        description: 'Not just the protectors, the entire jacket is Class A certified as per CE Standard EN 17092-4:2020',
+        specifications: {
+            'Material': 'Cordura 500D',
+            'Protection': 'CE Level 2 armor',
+            'Waterproof': 'Yes',
+            'Ventilation': '4-way air vents'
+        }
+    }, {
+        id: 756,
+        name: 'Axor Cruise 2 Jacket',
+        price: 5912,
+        discount: 15,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085142/Cruise2RedBlack2_900x_wcgk3y.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085141/Cruise2RedBlack1_900x_p6lzgd.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085145/Red4_900x_a1tq0d.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085143/Cruise2RedBlack3_900x_c1w7hd.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Jackets',
+        brand: 'Axor',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['KTM', 'Royal Enfield', 'Yamaha', 'All'],
+        description: 'Not just the protectors, the entire jacket is Class A certified as per CE Standard EN 17092-4:2020',
+        specifications: {
+            'Material': 'Cordura 500D',
+            'Protection': 'CE Level 2 armor',
+            'Waterproof': 'Yes',
+            'Ventilation': '4-way air vents'
+        }
+    }, {
+        id: 757,
+        name: 'Axor Flow Jacket',
+        price: 4958,
+        discount: 15,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085240/NeonGreen_2_900x_j8spjn.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085239/NeonGreen_1_900x_crjplq.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085240/NeonGreen_2_900x_j8spjn.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085241/NeonGreen_3_900x_p9ck7l.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Jackets',
+        brand: 'Axor',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['KTM', 'Royal Enfield', 'Yamaha', 'All'],
+        description: 'Not just the protectors, the entire jacket is Class A certified as per CE Standard EN 17092-4:2020',
+        specifications: {
+            'Material': 'Cordura 500D',
+            'Protection': 'CE Level 2 armor',
+            'Waterproof': 'Yes',
+            'Ventilation': '4-way air vents'
+        }
+    },
+    {
+        id: 758,
+        name: 'Axor Racer Tec Riding Boots',
+        price: 14300,
+        discount: 20,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085444/3_e9430044-d124-4164-bfd3-d91ec50d3603_900x_ufpqvs.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085446/4_c4956d6b-6333-4438-8c91-98a5da7ae635_900x_fmnmm9.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085447/7_5125e37f-2445-4b24-af53-5bcb3d04b570_900x_jft4bm.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085449/8_84a05e5b-99d5-4e08-8d9e-2bcae35b6d76_900x_uydzer.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Boots',
+        brand: 'Axor',
+        rating: 5,
+        reviews: 145,
+        isNew: true,
+        bikes: ['All'],
+        description: 'All-day comfort riding boots with ankle protection',
+        specifications: {
+            'Material': 'Leather + Mesh',
+            'Protection': 'Ankle guards, toe box',
+            'Waterproof': 'Water resistant',
+            'Warranty': 'Six months warranty against manufacturing defect',
+            'Sole': 'Anti-slip rubber sole'
+        }
+    },
+    {
+        id: 759,
+        name: 'Axor Touring Rambler Riding Boots',
+        price: 10700,
+        discount: 20,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085586/15_ce2575cb-cd5c-4995-8316-b0aefbd2e0d9_900x_zo1quf.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085587/17_6a1726ea-8645-455c-b7f8-7e867908c676_900x_ntd8r7.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085589/18_23389ff2-ad50-4c7b-af94-cfa525f1cf3f_900x_oaa6wi.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085590/20_9332fdf8-cec9-4eaa-9893-7ca72e289e85_900x_fj1hsu.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Boots',
+        brand: 'Axor',
+        rating: 5,
+        reviews: 145,
+        isNew: true,
+        bikes: ['All'],
+        description: 'All-day comfort riding boots with ankle protection',
+        specifications: {
+            'Material': 'Leather + Mesh',
+            'Protection': 'Ankle guards, toe box',
+            'Waterproof': 'Water resistant',
+            'Warranty': 'Six months warranty against manufacturing defect',
+            'Sole': 'Anti-slip rubber sole'
+        }
+    }, {
+        id: 760,
+        name: 'Axor Slipstream PRO Riding Boots',
+        price: 9710,
+        discount: 20,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085717/33_533eefc4-d907-45b8-9a3b-56e8e3ddefcd_900x_k0br0p.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085719/35_e3e42efd-41c3-4469-b418-31c3aeea96db_900x_pk8vj6.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085721/37_ae2325c7-db71-475f-a44b-3b5fff88692b_900x_qikpwf.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085723/38_d1908fc0-3031-4b95-9be1-4496bb9bd1fd_900x_n6m8xz.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Boots',
+        brand: 'Axor',
+        rating: 5,
+        reviews: 145,
+        isNew: true,
+        bikes: ['All'],
+        description: 'All-day comfort riding boots with ankle protection',
+        specifications: {
+            'Material': 'Leather + Mesh',
+            'Protection': 'Ankle guards, toe box',
+            'Waterproof': 'Water resistant',
+            'Warranty': 'Six months warranty against manufacturing defect',
+            'Sole': 'Anti-slip rubber sole'
+        }
+    }, {
+        id: 761,
+        name: 'Axor Urbano Black Riding Boots',
+        price: 5300,
+        discount: 20,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085872/46_e2592bb0-c31a-4d8a-be2d-27198ddddadf_900x_mnnfw5.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085872/46_e2592bb0-c31a-4d8a-be2d-27198ddddadf_900x_mnnfw5.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085874/49_f12603cb-1b48-4f90-a801-6130135f2157_900x_vk1rsd.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085876/50_8c569485-bbdd-4019-99b4-58652efccaef_900x_yhhezj.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Boots',
+        brand: 'Axor',
+        rating: 5,
+        reviews: 145,
+        isNew: true,
+        bikes: ['All'],
+        description: 'All-day comfort riding boots with ankle protection',
+        specifications: {
+            'Material': 'Leather + Mesh',
+            'Protection': 'Ankle guards, toe box',
+            'Waterproof': 'Water resistant',
+            'Warranty': 'Six months warranty against manufacturing defect',
+            'Sole': 'Anti-slip rubber sole'
+        }
+    }, {
+        id: 762,
+        name: 'Axor Slicks Riding Boots',
+        price: 7730,
+        discount: 20,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085992/57_8142d451-b1d5-4080-be5a-c4ec79cebbe8_900x_s3ooin.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085994/59_06a439c7-9fd1-4637-b9e8-45680b241804_900x_cjveze.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085995/61_6431b498-1be0-47ed-9b0e-f5182016202d_900x_tquasl.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085997/62_cc3ee77d-b00c-47b1-b712-584bda5a4279_900x_xdxt8k.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Boots',
+        brand: 'Axor',
+        rating: 5,
+        reviews: 145,
+        isNew: true,
+        bikes: ['All'],
+        description: 'All-day comfort riding boots with ankle protection',
+        specifications: {
+            'Material': 'Leather + Mesh',
+            'Protection': 'Ankle guards, toe box',
+            'Waterproof': 'Water resistant',
+            'Warranty': 'Six months warranty against manufacturing defect',
+            'Sole': 'Anti-slip rubber sole'
+        }
+    }, {
+        id: 763,
+        name: 'Axor Kaza Riding Boots',
+        price: 10700,
+        discount: 20,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086108/63_40388ddf-15e5-4aff-bca1-d7ec25d0ad6a_900x_xow7bg.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086110/64_94f209a5-6cd5-4b07-8f7c-88134cc34a37_900x_ldcnxz.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086112/67_89940cfb-9945-4938-b226-f7147f839323_900x_oznpho.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086113/68_378cd6ad-16ea-4156-8c94-fea0f3fdc5db_900x_rj7gpi.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Boots',
+        brand: 'Axor',
+        rating: 5,
+        reviews: 145,
+        isNew: true,
+        bikes: ['All'],
+        description: 'All-day comfort riding boots with ankle protection',
+        specifications: {
+            'Material': 'Leather + Mesh',
+            'Protection': 'Ankle guards, toe box',
+            'Waterproof': 'Water resistant',
+            'Warranty': 'Six months warranty against manufacturing defect',
+            'Sole': 'Anti-slip rubber sole'
+        }
+    },
+    {
+        id: 764,
+        name: 'Axor Shield Protective Body Armor Jacket',
+        price: 4571,
+        discount: 15,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086347/ShieldRed2_900x_lreivz.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086345/ShieldRed1_900x_uh7bar.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086349/ShieldRed3_900x_yt45mb.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086351/ShieldRed4_900x_rbnuaw.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Jackets',
+        brand: 'Axor',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['KTM', 'Royal Enfield', 'Yamaha', 'All'],
+        description: 'Not just the protectors, the entire jacket is Class A certified as per CE Standard EN 17092-4:2020',
+        specifications: {
+            'Material': 'Cordura 500D',
+            'Protection': 'CE Level 2 armor',
+            'Waterproof': 'Yes',
+            'Ventilation': '4-way air vents'
+        }
+    },
+    {
+        id: 765,
+        name: 'Axor Wez Leather Mask',
+        price: 998,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086497/WEZLEATHERMASKBROWN_1_900x_affhzs.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086494/WEZLEATHERMASKBROWN_1_2_900x_aqi4uw.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086497/WEZLEATHERMASKBROWN_1_900x_affhzs.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086494/WEZLEATHERMASKBROWN_1_2_900x_aqi4uw.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Masks',
+        brand: 'Axor',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['All'],
+        description: "Make your ride easy with Axor",
+        specifications: {
+            'Range': '24 months',
+            'Features': 'quick dry sweet proof',
+            'Speakers': 'accessable'
+        }
+    },
+    {
+        id: 766,
+        name: 'Axor Delta Riding Pant Black and Red',
+        price: 7478,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086745/DELTAPANTBLACKREDWEB1080x1080Jpeg-1_900x_lpluyv.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086746/DELTAPANTBLACKREDWEB1080x1080Jpeg-2_900x_tw6xcq.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086747/DELTAPANTBLACKREDWEB1080x1080Jpeg-3_900x_ckbqjz.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086750/DELTAPANTBLACKREDWEB1080x1080Jpeg-4_900x_rhct1z.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Pants',
+        brand: 'Axor',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Waterproof riding pants with CE armor',
+        specifications: {
+            'Material': 'Cordura 600D',
+            'Protection': 'CE knee & hip armor',
+            'Waterproof': 'Yes',
+            'Sizes': '28-40'
+        }
+    },
+
+    {
+        id: 767,
+        name: 'Axor Delta Riding Pant Black and Neon Yellow',
+        price: 7478,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086851/DELTA_PANT_BLACK_NEON_YELLOW_WEB_1080x1080_Jpeg-1_900x_hrsxjl.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086852/DELTA_PANT_BLACK_NEON_YELLOW_WEB_1080x1080_Jpeg-2_900x_rbtwsx.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086854/DELTA_PANT_BLACK_NEON_YELLOW_WEB_1080x1080_Jpeg-3_900x_ssa4rs.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086874/DELTA_PANT_BLACK_NEON_YELLOW_WEB_1080x1080_Jpeg-4_900x_y0du1b.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Pants',
+        brand: 'Axor',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Waterproof riding pants with CE armor',
+        specifications: {
+            'Material': 'Cordura 600D',
+            'Protection': 'CE knee & hip armor',
+            'Waterproof': 'Yes',
+            'Sizes': '28-40'
+        }
+    }, {
+        id: 768,
+        name: 'Axor Torq Riding Pant Grey Black ',
+        price: 6533,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087074/TORQGreyBlack_1_900x_bfpbdi.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087098/TORQGreyBlack_2_900x_vo6ued.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087100/TORQGreyBlack_3_900x_yljo8e.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087102/TORQGreyBlack_4_900x_owxppx.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Pants',
+        brand: 'Axor',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Waterproof riding pants with CE armor',
+        specifications: {
+            'Material': 'Cordura 600D',
+            'Protection': 'CE knee & hip armor',
+            'Waterproof': 'Yes',
+            'Sizes': '28-40'
+        }
+    },
+    {
+        id: 769,
+        name: 'Axor Torq Riding Pant Black',
+        price: 6533,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087116/TORQBlack_1_900x_ivdoyu.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087118/TORQBlack_2_900x_uawhes.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087125/TORQBlack_3_900x_mrvspt.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087127/TORQBlack_4_900x_bhuska.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Pants',
+        brand: 'Axor',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['All'],
+        description: 'Waterproof riding pants with CE armor',
+        specifications: {
+            'Material': 'Cordura 600D',
+            'Protection': 'CE knee & hip armor',
+            'Waterproof': 'Yes',
+            'Sizes': '28-40'
+        }
+    },
+    {
+        id: 770,
+        name: 'AXOR OASIS HYDERATION BAG WITH BLADER Black Blue',
+        price: 3320,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087465/AXOROASIS_HYDERATIONBAGWITHBLADER_-1Blue_900x_pjg0vy.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087467/AXOROASIS_HYDERATIONBAGWITHBLADER_-2Blue_900x_c6dhts.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087474/AXOROASIS_HYDERATIONBAGWITHBLADER_-4Blue_900x_gz5nuq.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087483/HYDERATION_BAG_WITH_BLADER1_900x_zoijss.webp'
+        ],
+        category: 'Touring',
+        subcategory: 'Saddle Bags',
+        brand: 'Axor',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the Cramster accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 771,
+        name: 'AXOR OASIS HYDERATION BAG WITH BLADER Black Red',
+        price: 3320,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087466/AXOROASIS_HYDERATIONBAGWITHBLADER_-1Red_900x_yf2ips.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087473/AXOROASIS_HYDERATIONBAGWITHBLADER_-2Red_900x_lm53ep.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087481/AXOROASIS_HYDERATIONBAGWITHBLADER_-4Red_900x_mlczkt.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087489/HYDERATIONBAGWITHBLADER_900x_rjrewq.webp'
+        ],
+        category: 'Touring',
+        subcategory: 'Saddle Bags',
+        brand: 'Axor',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the Cramster accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 772,
+        name: 'Axor Tail Bag-40 LTS',
+        price: 6200,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087695/TAILBAG_1_900x_tssdki.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087716/tailbag_2_6a506da6-31cd-45ab-b441-7ef75bc8e18c_900x_jvz0be.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087693/tailbag_1_8a10ada7-ca5d-409a-a35c-17ac3df70d39_900x_hhjxpk.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087717/TAILBAG_2_900x_iqrh3d.webp'
+        ],
+        category: 'Touring',
+        subcategory: 'Saddle Bags',
+        brand: 'Axor',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the Cramster accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    }, {
+        id: 773,
+        name: 'Axor Tail Bag-25 LTS',
+        price: 5498,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087948/1_xjnmyw.webphttps://res.cloudinary.com/k4uklwi4/image/upload/v1786087466/AXOROASIS_HYDERATIONBAGWITHBLADER_-1Red_900x_yf2ips.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087949/3_ceccex.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087949/4_yeoim4.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087949/2_v9qnmn.webp'
+        ],
+        category: 'Touring',
+        subcategory: 'Saddle Bags',
+        brand: 'Axor',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the Cramster accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 774,
+        name: 'Axor Tank Bag AXTB-2 (20 LTS)',
+        price: 3860,
+        discount: 20,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088080/tankaxtb-2_1_900x_xge7dv.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088081/tankaxtb-2_3_900x_arq9vf.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088081/tankaxtb-2_4_900x_cbjay0.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088081/TANKBAGAXTB-2_1_900x_hrjqxo.webp'
+        ],
+        category: 'Touring',
+        subcategory: 'Tank Bags',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 345,
+        isNew: true,
+        bikes: ['Yamaha'],
+        description: 'Magnetic tank bag with phone holder',
+        specifications: {
+            'Capacity': '12L expandable',
+            'Mounting': 'Strong magnets',
+            'Features': 'Phone holder, rain cover',
+            'Compatibility': 'FZ series'
+        }
+    }, {
+        id: 775,
+        name: 'Axor Tank Bag AXTB-1 (15 LTS)',
+        price: 3554,
+        discount: 20,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088200/TANKBAGAXTB-1_1_900x_gxyc99.jpg',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088199/tankaxtb-1_5_900x_c4eqgt.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088199/tankaxtb-1_3_900x_kirpmv.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088199/tankaxtb-1_2_900x_jab13p.webp'
+        ],
+        category: 'Touring',
+        subcategory: 'Tank Bags',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 345,
+        isNew: true,
+        bikes: ['Yamaha'],
+        description: 'Magnetic tank bag with phone holder',
+        specifications: {
+            'Capacity': '12L expandable',
+            'Mounting': 'Strong magnets',
+            'Features': 'Phone holder, rain cover',
+            'Compatibility': 'FZ series'
+        }
+    },
+    {
+        id: 776,
+        name: 'AXOR IMPACT-X KNEE GUARD Black and Red',
+        price: 3230,
+        discount: 8,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088359/11_apwrkl.webphttps://res.cloudinary.com/twjztvms/image/upload/v1784024723/product15_spgnf3.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088382/22_gkif7l.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088383/33_gdrk9d.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088383/44_edpzcl.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Knee Guards',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 456,
+        isNew: false,
+        bikes: ['All'],
+        description: 'CE approved knee and shin guards',
+        specifications: {
+            'Certification': 'CE Level 1',
+            'Material': 'Hard shell plastic',
+            'Adjustable': 'Yes',
+            'Size': 'Universal fit'
+        }
+    },
+    {
+        id: 777,
+        name: 'AXOR IMPACT-X KNEE GUARD Black and Neon Yellow',
+        price: 3230,
+        discount: 8,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088467/IMPACT-XKNEEGUARDNEONYELLOW2_900x_udvii4.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088466/IMPACT-XKNEEGUARDNEONYELLOW1_900x_z1rovx.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088469/IMPACT-XKNEEGUARDNEONYELLOW3_900x_xwmpml.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088458/IMPACT-X_KNEE_GUARD_40_900x_pdvhe4.webp'
+        ],
+        category: 'Riding Gear',
+        subcategory: 'Knee Guards',
+        brand: 'Axor',
+        rating: 4,
+        reviews: 456,
+        isNew: false,
+        bikes: ['All'],
+        description: 'CE approved knee and shin guards',
+        specifications: {
+            'Certification': 'CE Level 1',
+            'Material': 'Hard shell plastic',
+            'Adjustable': 'Yes',
+            'Size': 'Universal fit'
+        }
+    },
+    {
+        id: 778,
+        name: 'RK TECH Combo Kit 2 For APRILIA TUONO 457',
+        price: 11999,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786089359/CAT5-1766617059142_slfrxb.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786089359/CAT5-1766617059142_slfrxb.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786089359/CAT5-1766617059142_slfrxb.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786089359/CAT5-1766617059142_slfrxb.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Aprilia'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Aprilia',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 779,
+        name: 'RK TECH ALUMINIUM RADIATOR FOR Aprilia RS 457',
+        price: 4699,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786089457/V7408296-1763540261308_eeqnly.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786089457/V7408296-1763540261308_eeqnly.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786089457/V7408296-1763540261308_eeqnly.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786089457/V7408296-1763540261308_eeqnly.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Aprilia'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Aprilia',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 780,
+        name: 'RK TECH Aprilia Tuono 457 Tail Tidy',
+        price: 1800,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786089548/SKU-0087_0-1751462657506_xjfujh.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786089548/SKU-0087_0-1751462657506_xjfujh.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786089548/SKU-0087_0-1751462657506_xjfujh.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786089548/SKU-0087_0-1751462657506_xjfujh.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Aprilia'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Aprilia',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 781,
+        name: 'RK TECH Combo Kit 4 For APRILIA TUONO 457',
+        price: 14499,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786089957/C4-1749040272562_zsnda9.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786089957/C4-1749040272562_zsnda9.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786089957/C4-1749040272562_zsnda9.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786089957/C4-1749040272562_zsnda9.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Aprilia'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Aprilia',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 782,
+        name: 'RK TECH Combo Kit 3 For APRILIA TUONO 457',
+        price: 16999,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090056/COMBO3-1749040353855_ihcybc.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090056/COMBO3-1749040353855_ihcybc.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090056/COMBO3-1749040353855_ihcybc.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090056/COMBO3-1749040353855_ihcybc.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Aprilia'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Aprilia',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 783,
+        name: 'RK TECH Frame Sliders for APRILIA TUONO 457',
+        price: 7700,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090118/FS1-1749040389281_qsrwzk.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090119/FS2-1749040390159_fuuxok.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090118/FS1-1749040389281_qsrwzk.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090119/FS2-1749040390159_fuuxok.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Aprilia'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Aprilia',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 784,
+        name: 'RK TECH MASTER CYLINDER GUARD FOR APRILIA TUONO 457',
+        price: 750,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090193/MCGUARD-1749030591291_webzdt.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090193/MCGUARD-1749030591291_webzdt.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090193/MCGUARD-1749030591291_webzdt.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090193/MCGUARD-1749030591291_webzdt.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Aprilia'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Aprilia',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 785,
+        name: 'RK TECH FRONT FORK PROTECTOR FOR APRILIA TUONO 457',
+        price: 2799,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090268/F1-1749030416652_dnyjcs.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090268/F1-1749030416652_dnyjcs.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090268/F1-1749030416652_dnyjcs.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090268/F1-1749030416652_dnyjcs.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Aprilia'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Aprilia',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 786,
+        name: 'RK TECH REAR AXLE PROTECTORS FOR APRILIA TUONO 457',
+        price: 2799,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090358/F2-1749029829796_iirhdz.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090358/F2-1749029829796_iirhdz.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090358/F2-1749029829796_iirhdz.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090358/F2-1749029829796_iirhdz.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Aprilia'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Aprilia',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 787,
+        name: 'RK TECH ALUMINIUM RADIATOR FOR TUONO 457',
+        price: 4699,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090431/RGAL1-1749029631876_tek1ba.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090431/RGAL1-1749029631876_tek1ba.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090431/RGAL1-1749029631876_tek1ba.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090431/RGAL1-1749029631876_tek1ba.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Aprilia'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Aprilia',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 788,
+        name: 'RKTECH MS RADIATOR GUARD FOR APRILIA TUONO 457',
+        price: 2300,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090506/RGMS1-1749030073871_m497n5.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090506/RGMS1-1749030073871_m497n5.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090506/RGMS1-1749030073871_m497n5.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090506/RGMS1-1749030073871_m497n5.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Aprilia'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Aprilia',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 789,
+        name: 'RK TECH SWING ARM SPOOL FOR APRILIA TUONO 457',
+        price: 1200,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090648/SPOOLS3-1749028817247_sqc6bs.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090648/SPOOLS3-1749028817247_sqc6bs.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090648/SPOOLS3-1749028817247_sqc6bs.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090648/SPOOLS3-1749028817247_sqc6bs.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Aprilia'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Aprilia',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 790,
+        name: 'RK TECH Combo Kit 4 For APRILIA RS 457',
+        price: 14499,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090763/SKU-0017_0-1782151055752_imm80o.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090763/SKU-0017_0-1782151055752_imm80o.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090763/SKU-0017_0-1782151055752_imm80o.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090763/SKU-0017_0-1782151055752_imm80o.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Aprilia'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Aprilia',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 791,
+        name: 'RKTECH Combo Kit 3 For APRILIA RS 457',
+        price: 16999,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090842/1_pohoxy.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090842/1_pohoxy.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090842/1_pohoxy.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090842/1_pohoxy.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Aprilia'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Aprilia',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 792,
+        name: 'RK TECH Combo Kit 2 For APRILIA RS457',
+        price: 11999,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090926/WhatsAppImage2024-09-28at124656_18df8543-1727509146168_gogxy4.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090926/WhatsAppImage2024-09-28at124656_18df8543-1727509146168_gogxy4.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090926/WhatsAppImage2024-09-28at124656_18df8543-1727509146168_gogxy4.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090926/WhatsAppImage2024-09-28at124656_18df8543-1727509146168_gogxy4.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Aprilia'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Aprilia',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 793,
+        name: 'RK TECH Combo Kit 1 for APRILIA RS 457',
+        price: 3999,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090990/22_fdqzsa.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090990/22_fdqzsa.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090990/22_fdqzsa.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090990/22_fdqzsa.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Aprilia'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Aprilia',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 794,
+        name: 'RK TECH Master Cylinder Guard SS for APRILIA RS 457',
+        price: 750,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091079/WhatsAppImage2024-12-06at70629AM-1733449148950_snhcev.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091079/WhatsAppImage2024-12-06at70629AM-1733449148950_snhcev.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091079/WhatsAppImage2024-12-06at70629AM-1733449148950_snhcev.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091079/WhatsAppImage2024-12-06at70629AM-1733449148950_snhcev.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Aprilia'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Aprilia',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 795,
+        name: 'RK TECH MS Radiator Guard for APRILIA RS 457',
+        price: 2300,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091154/V7408296-1726726784380_qmoveq.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091155/V7408318-1726726785691_btas2b.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091154/V7408296-1726726784380_qmoveq.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091155/V7408318-1726726785691_btas2b.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Aprilia'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Aprilia',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 796,
+        name: 'RK TECH Swing Arm Spools for APRILIA RS 457',
+        price: 1200,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091248/V7408281-1726726430707_abze3i.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091253/V7408293-1726726432074_nhttmq.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091248/V7408281-1726726430707_abze3i.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091253/V7408293-1726726432074_nhttmq.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Aprilia'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Aprilia',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 797,
+        name: 'RK TECH Rear Axle Protector for APRILIA RS 457',
+        price: 2799,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091330/2_z6la5k.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091331/3_utbdyb.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091330/2_z6la5k.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091331/3_utbdyb.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Aprilia'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Aprilia',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 798,
+        name: 'RK TECH Front Fork Protector for APRILIA RS 457',
+        price: 2799,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091444/11_csmkcq.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091446/222_oqshfq.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091444/11_csmkcq.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091446/222_oqshfq.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Aprilia'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Aprilia',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 799,
+        name: 'RK TECH Rear Axle Protector for APRILIA RS 457',
+        price: 7700,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091605/V7408263-1726675247203-1726725725632_adjuyn.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091577/V7408266-1726725849574_mmztjt.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091605/V7408263-1726675247203-1726725725632_adjuyn.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091577/V7408266-1726725849574_mmztjt.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Aprilia'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Aprilia',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 801,
+        name: 'Moto Torque Max Pro Crash Guard For Hero XPulse 210',
+        price: 5200,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786019314/p1_oiwcwi.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786019314/p1_oiwcwi.webp',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786019314/p1_oiwcwi.webp',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786019313/p2_b8qfmb.webp'
+        ],
+        category: 'Bike Accessories',
+        subcategory: 'Crash Guards',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 802,
+        name: 'Moto Torque Titan X Crash Guard For Hero XPulse 210',
+        price: 4800,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786019431/p22_v2k3wz.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786019431/p22_v2k3wz.webp',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786019431/p21_cnglll.webp',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786019431/p21_cnglll.webp'
+        ],
+        category: 'Bike Accessories',
+        subcategory: 'Crash Guards',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 803,
+        name: 'LCB Dodger Handle Bar Riser For Hero Xpulse 210',
+        price: 24990,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786019598/p31_yrgs3z.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786019598/p31_yrgs3z.webp',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786019598/p31_yrgs3z.webp',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786019598/p32_rjcu5o.webp'
+        ],
+        category: 'Bike Accessories',
+        subcategory: 'Handguards',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 804,
+        name: 'Moto Torque Back Carrier For Hero XPulse 210 (Black)',
+        price: 4200,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786019730/p42_ttytjz.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786019730/p41_ympozs.webp',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786019730/p42_ttytjz.webp',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786019730/p42_ttytjz.webp'
+        ],
+        category: 'Touring',
+        subcategory: 'Racks',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 805,
+        name: 'Moto Torque Saddle Stay For Hero XPulse 210 (Black)',
+        price: 3700,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786019832/p51_hdfuyd.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786019832/p51_hdfuyd.webp',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786019832/p51_hdfuyd.webp',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786019832/p51_hdfuyd.webp'
+        ],
+        category: 'Touring',
+        subcategory: 'Saddle Bags',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 806,
+        name: 'Moto Torque Back Carrier For Hero XPulse 210 (Red)',
+        price: 4200,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786019730/p42_ttytjz.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786019730/p41_ympozs.webp',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786019730/p42_ttytjz.webp',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786019730/p42_ttytjz.webp'
+        ],
+        category: 'Touring',
+        subcategory: 'Racks',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 807,
+        name: 'Moto Torque Saddle Stay For Hero XPulse 210 (Red)',
+        price: 3700,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020041/85f6b80f-1547-4a07-b920-77e4ca46b115.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020041/85f6b80f-1547-4a07-b920-77e4ca46b115.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020041/85f6b80f-1547-4a07-b920-77e4ca46b115.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020041/85f6b80f-1547-4a07-b920-77e4ca46b115.png'
+        ],
+        category: 'Touring',
+        subcategory: 'Saddle Bags',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 808,
+        name: 'Moto Torque Engine Guard For Hero XPulse 210 (Black)',
+        price: 2200,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020192/a4f6f34c-c4ef-4991-adf8-ac055b2443d6.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020192/a4f6f34c-c4ef-4991-adf8-ac055b2443d6.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020192/a4f6f34c-c4ef-4991-adf8-ac055b2443d6.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020192/a4f6f34c-c4ef-4991-adf8-ac055b2443d6.png'
+        ],
+        category: 'Bike Accessories',
+        subcategory: 'Crash Protection',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 809,
+        name: 'Moto Torque Engine Guard For Hero X Pulse 210 (Red)',
+        price: 2200,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020398/9ddb2ca9-9edd-4e98-80be-25945c5dcced.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020398/9ddb2ca9-9edd-4e98-80be-25945c5dcced.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020398/9ddb2ca9-9edd-4e98-80be-25945c5dcced.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020398/9ddb2ca9-9edd-4e98-80be-25945c5dcced.png'
+        ],
+        category: 'Bike Accessories',
+        subcategory: 'Crash Protection',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 810,
+        name: 'Moto Torque Handle Bar For Hero X Pulse 210',
+        price: 2200,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020486/9038a6f2-f985-48c0-b3c6-38f67bced0ea.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020486/9038a6f2-f985-48c0-b3c6-38f67bced0ea.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020486/9038a6f2-f985-48c0-b3c6-38f67bced0ea.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020486/9038a6f2-f985-48c0-b3c6-38f67bced0ea.png'
+        ],
+        category: 'Bike Accessories',
+        subcategory: 'Handguards',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 811,
+        name: 'Moto Torque GPS Mount For X Pulse 210',
+        price: 1500,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020555/a7855645-cbc6-46da-8ea0-35b9204bb27a.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020555/a7855645-cbc6-46da-8ea0-35b9204bb27a.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020580/0c6b8db4-bb3b-4cbb-9b5d-7606e3a2a5d5.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020580/0c6b8db4-bb3b-4cbb-9b5d-7606e3a2a5d5.png'
+        ],
+        category: 'Touring',
+        subcategory: 'Tank Bags',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 812,
+        name: 'Moto Torque Foot Rest For Hero XPulse 210',
+        price: 1500,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020628/feb048d3-d1f3-4be6-86bc-13a2392757cd.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020665/508821b3-5b51-4906-9355-0d78ae70ae1b.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020665/508821b3-5b51-4906-9355-0d78ae70ae1b.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020665/508821b3-5b51-4906-9355-0d78ae70ae1b.png'
+        ],
+        category: 'Bike Accessories',
+        subcategory: 'Seats',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 813,
+        name: 'Moto Torque Chain Guard For Hero X Pulse 210',
+        price: 1200,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020734/7c6798c5-4f73-4289-b83f-a2f1f5842124.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020773/34a3fa8d-20ff-4ba7-b841-5d5a50c72a7b.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020793/d5a154b0-9c8f-4b84-a925-a115c6a90cbb.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020816/09903c90-32b7-4cc2-b63e-031f4f58a83b.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Chain Sets',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 814,
+        name: 'Moto Torque Front Caliper Guard For Hero XPulse 210',
+        price: 600,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020887/357fed68-7c9d-44eb-a934-82c91f5046f7.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020887/357fed68-7c9d-44eb-a934-82c91f5046f7.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020887/357fed68-7c9d-44eb-a934-82c91f5046f7.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020887/357fed68-7c9d-44eb-a934-82c91f5046f7.png'
+        ],
+        category: 'Bike Accessories',
+        subcategory: 'Crash Protection',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 815,
+        name: 'Moto Torque Headlight Guard For Hero X Pulse 210',
+        price: 1100,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020973/5929bd09-6f70-4d68-a521-90697f0e175c.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020973/5929bd09-6f70-4d68-a521-90697f0e175c.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020973/5929bd09-6f70-4d68-a521-90697f0e175c.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020973/5929bd09-6f70-4d68-a521-90697f0e175c.png'
+        ],
+        category: 'Lighting',
+        subcategory: 'Fog Lamps',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 816,
+        name: 'Moto Torque Headlight Guard For Hero X Pulse 210',
+        price: 1100,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020973/5929bd09-6f70-4d68-a521-90697f0e175c.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020973/5929bd09-6f70-4d68-a521-90697f0e175c.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020973/5929bd09-6f70-4d68-a521-90697f0e175c.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786020973/5929bd09-6f70-4d68-a521-90697f0e175c.png'
+        ],
+        category: 'Lighting',
+        subcategory: 'Fog Lamps',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 817,
+        name: 'Moto Torque Front Master Cylinder Guard For Hero XPulse 210',
+        price: 300,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786021057/71b0060d-e0be-4666-b51d-02a9526e0325.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786021057/71b0060d-e0be-4666-b51d-02a9526e0325.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786021057/71b0060d-e0be-4666-b51d-02a9526e0325.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786021057/71b0060d-e0be-4666-b51d-02a9526e0325.png'
+        ],
+        category: 'Bike Accessories',
+        subcategory: 'Crash Protection',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 818,
+        name: 'Altitude Moto Hero Xpulse 210 GPS Mount',
+        price: 1999,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786021156/5598926b-9378-4c1d-95ea-7ae9c8a317a8.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786021180/8ff96c44-bb6d-4bf1-9377-fe3a5708c0f4.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786021194/713797ce-ac7e-4025-a130-1594689c2f08.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786021216/3b7d90ed-9652-4a43-bd6b-ebf31f272e35.png'
+        ],
+        category: 'Touring',
+        subcategory: 'Tank Bags',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 819,
+        name: 'LCB Xplorer Crash Guard For Hero Xpulse 210',
+        price: 5890,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786021292/87d77180-3396-4292-b4ed-efa5d6310e8b.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786021311/6396acf3-56dc-48f8-89d0-9cd36188cd2f.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786021327/17b5c2fa-46e9-4358-ba4b-5bb7fcb99d14.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786021367/7b786fc8-2bb7-486c-8cb3-da57ff61c8e2.png'
+        ],
+        category: 'Bike Accessories',
+        subcategory: 'Crash Guards',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 820,
+        name: 'Moto Torque Front Master Cylinder Guard For Hero XPulse 210',
+        price: 300,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786021481/edfdde30-97b7-4a7f-8e96-d3dba69bd10f.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786021481/edfdde30-97b7-4a7f-8e96-d3dba69bd10f.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786021481/edfdde30-97b7-4a7f-8e96-d3dba69bd10f.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786021481/edfdde30-97b7-4a7f-8e96-d3dba69bd10f.png'
+        ],
+        category: 'Bike Accessories',
+        subcategory: 'Crash Protection',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 821,
+        name: 'LCB Vambrace Bash Plate Silver For Hero Xpulse 210',
+        price: 3890,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786021630/68765f9e-7b7f-4943-b8ca-1e51421d8460.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786021608/db05dfe8-3608-4857-888f-a3d0d408999e.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786021585/354ac45c-423f-45bd-8732-ffe255251531.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786021567/25c3a853-8e9f-4f79-aa85-39d2ec43b42f.png'
+        ],
+        category: 'Bike Accessories',
+        subcategory: 'Crash Protection',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 822,
+        name: 'LCB Gopher Luggage Carrier Black and Silver For Hero Xpulse 210',
+        price: 3990,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786021850/ba07b546-98be-407a-a680-b22040f51731.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786021938/ec017c28-495f-4d1c-8c78-2b042cbfdb04.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786021954/0ea8f33d-0287-4cb9-8fb8-81e3624fe52f.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786021984/ec56ba93-bd9c-464a-a25d-33ca13aabd9a.png'
+        ],
+        category: 'Touring',
+        subcategory: 'Racks',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 823,
+        name: 'LCB Xtruder Saddle Stay For Hero Xpulse 210',
+        price: 3990,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022034/ffb8a500-b8f2-4423-8d44-cd4d41c91758.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022064/0c230031-e91d-49fc-9e7f-1ddf47c1041c.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022084/b08863f4-b451-4c09-8e4b-f6c347917f73.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022106/9248a939-125a-4e92-aa6d-274bb277bacd.png'
+        ],
+        category: 'Touring',
+        subcategory: 'Saddle Bags',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 824,
+        name: 'LCB Tour Pro Rallytrek Footrest For Hero Xpulse 210',
+        price: 1890,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022152/a2c3230a-7d19-4130-b981-ac02045672dd.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022174/0c6917dc-869b-4e18-a42b-3051721e1bd2.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022193/0edd072c-209a-423c-a5bd-ce2caaa1ed85.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022216/44c6e956-a593-4ef3-ac2f-85b6702c2f17.png'
+        ],
+        category: 'Bike Accessories',
+        subcategory: 'Seats',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 825,
+        name: 'LCB Cosmic Headlight Grill For Hero Xpulse 210',
+        price: 1590,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022276/c0371ed5-c30b-42a2-b19e-ff3ef7349ea2.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022300/6ca240b5-a38f-45c6-8f3e-3ea3aa219e29.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022359/7c5cb213-4948-4c66-967f-362a1e0061a5.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022359/7c5cb213-4948-4c66-967f-362a1e0061a5.png'
+        ],
+        category: 'Lighting',
+        subcategory: 'Fog Lamps',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 826,
+        name: 'LCB Ploigos GPS Mount For Hero Xpulse 210',
+        price: 1780,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022418/464406af-841d-4777-9eaf-b8b7d175ce38.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022438/4b103bc9-0083-4473-aa86-b762f60f0d4d.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022459/031400a3-4042-4205-a69a-d939b11920e5.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022480/9bb3b421-3aa5-4121-8cdb-4b9e1efd2412.png'
+        ],
+        category: 'Touring',
+        subcategory: 'Tank Bags',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 827,
+        name: 'LCB Bolster Pillion Footrest For Hero Xpulse 210',
+        price: 1590,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022557/8ddb16f6-2b2c-452a-b162-2e62f8509c78.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022580/c926559e-9d3e-4a5c-8fda-5684fdc0ab68.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022601/eb16dd28-3a39-4fd5-a700-dccff4c7eea4.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022620/b1ca66d8-c19d-4e59-8b99-d9531d9cae99.png'
+        ],
+        category: 'Bike Accessories',
+        subcategory: 'Seats',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 828,
+        name: 'LCB Fog Light Mount For Hero Xpulse 210',
+        price: 1190,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022679/27585b38-d050-4f61-97d2-ccd1ed4a2742.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022700/9497fd87-1057-4d91-85ef-227e42279fe8.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022717/44986461-0f1b-4867-bee9-6810411e1f84.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022735/610f4539-2a50-45e1-8b88-a707693d306f.png'
+        ],
+        category: 'Lighting',
+        subcategory: 'Fog Lamps',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 829,
+        name: 'Footrest For Hero X Pulse 210',
+        price: 1499,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022793/84fe956f-0097-4d72-aeb8-0b59ce6fa9bf.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022793/84fe956f-0097-4d72-aeb8-0b59ce6fa9bf.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022816/1ba5b6e8-f6a6-4fe7-9c6e-c9188ae701de.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022816/1ba5b6e8-f6a6-4fe7-9c6e-c9188ae701de.png'
+        ],
+        category: 'Bike Accessories',
+        subcategory: 'Seats',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 830,
+        name: 'S3P Lite 6.25 Navigation System',
+        price: 13500,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022906/688c56b6-b73d-45ec-9cf6-8f0093cce63b.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022926/7df21ca5-a294-4989-a84d-6699a44690fb.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022945/471e9301-9ae0-4a02-89e2-7d6aa29d3f56.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022945/471e9301-9ae0-4a02-89e2-7d6aa29d3f56.png'
+        ],
+        category: 'Lighting',
+        subcategory: 'Electricals',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 831,
+        name: 'S3 Elite 6.25 Navigation System',
+        price: 19900,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022998/a0045bd7-6ef5-43e9-905b-c30bd782c903.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786023018/26605eeb-f668-4e37-8cbc-7a90ac551b45.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022926/7df21ca5-a294-4989-a84d-6699a44690fb.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786022926/7df21ca5-a294-4989-a84d-6699a44690fb.png'
+        ],
+        category: 'Lighting',
+        subcategory: 'Electricals',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    {
+        id: 832,
+        name: 'E3 Elite 6.25 Navigation System',
+        price: 23999,
+        discount: 10,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786023134/9f4c8ce2-e8a7-420a-9235-797141d2872e.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786023159/7dcea60f-cc5a-47c7-bb67-de93e955c5d1.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786023175/94019b5a-c3c3-417b-a017-dccc8a008c0d.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786023196/52a37eb3-56ef-4da3-bd2d-4e1a62650714.png'
+        ],
+        category: 'Lighting',
+        subcategory: 'Electricals',
+        brand: 'Hero',
+        rating: 5,
+        reviews: 189,
+        isNew: true,
+        bikes: ['Hero'],
+        description: 'Enhance your riding experience with the MODERN TECH accessories for HERO',
+        specifications: {
+            'Material': 'Metal',
+            'Compatibility': 'XPULSE 210',
+            'Weight': '1.0 kg',
+            'Mounting': 'Bolt-on installation'
+        }
+    },
+    // XPulse 200
+    {
+        id: 833,
+        name: 'Moto Torque Crash Guard For X Pulse 200',
+        price: 3600,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786091905/13b00697-af05-4bc3-a20f-393225043659.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786091931/e2773205-0410-429a-8949-61591fefdd13.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786091977/3b140f17-204b-43e2-b729-a6b7501f938a.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786091977/3b140f17-204b-43e2-b729-a6b7501f938a.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Chain Sets',
+        brand: 'Rolon',
+        rating: 5,
+        reviews: 52,
+        isNew: false,
+        bikes: ['Hero'],
+        description: 'Rolon Premium chain and sprocket combo for your bike',
+        specifications: {
+            'Chain Size': '428H-120L',
+            'Material': 'Hardened steel',
+            'Compatibility': 'Hero',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 834,
+        name: 'Moto Torque X Pulse Carrier Top Plate',
+        price: 1650,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786092060/23d7608e-7bef-4ce5-a5e7-728004125127.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786092109/cb2e35e4-221d-4206-8dfe-38b6d636d59e.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786092109/cb2e35e4-221d-4206-8dfe-38b6d636d59e.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786092109/cb2e35e4-221d-4206-8dfe-38b6d636d59e.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Chain Sets',
+        brand: 'Rolon',
+        rating: 5,
+        reviews: 67,
+        isNew: false,
+        bikes: ['Hero'],
+        description: 'Rolon Premium chain and sprocket combo for your bike',
+        specifications: {
+            'Chain Size': '428H-120L',
+            'Material': 'Hardened steel',
+            'Compatibility': 'Hero',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 835,
+        name: 'Altitude Moto GPS Mount For Hero XPulse 200',
+        price: 1699,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786092209/02c2c7a4-d29f-466a-a21f-cffbc3af56d3.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786092245/a780c7e7-a374-4fa6-beea-4380694deebb.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786092292/c6d992e3-0894-4862-b040-3da1ec1c19d5.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786092324/c7cad04b-289b-4ccb-832f-1bb52621cb70.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Chain Sets',
+        brand: 'Rolon',
+        rating: 5,
+        reviews: 37,
+        isNew: false,
+        bikes: ['Hero'],
+        description: 'Rolon Premium chain and sprocket combo for your bike',
+        specifications: {
+            'Chain Size': '428H-120L',
+            'Material': 'Hardened steel',
+            'Compatibility': 'Hero',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 836,
+        name: 'NGK Spark Plug Kit For Hero X Pulse 200 4V',
+        price: 5000,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786092387/3a00143e-aa99-44f4-b890-e3423f3b2fdb.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786092387/3a00143e-aa99-44f4-b890-e3423f3b2fdb.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786092387/3a00143e-aa99-44f4-b890-e3423f3b2fdb.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786092387/3a00143e-aa99-44f4-b890-e3423f3b2fdb.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Chain Sets',
+        brand: 'Rolon',
+        rating: 5,
+        reviews: 25,
+        isNew: false,
+        bikes: ['Hero'],
+        description: 'Rolon Premium chain and sprocket combo for your bike',
+        specifications: {
+            'Chain Size': '428H-120L',
+            'Material': 'Hardened steel',
+            'Compatibility': 'Hero',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 837,
+        name: 'Moto Gear CB300F SADDLE STAY WITH PLATE FOR CB300F',
+        price: 2400,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786093292/eb768a44-e68e-456c-aad9-5d2da175a0b0.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786093376/2a903d82-22fa-45a8-8bbb-80fb980ba7a5.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786093401/ef6d09ef-0299-403b-98c7-20274ab51bd1.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786093429/77d6ee2a-267f-4dca-84e9-26af419c29da.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 16,
+        isNew: false,
+        bikes: ['Honda'],
+        description: '',
+        specifications: {
+            'Chain Size': '428H-120L',
+            'Material': 'Hardened steel',
+            'Compatibility': 'Honda',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 838,
+        name: 'Moto Gear CB300F PIPE CARRIER FOR CB300F',
+        price: 2880,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786093493/adff8b82-0140-4aed-a575-bada2715be4b.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786093525/0fbd34a9-62f5-4cba-ba71-1cccb9c8999d.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786093551/37413427-7a71-4b76-90ef-b6973f8849e8.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786093525/0fbd34a9-62f5-4cba-ba71-1cccb9c8999d.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 17,
+        isNew: false,
+        bikes: ['Honda'],
+        description: '',
+        specifications: {
+            'Chain Size': '428H-120L',
+            'Material': 'Hardened steel',
+            'Compatibility': 'Honda',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 839,
+        name: 'Moto Gear CB300F CARRIER WITH BACKREST FOR CB300F',
+        price: 3920,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786093646/5fb36c60-666f-4328-bbd9-fc53c05904ba.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786093681/3337588c-be3d-4c48-b6eb-01bfac744d42.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786093709/18c48135-0da1-41d2-b3c4-c94cfe559a74.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786093709/18c48135-0da1-41d2-b3c4-c94cfe559a74.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 17,
+        isNew: false,
+        bikes: ['Honda'],
+        description: '',
+        specifications: {
+            'Chain Size': '428H-120L',
+            'Material': 'Hardened steel',
+            'Compatibility': 'Honda',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 840,
+        name: 'Moto Gear CB300F CARRIER WITH BACKREST FOR CB300F',
+        price: 3920,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786093646/5fb36c60-666f-4328-bbd9-fc53c05904ba.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786093681/3337588c-be3d-4c48-b6eb-01bfac744d42.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786093709/18c48135-0da1-41d2-b3c4-c94cfe559a74.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786093709/18c48135-0da1-41d2-b3c4-c94cfe559a74.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 58,
+        isNew: false,
+        bikes: ['Honda'],
+        description: '',
+        specifications: {
+            'Chain Size': '428H-120L',
+            'Material': 'Hardened steel',
+            'Compatibility': 'Honda',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 841,
+        name: 'Moto Gear CB300F 4 SLIDER CRASH GUARD FOR CB 300F',
+        price: 4480,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786093902/11f14894-22b6-46c4-89d1-03912e13cb9f.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786093930/59b24584-a00c-4f3f-959c-19bf644d2282.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786093961/8caa7cb5-f124-4915-9ce2-14e6a79c12bb.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786093990/439fdcf8-8f52-41cb-aae0-8ebaee8c3f1a.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 15,
+        isNew: false,
+        bikes: ['Honda'],
+        description: '',
+        specifications: {
+            'Chain Size': '428H-120L',
+            'Material': 'Hardened steel',
+            'Compatibility': 'Honda',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 842,
+        name: 'Moto Gear CB300F 4 SLIDER CRASH GUARD FOR CB 300F',
+        price: 4480,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786093902/11f14894-22b6-46c4-89d1-03912e13cb9f.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786093930/59b24584-a00c-4f3f-959c-19bf644d2282.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786093961/8caa7cb5-f124-4915-9ce2-14e6a79c12bb.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786093990/439fdcf8-8f52-41cb-aae0-8ebaee8c3f1a.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 57,
+        isNew: false,
+        bikes: ['Honda'],
+        description: '',
+        specifications: {
+            'Chain Size': '428H-120L',
+            'Material': 'Hardened steel',
+            'Compatibility': 'Honda',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 843,
+        name: 'Moto Gear CB 350 RS POLYCARBONATE VISOR FOR CB 350 RS',
+        price: 2240,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786094364/89f54a06-5899-47fc-98c6-a4c84d967050.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786094393/09d9371a-ac3e-4777-94de-421f72d9165d.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786094428/9bc8b1e7-0557-4d39-8363-c5596b687b0d.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786094428/9bc8b1e7-0557-4d39-8363-c5596b687b0d.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 28,
+        isNew: false,
+        bikes: ['Honda'],
+        description: '',
+        specifications: {
+            'Chain Size': '428H-120L',
+            'Material': 'Hardened steel',
+            'Compatibility': 'Honda',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 844,
+        name: 'Moto Gear CB 350 RS SEAT RING FOR CB 350 RS',
+        price: 800,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786094527/5d516d3f-be65-4270-9e56-ff9376e51ab3.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786094603/b65e5f7b-36c0-4200-a73e-88cb40155354.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786094652/42d30978-9ca5-4618-9cb9-a70c277b6ca1.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786094652/42d30978-9ca5-4618-9cb9-a70c277b6ca1.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 8,
+        isNew: false,
+        bikes: ['Honda'],
+        description: '',
+        specifications: {
+            'Chain Size': '428H-120L',
+            'Material': 'Hardened steel',
+            'Compatibility': 'Honda',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 845,
+        name: 'Moto Gear CB 350 RS FOOTREST FOR CB 350 RS',
+        price: 1440,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786094731/16b6bc65-2eaa-4d81-943f-e6847e142f45.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786094731/16b6bc65-2eaa-4d81-943f-e6847e142f45.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786094731/16b6bc65-2eaa-4d81-943f-e6847e142f45.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786094731/16b6bc65-2eaa-4d81-943f-e6847e142f45.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 8,
+        isNew: false,
+        bikes: ['Honda'],
+        description: '',
+        specifications: {
+            'Chain Size': '428H-120L',
+            'Material': 'Hardened steel',
+            'Compatibility': 'Honda',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 846,
+        name: 'Moto Gear CB 350 RS SUM GUARD FOR CB350 RS',
+        price: 1600,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786094892/9a6e5c10-8e19-4689-9b8d-35deebb6b257.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786094928/5f2e9d64-dcf8-44ca-bfa3-440b52765686.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786094956/da9f5cca-4a20-40c0-87b5-0595b3c05cf1.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786094892/9a6e5c10-8e19-4689-9b8d-35deebb6b257.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 32,
+        isNew: false,
+        bikes: ['Honda'],
+        description: '',
+        specifications: {
+            'Chain Size': '428H-120L',
+            'Material': 'Hardened steel',
+            'Compatibility': 'Honda',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 847,
+        name: 'Moto Gear CB 350 HANDLE BAR RISER FOR CB350 RS',
+        price: 1680,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786095158/64a54e52-7b8d-4439-8370-db3663d72da4.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786095158/64a54e52-7b8d-4439-8370-db3663d72da4.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786095192/0e091a99-3ea5-4c28-9b96-2b9b7291ce12.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786095215/384cf46f-b767-45d9-89d4-98012bef1870.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 22,
+        isNew: false,
+        bikes: ['Honda'],
+        description: '',
+        specifications: {
+            'Chain Size': '428H-120L',
+            'Material': 'Hardened steel',
+            'Compatibility': 'Honda',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 848,
+        name: 'Moto Gear CB 350 CNC CARRIER WITH PLATE AND BACKREST FOR CB350 RS',
+        price: 3920,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786095287/41aabe28-d77b-413c-b65a-7da0591859a4.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786095310/fbbe49fd-dd21-43ad-ad83-ad1cfb3c50de.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786095310/fbbe49fd-dd21-43ad-ad83-ad1cfb3c50de.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786095287/41aabe28-d77b-413c-b65a-7da0591859a4.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 22,
+        isNew: false,
+        bikes: ['Honda'],
+        description: '',
+        specifications: {
+            'Chain Size': '428H-120L',
+            'Material': 'Hardened steel',
+            'Compatibility': 'Honda',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 849,
+        name: 'Moto Gear CB 350 CNC CARRIER PLATE FOR CB350 RS',
+        price: 2560,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786095408/3e40fe3e-8960-43a8-9cab-4370e0f3ba5f.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786095429/ffe4a370-d1cc-4d0d-8a98-f0ac0b62e53f.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786095475/9ac13af1-9e55-400d-b26a-4bab4a539b67.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786095408/3e40fe3e-8960-43a8-9cab-4370e0f3ba5f.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 12,
+        isNew: false,
+        bikes: ['Honda'],
+        description: '',
+        specifications: {
+            'Chain Size': '428H-120L',
+            'Material': 'Hardened steel',
+            'Compatibility': 'Honda',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 850,
+        name: 'Moto Gear CB 350 CNC BACKREST FOR CB350 RS',
+        price: 1920,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786095408/3e40fe3e-8960-43a8-9cab-4370e0f3ba5f.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786095569/aa9a700d-4e89-47f8-9edd-9f72eb634a24.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786095590/70b03b79-3531-4223-9e54-db79d1c8dd00.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786095590/70b03b79-3531-4223-9e54-db79d1c8dd00.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 25,
+        isNew: false,
+        bikes: ['Honda'],
+        description: '',
+        specifications: {
+            'Chain Size': '428H-120L',
+            'Material': 'Hardened steel',
+            'Compatibility': 'Honda',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 851,
+        name: 'Moto Gear CB 350 BACKREST FOR CB350 RS',
+        price: 1920,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786095680/6ef3037e-9a94-486f-a491-a6adbf74f5e6.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786095704/4731cebc-8277-44a4-abd2-b48b2e4d159a.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786095727/ce2c2c3b-0cfd-4d91-945b-07f9c1a39ace.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786095704/4731cebc-8277-44a4-abd2-b48b2e4d159a.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 41,
+        isNew: false,
+        bikes: ['Honda'],
+        description: '',
+        specifications: {
+            'Chain Size': '428H-120L',
+            'Material': 'Hardened steel',
+            'Compatibility': 'Honda',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 852,
+        name: 'Moto Gear 4 SLIDER CRASH GUARD FOR CB350 RS',
+        price: 1920,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786095800/fde92226-5314-44ea-80cf-4510d4b733ff.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786095821/304ef937-3bb1-4990-b460-cddc74e82d58.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786095848/627ca91c-7986-4cbe-a1ca-5476a4ab0d15.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786095873/f0024a42-406e-4534-a64b-ff82280e0a4a.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 41,
+        isNew: false,
+        bikes: ['Honda'],
+        description: '',
+        specifications: {
+            'Chain Size': '428H-120L',
+            'Material': 'Hardened steel',
+            'Compatibility': 'Honda',
+            'Warranty': '6 months'
+        }
+    },
+    // Hness CB 350
+    {
+        id: 853,
+        name: 'Moto Care Hness CB 350 GPS Mount',
+        price: 720,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786096065/1746954761_68206a0952123_bmbjc2.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786096059/1746954779_68206a1b633c0_jycmvp.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786096043/1746954769_68206a11e56d7_erbjjh.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786096033/4bce9a57-4fa6-44a2-84ee-deb0b89b58cd.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 34,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Securely mount your GPS or mobile device on your Honda Hness CB 350 for easy navigation while riding. Sturdy and vibration-resistant design.',
+        specifications: {
+            'Material': 'Mild Steel',
+            'Finish': 'Powder Coated Black',
+            'Compatibility': 'Honda Hness CB 350',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 854,
+        name: 'Moto Care Hness CB 350 Tyre Hugger',
+        price: 1600,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097149/1773491585_69b555811bfb9_nrowvv.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097144/1773491593_69b55589096c0_zbwgqe.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097138/1773491599_69b5558f66ea7_xoxcaw.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097137/1773491607_69b555978352e_pgbf56.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 27,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Premium tyre hugger providing protection against mud, water splashes, and road debris. Tailored fitment for the Honda Hness CB 350.',
+        specifications: {
+            'Material': 'ABS Plastic & Steel',
+            'Compatibility': 'Honda Hness CB 350',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 855,
+        name: 'Moto Care Hness CB 350 Saddle Stay With Plate',
+        price: 2400,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097231/1773491513_69b555390348c_ygqj2f.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097225/1773491519_69b5553fa4c89_epqzit.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097220/1773491528_69b5554810397_qfcfkr.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097213/1773491535_69b5554f517f9_xqbmlh.png'
+        ],
+        category: 'Lugguage & Touring',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 42,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Heavy-duty saddle stay with an integrated plate for mounting saddle bags. Keeps luggage away from the rear tyre and exhaust.',
+        specifications: {
+            'Material': 'Heavy-duty Steel',
+            'Compatibility': 'Honda Hness CB 350',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 856,
+        name: 'Moto Care Hness CB 350 Metal Visor',
+        price: 1040,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097342/1739430451_67ad9a33854e9_rl1usr.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097336/1739430472_67ad9a484698b_fulwlt.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097330/1739430511_67ad9a6f2a6b1_unlyzp.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097325/1739430541_67ad9a8d428c4_rbyvii.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 18,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Classic metal visor that enhances the retro look of your Hness CB 350 while providing headlight protection.',
+        specifications: {
+            'Material': 'Metal',
+            'Finish': 'Chrome / Black',
+            'Compatibility': 'Honda Hness CB 350',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 857,
+        name: 'Moto Care Hness CB 350 Polycarbonate Visor',
+        price: 2240,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097425/1737633868_6792304c3870b_ci1nvm.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097419/1737633882_6792305a8de61_bux4ks.jpg',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097419/1737633882_6792305a8de61_bux4ks.jpg',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097413/1737633890_679230629dca7_zjda0g.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 31,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Premium polycarbonate visor offering wind and debris protection. Available in Clear, Smoke, and Black variants.',
+        specifications: {
+            'Material': 'Polycarbonate',
+            'Variants': 'Clear, Smoke, Black',
+            'Compatibility': 'Honda Hness CB 350',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 858,
+        name: 'Moto Care Hness CB 350 Crash Guard With Dual Sliders',
+        price: 3840,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097506/1714060613_662a7d4563183_g0abef.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097512/1714060598_662a7d3684540_k1rqrj.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097512/1714060598_662a7d3684540_k1rqrj.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097517/1714060585_662a7d2987f98_sx6zva.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 48,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Robust crash guard with dual sliders to protect the engine and body during falls. Precision-fit for the Hness CB 350.',
+        specifications: {
+            'Material': 'Heavy-duty Steel Pipe',
+            'Sliders': '2 Nylon Sliders',
+            'Finish': 'Black Powder Coating',
+            'Compatibility': 'Honda Hness CB 350'
+        }
+    },
+    {
+        id: 859,
+        name: 'Moto Care Hness CB 350 Sump Guard',
+        price: 1600,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097643/1708252793_65d1de7951d18_fzvnys.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097639/1708252804_65d1de84a5e4e_go36ge.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097633/1708252810_65d1de8aae70b_ne3qoo.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097623/44d680a3-2c34-4200-a596-37a99923b780.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 39,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Protects the engine underbelly from rocks, speed breakers, and road debris. Custom-fit with ventilation holes for engine cooling.',
+        specifications: {
+            'Material': 'Aluminum / Steel',
+            'Compatibility': 'Honda Hness CB 350',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 860,
+        name: 'Moto Care Hness CB 350 Saddle Stay',
+        price: 1680,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097754/1708252082_65d1dbb28984a_j0wj7d.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097748/1708252087_65d1dbb747025_fhs4cs.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097748/1708252087_65d1dbb747025_fhs4cs.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097740/1708252101_65d1dbc50edd0_qogfon.png'
+        ],
+        category: 'Lugguage & Touring',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 22,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Simple and sturdy saddle stay to carry soft luggage bags. Keeps bags safely away from the exhaust and rear wheel.',
+        specifications: {
+            'Material': 'Steel Tubing',
+            'Compatibility': 'Honda Hness CB 350',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 861,
+        name: 'Moto Care Hness CB 350 Headlight Grill With Glass',
+        price: 1360,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097847/1708245340_65d1c15c3821c_qzzf0o.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097842/1708245345_65d1c16144202_u0mwbg.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097834/1708245349_65d1c165ce151_ws66fa.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097829/1708245355_65d1c16b97a44_jic7nu.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 15,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Protective headlight grill with integrated glass cover. Adds a rugged vintage look while keeping the lens safe from stones.',
+        specifications: {
+            'Material': 'Mild Steel with Glass',
+            'Compatibility': 'Honda Hness CB 350',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 862,
+        name: 'Moto Care Hness CB 350 Handle Bar Riser',
+        price: 1680,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786095215/384cf46f-b767-45d9-89d4-98012bef1870.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786095158/64a54e52-7b8d-4439-8370-db3663d72da4.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786095158/64a54e52-7b8d-4439-8370-db3663d72da4.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786095215/384cf46f-b767-45d9-89d4-98012bef1870.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 46,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Improves riding posture by raising the handlebar for a more upright and comfortable position on long rides.',
+        specifications: {
+            'Material': 'Aluminum Alloy',
+            'Compatibility': 'Honda Hness CB 350',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 863,
+        name: 'Moto Care Hness CB 350 Caliber Guard',
+        price: 480,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097982/1708244566_65d1be560153c_unzfux.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097976/1708244571_65d1be5bd774d_orrdup.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097976/1708244571_65d1be5bd774d_orrdup.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786097982/1708244566_65d1be560153c_unzfux.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 13,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Protects the rear brake caliper from mud, water, and external impacts. Compact and durable design.',
+        specifications: {
+            'Material': 'Aluminum',
+            'Compatibility': 'Honda Hness CB 350',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 864,
+        name: 'Moto Care Hness CB 350 Footrest',
+        price: 1920,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786098048/1773491462_69b55506ab1fc_le67hh.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786098051/1773491451_69b554fb96182_m6yley.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786098059/1773491445_69b554f5df3a5_tzpf2n.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786098063/1773491436_69b554ecc0932_t8npsa.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 29,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Wider and more comfortable aftermarket footrests providing better grip and a relaxed leg position for rider and pillion.',
+        specifications: {
+            'Material': 'Steel / Aluminum',
+            'Compatibility': 'Honda Hness CB 350',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 865,
+        name: 'Moto Care Hness CB 350 CNC Carrier Plate With Backrest',
+        price: 3920,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786098118/cb2347b3-f460-48d9-8089-fef590d1da06.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786098118/cb2347b3-f460-48d9-8089-fef590d1da06.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786098118/cb2347b3-f460-48d9-8089-fef590d1da06.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786098118/cb2347b3-f460-48d9-8089-fef590d1da06.png'
+        ],
+        category: 'Lugguage & Touring',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 50,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Premium CNC machined carrier plate with an integrated pillion backrest. Perfect combo for touring with top box support and passenger comfort.',
+        specifications: {
+            'Material': 'CNC Machined Aluminum',
+            'Compatibility': 'Honda Hness CB 350',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 866,
+        name: 'Moto Care Hness CB 350 CNC Carrier Plate',
+        price: 2560,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786098219/1773491366_69b554a6b018a_oows6t.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786098219/1773491366_69b554a6b018a_oows6t.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786098215/1773491373_69b554ad18f25_ahwin3.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786098207/1773491377_69b554b1c4fbd_eezkpi.png'
+        ],
+        category: 'Lugguage & Touring',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 36,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'CNC machined carrier plate for mounting top boxes and luggage. Lightweight yet strong for touring needs.',
+        specifications: {
+            'Material': 'CNC Machined Aluminum',
+            'Compatibility': 'Honda Hness CB 350',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 867,
+        name: 'Moto Care Hness CB 350 Headlight Grill Without Glass',
+        price: 1200,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786098324/674676f6-e0f9-4b6b-a2b5-785cf305fe9e.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786098324/674676f6-e0f9-4b6b-a2b5-785cf305fe9e.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786098324/674676f6-e0f9-4b6b-a2b5-785cf305fe9e.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786098324/674676f6-e0f9-4b6b-a2b5-785cf305fe9e.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 19,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Classic headlight grill without glass for a raw vintage aesthetic. Available in Black and Silver finishes.',
+        specifications: {
+            'Material': 'Mild Steel',
+            'Variants': 'Black, Silver',
+            'Compatibility': 'Honda Hness CB 350',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 868,
+        name: 'Moto Care Hness CB 350 4 Slider Crash Guard',
+        price: 4160,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786098457/1708241264_65d1b170da39c_j7rlim.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786098461/1708241258_65d1b16a95322_mgp8ea.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786098465/1708241253_65d1b16531597_yir7st.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786098455/1708241271_65d1b1774e871_aiwxry.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 44,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Maximum protection crash guard featuring 4 heavy-duty sliders to absorb impact and prevent engine and body damage during falls.',
+        specifications: {
+            'Material': 'Heavy-duty Steel Pipe',
+            'Sliders': '4 Nylon Sliders',
+            'Finish': 'Black Powder Coating',
+            'Compatibility': 'Honda Hness CB 350'
+        }
+    },
+    // CB 200X
+    {
+        id: 869,
+        name: 'Moto Care CB 200X Headlight Grill',
+        price: 1600,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786098955/1755584547_68a4182332d96_h9osbd.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786098957/1755584539_68a4181bd61fc_fiekjn.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786098967/1755584531_68a41813ad62d_ulwpho.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786098970/1755584483_68a417e3bec3d_rapfhz.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 21,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Durable headlight grill that protects the lens from stones and debris while adding a rugged look to your CB 200X.',
+        specifications: {
+            'Material': 'Mild Steel',
+            'Finish': 'Powder Coated Black',
+            'Compatibility': 'Honda CB 200X',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 870,
+        name: 'Moto Care CB 200X Reservoir Oil Cap',
+        price: 400,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099069/1747037939_6821aef35cd3d_n0adnc.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099063/1747037947_6821aefb25783_hlrc91.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099056/1747037954_6821af02083a6_vqi82f.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099050/1747037962_6821af0a5ec95_uff8nm.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 14,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'CNC machined reservoir oil cap that adds a premium look to your CB 200X. Available in Black and Silver.',
+        specifications: {
+            'Material': 'CNC Aluminum',
+            'Variants': 'Black, Silver',
+            'Compatibility': 'Honda CB 200X',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 871,
+        name: 'Moto Care CB 200X Disc Oil Cap',
+        price: 200,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099156/1743226689_67e787412d5cc_ois1mt.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099165/1743226680_67e78738dce92_vrjrql.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099156/1743226689_67e787412d5cc_ois1mt.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099069/1747037939_6821aef35cd3d_n0adnc.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 11,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Precision-machined disc oil cap replacement for a cleaner and more stylish appearance on your CB 200X.',
+        specifications: {
+            'Material': 'CNC Aluminum',
+            'Compatibility': 'Honda CB 200X',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 872,
+        name: 'Moto Care CB 200X Crash Guard With Dual Sliders',
+        price: 5600,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099243/1740040640_67b6e9c063e83_u5yyu2.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099238/1740040695_67b6e9f76415b_zgy9zm.jpg',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099231/1740040704_67b6ea00a1748_yfpxtq.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099225/1740040712_67b6ea0870a07_yynoyh.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 47,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Heavy-duty crash guard with dual sliders to protect the engine and fairings during falls. Custom-fit for the CB 200X.',
+        specifications: {
+            'Material': 'Heavy-duty Steel Pipe',
+            'Sliders': '2 Nylon Sliders',
+            'Finish': 'Black Powder Coating',
+            'Compatibility': 'Honda CB 200X'
+        }
+    },
+    {
+        id: 873,
+        name: 'Moto Care CB 200X Saddle Stay With Plate',
+        price: 2400,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099333/1740040052_67b6e77482591_ocm4pq.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099320/1740040068_67b6e78419c2f_kjedks.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099324/1740040059_67b6e77b04fd0_zemss0.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099311/1740040076_67b6e78c509d3_pshmne.png'
+        ],
+        category: 'Lugguage & Touring',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 38,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Sturdy saddle stay with an integrated plate for securely mounting saddle bags. Keeps luggage away from the rear tyre and exhaust.',
+        specifications: {
+            'Material': 'Heavy-duty Steel',
+            'Compatibility': 'Honda CB 200X',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 874,
+        name: 'Moto Care CB 200X Polycarbonate Visor',
+        price: 2080,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099409/1740039500_67b6e54c97ed4_ec5fxe.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099409/1740039500_67b6e54c97ed4_ec5fxe.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099412/1740039469_67b6e52d64ebf_pyqpkf.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099409/1740039500_67b6e54c97ed4_ec5fxe.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 26,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'High-quality polycarbonate visor offering excellent wind and debris protection. Available in Clear, Black, and Smoke variants.',
+        specifications: {
+            'Material': 'Polycarbonate',
+            'Variants': 'Clear, Black, Smoke',
+            'Compatibility': 'Honda CB 200X',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 875,
+        name: 'Moto Care CB 200X GPS Mount',
+        price: 1360,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099524/1711449915_6602a73b91045_wt0ntn.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099521/1711449949_6602a75d2da74_j8ltxk.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099511/1711449956_6602a764f3119_rz3lal.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099504/1711449964_6602a76cd2dba_l5sred.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 33,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Securely mount your GPS or mobile device on the CB 200X for easy navigation. Vibration-resistant and sturdy design.',
+        specifications: {
+            'Material': 'Mild Steel',
+            'Finish': 'Powder Coated Black',
+            'Compatibility': 'Honda CB 200X',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 876,
+        name: 'Moto Care CB 200X Backrest',
+        price: 2160,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099636/903144f5-df98-4eca-a735-c6e5ee63d388.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099636/903144f5-df98-4eca-a735-c6e5ee63d388.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099636/903144f5-df98-4eca-a735-c6e5ee63d388.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099636/903144f5-df98-4eca-a735-c6e5ee63d388.png'
+        ],
+        category: 'Lugguage & Touring',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 29,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Comfortable pillion backrest providing superior support during long rides. Easy bolt-on installation.',
+        specifications: {
+            'Material': 'Steel Frame with Cushioned Foam',
+            'Compatibility': 'Honda CB 200X',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 877,
+        name: 'Moto Care CB 200X Upper Lower Crash Guard',
+        price: 9600,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099729/1709971168_65ec16e0e8882_fv4kfh.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099722/1709971177_65ec16e93298e_whedrz.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099716/1709971185_65ec16f19cf7b_vx9gto.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099678/263704ab-cdf9-4264-8883-cc6ede49602b.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 50,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Complete upper and lower crash guard set providing 360-degree protection to the engine and fairing of your CB 200X.',
+        specifications: {
+            'Material': 'Heavy-duty Steel Pipe',
+            'Finish': 'Black Powder Coating',
+            'Compatibility': 'Honda CB 200X',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 878,
+        name: 'Moto Care CB 200X Saddle Stay',
+        price: 1680,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099817/1709970983_65ec162754b55_le3zqe.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099811/1709970992_65ec163005820_x0mqxa.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099804/1709970999_65ec16379d00a_xnm8bq.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099801/1709971008_65ec164038997_lvg1kc.png'
+        ],
+        category: 'Lugguage & Touring',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 19,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Simple and sturdy saddle stay to carry soft luggage bags. Keeps bags safely away from the exhaust and rear wheel.',
+        specifications: {
+            'Material': 'Steel Tubing',
+            'Compatibility': 'Honda CB 200X',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 879,
+        name: 'Moto Care CB 200X Pipe Carrier With Backrest',
+        price: 2960,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099892/1709970744_65ec1538408ad_widloi.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099892/1709970744_65ec1538408ad_widloi.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099886/1709970754_65ec154239533_kudhl1.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099879/1709970763_65ec154b6716f_achd5c.png'
+        ],
+        category: 'Lugguage & Touring',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 41,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Heavy-duty pipe carrier with an integrated pillion backrest. Ideal for touring with luggage and passenger comfort.',
+        specifications: {
+            'Material': 'Heavy-duty Steel Pipe',
+            'Compatibility': 'Honda CB 200X',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 880,
+        name: 'Moto Care CB 200X Pipe Carrier',
+        price: 1920,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100008/1709970580_65ec1494170fd_bnurp8.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100008/1709970580_65ec1494170fd_bnurp8.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100001/1709970589_65ec149d85832_ieirtl.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786099994/1709970613_65ec14b572fb8_xopios.png'
+        ],
+        category: 'Lugguage & Touring',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 16,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Durable pipe carrier for mounting top boxes and luggage. Strong and lightweight for everyday touring.',
+        specifications: {
+            'Material': 'Steel Pipe',
+            'Compatibility': 'Honda CB 200X',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 881,
+        name: 'Moto Care CB 200X CNC Carrier Plate With Backrest',
+        price: 3600,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100088/1709970258_65ec13527b0e6_rgqd4q.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100079/1709970267_65ec135b61fd3_joa5bn.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100072/1709970275_65ec13638f095_dp0nke.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100066/1709970294_65ec1376154ce_ajndmq.png'
+        ],
+        category: 'Lugguage & Touring',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 45,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Premium CNC machined carrier plate with an integrated pillion backrest. Perfect for touring with top box support and passenger comfort.',
+        specifications: {
+            'Material': 'CNC Machined Aluminum',
+            'Compatibility': 'Honda CB 200X',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 882,
+        name: 'Moto Care CB 200X CNC Carrier Plate',
+        price: 2560,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100225/1709970046_65ec127e31f55_r2hoae.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100184/1709970081_65ec12a11c03f_g0xri5.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100190/1709970071_65ec1297aab10_od08ay.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100197/1709970059_65ec128bcb562_slan64.png'
+        ],
+        category: 'Lugguage & Touring',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 32,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'CNC machined carrier plate for mounting top boxes and luggage. Lightweight yet strong for all touring needs.',
+        specifications: {
+            'Material': 'CNC Machined Aluminum',
+            'Compatibility': 'Honda CB 200X',
+            'Warranty': '6 months'
+        }
+    },
+    // CB350
+    {
+        id: 883,
+        name: 'Moto Care CB350 Pipe Carrier With Aluminium Plate With Backrest',
+        price: 3920,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100385/1773581158_69b6b36610ef3_bpicb5.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100377/1773581166_69b6b36ec44e5_xczs2o.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100370/1773581172_69b6b374bb243_mi0aow.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100366/1773581178_69b6b37a7249a_sbmlmd.png'
+        ],
+        category: 'Lugguage & Touring',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 43,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Premium pipe carrier with aluminium plate and integrated pillion backrest. Perfect combination for touring with top box support and passenger comfort.',
+        specifications: {
+            'Material': 'Steel Pipe with Aluminium Plate',
+            'Compatibility': 'Honda CB350',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 884,
+        name: 'Moto Care CB350 Pipe Carrier With Aluminium Plate',
+        price: 2880,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100516/1773490734_69b5522e025ec_ngup8q.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100509/1773490739_69b55233f3aea_wg0bn5.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100503/1773490745_69b552393b207_gcvem1.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100496/1773490750_69b5523e279eb_kg2tnv.png'
+        ],
+        category: 'Lugguage & Touring',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 31,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Sturdy pipe carrier with an aluminium plate for secure mounting of top boxes and luggage. Lightweight yet durable for daily touring.',
+        specifications: {
+            'Material': 'Steel Pipe with Aluminium Plate',
+            'Compatibility': 'Honda CB350',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 885,
+        name: 'Moto Care CB350 Headlight Grill',
+        price: 1200,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100636/1773490659_69b551e32a5bf_kguzqd.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100629/1773490664_69b551e8db5c9_irc79c.jpg',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100622/1773490673_69b551f16d0ae_h1vl8g.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100616/1773490678_69b551f68ef50_jnfyam.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 17,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Durable headlight grill that protects the lens from stones and debris while adding a classic rugged look to your CB350.',
+        specifications: {
+            'Material': 'Mild Steel',
+            'Finish': 'Powder Coated Black',
+            'Compatibility': 'Honda CB350',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 886,
+        name: 'Moto Care CB350 Single Footrest',
+        price: 880,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100775/1773490576_69b55190c781f_vt0wle.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100764/1773490584_69b55198869a2_pubcl2.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100759/1773490589_69b5519d8d2fd_wytlx3.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100750/1773490597_69b551a58a86d_n4hzlc.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 12,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Wider and more comfortable single footrest providing better grip and a relaxed leg position for the rider.',
+        specifications: {
+            'Material': 'Steel / Aluminum',
+            'Compatibility': 'Honda CB350',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 887,
+        name: 'Moto Care CB350 Pipe Carrier With Backrest',
+        price: 3600,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100901/1773490504_69b55148c0ca3_lpqcei.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100891/1773490512_69b551503af70_kmloax.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100901/1773490504_69b55148c0ca3_lpqcei.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100880/1773490518_69b55156c7d2e_yesffq.png'
+        ],
+        category: 'Lugguage & Touring',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 48,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Heavy-duty pipe carrier with an integrated pillion backrest. Ideal for long-distance touring with luggage and passenger comfort.',
+        specifications: {
+            'Material': 'Heavy-duty Steel Pipe',
+            'Compatibility': 'Honda CB350',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 888,
+        name: 'Moto Care CB350 Pipe Carrier',
+        price: 2560,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100990/1773490445_69b5510d753af_naxgr8.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786101011/1773490421_69b550f5da5ac_k4kads.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786101002/1773490431_69b550ff5b8d9_eyfwb5.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786100996/1773490438_69b551062c76a_wrx28b.png'
+        ],
+        category: 'Lugguage & Touring',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 22,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Durable pipe carrier for mounting top boxes and luggage bags. Strong and lightweight for everyday touring needs.',
+        specifications: {
+            'Material': 'Steel Pipe',
+            'Compatibility': 'Honda CB350',
+            'Warranty': '6 months'
+        }
+    },
+    {
+        id: 889,
+        name: 'Moto Care CB350 Crash Guard With Dual Sliders',
+        price: 3840,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786101101/1735465439_677119df9d6c1_wg2v1r.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786101092/1735465446_677119e63c8f9_zzzi9m.jpg',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786101085/1735465454_677119eedca0b_gqynjo.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786101080/1735465464_677119f84f90a_etomfx.png'
+        ],
+        category: 'Bike Acceceries',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 39,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Robust crash guard with dual sliders to protect the engine and body during falls. Precision-fit for the Honda CB350.',
+        specifications: {
+            'Material': 'Heavy-duty Steel Pipe',
+            'Sliders': '2 Nylon Sliders',
+            'Finish': 'Black Powder Coating',
+            'Compatibility': 'Honda CB350'
+        }
+    },
+    {
+        id: 890,
+        name: 'Moto Care CB350 Saddle Stay With Plate',
+        price: 2880,
+        discount: 0,
+        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786101204/1773490343_69b550a73a51d_ttcxpx.png',
+        galleryImages: [
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786101197/1773490349_69b550ad9d981_zvng2u.jpg',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786101190/1773490356_69b550b47b9dd_zjqjel.png',
+            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1786101184/1773490363_69b550bba790f_xcs4zo.png'
+        ],
+        category: 'Lugguage & Touring',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 35,
+        isNew: false,
+        bikes: ['Honda'],
+        description: 'Sturdy saddle stay with an integrated plate for securely mounting saddle bags. Keeps luggage safely away from the rear tyre and exhaust.',
+        specifications: {
+            'Material': 'Heavy-duty Steel',
+            'Compatibility': 'Honda CB350',
+            'Warranty': '6 months'
+        }
+    },
+
+    {
+        id: 900,
+        name: 'RK TECH YAMAHA R3 2022+ (NO CUT) FRAME SLIDERS',
+        price: 6999,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092068/DSC089081-1749189148771_wnhejx.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092070/up3-1747293520206_qni2ai.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092068/DSC089081-1749189148771_wnhejx.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092094/up4-1747293521159_fggziz.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 901,
+        name: 'RK TECH Front Fork Protector for YAMAHA R3',
+        price: 2799,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092294/shop-1741241595964_ugrdtr.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092294/shop-1741241595964_ugrdtr.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092294/shop-1741241595964_ugrdtr.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092294/shop-1741241595964_ugrdtr.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 902,
+        name: 'RK TECH Swing Arm Spools for YAMAHA R3',
+        price: 1200,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092378/shop2-1741242026879_vwcxt9.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092378/shop2-1741242026879_vwcxt9.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092378/shop2-1741242026879_vwcxt9.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092378/shop2-1741242026879_vwcxt9.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 903,
+        name: 'RK TECH Rear Axle Protector for YAMAHA R3',
+        price: 2999,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092470/1_e8gr8l.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092470/1_e8gr8l.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092470/1_e8gr8l.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092470/1_e8gr8l.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 904,
+        name: 'RK TECH MS Radiator Guard for YAMAHA R3',
+        price: 1799,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092582/r3radg-1749204425815_uy43zj.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092585/SKU-0060_0-1741239433186_ppxghh.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092582/r3radg-1749204425815_uy43zj.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092585/SKU-0060_0-1741239433186_ppxghh.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 905,
+        name: 'RK TECH Aluminium Radiator Guard for YAMAHA R3',
+        price: 2999,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092671/11_x0vi2p.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092673/111_vnnrot.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092671/11_x0vi2p.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092673/111_vnnrot.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 906,
+        name: 'RK TECH Triumph Street Triple 765 RS Front Number Plate Holder',
+        price: 1499,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092810/SKU-0086_0-1750588469544_tgdcce.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092810/SKU-0086_0-1750588469544_tgdcce.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092810/SKU-0086_0-1750588469544_tgdcce.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092810/SKU-0086_0-1750588469544_tgdcce.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 907,
+        name: 'RK TECH Swing Arm Spools For TRIUMPH STREET TRIPLE 765 RS',
+        price: 1799,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092957/IMG_7766-1752834548568_rgix4d.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092961/shop2-1741242026879_qldzq7.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092967/shop-1741241595964_vaylll.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092970/WhatsAppImage2024-12-06at32323AM1-1733442531706_cgwimq.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 908,
+        name: 'RK TECH Tail Tidy For TRIUMPH STREET TRIPLE 765 RS ALUMINIUM',
+        price: 4500,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093050/1_rietad.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093061/2_ogf8pv.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093063/3_o1ysyx.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093066/4_vkbn7s.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 909,
+        name: 'RK TECH Rear Axle Protector For TRIUMPH STREET TRIPLE 765 RS',
+        price: 2999,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093158/5_usdha9.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093160/6_fw7gpq.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093162/7_h3i2z5.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093170/8_fjzzhf.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 910,
+        name: 'RK TECH Front Fork Protector For TRIUMPH STREET TRIPLE 765 RS',
+        price: 2999,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093264/12_fzqd9a.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093266/13_wun75i.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093269/14_rjmtqm.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093275/15_njdlmf.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 911,
+        name: 'RK TECH Radiator Guard For TRIUMPH STREET TRIPLE 765 RS',
+        price: 6499,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093380/22_yt5ybv.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093382/23_nz506t.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093385/24_bx4fhk.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093387/25_dvbrkx.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 912,
+        name: 'RK TECH Radiator Guard (Type-2) For KTM 390 ADVENTURE',
+        price: 2199,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096391/WhatsAppImage2024-12-06at33540AM-1733438372894_z3zxf4.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096391/WhatsAppImage2024-12-06at33540AM-1733438372894_z3zxf4.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096391/WhatsAppImage2024-12-06at33540AM-1733438372894_z3zxf4.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096391/WhatsAppImage2024-12-06at33540AM-1733438372894_z3zxf4.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['KTM'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'KTM',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 913,
+        name: 'RK TECH Radiator Guard (Type-1) For KTM 390 ADVENTURE',
+        price: 1799,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096519/22-1733438326908_duduyz.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096519/22-1733438326908_duduyz.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096519/22-1733438326908_duduyz.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096519/22-1733438326908_duduyz.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['KTM'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'KTM',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 914,
+        name: 'RK TECH Swing Arm Spools for DUCATI',
+        price: 1799,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096678/SKU-0048_0-1741235870762_p6gyex.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096678/SKU-0048_0-1741235870762_p6gyex.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096678/SKU-0048_0-1741235870762_p6gyex.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096678/SKU-0048_0-1741235870762_p6gyex.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['DUCATI'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'DUCATI',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 915,
+        name: 'RK TECH Radiator Guard & Oil Cooler Guard For DUCATI 959 PANIGALE',
+        price: 12999,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096780/WhatsAppImage2024-12-06at71159AM1-1733449580594_gtk8ua.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096780/WhatsAppImage2024-12-06at71159AM1-1733449580594_gtk8ua.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096780/WhatsAppImage2024-12-06at71159AM1-1733449580594_gtk8ua.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096780/WhatsAppImage2024-12-06at71159AM1-1733449580594_gtk8ua.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['DUCATI'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'DUCATI',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 916,
+        name: 'RK TECH Combo Kit 3 for HONDA CBR 650R E-CLUTCH (2025)',
+        price: 34999,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096980/CAT3-1761405216084_efriz8.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096981/FRAMESLIDERS3-1761405218073_c8wvrx.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096982/RADIATORGUARDALUMINIUM-1761405216639_wtfh2d.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096982/swinngarmspools2-1761405217152_jui4kz.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 917,
+        name: 'RK TECH Swing Arm Spools for HONDA CBR 650R E-CLUTCH (2025)',
+        price: 7999,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097096/swingarmspools1-1761404450243_dc8mz2.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097097/swinngarmspools2-1761404450771_ss8v9p.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097096/swingarmspools1-1761404450243_dc8mz2.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097097/swinngarmspools2-1761404450771_ss8v9p.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 918,
+        name: 'RK TECH Front Fork Protector for HONDA CBR 650R E-CLUTCH (2025)',
+        price: 5999,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097174/FRONTFORK-1761404153566_gsbe7t.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097174/FRONTFORK-1761404153566_gsbe7t.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097174/FRONTFORK-1761404153566_gsbe7t.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097174/FRONTFORK-1761404153566_gsbe7t.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 919,
+        name: 'RK TECH Frame Sliders for HONDA CBR 650R E-Clutch 2025',
+        price: 18499,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097245/FRAMESLIDERS3-1761403960266_fz5d68.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097245/FRAMESLIDERS-1761403960880_o7zmoe.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097245/FRAMESLIDERS3-1761403960266_fz5d68.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097245/FRAMESLIDERS-1761403960880_o7zmoe.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 920,
+        name: 'RK TECH Aluminium Radiator Guard for HONDA CBR 650R E-CLUTCH (2025)',
+        price: 6499,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097316/RADIATORGUARDALUMINIUM-1761404865129_ddzrqo.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097316/RADIATORGUARDALUMINIUM-1761404865129_ddzrqo.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097316/RADIATORGUARDALUMINIUM-1761404865129_ddzrqo.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097316/RADIATORGUARDALUMINIUM-1761404865129_ddzrqo.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 921,
+        name: 'RK TECH Radiator Guard & Oil Cooler Guard For BMW S 1000 RR',
+        price: 13999,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097440/WhatsAppImage2024-12-06at15820AM1-1733448324134_krktqq.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097437/WhatsAppImage2024-12-06at15819AM-1733448329661_bwdmhw.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097441/WhatsAppImage2024-12-06at15820AM-1733448332778_ccwtof.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097437/WhatsAppImage2024-12-06at15819AM-1733448329661_bwdmhw.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BMW'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'BMW',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 922,
+        name: 'RK TECH Radiator Guard For BMW G310 GS',
+        price: 1799,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097551/WhatsAppImage2024-12-06at63749AM-1733447970571-1733448095172_sbu6me.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097549/WhatsAppImage2024-12-06at63748AM-1733447972221-1733448097003_vhyfat.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097548/WhatsAppImage2024-12-06at63748AM-1733447972221_re7bo6.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097550/WhatsAppImage2024-12-06at63749AM-1733447970571_qmyxqn.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BMW'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'BMW',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 923,
+        name: 'RK TECH Radiator Guard For BMW G310 R',
+        price: 1499,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097715/1_copeus.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097715/1_copeus.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097715/1_copeus.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097715/1_copeus.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BMW'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'BMW',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 924,
+        name: 'RK TECH Radiator Guard For BMW G310 R',
+        price: 1799,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097802/WhatsAppImage2024-12-06at45825AM-1733445224061_dotj94.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097802/WhatsAppImage2024-12-06at45825AM-1733445224061_dotj94.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097802/WhatsAppImage2024-12-06at45825AM-1733445224061_dotj94.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097802/WhatsAppImage2024-12-06at45825AM-1733445224061_dotj94.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BMW'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'BMW',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 925,
+        name: 'RKTECH Swing Arm Spools For BMW S1000RR',
+        price: 1499,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097905/WhatsAppImage2024-10-01at65932PM-1727789457433_aqfs6o.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097905/WhatsAppImage2024-10-01at65932PM-1727789457433_aqfs6o.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097905/WhatsAppImage2024-10-01at65932PM-1727789457433_aqfs6o.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097905/WhatsAppImage2024-10-01at65932PM-1727789457433_aqfs6o.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BMW'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'BMW',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 926,
+        name: 'RK TECH Front Fork Protector For KAWASAKI NINJA ZX-6R 2024+',
+        price: 3499,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098065/1_rmp1ez.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098065/1_rmp1ez.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098065/1_rmp1ez.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098065/1_rmp1ez.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['KAWASAKI'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'KAWASAKI',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 927,
+        name: 'RK TECH Aluminium Radiator Guard for KAWASAKI NINJA ZX-6R 2024+',
+        price: 6499,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098217/RG0001-1745742924327_zwinvr.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098220/RG0002-1745742924997_idqxu1.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098217/RG0001-1745742924327_zwinvr.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098220/RG0002-1745742924997_idqxu1.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['KAWASAKI'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'KAWASAKI',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 928,
+        name: 'RK TECH Frame Sliders for KAWASAKI NINJA ZX-6R 2024+',
+        price: 8999,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098338/DSC089001-1749106897768_iiaacf.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098341/DSC089011-1749106898378_npuoh0.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098338/DSC089001-1749106897768_iiaacf.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098343/FS0003-1745742830290_jqdml1.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['KAWASAKI'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'KAWASAKI',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 929,
+        name: 'RK TECH Rear Axle Protector for KAWASAKI NINJA ZX-6R 2024+',
+        price: 3499,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098447/2_efb455.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098449/3_wwfw3k.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098447/2_efb455.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098449/3_wwfw3k.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['KAWASAKI'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'KAWASAKI',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 930,
+        name: 'RK TECH Exhaust Sliders for KAWASAKI NINJA ZX-6R 2024+',
+        price: 2499,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098517/SKU-0052_0-1740131948545-1745742439526_cr4mpw.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098517/SKU-0052_0-1740131948545-1745742439526_cr4mpw.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098517/SKU-0052_0-1740131948545-1745742439526_cr4mpw.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098517/SKU-0052_0-1740131948545-1745742439526_cr4mpw.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['KAWASAKI'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'KAWASAKI',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 931,
+        name: 'RK TECH Swing Arm Spools for KAWASAKI NINJA ZX-6R 2024+',
+        price: 1599,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098587/SWINGARMSPOOLS0001-1745742188622_h5zast.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098587/SWINGARMSPOOLS0001-1745742188622_h5zast.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098587/SWINGARMSPOOLS0001-1745742188622_h5zast.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098587/SWINGARMSPOOLS0001-1745742188622_h5zast.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['KAWASAKI'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'KAWASAKI',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 932,
+        name: 'RK TECH Combo Kit 3 For KAWASAKI NINJA ZX-6R 2024+',
+        price: 22999,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098648/SKU-0065_0-1745736947280_hih2xb.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098648/SKU-0065_0-1745736947280_hih2xb.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098648/SKU-0065_0-1745736947280_hih2xb.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098648/SKU-0065_0-1745736947280_hih2xb.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['KAWASAKI'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'KAWASAKI',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 933,
+        name: 'RK TECH Exhaust Sliders for KAWASAKI NINJA 300',
+        price: 2499,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098725/11_vksou0.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098725/11_vksou0.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098725/11_vksou0.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098725/11_vksou0.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['KAWASAKI'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'KAWASAKI',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 934,
+        name: 'RK TECH Inline Pipe Protector for KAWASAKI NINJA 300',
+        price: 2999,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098804/22_lhnt9p.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098804/22_lhnt9p.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098804/22_lhnt9p.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098804/22_lhnt9p.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['KAWASAKI'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'KAWASAKI',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 935,
+        name: 'RK TECH MS Radiator Guard for KAWASAKI NINJA 300',
+        price: 2299,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098877/111_ovv5fb.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098877/111_ovv5fb.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098877/111_ovv5fb.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098877/111_ovv5fb.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['KAWASAKI'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'KAWASAKI',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 936,
+        name: 'RK TECH Aluminium Radiator Guard for KAWASAKI NINJA 300',
+        price: 2799,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098980/222_fiqzox.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098980/222_fiqzox.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098980/222_fiqzox.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098980/222_fiqzox.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['KAWASAKI'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'KAWASAKI',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 937,
+        name: 'RK TECH Frame Sliders for KAWASAKI NINJA 300',
+        price: 5000,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099043/333_nnrapr.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099043/333_nnrapr.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099043/333_nnrapr.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099043/333_nnrapr.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['KAWASAKI'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'KAWASAKI',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 938,
+        name: 'RK TECH Swing Arm Spools For KAWASAKI NINJA ZX-10R (2021+)',
+        price: 1999,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099103/44_wckatj.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099103/44_wckatj.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099103/44_wckatj.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099103/44_wckatj.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['KAWASAKI'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'KAWASAKI',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 939,
+        name: 'RK TECH Swing Arm Spools For KAWASAKI NINJA ZX-10R',
+        price: 1499,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099164/555_mqwzts.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099164/555_mqwzts.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099164/555_mqwzts.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099164/555_mqwzts.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['KAWASAKI'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'KAWASAKI',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 940,
+        name: 'RK TECH Radiator Guard For KAWASAKI NINJA ZX-10R',
+        price: 7999,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099224/WhatsAppImage2024-12-06at32327AM-1733440669821_bu1enl.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099224/WhatsAppImage2024-12-06at32327AM-1733440669821_bu1enl.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099224/WhatsAppImage2024-12-06at32327AM-1733440669821_bu1enl.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099224/WhatsAppImage2024-12-06at32327AM-1733440669821_bu1enl.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['KAWASAKI'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'KAWASAKI',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 941,
+        name: 'RK TECH Front Fork Protector For KAWASAKI NINJA ZX-6R 2024+',
+        price: 3499,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098065/1_rmp1ez.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098065/1_rmp1ez.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098065/1_rmp1ez.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098065/1_rmp1ez.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'RK Tech',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['KAWASAKI'],
+        description: 'Improve Performance with RK Tech Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'KAWASAKI',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 942,
+        name: 'RK TECH UNI PADDOCK STAND - CROCODILE BLACK',
+        price: 2999,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099511/ddgd-1766613802427_nxvjkg.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099514/WhatsAppImage2025-12-25at304-1766613803458_mimxdp.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099511/ddgd-1766613802427_nxvjkg.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099512/po-1766613803003_nimb0b.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'PADDOCK STAND',
+        brand: 'RK TECH',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: [''],
+        description: 'Uni Paddock Stand from RK TECH PARTS',
+        specifications: {
+            'Spool Provision': 'Available',
+            'L-Clamp Provision': 'Available',
+            'Maximum Load': 'Up to 450 KGS',
+        }
+    },
+    {
+        id: 943,
+        name: 'RK TECH UNI PADDOCK STAND -PEARL WHITE',
+        price: 2999,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786103268/WhatsApp_Image_2025-08-08_at_115903_AM__1_-removebg-preview-1755210521318-1766612323813_fcfvyc.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786103268/WhatsAppImage2025-12-25at304-1766612323246_xomeyu.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786103268/shop2-1755209924610-1766612322600_msiucn.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786103268/WhatsAppImage2025-12-25at304-1766613803458_plzig8.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'PADDOCK STAND',
+        brand: 'RK TECH',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: [''],
+        description: 'Uni Paddock Stand from RK TECH PARTS',
+        specifications: {
+            'Spool Provision': 'Available',
+            'L-Clamp Provision': 'Available',
+            'Maximum Load': 'Up to 450 KGS',
+        }
+    },
+    {
+        id: 944,
+        name: 'RK TECH UNI PADDOCK STAND - COSMIC RED',
+        price: 2999,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786103407/shop3-1755210163319-1766615196116_agfmkz.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786103407/WhatsApp_Image_2025-08-08_at_115903_AM__1_-removebg-preview-1755210521318-1766612323813_lttwuo.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786103407/WhatsAppImage2025-12-25at35414AM-1766615196643_xzfobw.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786103407/WhatsAppImage2025-12-25at35413AM-1766615197112_vl7lhs.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'PADDOCK STAND',
+        brand: 'RK TECH',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: [''],
+        description: 'Uni Paddock Stand from RK TECH PARTS',
+        specifications: {
+            'Spool Provision': 'Available',
+            'L-Clamp Provision': 'Available',
+            'Maximum Load': 'Up to 450 KGS',
+        }
+    },
+    {
+        id: 945,
+        name: 'RK TECH UNI PADDOCK STAND - GLOSSSY BLACK',
+        price: 2999,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786103504/a_cyrqst.webp',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786103504/b_bjvzwi.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786103504/c_lehzaz.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786103504/d_xhz0iu.webp'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'PADDOCK STAND',
+        brand: 'RK TECH',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: [''],
+        description: 'Uni Paddock Stand from RK TECH PARTS',
+        specifications: {
+            'Spool Provision': 'Available',
+            'L-Clamp Provision': 'Available',
+            'Maximum Load': 'Up to 450 KGS',
+        }
+    },
+    {
+        id: 946,
+        name: 'NGK Iridium Spark Plug Kit Dominar 400 (Left)',
+        price: 865,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786102085/Screenshot_2026-08-07_164228_kj1quv.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786102085/Screenshot_2026-08-07_164228_kj1quv.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786102085/Screenshot_2026-08-07_164228_kj1quv.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786102085/Screenshot_2026-08-07_164228_kj1quv.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Spark Plug',
+        brand: 'NGK',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: ['Bajaj Dominar 250', 'Bajaj Dominar 400'],
+        description: 'NGK Iridium Spark Plug Kit for Dominar 250 & 400. The kit includes all spark plugs and provides better performance, complete combustion, and excellent longevity, reducing the need for frequent spark plug replacements.',
+        specifications: {
+            'Spark Plug Type': 'Iridium',
+            'Compatibility': 'Bajaj Dominar 250 & 400',
+            'Performance': 'Better Performance',
+            'Combustion': 'Complete Combustion',
+            'Longevity': 'Excellent',
+            'Kit Includes': 'All Spark Plugs',
+        }
+    },
+    {
+        id: 947,
+        name: 'NGK Iridium Spark Plug Kit Dominar 400 (Center)',
+        price: 515,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786102085/Screenshot_2026-08-07_164228_kj1quv.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786102085/Screenshot_2026-08-07_164228_kj1quv.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786102085/Screenshot_2026-08-07_164228_kj1quv.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786102085/Screenshot_2026-08-07_164228_kj1quv.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Spark Plug',
+        brand: 'NGK',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: ['Bajaj Dominar 250', 'Bajaj Dominar 400'],
+        description: 'NGK Iridium Spark Plug Kit for Dominar 250 & 400. The kit includes all spark plugs and provides better performance, complete combustion, and excellent longevity, reducing the need for frequent spark plug replacements.',
+        specifications: {
+            'Spark Plug Type': 'Iridium',
+            'Compatibility': 'Bajaj Dominar 250 & 400',
+            'Performance': 'Better Performance',
+            'Combustion': 'Complete Combustion',
+            'Longevity': 'Excellent',
+            'Kit Includes': 'All Spark Plugs',
+        }
+    }, {
+        id: 948,
+        name: 'NGK Iridium Spark Plug Kit Dominar 400 (Right)',
+        price: 865,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786102085/Screenshot_2026-08-07_164228_kj1quv.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786102085/Screenshot_2026-08-07_164228_kj1quv.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786102085/Screenshot_2026-08-07_164228_kj1quv.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786102085/Screenshot_2026-08-07_164228_kj1quv.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Spark Plug',
+        brand: 'NGK',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: ['Bajaj Dominar 250', 'Bajaj Dominar 400'],
+        description: 'NGK Iridium Spark Plug Kit for Dominar 250 & 400. The kit includes all spark plugs and provides better performance, complete combustion, and excellent longevity, reducing the need for frequent spark plug replacements.',
+        specifications: {
+            'Spark Plug Type': 'Iridium',
+            'Compatibility': 'Bajaj Dominar 250 & 400',
+            'Performance': 'Better Performance',
+            'Combustion': 'Complete Combustion',
+            'Longevity': 'Excellent',
+            'Kit Includes': 'All Spark Plugs',
+        }
+    },
+
+    {
+        id: 949,
+        name: 'NGK Laser Iridium Spark Plug Premium - LKAR8AI-9',
+        price: 515,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104195/Screenshot_2026-08-07_173231_canuqc.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104195/Screenshot_2026-08-07_173231_canuqc.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104195/Screenshot_2026-08-07_173231_canuqc.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104195/Screenshot_2026-08-07_173231_canuqc.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Spark Plug',
+        brand: 'NGK',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: [''],
+        description: 'NGK Laser Iridium Spark Plug Premium LKAR8AI-9 is designed alongside OEMs to meet quality and durability standards. It features a high-grade alumina silicate ceramic insulator and fine wire center electrode, delivering reliable performance for every engine.',
+        specifications: {
+            'Spark Plug Type': 'Laser Iridium',
+            'Model': 'LKAR8AI-9',
+            'Quality Standard': 'OEM Designed',
+            'Insulator Material': 'High-Grade Alumina Silicate Ceramic',
+            'Center Electrode': 'Fine Wire',
+            'Performance': 'Premium Engine Performance',
+            'Durability': 'High',
+
+        }
+    },
+
+    {
+        id: 950,
+        name: 'NGK Iridium Spark Plug - CPR8EAIX-9',
+        price: 865,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104504/Screenshot_2026-08-07_173749_hcpyzg.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104504/Screenshot_2026-08-07_173749_hcpyzg.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104504/Screenshot_2026-08-07_173749_hcpyzg.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104504/Screenshot_2026-08-07_173749_hcpyzg.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Spark Plug',
+        brand: 'NGK',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: [''],
+        description: 'NGK Iridium Spark Plug CPR8EAIX-9 features a 0.6 mm iridium center electrode for smoother engine performance, improved acceleration, increased mileage, and long-lasting durability.',
+        specifications: {
+            'Spark Plug Type': 'Iridium',
+            'Model': 'CPR8EAIX-9',
+            'Center Electrode': '0.6 mm Iridium Tip',
+            'Performance': 'Smoother Engine Running',
+            'Mileage': 'Increased',
+        }
+    },
+    {
+        id: 951,
+        name: 'Ngage Double Iridium Spark Plug for Hero Xpulse 200 4V & Xpulse 200 4V Pro | BN8RTIIA-9',
+        price: 900,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104815/2_k31ik2.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104815/2_k31ik2.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104815/2_k31ik2.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104815/2_k31ik2.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Spark Plug',
+        brand: 'NGAGE',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: ['Hero Xpulse 200 4V', 'Hero Xpulse 200 4V Pro'],
+        description: 'Ngage Double Iridium Spark Plug BN8RTIIA-9 is engineered for Hero Xpulse 200 4V and Xpulse 200 4V Pro. It features double iridium technology for stronger sparks, improved throttle response, better fuel efficiency, and long-lasting performance.',
+        specifications: {
+            'Spark Plug Type': 'Double Iridium',
+            'Model': 'BN8RTIIA-9',
+            'Compatibility': 'Hero Xpulse 200 4V & Xpulse 200 4V Pro',
+            'Performance': 'Improved Throttle Response',
+            'Durability': 'Long Service Life',
+        }
+    },
+    {
+        id: 952,
+        name: 'NGK Iridium Spark Plug for Royal Enfield Reborn / Hunter 350 - LKR7BIX-P',
+        price: 590,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104995/Screenshot_2026-08-07_174618_evlfgw.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104995/Screenshot_2026-08-07_174618_evlfgw.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104995/Screenshot_2026-08-07_174618_evlfgw.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104995/Screenshot_2026-08-07_174618_evlfgw.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Spark Plug',
+        brand: 'NGK',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: ['Royal Enfield Hunter 350', 'Royal Enfield Reborn 350'],
+        description: 'NGK Iridium Spark Plug LKR7BIX-P is designed for Royal Enfield Hunter 350 and Reborn 350. It offers superior ignition performance, smoother engine operation, improved acceleration, increased mileage, and reduced electrode wear for long-lasting reliability.',
+        specifications: {
+            'Spark Plug Type': 'Iridium',
+            'Model Number': 'LKR7BIX-P',
+            'Compatible Models': 'Royal Enfield Hunter 350 & Reborn 350',
+            'Performance': 'Improved Ignition & Acceleration',
+            'Durability': 'Reduced Electrode Wear',
+        }
+    },
+    {
+        id: 953,
+        name: 'NGK Iridium Spark Plug for Hero/Honda/Suzuki/TVS/Yamaha',
+        price: 865,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105245/Screenshot_2026-08-07_174929_xboxgi.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105247/Screenshot_2026-08-07_175014_dvndzg.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105245/Screenshot_2026-08-07_174929_xboxgi.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105247/Screenshot_2026-08-07_175025_dmqmsl.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Spark Plug',
+        brand: 'NGK',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: [
+            'Hero Maestro',
+            'Hero Passion Pro X',
+            'Honda Shine',
+            'Honda CB Shine 125',
+            'Honda Activa',
+            'Honda Aviator',
+            'Honda Dio',
+            'Honda Dream Yuga',
+            'Honda Dream Neo',
+            'Honda Livo',
+            'TVS Star City 110',
+            'Yamaha Saluto 125',
+            'Suzuki Gixxer 155'
+        ],
+        description: 'NGK Iridium Spark Plug is designed for select Hero, Honda, Suzuki, TVS, and Yamaha motorcycles and scooters. It features a 0.6 mm iridium center electrode for smoother engine performance, improved acceleration, increased mileage, and long-lasting durability.',
+        specifications: {
+            'Spark Plug Type': 'Iridium',
+            'Center Electrode': '0.6 mm Iridium Tip',
+            'Compatibility': 'Hero, Honda, Suzuki, TVS & Yamaha',
+            'Performance': 'Improved Acceleration & Mileage',
+            'Durability': 'Anti-Carbon Fouling',
+        }
+    },
+    {
+        id: 954,
+        name: 'NGK Iridium Spark Plug for Yamaha RX 135',
+        price: 830,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105245/Screenshot_2026-08-07_174929_xboxgi.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104995/Screenshot_2026-08-07_174618_evlfgw.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105245/Screenshot_2026-08-07_174929_xboxgi.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104995/Screenshot_2026-08-07_174618_evlfgw.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Spark Plug',
+        brand: 'NGK',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: ['Yamaha RX 135'],
+        description: 'NGK Iridium Spark Plug for Yamaha RX 135 features a 0.6 mm iridium center electrode with thermo-edge design, delivering smoother engine performance, improved acceleration, increased mileage, and reliable ignition.',
+        specifications: {
+            'Spark Plug Type': 'Iridium',
+            'Center Electrode': '0.6 mm Iridium Tip',
+            'Compatible Model': 'Yamaha RX 135',
+            'Performance': 'Improved Acceleration & Mileage',
+            'Durability': 'Anti-Carbon Fouling',
+        }
+    },
+    {
+        id: 955,
+        name: 'NGK Iridium Spark Plug for Royal Enfield Classic 350 BS4',
+        price: 816,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104995/Screenshot_2026-08-07_174618_evlfgw.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104995/Screenshot_2026-08-07_174618_evlfgw.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104995/Screenshot_2026-08-07_174618_evlfgw.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104995/Screenshot_2026-08-07_174618_evlfgw.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Spark Plug',
+        brand: 'NGK',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: ['Royal Enfield Classic 350 BS4'],
+        description: 'NGK Iridium Spark Plug for Royal Enfield Classic 350 BS4 features a 0.6 mm iridium center electrode with thermo-edge design, providing smoother engine performance, improved acceleration, increased mileage, and reliable ignition.',
+        specifications: {
+            'Spark Plug Type': 'Iridium',
+            'Compatible Model': 'Royal Enfield Classic 350 BS4',
+            'Center Electrode': '0.6 mm Iridium Tip',
+            'Performance': 'Improved Acceleration & Mileage',
+            'Durability': 'Anti-Carbon Fouling',
+        }
+    },
+    {
+        id: 956,
+        name: 'NGK Iridium Spark Plug for Triumph Speed 400 - DPR8EIX-9',
+        price: 830,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105817/3_u0jx0d.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105817/3_u0jx0d.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105817/3_u0jx0d.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105817/3_u0jx0d.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Spark Plug',
+        brand: 'NGK',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: ['Triumph Speed 400'],
+        description: 'NGK Iridium IX Spark Plug DPR8EIX-9 is designed for the Triumph Speed 400. It delivers smooth engine operation, improved throttle response, reduced fuel consumption, longer service life, and excellent ignitability for reliable everyday performance.',
+        specifications: {
+            'Spark Plug Type': 'Iridium IX',
+            'Model Number': 'DPR8EIX-9',
+            'Compatible Model': 'Triumph Speed 400',
+            'Performance': 'Improved Throttle Response',
+            'Service Life': 'Long-Lasting',
+        }
+    },
+    {
+        id: 957,
+        name: 'NGK Iridium Spark Plug Yamaha MT 15 V1 / V2 / R3 (CR8EIX)',
+        price: 865,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105817/3_u0jx0d.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105817/3_u0jx0d.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105817/3_u0jx0d.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105817/3_u0jx0d.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Spark Plug',
+        brand: 'NGK',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: ['Yamaha MT-15 V1', 'Yamaha MT-15 V2', 'Yamaha R3'],
+        description: 'NGK Iridium Spark Plug CR8EIX is designed for Yamaha MT-15 V1, MT-15 V2, and Yamaha R3. It offers easier starting, superior ignitability, improved engine performance, and longer electrode life. Compatible with both BS4 and BS6 motorcycles.',
+        specifications: {
+            'Spark Plug Type': 'Iridium',
+            'Model Number': 'CR8EIX',
+            'Compatible Models': 'Yamaha MT-15 V1 / V2 & Yamaha R3',
+            'Performance': 'Improved Ignition & Engine Performance',
+            'Compatibility': 'BS4 & BS6',
+        }
+    },
+    {
+        id: 958,
+        name: 'NGK BR6HIX Iridium Spark Plug',
+        price: 830,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105247/Screenshot_2026-08-07_175025_dmqmsl.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105247/Screenshot_2026-08-07_175025_dmqmsl.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105247/Screenshot_2026-08-07_175025_dmqmsl.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105247/Screenshot_2026-08-07_175025_dmqmsl.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Spark Plug',
+        brand: 'NGK',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: [''],
+        description: 'NGK BR6HIX Iridium Spark Plug features Iridium IX technology for superior ignition, faster starts, improved throttle response, consistent combustion, and long-lasting durability. It is suitable for a wide range of motorcycles and scooters.',
+        specifications: {
+            'Spark Plug Type': 'Iridium IX',
+            'Model Number': 'BR6HIX',
+            'Performance': 'Improved Throttle Response',
+            'Fuel Efficiency': 'Optimized Combustion',
+            'Service Life': 'Long-Lasting',
+        }
+    },
+    {
+        id: 959,
+        name: 'NGK CR6HIX Iridium Spark Plug',
+        price: 830,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105817/3_u0jx0d.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105817/3_u0jx0d.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105817/3_u0jx0d.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105817/3_u0jx0d.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Spark Plug',
+        brand: 'NGK',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: [''],
+        description: 'NGK CR6HIX Iridium Spark Plug is built with Iridium IX technology to provide quick starts, stable idling, improved throttle response, enhanced combustion efficiency, and long-lasting durability for motorcycles and scooters.',
+        specifications: {
+            'Spark Plug Type': 'Iridium IX',
+            'Model Number': 'CR6HIX',
+            'Performance': 'Quick Starts & Stable Idling',
+            'Fuel Efficiency': 'Optimized Combustion',
+            'Service Life': 'Long-Lasting',
+        }
+    },
+    {
+        id: 960,
+        name: 'NGK Iridium Spark Plug for Royal Enfield Himalayan 411 - CR7EIX',
+        price: 865,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105817/3_u0jx0d.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105817/3_u0jx0d.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105817/3_u0jx0d.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105817/3_u0jx0d.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Spark Plug',
+        brand: 'NGK',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: ['Royal Enfield Himalayan 411'],
+        description: 'NGK CR7EIX Iridium Spark Plug is designed for the Royal Enfield Himalayan 411. It features iridium construction for improved ignition performance, longer service life, enhanced combustion efficiency, and reliable engine operation.',
+        specifications: {
+            'Spark Plug Type': 'Iridium',
+            'Model Number': 'CR7EIX',
+            'Compatible Model': 'Royal Enfield Himalayan 411',
+            'Performance': 'Improved Ignition & Combustion',
+            'Service Life': 'Long-Lasting',
+        }
+    },
+    {
+        id: 961,
+        name: 'NGK BPR5EIX Iridium Spark Plug',
+        price: 865,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104995/Screenshot_2026-08-07_174618_evlfgw.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104995/Screenshot_2026-08-07_174618_evlfgw.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104995/Screenshot_2026-08-07_174618_evlfgw.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104995/Screenshot_2026-08-07_174618_evlfgw.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Spark Plug',
+        brand: 'NGK',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: [''],
+        description: 'NGK BPR5EIX Iridium Spark Plug features a 0.6 mm iridium center electrode for superior ignition, smoother engine performance, improved acceleration, increased mileage, and extended service life.',
+        specifications: {
+            'Spark Plug Type': 'Iridium',
+            'Model Number': 'BPR5EIX',
+            'Center Electrode': '0.6 mm Iridium Tip',
+            'Performance': 'Improved Acceleration & Mileage',
+            'Service Life': 'Long-Lasting',
+        }
+    },
+    {
+        id: 962,
+        name: 'NGK SIMR8A9 Spark Plug',
+        price: 980,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105817/3_u0jx0d.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105817/3_u0jx0d.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105817/3_u0jx0d.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105817/3_u0jx0d.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Spark Plug',
+        brand: 'NGK',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: [''],
+        description: 'NGK SIMR8A9 Spark Plug is designed to provide consistent ignition, smooth starts, efficient combustion, and reliable throttle response. It offers OEM-grade performance, improved fuel efficiency, and long-lasting durability for modern motorcycles.',
+        specifications: {
+            'Spark Plug Type': 'Standard',
+            'Model Number': 'SIMR8A9',
+            'Performance': 'OEM-Grade Ignition',
+            'Fuel Efficiency': 'Optimized Combustion',
+            'Service Life': 'Long-Lasting',
+        }
+    },
+    {
+        id: 963,
+        name: 'NGK Iridium Spark Plug for Kawasaki / Triumph (CR9EIX)',
+        price: 835,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104504/Screenshot_2026-08-07_173749_hcpyzg.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104504/Screenshot_2026-08-07_173749_hcpyzg.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104504/Screenshot_2026-08-07_173749_hcpyzg.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104504/Screenshot_2026-08-07_173749_hcpyzg.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Spark Plug',
+        brand: 'NGK',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: ['Kawasaki', 'Triumph'],
+        description: 'NGK CR9EIX Iridium Spark Plug is designed for select Kawasaki and Triumph motorcycles. It features a 0.6 mm iridium center electrode for superior ignition, smoother engine performance, improved acceleration, and extended service life.',
+        specifications: {
+            'Spark Plug Type': 'Iridium',
+            'Model Number': 'CR9EIX',
+            'Compatible Models': 'Kawasaki & Triumph',
+            'Performance': 'Improved Acceleration & Mileage',
+            'Service Life': 'Long-Lasting',
+        }
+    },
+    {
+        id: 964,
+        name: 'K&N Air Filter for Honda CBR650F - HA-6414',
+        price: 7290,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786106607/a_p3mocx.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786106607/a_p3mocx.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786106607/a_p3mocx.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786106607/a_p3mocx.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Air Filter',
+        brand: 'K&N',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: ['Honda CBR650F'],
+        description: 'K&N HA-6414 High-Flow Air Filter is designed as a direct replacement for the Honda CBR650F. It provides increased airflow, improved engine performance, low airflow restriction, and excellent engine protection.',
+        specifications: {
+            'Filter Type': 'High-Flow Air Filter',
+            'Model Number': 'HA-6414',
+            'Compatible Model': 'Honda CBR650F',
+            'Performance': 'Increased Airflow & Power',
+            'Protection': 'Excellent Engine Protection',
+        }
+
+    },
+    {
+        id: 965,
+        name: 'K&N Air Filter for Honda CBR150 - HA-1502',
+        price: 5790,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786106889/q_na3xhq.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786106889/q_na3xhq.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786106889/q_na3xhq.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786106889/q_na3xhq.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Air Filter',
+        brand: 'K&N',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: ['Honda CBR150'],
+        description: 'K&N HA-1502 High-Flow Air Filter is designed for the Honda CBR150. It increases airflow for better horsepower, improved throttle response, and enhanced engine efficiency while providing long-lasting filtration.',
+        specifications: {
+            'Filter Type': 'High-Flow Air Filter',
+            'Model Number': 'HA-1502',
+            'Compatible Model': 'Honda CBR150',
+            'Performance': 'Increased Airflow & Throttle Response',
+            'Maintenance': 'Washable & Reusable',
+        }
+
+    }, {
+        id: 966,
+        name: 'K&N Air Filter for Kawasaki Ninja ZX-10R (2016-2018) - KA-1016',
+        price: 7490,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107003/z_fas8mq.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107003/z_fas8mq.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107003/z_fas8mq.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107003/z_fas8mq.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Air Filter',
+        brand: 'K&N',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: ['Kawasaki Ninja ZX-10R (2016-2018)'],
+        description: 'K&N KA-1016 High-Flow Air Filter is designed for the Kawasaki Ninja ZX-10R (2016-2018). It improves airflow, throttle response, and engine performance while providing superior filtration and long-lasting, reusable protection.',
+        specifications: {
+            'Filter Type': 'High-Flow Air Filter',
+            'Model Number': 'KA-1016',
+            'Compatible Model': 'Kawasaki Ninja ZX-10R (2016-2018)',
+            'Performance': 'Improved Airflow & Throttle Response',
+            'Maintenance': 'Washable & Reusable',
+        }
+    }, {
+        id: 967,
+        name: 'K&N Oil Filter for BMW R1200, R1200RT, R1200GS - KN-164',
+        price: 1790,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107112/x_qupgnv.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107112/x_qupgnv.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107112/x_qupgnv.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107112/x_qupgnv.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Oil Filter',
+        brand: 'K&N',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: ['BMW R1200', 'BMW R1200RT', 'BMW R1200GS'],
+        description: 'K&N KN-164 Oil Filter is designed for BMW R1200, R1200RT, and R1200GS motorcycles. It provides high oil flow, superior filtration, and reliable engine protection for maximum performance and durability.',
+        specifications: {
+            'Filter Type': 'High-Flow Oil Filter',
+            'Model Number': 'KN-164',
+            'Compatible Models': 'BMW R1200, R1200RT & R1200GS',
+            'Filtration': 'Advanced Contaminant Removal',
+            'Installation': 'Direct OEM Replacement',
+        }
+
+    }, {
+        id: 968,
+        name: 'K&N Air Filter for Bajaj Dominar / RS200 (BA-3717)',
+        price: 6790,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107197/c_dtw9pu.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107197/c_dtw9pu.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107197/c_dtw9pu.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107197/c_dtw9pu.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Air Filter',
+        brand: 'K&N',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: ['Bajaj Dominar 250', 'Bajaj Dominar 400', 'Bajaj Pulsar RS200'],
+        description: 'K&N BA-3717 High-Flow Air Filter is designed for Bajaj Dominar and Pulsar RS200 motorcycles. It increases horsepower, improves airflow, and provides excellent engine protection with long-lasting filtration performance.',
+        specifications: {
+            'Filter Type': 'High-Flow Air Filter',
+            'Model Number': 'BA-3717',
+            'Compatible Models': 'Bajaj Dominar & Pulsar RS200',
+            'Performance': 'Increased Horsepower & Airflow',
+            'Maintenance': 'Washable & Reusable',
+        }
+
+    }, {
+        id: 969,
+        name: 'K&N Air Filter for Harley Davidson Street 750 - HD-4915',
+        price: 8590,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107313/w_yve8jp.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107313/w_yve8jp.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107313/w_yve8jp.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107313/w_yve8jp.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Air Filter',
+        brand: 'K&N',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: ['Harley Davidson Street 750'],
+        description: 'K&N HD-4915 High-Flow Air Filter is designed for the Harley Davidson Street 750. It increases airflow, improves horsepower and torque, and provides excellent engine protection with long-lasting filtration.',
+        specifications: {
+            'Filter Type': 'High-Flow Air Filter',
+            'Model Number': 'HD-4915',
+            'Compatible Model': 'Harley Davidson Street 750',
+            'Performance': 'Increased Horsepower & Torque',
+            'Maintenance': 'Washable & Reusable',
+        }
+
+    }, {
+        id: 970,
+        name: 'K&N Oil Filter for Harley Davidson - KN-171B',
+        price: 1690,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107392/e_gjwj21.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107392/e_gjwj21.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107392/e_gjwj21.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107392/e_gjwj21.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Oil Filter',
+        brand: 'K&N',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: ['Harley Davidson'],
+        description: 'K&N KN-171B Oil Filter is designed for Harley-Davidson motorcycles, delivering high-flow oil filtration, superior engine protection, and reliable performance. Its durable black canister construction ensures long service life and OEM-quality fitment.',
+        specifications: {
+            'Filter Type': 'High-Flow Oil Filter',
+            'Model Number': 'KN-171B',
+            'Compatible Model': 'Harley Davidson',
+            'Filtration': 'High-Performance Oil Filtration',
+            'Installation': 'Direct OEM Replacement',
+        }
+
+    }, {
+        id: 971,
+        name: 'K&N Air Filter for Harley Davidson Sportster/Iron 883 - HD-8834',
+        price: 6790,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107489/s_upsdoh.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107489/s_upsdoh.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107489/s_upsdoh.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107489/s_upsdoh.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Air Filter',
+        brand: 'K&N',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: ['Harley Davidson Sportster', 'Harley Davidson Iron 883'],
+        description: 'K&N HD-8834 High-Flow Air Filter is designed for Harley Davidson Sportster and Iron 883 motorcycles. It improves airflow, increases horsepower and torque, and provides superior engine protection with long-lasting filtration.',
+        specifications: {
+            'Filter Type': 'High-Flow Air Filter',
+            'Model Number': 'HD-8834',
+            'Compatible Models': 'Harley Davidson Sportster & Iron 883',
+            'Performance': 'Increased Horsepower & Torque',
+            'Maintenance': 'Washable & Reusable',
+        }
+
+    }, {
+        id: 972,
+        name: 'Vesrah SD352 Motorcycle Brake Pads',
+        price: 1599,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107575/d_eik2ep.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107575/d_eik2ep.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107575/d_eik2ep.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107575/d_eik2ep.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Brake Pads',
+        brand: 'Vesrah',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: [''],
+        description: 'Vesrah SD352 Motorcycle Brake Pads are engineered to deliver superior braking performance, excellent heat resistance, and long-lasting durability for safe and reliable braking in all riding conditions.',
+        specifications: {
+            'Brake Pad Type': 'High-Performance',
+            'Model Number': 'SD352',
+            'Heat Resistance': 'High',
+            'Performance': 'Strong & Consistent Braking',
+            'Durability': 'Long-Lasting',
+        }
+
+    }, {
+        id: 973,
+        name: 'K&N Air Filter for Kawasaki Ninja ZX-6R (2018 Onwards) - KA-6009',
+        price: 7690,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107003/z_fas8mq.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107003/z_fas8mq.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107003/z_fas8mq.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107003/z_fas8mq.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Air Filter',
+        brand: 'K&N',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: ['Kawasaki Ninja ZX-6R (2018 Onwards)'],
+        description: 'K&N KA-6009 High-Flow Air Filter is designed for the Kawasaki Ninja ZX-6R (2018 onwards). It improves airflow, throttle response, and horsepower while providing superior engine protection with a washable and reusable design.',
+        specifications: {
+            'Filter Type': 'High-Flow Air Filter',
+            'Model Number': 'KA-6009',
+            'Compatible Model': 'Kawasaki Ninja ZX-6R (2018 Onwards)',
+            'Performance': 'Improved Airflow & Throttle Response',
+            'Maintenance': 'Washable & Reusable',
+        }
+
+    }, {
+        id: 974,
+        name: 'K&N Air Filter BM-3117 for BMW G310R / G310GS',
+        price: 5090,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107783/v_klanj0.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107783/v_klanj0.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107783/v_klanj0.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107783/v_klanj0.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Air Filter',
+        brand: 'K&N',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: ['BMW G310R', 'BMW G310GS'],
+        description: 'K&N BM-3117 High-Flow Air Filter is designed for the BMW G310R and G310GS. It increases airflow, improves horsepower and throttle response, and provides superior engine protection with a washable and reusable design.',
+        specifications: {
+            'Filter Type': 'High-Flow Air Filter',
+            'Model Number': 'BM-3117',
+            'Compatible Models': 'BMW G310R & G310GS',
+            'Performance': 'Improved Airflow & Throttle Response',
+            'Maintenance': 'Washable & Reusable',
+        }
+    },
+
+    {
+        id: 975,
+        name: 'K&N Air Filter for RE Classic / Thunderbird - RO-5010',
+        price: 6790,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107914/f_ooritt.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107914/f_ooritt.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107914/f_ooritt.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107914/f_ooritt.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Air Filter',
+        brand: 'K&N',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: [
+            'Royal Enfield Classic 350',
+            'Royal Enfield Classic 500',
+            'Royal Enfield Thunderbird 350',
+            'Royal Enfield Thunderbird 500'
+        ],
+        description: 'K&N RO-5010 High-Flow Air Filter is designed for Royal Enfield Classic and Thunderbird motorcycles. It improves horsepower, throttle response, and engine protection while offering a washable and reusable design for long-lasting performance.',
+        specifications: {
+            'Filter Type': 'High-Flow Air Filter',
+            'Model Number': 'RO-5010',
+            'Compatible Models': 'RE Classic 350/500 & Thunderbird 350/500',
+            'Performance': 'Improved Horsepower & Throttle Response',
+            'Maintenance': 'Washable & Reusable',
+        }
+    },
+    {
+        id: 976,
+        name: 'K&N Air Filter for Kawasaki Ninja 250/300 - KA-2508',
+        price: 7590,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108008/r_eonc3g.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108008/r_eonc3g.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108008/r_eonc3g.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108008/r_eonc3g.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Air Filter',
+        brand: 'K&N',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: ['Kawasaki Ninja 250', 'Kawasaki Ninja 300'],
+        description: 'K&N KA-2508 High-Flow Air Filter is designed for Kawasaki Ninja 250 and Ninja 300. It increases airflow, improves horsepower and torque, and provides superior engine protection with a washable and reusable design.',
+        specifications: {
+            'Filter Type': 'High-Flow Air Filter',
+            'Model Number': 'KA-2508',
+            'Compatible Models': 'Kawasaki Ninja 250 & Ninja 300',
+            'Performance': 'Improved Horsepower & Torque',
+            'Maintenance': 'Washable & Reusable',
+        }
+    },
+    {
+        id: 977,
+        name: 'K&N Air Filter KA-1003 for Kawasaki Z1000, Z750, Z800',
+        price: 6490,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108098/t_a6evlq.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108098/t_a6evlq.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108098/t_a6evlq.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108098/t_a6evlq.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Air Filter',
+        brand: 'K&N',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: [
+            'Kawasaki Z1000',
+            'Kawasaki Z750',
+            'Kawasaki Z800'
+        ],
+        description: 'K&N KA-1003 High-Flow Air Filter is designed for Kawasaki Z1000, Z750, and Z800 motorcycles. It improves horsepower, throttle response, and engine protection while featuring a washable and reusable design for long-lasting performance.',
+        specifications: {
+            'Filter Type': 'High-Flow Air Filter',
+            'Model Number': 'KA-1003',
+            'Compatible Models': 'Kawasaki Z1000, Z750 & Z800',
+            'Performance': 'Improved Horsepower & Throttle Response',
+            'Maintenance': 'Washable & Reusable',
+        }
+    },
+    {
+        id: 978,
+        name: 'K&N Air Filter KT-1211 for KTM Duke 200/390',
+        price: 6790,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108194/y_cyq0cy.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108194/y_cyq0cy.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108194/y_cyq0cy.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108194/y_cyq0cy.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Air Filter',
+        brand: 'K&N',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: [
+            'KTM Duke 200 (Pre-2016)',
+            'KTM Duke 390 (Pre-2016)'
+        ],
+        description: 'K&N KT-1211 High-Flow Air Filter is designed for KTM Duke 200 and Duke 390 (manufactured before 2016). It improves airflow, throttle response, and engine protection while featuring a washable and reusable design for long-lasting performance.',
+        specifications: {
+            'Filter Type': 'High-Flow Air Filter',
+            'Model Number': 'KT-1211',
+            'Compatible Models': 'KTM Duke 200 & Duke 390 (Pre-2016)',
+            'Performance': 'Improved Airflow & Throttle Response',
+            'Maintenance': 'Washable & Reusable',
+        }
+    },
+    {
+        id: 979,
+        name: 'K&N Kawasaki All Bikes Oil Filter - KN-160',
+        price: 1690,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108279/g_tjwqzo.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108279/g_tjwqzo.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108279/g_tjwqzo.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108279/g_tjwqzo.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Oil Filter',
+        brand: 'K&N',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: ['Kawasaki'],
+        description: 'K&N KN-160 Oil Filter is designed for Kawasaki motorcycles, providing high oil flow, superior filtration, and reliable engine protection. It traps harmful contaminants while maintaining consistent oil pressure for long-lasting engine performance.',
+        specifications: {
+            'Filter Type': 'High-Flow Oil Filter',
+            'Model Number': 'KN-160',
+            'Compatible Models': 'Kawasaki Motorcycles',
+            'Filtration': 'Advanced Contaminant Removal',
+            'Installation': 'Direct OEM Replacement',
+        }
+    },
+    {
+        id: 980,
+        name: 'K&N Air Filter for Royal Enfield Continental GT 535 - YA-6608',
+        price: 7290,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108375/yu_p9mcbi.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108375/yu_p9mcbi.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108375/yu_p9mcbi.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108375/yu_p9mcbi.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Air Filter',
+        brand: 'K&N',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: ['Royal Enfield Continental GT 535'],
+        description: 'K&N YA-6608 High-Flow Air Filter is designed for the Royal Enfield Continental GT 535. It improves horsepower, acceleration, and airflow while providing superior engine protection with a washable and reusable design.',
+        specifications: {
+            'Filter Type': 'High-Flow Air Filter',
+            'Model Number': 'YA-6608',
+            'Compatible Model': 'Royal Enfield Continental GT 535',
+            'Performance': 'Improved Horsepower & Acceleration',
+            'Maintenance': 'Washable & Reusable',
+        }
+    },
+    {
+        id: 981,
+        name: 'K&N Engine Oil Filter for Suzuki V-Strom 650 XT, GSX-S750, GSX-S1000, Hayabusa, Intruder - KN-138',
+        price: 1690,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108460/u_x8j1sr.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108460/u_x8j1sr.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108460/u_x8j1sr.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108460/u_x8j1sr.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Oil Filter',
+        brand: 'K&N',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: [
+            'Suzuki V-Strom 650 XT',
+            'Suzuki GSX-S750',
+            'Suzuki GSX-S1000',
+            'Suzuki Hayabusa',
+            'Suzuki Intruder'
+        ],
+        description: 'K&N KN-138 Premium Oil Filter is designed for select Suzuki motorcycles. It delivers high oil flow, advanced synthetic-blend filtration, and superior engine protection with a durable heavy-duty canister for long-lasting performance.',
+        specifications: {
+            'Filter Type': 'High-Flow Oil Filter',
+            'Model Number': 'KN-138',
+            'Compatible Models': 'Suzuki V-Strom 650 XT, GSX-S750, GSX-S1000, Hayabusa & Intruder',
+            'Filtration': 'Advanced Synthetic-Blend Media',
+            'Installation': '17mm Hex Nut for Easy Removal',
+        }
+    },
+    {
+        id: 982,
+        name: 'K&N Engine Oil Filter for Suzuki V-Strom 650 XT, GSX-S750, GSX-S1000, Hayabusa, Intruder - KN-138',
+        price: 5490,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108556/h_iidmai.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108556/h_iidmai.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108556/h_iidmai.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108556/h_iidmai.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Oil Filter',
+        brand: 'K&N',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: [
+            'Suzuki V-Strom 650 XT',
+            'Suzuki GSX-S750',
+            'Suzuki GSX-S1000',
+            'Suzuki Hayabusa',
+            'Suzuki Intruder'
+        ],
+        description: 'K&N KN-138 Premium Oil Filter is designed for select Suzuki motorcycles. It delivers high oil flow, advanced synthetic-blend filtration, and superior engine protection with a durable heavy-duty canister for long-lasting performance.',
+        specifications: {
+            'Filter Type': 'High-Flow Oil Filter',
+            'Model Number': 'KN-138',
+            'Compatible Models': 'Suzuki V-Strom 650 XT, GSX-S750, GSX-S1000, Hayabusa & Intruder',
+            'Filtration': 'Advanced Synthetic-Blend Media',
+            'Installation': '17mm Hex Nut for Easy Removal',
+        }
+    },
+    {
+        id: 983,
+        name: 'K&N Air Filter KT-1217 for KTM Duke 250/Duke 390/Husqvarna Vitpilen 250/Svartpilen 250',
+        price: 6790,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108194/y_cyq0cy.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108194/y_cyq0cy.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108194/y_cyq0cy.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108194/y_cyq0cy.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Air Filter',
+        brand: 'K&N',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: [
+            'KTM Duke 250',
+            'KTM Duke 390',
+            'Husqvarna Vitpilen 250',
+            'Husqvarna Svartpilen 250'
+        ],
+        description: 'K&N KT-1217 High-Flow Air Filter is designed for KTM Duke 250, Duke 390, Husqvarna Vitpilen 250, and Svartpilen 250. It improves airflow, horsepower, and throttle response while providing superior engine protection with a washable and reusable design.',
+        specifications: {
+            'Filter Type': 'High-Flow Air Filter',
+            'Model Number': 'KT-1217',
+            'Compatible Models': 'KTM Duke 250/390 & Husqvarna Vitpilen/Svartpilen 250',
+            'Performance': 'Improved Airflow & Throttle Response',
+            'Maintenance': 'Washable & Reusable',
+        }
+    },
+    {
+        id: 984,
+        name: 'K&N Air Filter for Royal Enfield Himalayan (BS4 & BS6) - RO-4118',
+        price: 8590,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108806/o_iqblee.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108806/o_iqblee.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108806/o_iqblee.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108806/o_iqblee.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Air Filter',
+        brand: 'K&N',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: [
+            'Royal Enfield Himalayan BS4',
+            'Royal Enfield Himalayan BS6'
+        ],
+        description: 'K&N RO-4118 High-Flow Air Filter is designed for Royal Enfield Himalayan BS4 and BS6 models. It improves airflow, enhances engine performance, and provides superior filtration with a washable and reusable design.',
+        specifications: {
+            'Filter Type': 'High-Flow Air Filter',
+            'Model Number': 'RO-4118',
+            'Compatible Models': 'Royal Enfield Himalayan BS4 & BS6',
+            'Performance': 'Improved Airflow & Engine Response',
+            'Maintenance': 'Washable & Reusable',
+        }
+    },
+    {
+        id: 985,
+        name: 'K&N Air Filter for Royal Enfield Electra/Standard/C350 - E-0900',
+        price: 5990,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107914/f_ooritt.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107914/f_ooritt.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107914/f_ooritt.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107914/f_ooritt.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Air Filter',
+        brand: 'K&N',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: [
+            'Royal Enfield Electra 350',
+            'Royal Enfield Electra 500',
+            'Royal Enfield Standard 350',
+            'Royal Enfield Standard 500',
+            'Royal Enfield Classic 350'
+        ],
+        description: 'K&N E-0900 High-Flow Air Filter is designed for Royal Enfield Electra, Standard, and Classic 350 models. It improves airflow, throttle response, and engine performance while providing superior filtration with a washable and reusable design.',
+        specifications: {
+            'Filter Type': 'High-Flow Air Filter',
+            'Model Number': 'E-0900',
+            'Compatible Models': 'RE Electra 350/500, Standard 350/500 & Classic 350',
+            'Performance': 'Improved Airflow & Throttle Response',
+            'Maintenance': 'Washable & Reusable',
+        }
+    },
+    {
+        id: 986,
+        name: 'K&N Air Filter Universal Cone Type for Apache/Avenger - RC-1060',
+        price: 4490,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786109010/i_imyxes.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786109010/i_imyxes.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786109010/i_imyxes.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786109010/i_imyxes.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Air Filter',
+        brand: 'K&N',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: [
+            'TVS Apache',
+            'Bajaj Avenger'
+        ],
+        description: 'K&N RC-1060 Universal Cone Air Filter is designed for TVS Apache, Bajaj Avenger, and other compatible motorcycles. It delivers high airflow, enhanced engine performance, and superior filtration with a washable and reusable cone design.',
+        specifications: {
+            'Filter Type': 'Universal Cone Air Filter',
+            'Model Number': 'RC-1060',
+            'Compatible Models': 'TVS Apache & Bajaj Avenger',
+            'Performance': 'High Airflow & Engine Protection',
+            'Maintenance': 'Washable & Reusable',
+        }
+    },
+    {
+        id: 1000,
+        name: 'test',
+        price: 5,
+        discount: 10,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786109010/i_imyxes.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786109010/i_imyxes.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786109010/i_imyxes.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786109010/i_imyxes.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: 'Air Filter',
+        brand: 'K&N',
+        rating: 5,
+        reviews: 892,
+        isNew: false,
+        bikes: [
+            'TVS Apache',
+            'Bajaj Avenger'
+        ],
+        description: 'K&N RC-1060 Universal Cone Air Filter is designed for TVS Apache, Bajaj Avenger, and other compatible motorcycles. It delivers high airflow, enhanced engine performance, and superior filtration with a washable and reusable cone design.',
+        specifications: {
+            'Filter Type': 'Universal Cone Air Filter',
+            'Model Number': 'RC-1060',
+            'Compatible Models': 'TVS Apache & Bajaj Avenger',
+            'Performance': 'High Airflow & Engine Protection',
+            'Maintenance': 'Washable & Reusable',
         }
     },
 
