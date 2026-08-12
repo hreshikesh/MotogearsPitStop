@@ -38802,6 +38802,2733 @@ const catalogProducts = [
         }
     },
 
+    {
+        id: 1001,
+        name: 'Moto Care TYPE 2 - TYRE HUGGER FOR TRIUMPH SPEED 400',
+        price: 1600,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521426/1759753538_68e3b54251c25_izp6xi.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521426/1759753633_68e3b5a17a468_tf5k9a.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521426/1759753621_68e3b5957c877_ckizpr.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521426/1759753613_68e3b58d47d53_vcvg43.jpg'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+        {
+        id: 1002,
+        name: 'Moto Care SUM GUARD (SILVER) FOR TRIUMPH SPEED 400',
+        price: 1120,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521638/1754027439_688c55af86a49_jiwk5t.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521637/1754027423_688c559f31858_uukojh.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521637/1754027432_688c55a80f7c4_fejkh5.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521636/1754027415_688c559793cc6_wkgviv.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },    {
+        id: 1003,
+        name: 'Moto Care POLYCARBONATE VISOR FOR TRIUMPH SPEED 400',
+        price: 2240,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521822/1_tcnjuv.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521822/2_eg5l6x.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521823/3_paf6na.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521823/4_h5rg27.jpg'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },    {
+        id: 1004,
+        name: 'Moto Care CNC CARRIER PLATE WITH BACKREST FOR TRIUMPH SPEED 400',
+        price: 3600,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521971/Q_rto1au.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521972/W_mmhev9.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521971/Q_rto1au.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521972/W_mmhev9.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },    {
+        id: 1005,
+        name: 'Moto Care GPS MOUNT FOR TRIUMPH SPEED 400',
+        price: 880,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522076/AA_q7bxjt.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522076/A_d5mdhw.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522077/AAA_u0vep3.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522078/AAAA_yiybi0.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },    {
+        id: 1006,
+        name: 'Moto Care CNC STAND EXTENDER FOR TRIUMPH SPEED 400',
+        price: 1360,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522196/Z_uagesc.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522196/ZZ_ntlpqy.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522196/Z_uagesc.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522197/ZZZ_ni5djk.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },    {
+        id: 1007,
+        name: 'Moto Care VISOR FOR TRIUMPH SPEED 400',
+        price: 960,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522301/QQ_o4rcmt.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522302/QQQ_lp3ana.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522303/QQQQ_ykq9yt.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522302/QQQ_lp3ana.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },    {
+        id: 1008,
+        name: 'Moto Care PIPE CARRIER WITH BACKREST FOR TRIUMPH SPEED 400',
+        price: 3600,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522414/WW_urausr.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522414/WWW_pfxnzj.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522414/WW_urausr.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522414/WWW_pfxnzj.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },    {
+        id: 1009,
+        name: 'Moto Care TYPE 2 - TYRE HUGGER FOR TRIUMPH SPEED 400',
+        price: 1920,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522726/SS_nfdgvi.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522726/SSS_ylbshm.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522726/SS_nfdgvi.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522726/S_ndhwka.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },    {
+        id: 1010,
+        name: 'Moto Care TYRE HUGGER FOR TRIUMPH SPEED 400',
+        price: 1600,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522910/X_qqedl2.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522910/XXX_nmqhl7.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522910/XX_yjfkog.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522910/XXXX_z0fjid.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },    {
+        id: 1010,
+        name: 'Moto Care TAIL TIDY FOR TRIUMPH SPEED 400',
+        price: 880,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523046/C_wfpx5k.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523046/CC_gxzaow.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523046/CCC_cxpjg3.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523047/CCCC_kvowa8.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },    {
+        id: 1011,
+        name: 'Moto Care BACKREST FOR TRIUMPH SPEED 400',
+        price: 1920,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522726/SS_nfdgvi.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522726/SS_nfdgvi.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522726/SSS_ylbshm.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522726/SS_nfdgvi.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },    {
+        id: 1012,
+        name: 'Moto Care SUM GUARD FOR TRIUMPH SPEED 400',
+        price: 1120,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523674/v_hsz4tp.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523675/vv_odlcyx.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523675/vvv_drwkys.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523675/vvvv_n7vkid.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },    {
+        id: 1013,
+        name: 'Moto Care STAND EXTENDER FOR TRIUMPH SPEED 400',
+        price: 560,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523795/d_pbkixn.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523795/dd_prnsm1.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523796/ddd_ezookg.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523795/dd_prnsm1.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },    {
+        id: 1014,
+        name: 'Moto Care SADDLE STAY FOR TRIUMPH SPEED 400',
+        price: 2400,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523928/b_hpsp54.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523928/bb_fvhvhj.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523929/bbb_byodsf.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523929/bbbb_xmliwk.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },    {
+        id: 1015,
+        name: 'Moto Care RESERVOIR OIL CAP FOR TRIUMPH SPEED 400',
+        price: 320,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524083/g_hi3ffg.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524084/gg_bxvk8s.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524084/ggg_s2s1xv.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524085/gggg_dae26u.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },    {
+        id: 1016,
+        name: 'Moto Care RADIATOR GUARD FOR TRIUMPH SPEED 400',
+        price: 1200,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524226/n_covqau.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524226/nn_argrhl.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524227/nnn_xd24oy.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524228/nnnn_cmpm6q.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },    {
+        id: 1017,
+        name: 'Moto Care NUMBER PLATE FRAME FOR TRIUMPH SPEED 400',
+        price: 400,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524392/h_ihmrpt.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524393/hh_jljrlh.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524394/hhh_aiuv51.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524394/hhhh_ards1k.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },    {
+        id: 1018,
+        name: 'Moto Care HEADLIGHT GRILL FOR TRIUMPH SPEED 400',
+        price: 1040,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524535/j_yng4y9.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524536/jj_tv7tgz.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524536/jjj_re56we.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524537/jjjj_tfa5eo.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+     {
+        id: 1019,
+        name: 'Moto Care FOOTREST FOR TRIUMPH SPEED 400',
+        price: 880,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524709/m_rlokfd.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524710/mm_mrhj1e.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524710/mmm_furqhm.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524711/mmmm_rkgtpn.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1020,
+        name: 'Moto Care FOG LIGHT CLAMP FOR TRIUMPH SPEED 400',
+        price: 520,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524855/k_yfzndi.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524856/kk_voog9j.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524855/k_yfzndi.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524856/kkk_irb1dq.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1021,
+        name: 'Moto Care DISC OIL CAP FOR TRIUMPH SPEED 400',
+        price: 200,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524973/e_rgep9h.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524974/ee_nmo12k.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524975/eee_lxim4c.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524977/eeee_yqdkku.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1022,
+        name: 'Moto Care CNC PLATE CARRIER FOR TRIUMPH SPEED 400',
+        price: 2560,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525121/r_gh65pr.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525122/rr_heds7f.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525123/rrr_kf0vxm.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525124/rrrr_nqf5fa.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1023,
+        name: 'Moto Care PIPE CARRIER FOR TRIUMPH SPEED 400',
+        price: 2560,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525262/t_mjzydq.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525263/tt_qnn4hn.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525264/ttt_ck8np8.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525266/tttt_j3vrjb.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1024,
+        name: 'Moto Care 4 SLIDER CRASH GUARD FOR TRIUMPH SPEED 400',
+        price: 4160,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525425/y_h9ked7.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525427/yy_bwjwfj.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525429/yyy_ouwlha.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525431/yyyy_q7a8jl.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1025,
+        name: 'Moto Care 2 SLIDER CRASH GUARD FOR TRIUMPH SPEED 400',
+        price: 4160,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525544/uu_f8nlj7.jpg',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525543/u_gzsmcr.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525546/uuu_tutxg3.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525547/uuuu_s41myw.jpg'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1026,
+        name: 'Moto Care 4 SLIDER CRASH GUARD FOR TRIUMPH SCRAMBLER 400X',
+        price: 4160,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527425/1764932687_6932bc4f28987_tlpfum.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527425/1764932708_6932bc644cbb8_rmd9qp.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527425/1764932696_6932bc589f937_ih2lzq.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527425/1764932727_6932bc7714f1d_ukulkd.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1027,
+        name: 'Moto Care 2 SLIDER CRASH GUARD FOR TRIUMPH SCRAMBLER 400X',
+        price: 4160,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527715/a_ixwg8j.jpg',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527715/aa_vpqj50.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527716/aaa_qt7xis.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527716/aaaa_yes9gv.jpg'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1028,
+        name: 'Moto Care PIPE CARRIER WITH BACKREST FOR TRIUMPH SCRAMBLER 400X',
+        price: 3600,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528396/b_gjpwez.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528397/bb_yfhi9p.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528396/b_gjpwez.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528397/bb_yfhi9p.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1029,
+        name: 'Moto Care CNC CARRIER PLATE WITH BACKREST FOR TRIUMPH SCRAMBLER 400X',
+        price: 3600,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528918/aa_ulvtjx.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528918/a_xj8zkv.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528918/aa_ulvtjx.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528918/a_xj8zkv.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1030,
+        name: 'Moto Care PIPE CARRIER FOR TRIUMPH SCRAMBLER 400X',
+        price: 2560,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786530928/q_y6qsui.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786530928/qq_smrex1.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786530928/qqq_fs4m84.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786530929/qqqq_psd12h.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1031,
+        name: 'Moto Care CNC PLATE CARRIER FOR TRIUMPH SCRAMBLER 400X',
+        price: 2560,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531020/z_vlqbbm.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531021/zz_ktyg6i.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531022/zzz_l1vplh.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531023/zzzz_x6r614.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1032,
+        name: 'Moto Care BACKREST FOR TRIUMPH SCRAMBLER 400X',
+        price: 1920,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531134/w_tlk5iv.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531136/ww_kcwf2a.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531136/www_rbr6cn.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531134/w_tlk5iv.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1033,
+        name: 'Moto Care SADDLE STAY FOR TRIUMPH SCRAMBLER 400X',
+        price: 2400,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531226/e_c7hm1e.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531227/ee_dagtxg.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531228/eee_r8fqge.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531229/eeee_ww3saq.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1034,
+        name: 'Moto Care  TYRE HUGGER FOR TRIUMPH SCRAMBLER 400X',
+        price: 1600,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531328/s_qzhkyt.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531329/ss_spgkne.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531330/sss_gnwdjk.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531331/ssss_qnnnlq.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1035,
+        name: 'Moto Care  POLYCARBONATE VISOR FOR TRIUMPH SCRAMBLER 400X',
+        price: 2240,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531423/x_gocm4c.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531426/xxx_coor5y.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531423/x_gocm4c.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531426/xxx_coor5y.jpg'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1036,
+        name: 'Moto Care  RADIATOR GUARD FOR `TRIUMPH SCRAMBLER 400X',
+        price: 1200,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524227/nnn_xd24oy.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524226/nn_argrhl.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524227/nnn_xd24oy.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524226/n_covqau.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1037,
+        name: 'Moto Care  SUM GUARD FOR TRIUMPH SCRAMBLER 400X',
+        price: 1120,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531643/c_wybqgg.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531645/cc_zodidt.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531647/ccc_l6qsc3.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531648/cccc_i6gwku.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1038,
+        name: 'Moto Care  HEADLIGHT GRILL FOR TRIUMPH SCRAMBLER 400X',
+        price: 1040,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524535/j_yng4y9.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524536/jj_tv7tgz.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524536/jjj_re56we.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524537/jjjj_tfa5eo.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1039,
+        name: 'Moto Care  VISOR FOR TRIUMPH SCRAMBLER 400X',
+        price: 960,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531808/v_vp2738.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531808/v_vp2738.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531808/v_vp2738.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531808/v_vp2738.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1040,
+        name: 'Moto Care  TAIL TIDY FOR TRIUMPH SCRAMBLER 400X',
+        price: 880,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531899/r_qen5dq.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531900/rrr_hqb2u6.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531900/rrrr_tyfcpe.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531900/rr_xxfu7t.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1041,
+        name: 'Moto Care  FOOTREST FOR TRIUMPH SCRAMBLER 400X',
+        price: 880,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531991/d_kax0ll.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531991/ddd_lhyzfr.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531991/dd_fkklu9.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531991/dddd_mf4adz.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1042,
+        name: 'Moto Care  GPS MOUNT FOR TRIUMPH SCRAMBLER 400X',
+        price: 880,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532077/f_gc2mxi.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532077/ff_njzmsz.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532077/f_gc2mxi.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532077/ff_njzmsz.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1043,
+        name: 'Moto Care  CNC STAND EXTENDER FOR TRIUMPH SCRAMBLER 400X',
+        price: 1360,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532157/g_xrshfr.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532159/ggg_ukvpzj.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532157/g_xrshfr.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532159/ggg_ukvpzj.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1044,
+        name: 'Moto Care  STAND EXTENDER FOR TRIUMPH SCRAMBLER 400X',
+        price: 560,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523795/dd_prnsm1.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523795/d_pbkixn.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523795/dd_prnsm1.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523796/ddd_ezookg.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1045,
+        name: 'Moto Care  FOG LIGHT CLAMP FOR TRIUMPH SCRAMBLER 400X',
+        price: 520,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532290/h_xndu6s.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532291/hh_n5sg66.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532292/hhh_y6drp6.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532290/h_xndu6s.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1046,
+        name: 'Moto Care  NUMBER PLATE FRAME FOR TRIUMPH SCRAMBLER 400X',
+        price: 400,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532385/j_vjgguv.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532386/jj_tfrwu9.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532385/j_vjgguv.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532386/jj_tfrwu9.jpg'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1047,
+        name: 'Moto Care  RESERVOIR OIL CAP FOR TRIUMPH SCRAMBLER 400X',
+        price: 320,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532512/k_zaoqgi.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532513/kk_sy1awi.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532513/kkk_epoaso.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532514/kkkk_wdf1fb.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1048,
+        name: 'Moto Care  DISC OIL CAP FOR TRIUMPH SCRAMBLER 400X',
+        price: 200,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532611/n_ieotmi.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532611/n_ieotmi.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532611/n_ieotmi.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532611/n_ieotmi.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1049,
+        name: 'Moto Care  4 SLIDER CRASH GUARD FOR TRIUMPH SPEED T4',
+        price: 4160,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527425/1764932687_6932bc4f28987_tlpfum.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527425/1764932708_6932bc644cbb8_rmd9qp.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527425/1764932696_6932bc589f937_ih2lzq.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527425/1764932727_6932bc7714f1d_ukulkd.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1050,
+        name: 'Moto Care  2 SLIDER CRASH GUARD FOR TRIUMPH SPEED T4',
+        price: 4160,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527715/a_ixwg8j.jpg',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527715/aa_vpqj50.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527716/aaa_qt7xis.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527716/aaaa_yes9gv.jpg'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1051,
+        name: 'Moto Care  PIPE CARRIER WITH BACKREST FOR TRIUMPH SPEED T4',
+        price: 3600,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528396/b_gjpwez.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528397/bb_yfhi9p.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528396/b_gjpwez.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528397/bb_yfhi9p.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1052,
+        name: 'Moto Care  CNC CARRIER PLATE WITH BACKREST FOR TRIUMPH SPEED T4',
+        price: 3600,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528918/a_xj8zkv.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528918/aa_ulvtjx.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528918/a_xj8zkv.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528918/aa_ulvtjx.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1053,
+        name: 'Moto Care PIPE CARRIER FOR TRIUMPH SPEED T4',
+        price: 2560,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786530928/q_y6qsui.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786530928/qqq_fs4m84.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786530928/qq_smrex1.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786530929/qqqq_psd12h.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1054,
+        name: 'Moto Care  CNC PLATE CARRIER FOR TRIUMPH SPEED T4',
+        price: 2560,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531020/z_vlqbbm.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531021/zz_ktyg6i.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531023/zzzz_x6r614.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531022/zzz_l1vplh.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1055,
+        name: 'Moto Care  BACKREST FOR TRIUMPH SPEED T4',
+        price: 1920,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531134/w_tlk5iv.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531136/ww_kcwf2a.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531136/www_rbr6cn.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531136/ww_kcwf2a.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1056,
+        name: 'Moto Care  SADDLE STAY FOR TRIUMPH SPEED T4',
+        price: 2400,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531226/e_c7hm1e.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531227/ee_dagtxg.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531228/eee_r8fqge.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531229/eeee_ww3saq.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1057,
+        name: 'Moto Care  TYRE HUGGER FOR TRIUMPH SPEED T4',
+        price: 1600,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531328/s_qzhkyt.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531328/s_qzhkyt.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531330/sss_gnwdjk.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531331/ssss_qnnnlq.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1058,
+        name: 'Moto Care  POLYCARBONATE VISOR FOR TRIUMPH SPEED T4',
+        price: 2240,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531423/x_gocm4c.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531425/xx_vxixnr.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531423/x_gocm4c.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531426/xxx_coor5y.jpg'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1059,
+        name: 'Moto Care  RADIATOR GUARD FOR TRIUMPH SPEED T4',
+        price: 1200,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524226/n_covqau.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524226/nn_argrhl.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524228/nnnn_cmpm6q.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524227/nnn_xd24oy.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1060,
+        name: 'Moto Care  SUM GUARD FOR TRIUMPH SPEED T4',
+        price: 1120,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531643/c_wybqgg.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531645/cc_zodidt.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531647/ccc_l6qsc3.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531648/cccc_i6gwku.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1061,
+        name: 'Moto Care  HEADLIGHT GRILL FOR TRIUMPH SPEED T4',
+        price: 1040,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524535/j_yng4y9.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524536/jj_tv7tgz.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524536/jjj_re56we.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524537/jjjj_tfa5eo.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1062,
+        name: 'Moto Care  TAIL TIDY FOR TRIUMPH SPEED T4',
+        price: 880,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531899/r_qen5dq.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531900/rrr_hqb2u6.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531900/rrrr_tyfcpe.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531900/rr_xxfu7t.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1063,
+        name: 'Moto Care  FOOTREST FOR TRIUMPH SPEED T4',
+        price: 880,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531991/d_kax0ll.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531991/ddd_lhyzfr.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531991/dd_fkklu9.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531991/dddd_mf4adz.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1064,
+        name: 'Moto Care  GPS MOUNT FOR TRIUMPH SPEED T4',
+        price: 880,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532077/f_gc2mxi.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532077/ff_njzmsz.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532077/f_gc2mxi.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532077/fff_psffbl.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1065,
+        name: 'Moto Care  CNC STAND EXTENDER FOR TRIUMPH SPEED T4',
+        price: 1360,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532157/g_xrshfr.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532158/gg_rw8zaa.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532157/g_xrshfr.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532159/ggg_ukvpzj.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1066,
+        name: 'Moto Care  STAND EXTENDER FOR TRIUMPH SPEED T4',
+        price: 560,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523795/dd_prnsm1.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523796/ddd_ezookg.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523795/dd_prnsm1.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523795/d_pbkixn.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1067,
+        name: 'Moto Care  FOG LIGHT CLAMP FOR TRIUMPH SPEED T4',
+        price: 520,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524855/k_yfzndi.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524856/kkk_irb1dq.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524856/kk_voog9j.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524857/kkkk_hm36iw.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1068,
+        name: 'Moto Care  NUMBER PLATE FRAME FOR TRIUMPH SPEED T4',
+        price: 400,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532385/j_vjgguv.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532386/jj_tfrwu9.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532385/j_vjgguv.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532386/jjj_p18kdx.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1069,
+        name: 'Moto Care  RESERVOIR OIL CAP FOR TRIUMPH SPEED T4',
+        price: 320,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532512/k_zaoqgi.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532513/kk_sy1awi.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532512/k_zaoqgi.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532513/kkk_epoaso.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1070,
+        name: 'Moto Care  DISC OIL CAP FOR TRIUMPH SPEED T4',
+        price: 200,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532611/n_ieotmi.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532611/n_ieotmi.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532612/nn_ebowsp.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532612/nn_ebowsp.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['Triumph'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'Triumph',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1071,
+        name: 'Moto Care SEAT RING FOR YAMAHA MT 15',
+        price: 400,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786535785/1739965300_67b5c374808b1_opmv2x.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786535785/1739965300_67b5c374808b1_opmv2x.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786535785/1739965300_67b5c374808b1_opmv2x.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786535785/1739965300_67b5c374808b1_opmv2x.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },
+
+{
+        id: 1072,
+        name: 'Moto Care DOUBLE FOOTREST FOR YAMAHA MT 15',
+        price: 1600,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786535968/1729074858_670f96aa4d6ed_b1n1at.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786535968/1729074841_670f969996663_cqrde8.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786535969/1729074866_670f96b265236_lrk3ff.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786535969/1729074866_670f96b265236_1_nr4qmn.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1073,
+        name: 'Moto Care SINGLE FOOTREST FOR MT 15',
+        price: 1040,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536046/Q_d1hj0y.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536046/QQ_wllbe4.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536046/Q_d1hj0y.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536046/QQ_wllbe4.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1074,
+        name: 'Moto Care TAIL TIDY FOR YAMAHA MT-15',
+        price: 560,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536142/AA_xy6dht.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536142/AAA_v0ahsu.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536142/A_t9u6xx.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536142/AAAA_u2e1xz.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1075,
+        name: 'Moto Care SADDLE STAY FOR YAMAHA MT-15',
+        price: 1680,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536324/X_n0gr1d.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536324/XX_a4ldbc.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536325/XXX_okzafj.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536324/XX_a4ldbc.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1076,
+        name: 'Moto Care RADIATOR GUARD FOR YAMAHA MT-15',
+        price: 400,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536414/CC_bqigai.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536414/C_efiscj.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536414/CC_bqigai.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536414/C_efiscj.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1077,
+        name: 'Moto Care METAL VISOR FOR YAMAHA MT 15',
+        price: 720,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536491/1739964777_67b5c16968f52_s6bsra.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536491/1739964777_67b5c16968f52_s6bsra.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536491/1739964777_67b5c16968f52_s6bsra.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536491/1739964777_67b5c16968f52_s6bsra.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1078,
+        name: 'Moto Care FRAME SLIDERS FOR YAMAHA MT 15',
+        price: 1200,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536580/VVV_pmz2fh.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536579/V_gu1mzw.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536580/VVV_pmz2fh.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536579/VV_z6sscg.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1079,
+        name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR YAMAHA MT 15',
+        price: 3840,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536671/B_so7ews.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536671/BB_sjnbrk.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536672/BBB_denob4.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536671/BB_sjnbrk.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1080,
+        name: 'Moto Care SMALL CRASH GUARD FOR YAMAHA MT 15',
+        price: 3200,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536775/N_xhizxj.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536775/NN_ijuuqa.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536775/N_xhizxj.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536672/BBB_denob4.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1081,
+        name: 'Moto Care CARRIER WITH BACKREST FOR YAMAHA MT 15',
+        price: 2960,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536859/M_ebx4zn.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536859/MM_vgutim.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536859/M_ebx4zn.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536860/MMM_botlja.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1082,
+        name: 'Moto Care TYPE 2 CARRIER WITH PLATE FOR YAMAHA MT 15',
+        price: 1200,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536951/SSS_e0tlyg.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536949/S_ulvgva.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536951/SSS_e0tlyg.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536951/SSS_e0tlyg.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1083,
+        name: 'Moto Care CARRIER WITH PLATE FOR YAMAHA MT 15',
+        price: 1920,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537025/D_ovcda8.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537026/DD_a8ciph.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537025/D_ovcda8.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537026/DD_a8ciph.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1084,
+        name: 'Moto Care RADIATOR GUARD FOR YAMAHA R15 V4',
+        price: 560,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537142/F_m7ay5y.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537142/F_m7ay5y.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537142/F_m7ay5y.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537142/F_m7ay5y.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1085,
+        name: 'Moto Care SADDLE STAY FOR YAMAHA R15 V3/ V4',
+        price: 1680,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537472/1739950266_67b588bab4818_j0maof.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537473/1739950203_67b5887b51c61_nvydsp.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537472/1739950266_67b588bab4818_j0maof.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537473/1739950203_67b5887b51c61_nvydsp.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1086,
+        name: 'Moto Care TAIL TIDY FOR YAMAHA R15 V3/V4',
+        price: 800,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537590/1718554789_666f10a55a347_wlmkrs.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537592/1718554781_666f109d4473a_k3bgqp.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537590/1718554789_666f10a55a347_wlmkrs.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537594/1718554906_666f111a39a3e_lq9kyv.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1087,
+        name: 'Moto Care RADIATOR GUARD FOR YAMAHA R15 V3/V4',
+        price: 560,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537672/1718553096_666f0a0879d61_vwoxwy.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537672/1718553096_666f0a0879d61_vwoxwy.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537672/1718553096_666f0a0879d61_vwoxwy.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537672/1718553096_666f0a0879d61_vwoxwy.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1088,
+        name: 'Moto Care HANDLE BAR RISER FOR YAMAHA R15 V3/V4',
+        price: 1760,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537747/1718552497_666f07b186ad8_dw81za.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537747/1718552497_666f07b186ad8_dw81za.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537747/1718552497_666f07b186ad8_dw81za.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537747/1718552497_666f07b186ad8_dw81za.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1089,
+        name: 'Moto Care FRAME SLIDERS FOR YAMAHA R15 V3',
+        price: 1600,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537810/1710058684_65ed6cbca6e9c_ygj2ea.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537810/1710058684_65ed6cbca6e9c_ygj2ea.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537810/1710058684_65ed6cbca6e9c_ygj2ea.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537810/1710058684_65ed6cbca6e9c_ygj2ea.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1090,
+        name: 'Moto Care GRAB RAIL FOR YAMAHA R15 V3',
+        price: 2240,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537894/A_ellvsw.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537897/AA_sjeqw9.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537896/AAA_uvshbl.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537897/AA_sjeqw9.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1091,
+        name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR YAMAHA R15 V4',
+        price: 4160,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537991/Q_xuz7pl.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537996/QQQ_yiohql.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537991/Q_xuz7pl.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537997/QQ_nhaaz8.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1092,
+        name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR YAMAHA R15 V3',
+        price: 3200,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786538109/Z_gnwqne.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786535785/1739965300_67b5c374808b1_opmv2x.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786538109/Z_gnwqne.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786535785/1739965300_67b5c374808b1_opmv2x.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1093,
+        name: 'Moto Care GRAB RAIL WITH PLATE FOR YAMAHA R15 V4',
+        price: 3040,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786538225/X_hp334a.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786538227/XX_nxtoce.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786538225/X_hp334a.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786538227/XX_nxtoce.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1094,
+        name: 'Moto Care GRAB RAIL FOR YAMAHA R15 V4',
+        price: 2240,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786538332/C_p2z7vc.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786538333/CC_vybltm.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786538332/C_p2z7vc.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786538333/CC_vybltm.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1095,
+        name: 'Moto Care CARRIER WITH PLATE FOR YAMAHA R15',
+        price: 1920,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786538410/V_q8dq6w.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786538411/VV_ke9ac8.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786538410/V_q8dq6w.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786538411/VV_ke9ac8.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1096,
+        name: 'Moto Care CNC CARRIER WITH PLATE FOR YAMAHA AEROX 155',
+        price: 2560,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539310/WWW_k9plby.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539312/WW_ygq4y9.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539316/W_ull5wd.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539312/WW_ygq4y9.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 1097,
+        name: 'Moto Care CNC CARRIER WITH BACKREST FOR YAMAHA AEROX 155',
+        price: 3600,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539425/EE_er1oqq.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539424/EEE_zwis31.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539425/EE_er1oqq.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539427/E_eyiqlr.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1098,
+        name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR YAMAHA AEROX',
+        price: 4800,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539590/RR_unkxcu.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539593/R_pvgqpn.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539590/RR_unkxcu.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539593/R_pvgqpn.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },
+
+{
+        id: 1099,
+        name: 'Moto Care SMALL VISOR WITH CLAMP FOR YAMAHA F Z- X',
+        price: 960,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539755/TT_x7dqzj.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539756/T_hclonm.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539755/TT_x7dqzj.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539756/T_hclonm.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1200,
+        name: 'Moto Care SADDLE STAY FOR YAMAHA F X- Z',
+        price: 1680,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539858/D_p4fw1t.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539859/DD_br1edk.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539858/D_p4fw1t.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539859/DD_br1edk.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1201,
+        name: 'Moto Care PIPE CARRIER WITH BACKREST FOR YAMAHA F Z- X',
+        price: 2960,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539939/FF_cwhlmz.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539945/F_bo0qjx.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539939/FF_cwhlmz.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539941/FFF_t0jasr.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1202,
+        name: 'Moto Care PIPE CARRIER FOR YAMAHA F Z- X',
+        price: 1920,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540077/G_npjbve.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540078/GG_n4hixh.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540077/G_npjbve.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540076/GGG_bcchsl.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1203,
+        name: 'Moto Care FOOTREST FOR YAMAHA F Z- X',
+        price: 1760,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540377/H_uhipav.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540377/HH_nhfgd7.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540377/H_uhipav.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540372/HHH_dvjes6.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1204,
+        name: 'Moto Care CNC CARRIER PLATE FOR YAMAHA F Z- X',
+        price: 2560,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540472/J_g9twy1.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540472/J_g9twy1.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540472/J_g9twy1.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540472/J_g9twy1.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1205,
+        name: 'Moto Care CNC CARRIER PLATE WITH BACKREST FOR YAMAHA F Z- X',
+        price: 3600,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540600/K_wgvkf7.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540600/KK_ikavto.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540600/K_wgvkf7.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540600/KK_ikavto.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1206,
+        name: 'Moto Care 4 SLIDER CRASH GUARD FOR YAMAHA F Z- X',
+        price: 4160,
+        discount: 0,
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540704/1713608960_6623990048248_jqc249.png',
+        galleryImages: [
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540704/1713608960_6623990048248_jqc249.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540704/1713608960_6623990048248_jqc249.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540704/1713608960_6623990048248_jqc249.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['YAMAHA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'YAMAHA',
+            'Warranty': '1 year'
+        }
+    },
 
 ];
 
