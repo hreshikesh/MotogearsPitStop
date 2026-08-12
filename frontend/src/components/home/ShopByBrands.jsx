@@ -33,17 +33,50 @@ const ShopByBrands = () => {
   ];
 
   const brandMap = {
-    'KTM': 'KTM', 'BMW': 'BMW', 'YAMAHA': 'Yamaha', 'ROYAL ENFIELD': 'Royal Enfield',
-    'DUCATI': 'Ducati', 'HONDA': 'Honda', 'KAWASAKI': 'Kawasaki', 'HERO': 'Hero',
-    'SUZUKI': 'Suzuki', 'TVS': 'TVS', 'TRIUMPH': 'Triumph', 'BAJAJ': 'Bajaj',
-    'ATHER': 'Ather', 'OLA': 'Ola', 'APRILIA': 'Aprilia', 'HARLEY DAVIDSON': 'Harley-Davidson',
-    'MOTUL': 'Motul', 'AXOR': 'Axor', 'SMK': 'SMK', 'MT HELMETS': 'MT Helmets',
-    'MADDOG': 'Maddog', 'BARKBUSTERS': 'Barkbusters', 'JAWA': 'Jawa', 'STUDDS': 'Studds',
-    'CARDO': 'Cardo', 'MOTO TORQUE': 'Moto Torque', 'MOTO CARE': 'Moto Care', 'LGP': 'LGP',
-    'PRO TAPER': 'Pro Taper', 'NGAGE': 'Ngage', 'BMC': 'BMC', 'ROLON': 'Rolon',
-    'VESRAH': 'Vesrah', 'BluArmor': 'BluArmor', 'EJEAS INTERCOM': 'EJEAS Intercom',
-    'RED ROOSTER': 'Red Rooster', 'POWERAGE': 'Powerage', 'MODERN TECH': 'Modern Tech',
-    'FUELX': 'FuelX', 'BOBO': 'BOBO',
+    'KTM': 'KTM',
+    'BMW': 'BMW',
+    'YAMAHA': 'Yamaha',
+    'ROYAL ENFIELD': 'Royal Enfield',
+    'DUCATI': 'Ducati',
+    'HONDA': 'Honda',
+    'KAWASAKI': 'Kawasaki',
+    'HERO': 'Hero',
+    'SUZUKI': 'Suzuki',
+    'TVS': 'TVS',
+    'TRIUMPH': 'Triumph',
+    'BAJAJ': 'Bajaj',
+    'ATHER': 'Ather',
+    'OLA': 'Ola',
+    'APRILIA': 'Aprilia',
+    'HARLEY DAVIDSON': 'Harley-Davidson',
+    'MOTUL': 'Motul',
+    'AXOR': 'Axor',
+    'SMK': 'SMK',
+    'MT HELMETS': 'MT Helmets',
+    'MADDOG': 'Maddog',
+    'BARKBUSTERS': 'Barkbusters',
+    'JAWA': 'Jawa',
+    'STUDDS': 'Studds',
+    'CARDO': 'Cardo',
+    'MOTO TORQUE': 'Moto Torque',
+    'MOTO CARE': 'Moto Care',
+    'LGP': 'LGP',
+    'PRO TAPER': 'Pro Taper',
+    'NGAGE': 'Ngage',
+    'BMC': 'BMC',
+    'ROLON': 'Rolon',
+    'VESRAH': 'Vesrah',
+    'BLUARMOR': 'BluArmor',
+    'EJEAS INTERCOM': 'EJEAS Intercom',
+    'RED ROOSTER': 'Red Rooster',
+    'POWERAGE': 'Powerage',
+    'MODERN TECH': 'Modern Tech',
+    'FUELX': 'FuelX',
+    'BOBO': 'BOBO',
+    'RK TECH': 'RK Tech',
+    'NGK': 'NGK',
+    'K&N': 'K&N',
+    'SENA': 'Sena'
   };
 
   const handleBrandClick = (brandName) => {
@@ -62,10 +95,11 @@ const ShopByBrands = () => {
   };
 
   const textBrands = [
-    'Studds', 'Axor', 'Barkbusters', 'Cardo', 'Maddog',
+    'Studds', 'Axor', 'SMK', 'MT Helmets', 'Barkbusters', 'Cardo', 'Maddog',
     'Moto Torque', 'Moto Care', 'LGP', 'Pro Taper', 'Jawa', 'Suzuki',
     'Ngage', 'BMC', 'Rolon', 'Vesrah', 'BluArmor', 'EJEAS Intercom',
     'Red Rooster', 'Powerage', 'Modern Tech', 'FuelX', 'BOBO',
+    'Motul', 'RK Tech', 'NGK', 'K&N', 'Sena'
   ];
 
   // Infinite marquee effect for the top ticker
@@ -118,7 +152,7 @@ const ShopByBrands = () => {
           >
             Shop by{' '}
             <span className="relative inline-block">
-              <span className="relative z-10 text-red-500">Brand</span>
+              <span className="relative z-10 text-red-500">Bike</span>
               <motion.span
                 className="absolute inset-x-0 bottom-1 h-2 bg-red-500/30 rounded"
                 initial={{ scaleX: 0 }}
@@ -276,31 +310,43 @@ const ShopByBrands = () => {
         </div>
 
         {/* ── Divider ── */}
-        <div className="flex items-center gap-4 my-10 sm:my-14">
-          <div className="flex-1 h-[1px] bg-gradient-to-r from-transparent via-white/20 to-transparent" />
-          <span className="text-white/40 font-mono text-[10px] sm:text-xs uppercase tracking-[0.3em] font-bold">
-            + More Brands
-          </span>
-          <div className="flex-1 h-[1px] bg-gradient-to-r from-transparent via-white/20 to-transparent" />
+        <div className="flex items-center justify-center gap-4 my-10 sm:my-14">
+          <h2
+            className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-black text-white leading-[0.9] tracking-tight uppercase"
+            style={{ fontFamily: "'Bebas Neue', sans-serif" }}
+          >
+            Shop by{' '}
+            <span className="relative inline-block">
+              <span className="relative z-10 text-red-500">Brand</span>
+              <motion.span
+                className="absolute inset-x-0 bottom-1 h-2 bg-red-500/30 rounded"
+                initial={{ scaleX: 0 }}
+                whileInView={{ scaleX: 1 }}
+                viewport={{ once: true }}
+                transition={{ duration: 0.8, delay: 0.3 }}
+                style={{ originX: 0 }}
+              />
+            </span>
+          </h2>
         </div>
 
         {/* ── Text Brands Cloud ── */}
-        <div className="flex flex-wrap justify-center gap-2 sm:gap-3 max-w-5xl mx-auto">
+        <div className="flex flex-wrap justify-center gap-3 sm:gap-4 max-w-6xl mx-auto">
           {textBrands.map((b, i) => (
             <motion.button
               key={i}
               initial={{ opacity: 0, scale: 0.9 }}
               whileInView={{ opacity: 1, scale: 1 }}
               viewport={{ once: true }}
-              transition={{ delay: i * 0.03, duration: 0.4 }}
-              whileHover={{ scale: 1.05, y: -2 }}
+              transition={{ delay: i * 0.02, duration: 0.4 }}
+              whileHover={{ scale: 1.06, y: -3 }}
               whileTap={{ scale: 0.95 }}
               onClick={() => handleBrandClick(b)}
-              className="group relative text-white/70 hover:text-white whitespace-nowrap px-4 sm:px-5 py-2 sm:py-2.5 text-xs sm:text-sm font-bold uppercase tracking-widest rounded-full border border-white/15 hover:border-red-500 bg-white/[0.02] hover:bg-red-600/10 backdrop-blur-sm transition-all duration-300 cursor-pointer overflow-hidden"
+              className="group relative text-white/80 hover:text-white whitespace-nowrap px-6 sm:px-8 py-3 sm:py-3.5 text-sm sm:text-base md:text-lg font-black uppercase tracking-widest rounded-full border border-white/20 hover:border-red-500 bg-white/[0.03] hover:bg-red-600/10 backdrop-blur-sm transition-all duration-300 cursor-pointer overflow-hidden shadow-lg hover:shadow-red-500/20"
             >
               <span className="relative z-10">{b}</span>
               {/* Shine effect */}
-              <span className="absolute inset-0 translate-x-[-100%] group-hover:translate-x-[100%] transition-transform duration-700 bg-gradient-to-r from-transparent via-white/10 to-transparent skew-x-[-20deg]" />
+              <span className="absolute inset-0 translate-x-[-100%] group-hover:translate-x-[100%] transition-transform duration-700 bg-gradient-to-r from-transparent via-white/15 to-transparent skew-x-[-20deg]" />
             </motion.button>
           ))}
         </div>
