@@ -91,7 +91,7 @@ const wishlistCount = useWishlistStore(state => state.products?.length || 0);
           
           <Link to="/" className="flex items-center gap-2 group flex-shrink-0">
              <img 
-               src="https://horizons-cdn.hostinger.com/b0732b2e-a5cb-4f69-b759-3a6f5999db16/111a7deab5a62c41f8251ab9212d4b7d.png" 
+               src="/logo.webp" 
                alt="Moto Gears - Bike Accessories" 
                className="h-10 md:h-14 w-auto object-contain"
              />
