@@ -37753,7 +37753,7 @@ const catalogProducts = [
     {
         id: 1606,
         name: 'Moto Care RALLY TOWER TOURING WINDSHIELD WITH CLAMP KIT FOR HERO XPULSE 200 4V',
-        price: 1600,
+        price: 15200,
         discount: 0,
         image: 'https://res.cloudinary.com/kivxp9wy/image/upload/v1786710847/H12.png',
         galleryImages: [
