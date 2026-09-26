@@ -14,7 +14,7 @@ const GEARS = [
     description: 'DOT, ECE 22.06 & ISI certified helmets built for maximum impact dispersion.',
     count: '120+',
     stat: '5★ Safety',
-    image: optimizeImg('https://res.cloudinary.com/twjztvms/image/upload/v1784022427/Helmet_SXE_l1sz04_c6eyqw.webp'),
+    image: optimizeImg('https://res.cloudinary.com/rteryyle/image/upload/v1790422589/Helmet_SXE_l1sz04_c6eyqw.webp'),
   },
   {
     name: 'Jackets',
@@ -22,7 +22,7 @@ const GEARS = [
     description: 'CE Level 2 armor with abrasion-resistant Cordura® and mesh ventilation.',
     count: '80+',
     stat: 'CE Level 2',
-    image: optimizeImg('https://res.cloudinary.com/twjztvms/image/upload/v1784022424/Raida_Jacket_itrknv_ijnycz.jpg'),
+    image: optimizeImg('https://res.cloudinary.com/rteryyle/image/upload/v1790422589/Raida_Jacket_itrknv_ijnycz.jpg'),
   },
   {
     name: 'Gloves',
@@ -30,7 +30,7 @@ const GEARS = [
     description: 'Knuckle protection with TPU sliders and touchscreen-compatible fingertips.',
     count: '65+',
     stat: 'All Season',
-    image: optimizeImg('https://res.cloudinary.com/twjztvms/image/upload/v1784022422/GLOVES_rik2zf_gdrpwx.webp'),
+    image: optimizeImg('https://res.cloudinary.com/rteryyle/image/upload/v1790422587/GLOVES_rik2zf_gdrpwx.webp'),
   },
   {
     name: 'Boots',
@@ -38,7 +38,7 @@ const GEARS = [
     description: 'Rigid shank soles with reinforced toe caps and ankle torsion control.',
     count: '45+',
     stat: 'Waterproof',
-    image: optimizeImg('https://res.cloudinary.com/twjztvms/image/upload/v1784022420/Boots_kehggs_amtal1.webp'),
+    image: optimizeImg('https://res.cloudinary.com/rteryyle/image/upload/v1790422586/Boots_kehggs_amtal1.webp'),
   },
 ];
 

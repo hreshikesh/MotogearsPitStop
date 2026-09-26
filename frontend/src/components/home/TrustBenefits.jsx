@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Truck, CheckCircle2, ShieldCheck, Award, MessageSquare, Sparkles } from 'lucide-react';
+import { Truck, CheckCircle2, ShieldCheck, Award, MessageSquare } from 'lucide-react';
 
 const BENEFITS = [
   {
@@ -75,7 +75,7 @@ const TrustBenefits = () => {
         >
           <div className="h-[2px] w-8 sm:w-12 bg-red-600" />
           <span className="inline-flex items-center gap-1.5 text-red-600 font-mono text-[10px] sm:text-xs tracking-[0.25em] uppercase font-bold">
-            <Sparkles size={11} /> Why Choose Us
+        Why Choose Us
           </span>
           <div className="h-[2px] w-8 sm:w-12 bg-red-600" />
         </motion.div>

@@ -9,25 +9,25 @@ const SUB_CATEGORIES = [
     name: 'Saddle Bags',
     icon: Package,
     count: '45+',
-    img: 'https://res.cloudinary.com/twjztvms/image/upload/v1784022650/Saddle_Bags_mul05z.webp',
+    img: 'https://res.cloudinary.com/rteryyle/image/upload/v1790423032/Saddle_Bags_mul05z.webp',
   },
   {
     name: 'Tank Bags',
     icon: Package,
     count: '32+',
-    img: 'https://res.cloudinary.com/twjztvms/image/upload/v1784022647/Tank_Bags_nnjcib.webp',
+    img: 'https://res.cloudinary.com/rteryyle/image/upload/v1790423033/Tank_Bags_nnjcib.webp',
   },
   {
     name: 'Top Boxes',
     icon: Package,
     count: '28+',
-    img: 'https://res.cloudinary.com/twjztvms/image/upload/v1784022644/Top_Boxes_eoudzq.webp',
+    img: 'https://res.cloudinary.com/rteryyle/image/upload/v1790423035/Top_Boxes_eoudzq.webp',
   },
   {
     name: 'Mounts',
     icon: Navigation,
     count: '55+',
-    img: 'https://res.cloudinary.com/twjztvms/image/upload/v1784022641/Mounts_p5dtfw.webp',
+    img: 'https://res.cloudinary.com/rteryyle/image/upload/v1790423031/Mounts_p5dtfw.webp',
   },
 ];
 

@@ -10,7 +10,7 @@ const slides = [
   {
     id: 0,
     image:
-      'https://res.cloudinary.com/twjztvms/image/upload/v1784014427/photo-1682281553437-ccb7820d3da2_kvyw3p.jpg',
+      'https://res.cloudinary.com/rteryyle/image/upload/v1790418823/hero1.jpg',
     badge: 'New Season Collection',
     heading: ['RIDE WITHOUT', 'LIMITS'],
     headingAccent: 'LIMITS',
@@ -25,7 +25,7 @@ const slides = [
   {
     id: 1,
     image:
-      'https://res.cloudinary.com/twjztvms/image/upload/v1784014426/apacheee_n8ra9f_icsh73.png',
+      'https://res.cloudinary.com/rteryyle/image/upload/v1790418823/hero2.png',
     badge: 'Performance Series',
     heading: ['BORN FOR THE', 'TRACK'],
     headingAccent: 'TRACK',
@@ -37,7 +37,7 @@ const slides = [
   {
     id: 2,
     image:
-      'https://res.cloudinary.com/twjztvms/image/upload/v1784014426/Web_1_tmooae_ac3ogq.avif',
+      'https://res.cloudinary.com/rteryyle/image/upload/v1790418821/hero4.jpg',
     badge: 'Rider Essentials',
     heading: ['GEAR UP FOR', 'ADVENTURE'],
     headingAccent: 'ADVENTURE',
@@ -49,7 +49,7 @@ const slides = [
   {
     id: 3,
     image:
-      'https://res.cloudinary.com/twjztvms/image/upload/v1784014426/G301_dcqjcb_ybl41n.jpg',
+      'https://res.cloudinary.com/rteryyle/image/upload/v1790418819/hero3.avif',
     badge: 'Exclusive Brands',
     heading: ['WORLD-CLASS', 'BRANDS'],
     headingAccent: 'BRANDS',

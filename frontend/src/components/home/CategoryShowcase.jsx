@@ -12,7 +12,7 @@ const CATEGORIES = [
     tagline: 'Head Protection',
     count: '120+ Products',
     image:
-      'https://res.cloudinary.com/twjztvms/image/upload/v1784014663/HELMET_apudzn_uh6riz.jpg',
+      'https://res.cloudinary.com/rteryyle/image/upload/v1790419001/HELMET_apudzn_uh6riz.jpg',
     params: { subcategory: 'Helmets' },
     featured: true, // Spans 2x2
   },
@@ -22,7 +22,7 @@ const CATEGORIES = [
     tagline: 'Ride in Style',
     count: '80+ Products',
     image:
-      'https://res.cloudinary.com/twjztvms/image/upload/v1784014662/Raida_Jacket_itrknv_i00fes.jpg',
+      'https://res.cloudinary.com/rteryyle/image/upload/v1790419001/Raida_Jacket_itrknv_i00fes.jpg',
     params: { subcategory: 'Jackets' },
   },
   {
@@ -31,7 +31,7 @@ const CATEGORIES = [
     tagline: 'Ultimate Grip',
     count: '65+ Products',
     image:
-      'https://res.cloudinary.com/twjztvms/image/upload/v1784014661/GLOVES_rik2zf_p7zqjq.webp',
+      'https://res.cloudinary.com/rteryyle/image/upload/v1790419001/GLOVES_rik2zf_p7zqjq.webp',
     params: { subcategory: 'Gloves' },
   },
   {
@@ -40,7 +40,7 @@ const CATEGORIES = [
     tagline: 'Step With Power',
     count: '45+ Products',
     image:
-      'https://res.cloudinary.com/twjztvms/image/upload/v1784014660/Boots_kehggs_trirdc.webp',
+      'https://res.cloudinary.com/rteryyle/image/upload/v1790419000/Boots_kehggs_trirdc.webp',
     params: { subcategory: 'Boots' },
   },
   {
@@ -49,7 +49,7 @@ const CATEGORIES = [
     tagline: 'Go The Distance',
     count: '90+ Products',
     image:
-      'https://res.cloudinary.com/twjztvms/image/upload/v1784014660/Screenshot_2026-02-22_at_11.33.45_PM_y7dit1_umjkyf.png',
+      'https://res.cloudinary.com/rteryyle/image/upload/v1790419003/Screenshot_2026-02-22_at_11.33.45_PM_y7dit1_umjkyf.png',
     params: { category: 'Touring' },
   },
   {
@@ -60,7 +60,7 @@ const CATEGORIES = [
     description:
       'Essential accessories to complete your build — from precision mirrors to rugged phone mounts.',
     image:
-      'https://res.cloudinary.com/twjztvms/image/upload/v1784014659/Bike_accessories_quf2sc_acl65x.jpg',
+      'https://res.cloudinary.com/rteryyle/image/upload/v1790419000/Bike_accessories_quf2sc_acl65x.jpg',
     params: { category: 'Bike Accessories' },
     wide: true, // Spans full width at bottom (2 cols on mobile/tablet, 4 cols on desktop)
   },

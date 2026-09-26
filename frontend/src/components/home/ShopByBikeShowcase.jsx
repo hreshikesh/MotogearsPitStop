@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import { ArrowUpRight, Compass } from 'lucide-react';
 import { productsUrl } from '@/utils/urlUtils';
 
-// Optional: Cloudinary auto-formatting helper for faster image loading
+
 const optimizeImg = (url) => url.replace('/upload/', '/upload/f_auto,q_auto,w_400/');
 
 const CATEGORIES = [
@@ -12,42 +12,42 @@ const CATEGORIES = [
     name: 'Adventure',
     tagline: 'Conquer Any Terrain',
     count: '220+',
-    img: optimizeImg('https://res.cloudinary.com/twjztvms/image/upload/v1784016784/adventure_hrdho6.avif'),
+    img: optimizeImg('https://res.cloudinary.com/rteryyle/image/upload/v1790420462/adventure_hrdho6.avif'),
     link: productsUrl({ category: 'Touring' }),
   },
   {
     name: 'Street',
     tagline: 'Urban Domination',
     count: '180+',
-    img: optimizeImg('https://res.cloudinary.com/twjztvms/image/upload/v1784016784/street_pppvcx.avif'),
+    img: optimizeImg('https://res.cloudinary.com/rteryyle/image/upload/v1790420587/street_pppvcx.avif'),
     link: productsUrl({ category: 'Riding Gear' }),
   },
   {
     name: 'Cruiser',
     tagline: 'Ride In Style',
     count: '150+',
-    img: optimizeImg('https://res.cloudinary.com/twjztvms/image/upload/v1784016781/cruiser_gwzswk.avif'),
+    img: optimizeImg('https://res.cloudinary.com/rteryyle/image/upload/v1790420463/cruiser_gwzswk.avif'),
     link: productsUrl({ category: 'Bike Accessories' }),
   },
   {
     name: 'Sport',
     tagline: 'Track Ready',
     count: '300+',
-    img: optimizeImg('https://res.cloudinary.com/twjztvms/image/upload/v1784016781/sports_p8ejgv.jpg'),
+    img: optimizeImg('https://res.cloudinary.com/rteryyle/image/upload/v1790420537/sports_p8ejgv.jpg'),
     link: productsUrl({ category: 'Performance Parts' }),
   },
   {
     name: 'Classic',
     tagline: 'Timeless Legacy',
     count: '120+',
-    img: optimizeImg('https://res.cloudinary.com/twjztvms/image/upload/v1784016778/classic_a7txjw.jpg'),
+    img: optimizeImg('https://res.cloudinary.com/rteryyle/image/upload/v1790420465/classic_a7txjw.jpg'),
     link: productsUrl({ category: 'Riding Gear' }),
   },
   {
     name: 'Scooter',
     tagline: 'Everyday Freedom',
     count: '90+',
-    img: optimizeImg('https://res.cloudinary.com/twjztvms/image/upload/v1784016775/scooter_dnipvx.avif'),
+    img: optimizeImg('https://res.cloudinary.com/rteryyle/image/upload/v1790420533/scooter_dnipvx.avif'),
     link: productsUrl({ category: 'Bike Accessories' }),
   },
 ];
