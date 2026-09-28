@@ -20,7 +20,7 @@ const BRANDS = [
     tagline: 'Illuminate The Ride',
     description: 'Premium auxiliary lighting and mounting systems engineered for extreme adventure and touring.',
     products: '45+ Products',
-    image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784016370/maddog_bqfpeb_ljtljq.png',
+    image: 'https://res.cloudinary.com/rteryyle/image/upload/v1790580973/maddog_bqfpeb_ljtljq.png',
     params: { brand: 'Maddog' },
   },
   {
@@ -28,7 +28,7 @@ const BRANDS = [
     tagline: 'Performance Exhausts',
     description: 'Race-inspired stainless steel exhausts engineered for optimal backpressure and performance.',
     products: '30+ Products',
-    image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784016368/red-rooster-performance-international-pvt-ltd-cheemasandra-bangalore-sports-bike-exhaust-dealers_yzni94.avif',
+    image: 'https://res.cloudinary.com/rteryyle/image/upload/v1790580973/red-rooster-performance-international-pvt-ltd-cheemasandra-bangalore-sports-bike-exhaust-dealers_yzni94.avif',
     params: { search: 'Red Rooster' },
   },
   {
@@ -36,7 +36,7 @@ const BRANDS = [
     tagline: 'Ride Smarter',
     description: 'Plug-and-play electronic fuel management systems for optimized torque and engine efficiency.',
     products: '20+ Products',
-    image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784016378/fuel_x_c7c6v5_fly1fq.png',
+    image: 'https://res.cloudinary.com/rteryyle/image/upload/v1790580973/fuel_x_c7c6v5_fly1fq.png',
     params: { search: 'FuelX Pro+' },
   },
   {
@@ -44,7 +44,7 @@ const BRANDS = [
     tagline: 'Stop With Confidence',
     description: 'Precision Japanese brake pads designed for maximum bite, thermal resistance, and longevity.',
     products: '25+ Products',
-    image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784016376/VESRAH-1_qjbosf_ravfvn.jpg',
+    image: 'https://res.cloudinary.com/rteryyle/image/upload/v1790580973/VESRAH-1_qjbosf_ravfvn.jpg',
     params: { search: 'Vesrah Brake pads' },
   },
   {
@@ -52,7 +52,7 @@ const BRANDS = [
     tagline: 'Ride Cool',
     description: 'Advanced helmet cooling and ventilation technology built specifically for hot conditions.',
     products: '15+ Products',
-    image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784016374/bluarmor_zwpmjb.webp',
+    image: 'https://res.cloudinary.com/rteryyle/image/upload/v1790580973/bluarmor_zwpmjb.webp',
     params: { brand: 'BluArmor' },
   },
   {
@@ -60,7 +60,7 @@ const BRANDS = [
     tagline: 'Stay Connected',
     description: 'Long-range Bluetooth mesh intercoms for seamless group communications on every ride.',
     products: '18+ Products',
-    image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784016372/EJAEA_ktdezx_hvvvlp.webp',
+    image: 'https://res.cloudinary.com/rteryyle/image/upload/v1790580973/EJAEA_ktdezx_hvvvlp.webp',
     params: { brand: 'EJEAS Intercom' },
   },
 ];
