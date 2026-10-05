@@ -4,6 +4,7 @@
 import React, { useEffect, useState } from 'react';
 import { Trash2, Shield } from 'lucide-react';
 import api from '@/api/axiosInstance';
+import { formatUserEmail, formatUserPhone } from '@/utils/userDisplay';
 
 export default function AdminUsers() {
   const [users, setUsers] = useState([]);
@@ -42,7 +43,12 @@ export default function AdminUsers() {
 
   return (
     <div className="p-6 min-h-screen bg-gray-950">
-      <h1 className="text-white text-2xl font-bold mb-6">Users ({total})</h1>
+      <div className="mb-6">
+        <h1 className="text-white text-2xl font-bold">Users ({total})</h1>
+        <p className="mt-1 text-sm text-gray-400">
+          New sign-ups appear here with name, phone number, and email when provided.
+        </p>
+      </div>
 
       <div className="bg-gray-900 rounded-xl border border-gray-800 overflow-hidden">
         <div className="overflow-x-auto">
@@ -50,8 +56,8 @@ export default function AdminUsers() {
             <thead>
               <tr className="border-b border-gray-800">
                 <th className="text-left text-gray-400 text-sm px-4 py-3">Name</th>
+                <th className="text-left text-gray-400 text-sm px-4 py-3">Phone No.</th>
                 <th className="text-left text-gray-400 text-sm px-4 py-3">Email</th>
-                <th className="text-left text-gray-400 text-sm px-4 py-3">Phone</th>
                 <th className="text-left text-gray-400 text-sm px-4 py-3">Role</th>
                 <th className="text-left text-gray-400 text-sm px-4 py-3">Joined</th>
                 <th className="text-left text-gray-400 text-sm px-4 py-3">Actions</th>
@@ -60,11 +66,15 @@ export default function AdminUsers() {
             <tbody>
               {loading ? (
                 <tr><td colSpan={6} className="text-center text-gray-500 py-12">Loading...</td></tr>
+              ) : users.length === 0 ? (
+                <tr><td colSpan={6} className="text-center text-gray-500 py-12">No users yet</td></tr>
               ) : users.map(user => (
                 <tr key={user._id} className="border-b border-gray-800 hover:bg-gray-800/50">
                   <td className="px-4 py-3 text-white text-sm font-medium">{user.name}</td>
-                  <td className="px-4 py-3 text-gray-300 text-sm">{user.email}</td>
-                  <td className="px-4 py-3 text-gray-300 text-sm">{user.phone || '—'}</td>
+                  <td className="px-4 py-3 text-gray-300 text-sm">{formatUserPhone(user.phone)}</td>
+                  <td className={`px-4 py-3 text-sm ${user.email ? 'text-gray-300' : 'text-gray-500 italic'}`}>
+                    {formatUserEmail(user.email)}
+                  </td>
                   <td className="px-4 py-3">
                     <span className={`text-xs px-2 py-1 rounded-full ${user.role === 'admin' ? 'bg-red-900 text-red-300' : 'bg-gray-800 text-gray-300'}`}>
                       {user.role}

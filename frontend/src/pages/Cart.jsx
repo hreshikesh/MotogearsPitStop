@@ -1,8 +1,12 @@
 // frontend/src/pages/Cart.jsx
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import { Minus, Plus, ShoppingBag, Trash2 } from 'lucide-react';
+import { Minus, Plus, ShoppingBag, Trash2, Tag } from 'lucide-react';
 import useCartStore from '@/store/cartStore';
+import useAuthStore from '@/store/authStore';
+import useOrderStore from '@/store/orderStore';
+import { FIRST_PURCHASE_PROMO } from '@/config/promotions';
+import { calculateOrderPricing } from '@/utils/orderPricing';
 import { getProductImage, handleProductImageError } from '@/utils/imageUtils';
 
 const getItemId = (item) => item?.product?._id || item?.product?.id || item?._id || item?.id;
@@ -15,8 +19,32 @@ const formatINR = (value = 0) => `Rs. ${Number(value || 0).toLocaleString('en-IN
 const Cart = () => {
   const navigate = useNavigate();
   const { items, updateQuantity, removeFromCart, getCartTotal } = useCartStore();
-  const total = getCartTotal();
+  const isAuthenticated = useAuthStore((state) => state.isAuthenticated);
+  const fetchFirstPurchaseEligibility = useOrderStore((state) => state.fetchFirstPurchaseEligibility);
+  const [firstPurchaseEligible, setFirstPurchaseEligible] = useState(false);
+
+  const itemsTotal = getCartTotal();
   const itemCount = items.reduce((acc, item) => acc + item.quantity, 0);
+  const pricing = calculateOrderPricing(itemsTotal, { firstPurchaseEligible });
+
+  useEffect(() => {
+    let active = true;
+
+    const loadEligibility = async () => {
+      if (!isAuthenticated) {
+        if (active) setFirstPurchaseEligible(false);
+        return;
+      }
+
+      const result = await fetchFirstPurchaseEligibility();
+      if (active) setFirstPurchaseEligible(result.eligible);
+    };
+
+    loadEligibility();
+    return () => {
+      active = false;
+    };
+  }, [isAuthenticated, fetchFirstPurchaseEligibility]);
 
   if (items.length === 0) {
     return (
@@ -118,14 +146,34 @@ const Cart = () => {
               <h2 className="text-xl font-bold text-gray-900 mb-5">Order Summary</h2>
               <div className="space-y-3 text-gray-700">
                 <div className="flex justify-between gap-4">
-                  <span>Items</span>
-                  <span>{itemCount}</span>
+                  <span>Items ({itemCount})</span>
+                  <span>{formatINR(pricing.itemsTotal)}</span>
                 </div>
                 <div className="flex justify-between gap-4">
+                  <span>Delivery charge</span>
+                  <span>{pricing.deliveryCharge === 0 ? 'FREE' : formatINR(pricing.deliveryCharge)}</span>
+                </div>
+                {firstPurchaseEligible && pricing.firstPurchaseDiscount > 0 && (
+                  <div className="flex justify-between gap-4 text-green-700">
+                    <span className="inline-flex items-center gap-1.5">
+                      <Tag size={14} />
+                      First purchase ({FIRST_PURCHASE_PROMO.discountPercent}%)
+                    </span>
+                    <span className="font-bold">-{formatINR(pricing.firstPurchaseDiscount)}</span>
+                  </div>
+                )}
+                <div className="flex justify-between gap-4 border-t border-gray-200 pt-3 font-bold text-gray-900">
                   <span>Total</span>
-                  <span className="text-[#e63946]">{formatINR(total)}</span>
+                  <span className="text-[#e63946]">{formatINR(pricing.total)}</span>
                 </div>
               </div>
+
+              {firstPurchaseEligible && pricing.firstPurchaseDiscount > 0 && (
+                <p className="mt-4 rounded-lg border border-green-200 bg-green-50 px-3 py-2 text-xs leading-relaxed text-green-800">
+                  Welcome offer applied automatically: {FIRST_PURCHASE_PROMO.discountPercent}% off your first
+                  order (max Rs. {FIRST_PURCHASE_PROMO.maxDiscountRs.toLocaleString('en-IN')}).
+                </p>
+              )}
 
               <button
                 onClick={() => navigate('/checkout')}

@@ -14,6 +14,7 @@ import ModernTechSection from '@/components/home/ModernTechSection';
 import RidingGearShowcase from '@/components/home/RidingGearShowcase';
 import TouringShowcase from '@/components/home/TouringShowcase';
 import TrustBenefits from '@/components/home/TrustBenefits';
+import FirstPurchasePromoModal from '@/components/home/FirstPurchasePromoModal';
 import useHeaderHeight from '@/hooks/useHeaderHeight';
 
 const HomePage = ({ headerRef }) => {
@@ -26,6 +27,7 @@ const HomePage = ({ headerRef }) => {
         <title>MotoGearsPitstop - Premium Bike Accessories & Riding Gear for Indian Riders</title>
         <meta name="description" content="Shop premium motorcycle accessories, riding gear, helmets, jackets, crash guards, and touring essentials. Free shipping on orders above ₹5000. Trusted by riders across India." />
       </Helmet>
+      <FirstPurchasePromoModal />
       <div className="bg-white min-h-screen">
         <HeroSection headerHeight={headerHeight} />
         <CategoryShowcase />

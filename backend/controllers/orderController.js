@@ -6,6 +6,10 @@ import Order from '../models/Order.js';
 import Cart from '../models/Cart.js';
 import Product from '../models/Product.js';
 import sendEmail from '../utils/sendEmail.js';
+import {
+  calculateFirstPurchaseDiscount,
+  isFirstPurchaseEligible
+} from '../utils/firstPurchasePromo.js';
 
 const escapeHtml = (value = '') => String(value)
   .replace(/&/g, '&amp;')
@@ -76,6 +80,7 @@ const buildCustomerOrderEmail = (order, customerName) => `
       </thead>
       <tbody>${buildItemsRows(order.items)}</tbody>
     </table>
+    ${order.firstPurchaseDiscount > 0 ? `<p><strong>First purchase discount:</strong> -${formatCurrency(order.firstPurchaseDiscount)}</p>` : ''}
     <p style="font-size:18px;"><strong>Total:</strong> ${formatCurrency(order.totalPrice)}</p>
     <h3>Shipping Address</h3>
     ${buildAddressHtml(order.shippingAddress)}
@@ -103,11 +108,17 @@ const buildAdminOrderEmail = (order, customer) => `
       </thead>
       <tbody>${buildItemsRows(order.items)}</tbody>
     </table>
+    ${order.firstPurchaseDiscount > 0 ? `<p><strong>First purchase discount:</strong> -${formatCurrency(order.firstPurchaseDiscount)}</p>` : ''}
     <p style="font-size:18px;"><strong>Total:</strong> ${formatCurrency(order.totalPrice)}</p>
     <h3>Shipping Address</h3>
     ${buildAddressHtml(order.shippingAddress)}
   </div>
 `;
+
+export const getFirstPurchaseEligibility = asyncHandler(async (req, res) => {
+  const eligible = await isFirstPurchaseEligible(req.user._id);
+  res.json({ success: true, eligible });
+});
 
 const sendOrderEmails = async (order, user) => {
   const shopEmail = process.env.ORDER_NOTIFICATION_EMAIL || process.env.EMAIL_USER;
@@ -173,7 +184,14 @@ export const createOrder = asyncHandler(async (req, res) => {
 
   const itemsPrice = items.reduce((acc, item) => acc + item.price * item.quantity, 0);
   const shippingPrice = itemsPrice >= FREE_DELIVERY_MINIMUM ? 0 : DELIVERY_CHARGE;
-  const totalPrice = itemsPrice + shippingPrice;
+  const billBeforeDiscount = itemsPrice + shippingPrice;
+
+  let firstPurchaseDiscount = 0;
+  if (await isFirstPurchaseEligible(req.user._id)) {
+    firstPurchaseDiscount = calculateFirstPurchaseDiscount(billBeforeDiscount);
+  }
+
+  const totalPrice = Math.max(billBeforeDiscount - firstPurchaseDiscount, 0);
   const paymentBreakup = calculatePaymentBreakup(paymentMethod, totalPrice);
 
   if (paymentBreakup.amountPaid > 0 && !paymentInfo?.razorpay_payment_id) {
@@ -190,6 +208,7 @@ export const createOrder = asyncHandler(async (req, res) => {
     paymentStatus: paymentBreakup.paymentStatus,
     itemsPrice,
     shippingPrice,
+    firstPurchaseDiscount,
     totalPrice,
     amountPaid: paymentBreakup.amountPaid,
     amountDue: paymentBreakup.amountDue,

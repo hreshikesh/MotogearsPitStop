@@ -28,6 +28,15 @@ export const useOrderStore = create((set) => ({
     } catch { return null; }
   },
 
+  fetchFirstPurchaseEligibility: async () => {
+    try {
+      const res = await api.get('/orders/first-purchase-eligibility');
+      return { success: true, eligible: Boolean(res.data.eligible) };
+    } catch {
+      return { success: false, eligible: false };
+    }
+  },
+
   createOrder: async (orderData) => {
     try {
       const res = await api.post('/orders', orderData);

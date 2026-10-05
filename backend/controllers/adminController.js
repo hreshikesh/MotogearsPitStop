@@ -37,7 +37,12 @@ export const getDashboardStats = asyncHandler(async (req, res) => {
   ]);
 
   const recentOrders = await Order.find()
-    .populate('user', 'name email')
+    .populate('user', 'name email phone')
+    .sort('-createdAt')
+    .limit(10);
+
+  const recentUsers = await User.find()
+    .select('name email phone createdAt')
     .sort('-createdAt')
     .limit(10);
 
@@ -58,6 +63,7 @@ export const getDashboardStats = asyncHandler(async (req, res) => {
       totalRevenue,
       monthlyRevenue,
       recentOrders,
+      recentUsers,
       lowStockProducts,
       orderStatusCounts
     }
