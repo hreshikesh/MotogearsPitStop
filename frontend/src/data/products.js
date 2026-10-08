@@ -4,11 +4,11 @@ const catalogProducts = [
         name: 'RYNOX AIR GT 4 JACKET- CE CERTIFIED CLASS A',
         price: 8499,
         discount: 15,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784023024/product1_eeoev4.webp',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790586885/product1_eeoev4_io9fyv.webp',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784023823/galleryp11_kv6f8u.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784023820/galleryp12_zwc7nr.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784023817/galleryp13_dfemmh.webp'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587082/galleryp11_kv6f8u_b8lrs6.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587083/galleryp13_dfemmh_wq2jxr.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587083/galleryp12_zwc7nr_kufade.png'
         ],
         category: 'Riding Gear',
         subcategory: 'Jackets',
@@ -30,11 +30,11 @@ const catalogProducts = [
         name: 'STUDDS Thunder Black',
         price: 3299,
         discount: 20,
-        image: "https://res.cloudinary.com/twjztvms/image/upload/v1784023021/product2_e6sjfw.webp",
+        image: "https://res.cloudinary.com/k4uklwi4/image/upload/v1790586884/product2_e6sjfw_fcdcpl.webp",
         galleryImages: [
-            "https://res.cloudinary.com/twjztvms/image/upload/v1784023814/galleryp21_ctrcoq.jpg",
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784023811/galleryp22_ffyqpm.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784023807/galleryp23_apbk5z.jpg'
+            "https://res.cloudinary.com/k4uklwi4/image/upload/v1790587083/galleryp21_ctrcoq_bmfdob.jpg",
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587083/galleryp22_ffyqpm_tk075s.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587083/galleryp23_apbk5z_l6ytzm.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -56,11 +56,11 @@ const catalogProducts = [
         name: 'Royal Enfield SUM GUARD FOR HIMALAYAN 450',
         price: 2500,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784023018/product3_f70tti.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790586885/product3_f70tti_rl4kav.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784023804/galleryp31_gpz7yb.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784023802/galleryp32_idsmuq.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784023798/galleryp33_kcmij5.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587083/galleryp31_gpz7yb_istx9p.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587084/galleryp32_idsmuq_dtisa4.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587084/galleryp33_kcmij5_g8edwx.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -82,11 +82,11 @@ const catalogProducts = [
         name: 'Bark Buster Metal HandGuard(Black) - HAND PROTECTOR for universal motorycles HD33B',
         price: 2000,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784023015/product4_zuwlxx.webp',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790586885/product4_zuwlxx_xaelxt.webp',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784023795/galleryp41_karhpl.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784023791/galleryp42_kwnsgv.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784023788/galleryp43_aej0ck.webp'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587083/galleryp41_karhpl_j8f2nd.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587084/galleryp42_kwnsgv_vnudet.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587084/galleryp43_aej0ck_hpnsnx.webp'
         ],
         category: 'Bike Accessories',
         subcategory: 'Handguards',
@@ -108,11 +108,11 @@ const catalogProducts = [
         name: 'MADDOG Alpha Combo Aux Light 80 Watts',
         price: 5999,
         discount: 25,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784023012/product5_dfbhx4.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790586887/product5_dfbhx4_amwzgo.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784023779/galleryp53_lhuatk.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784023782/galleryp52_em2yim.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784023785/galleryp51_qtv3wg.webp'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587085/galleryp51_qtv3wg_mqucfb.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587085/galleryp52_em2yim_avcqx5.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587086/galleryp53_lhuatk_r3wtbj.webp'
         ],
         category: 'Lighting',
         subcategory: 'Fog Lamps',
@@ -134,11 +134,11 @@ const catalogProducts = [
         name: 'Raida AirWave Motorcycle Gloves | Red',
         price: 4000,
         discount: 15,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784023009/product6_b73lcp.webp',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790586885/product6_b73lcp_k7ukah.webp',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784023775/galleryp61_qlmyjm.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784023772/galleryp62_uipa8g.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784023769/galleryp63_hl5waw.webp'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587086/galleryp61_qlmyjm_uxhvev.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587087/galleryp62_uipa8g_njbzks.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587087/galleryp63_hl5waw_lgfwjp.webp'
         ],
         category: 'Riding Gear',
         subcategory: 'Gloves',
@@ -160,11 +160,11 @@ const catalogProducts = [
         name: 'Zana Universal Led Fog Light (ZFL R-25) - ZI-FL-013',
         price: 7000,
         discount: 30,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784023006/product7_llnc0u.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790586885/product7_llnc0u_wsqclf.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784023766/galleryp71_asncz4.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784023762/galleryp72_dyiy7f.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784023759/galleryp73_mrrrat.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587088/galleryp71_asncz4_x9m3oq.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587088/galleryp72_dyiy7f_aeky1x.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587089/galleryp73_mrrrat_r0hiy9.png'
         ],
         category: 'Lighting',
         subcategory: 'Fog Lamps',
@@ -186,11 +186,11 @@ const catalogProducts = [
         name: 'Mototrendz Traction Pads for KTM Duke 250 / 390 Gen 2',
         price: 999,
         discount: 0,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784023002/product8_y9bqk7.webp',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790586885/product8_y9bqk7_vorxvp.webp',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784023756/galleryp81_hbasvj.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784023753/galleryp82_dbm0zc.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784023749/galleryp83_ks5orh.webp'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587089/galleryp81_hbasvj_m7dq09.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587089/galleryp82_dbm0zc_yyfgjg.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587089/galleryp83_ks5orh_bkiwod.webp'
         ],
         category: 'Bike Accessories',
         subcategory: 'Tank Pads',
@@ -212,11 +212,11 @@ const catalogProducts = [
         name: 'Raida Explorer Boots | Black',
         price: 8000,
         discount: 20,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784022999/product9_xak80r.webp',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790586885/product9_xak80r_iiu3ut.webp',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784023746/galleryp91_mbfi7h.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784023743/galleryp92_f4mx2g.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784023740/galleryp93_pbhlsm.webp'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587090/galleryp91_mbfi7h_vvhrid.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587090/galleryp92_f4mx2g_merlxk.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587091/galleryp93_pbhlsm_mwolsp.webp'
         ],
         category: 'Riding Gear',
         subcategory: 'Boots',
@@ -239,11 +239,11 @@ const catalogProducts = [
         name: 'Liqui Moly 10W40 Street Race Fully Synthetic Engine Oil (1 Litre) (LM053, Compatible with ATV)',
         price: 1499,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784022997/product10_j5dy7f.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790586886/product10_j5dy7f_sib2xi.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784023736/galleryp101_smh4w4.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784023733/galleryp102_g57602.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784023730/galleryp103_vw5nnj.jpg'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587091/galleryp101_smh4w4_ja4sqy.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587091/galleryp101_smh4w4_ja4sqy.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587091/galleryp101_smh4w4_ja4sqy.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Engine Oil',
@@ -265,11 +265,11 @@ const catalogProducts = [
         name: 'Rolon Gold Brass Chain Sprocket kit for Continental GT650 / Interceptor 650',
         price: 3200,
         discount: 15,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784024737/product11_ivfaxy.webp',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587378/product11_ivfaxy_djgirj.webp',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784025282/galleryp111_uljmnt.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784025278/galleryp112_skaeb8.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784025275/galleryp113_isud9e.webp'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587532/galleryp111_uljmnt_xqk1ux.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587532/galleryp112_skaeb8_fupmjj.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587533/galleryp113_isud9e_um2ai5.webp'
         ],
         category: 'Performance Parts',
         subcategory: 'Chain Sets',
@@ -291,11 +291,11 @@ const catalogProducts = [
         name: 'Cardo Packtalk Special Edition Intercom (PTN00010)',
         price: 26999,
         discount: 0,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784024734/product12_tqrupn.webp',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587378/product12_tqrupn_elvasl.webp',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784025271/galleryp121_ofv4z9.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784025268/galleryp122_jwn5mo.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784025264/galleryp123_w3a0fz.webp'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587533/galleryp121_ofv4z9_tiki8v.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587533/galleryp122_jwn5mo_twrx1x.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587534/galleryp123_w3a0fz_fsaoqw.webp'
         ],
         category: 'Riding Gear',
         subcategory: 'Bluetooth & Intercom',
@@ -317,11 +317,11 @@ const catalogProducts = [
         name: 'Royal Enfield KXA00073 Black Touring Rider Seat for Meteor 350',
         price: 4000,
         discount: 5,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784024730/product13_ouv8me.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587378/product13_ouv8me_dbywsr.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784025260/galleryp131_wgiqey.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784025257/galleryp132_nab9qa.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784025253/galleryp133_yko70h.jpg'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587535/galleryp131_wgiqey_ed1n3d.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587536/galleryp132_nab9qa_vecloc.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587536/galleryp133_yko70h_kdvch7.jpg'
         ],
         category: 'Touring',
         subcategory: 'Seats',
@@ -343,11 +343,11 @@ const catalogProducts = [
         name: 'Zana TOPRACK T-1 WITH ALUMINIUM PLATE COMPATIBLE WITH PILLION BACKREST HIMALAYAN BS6 (2021)',
         price: 4400,
         discount: 17,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784024727/product14_jaofvz.webp',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587379/product14_jaofvz_dpbiqh.webp',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784025249/galleryp141_rmkwdf.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784025246/galleryp142_ncmxbc.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784025242/galleryp143_bt1o3j.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587537/galleryp141_rmkwdf_rdlqfe.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587537/galleryp142_ncmxbc_k7w0zs.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587542/galleryp143_bt1o3j_btxfqr.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -369,11 +369,11 @@ const catalogProducts = [
         name: 'Raida Knee Guard',
         price: 4000,
         discount: 8,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784024723/product15_spgnf3.webp',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587379/product15_spgnf3_mdz7zv.webp',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784025239/galleryp151_imkped.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784025235/galleryp152_yn4za1.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784025231/galleryp153_emoyvf.jpg'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587538/galleryp151_imkped_qwga2p.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587539/galleryp152_yn4za1_aodwqc.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587539/galleryp153_emoyvf_okhdpx.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Knee Guards',
@@ -395,11 +395,11 @@ const catalogProducts = [
         name: 'BMW R1300 GS Top Box & Pannier Set',
         price: 120000,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784024719/product16_wozgaq.webp',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587378/product16_wozgaq_oqb6n5.webp',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784025228/galleryp161_eqeglu.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784025224/galleryp162_ltgmbz.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784025220/galleryp163_ac63kt.webp'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587540/galleryp161_eqeglu_sthte0.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587540/galleryp162_ltgmbz_y8yztp.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587540/galleryp163_ac63kt_s9anem.webp'
         ],
         category: 'Touring',
         subcategory: 'Panniers',
@@ -421,11 +421,11 @@ const catalogProducts = [
         name: 'AXOR Brutale Ryden Dual Spoiler Helmet WHITE RED',
         price: 7991,
         discount: 2,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784024716/product17_ujt3wf.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587379/product17_ujt3wf_gq5qvt.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784025217/galleryp171_pc9qz0.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784025213/galleryp172_qmek3a.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784025210/galleryp173_lxpkad.jpg'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587543/galleryp171_pc9qz0_usn016.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587543/galleryp172_qmek3a_qbe8ew.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587543/galleryp173_lxpkad_m0deoo.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -447,11 +447,11 @@ const catalogProducts = [
         name: 'KTM 390 - V2 Adventure Touring Windshield / Visor',
         price: 3499,
         discount: 5,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784024647/product18_hastwm.webp',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587379/product18_hastwm_cmtqng.webp',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784025206/galleryp181_h7ux34.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784025203/galleryp182_wlf4ol.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784025199/galleryp183_i3tj85.webp'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587543/galleryp181_h7ux34_zlkxgh.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587543/galleryp182_wlf4ol_unnbws.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587544/galleryp183_i3tj85_rudaps.webp'
         ],
         category: 'Bike Accessories',
         subcategory: 'Wind Deflectors',
@@ -473,11 +473,11 @@ const catalogProducts = [
         name: 'Rynox H2GO PRO RAIN PANTS',
         price: 1500,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784024644/product19_lqbwmk.webp',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587379/product19_lqbwmk_cndlbb.webp',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784025196/galleryp191_rvxbpg.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784025192/galleryp192_w1nshg.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784025188/galleryp193_lcmpzp.jpg'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587544/galleryp191_rvxbpg_bndufx.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587545/galleryp192_w1nshg_rh5ldd.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587546/galleryp193_lcmpzp_l8ltlz.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Pants',
@@ -499,11 +499,11 @@ const catalogProducts = [
         name: 'Barkbusters Jet Guards',
         price: 3299,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784024641/product20_mhtnkt.webp',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587380/product20_mhtnkt_cdzej7.webp',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784025185/galleryp201_c8fukv.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784025181/galleryp202_uzqaot.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784025178/galleryp203_ppqqae.jpg'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587546/galleryp201_c8fukv_kvfz66.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587546/galleryp202_uzqaot_qe2gao.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587547/galleryp203_ppqqae_x62zlr.jpg'
         ],
         category: 'Bike Accessories',
         subcategory: 'Handguards',
@@ -525,11 +525,11 @@ const catalogProducts = [
         name: 'Yamaha FZ Tank Bag Magnetic',
         price: 2499,
         discount: 20,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784026158/product21_vmeha3.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587892/product21_vmeha3_gjpfv2.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784027280/galleryp211_vka1qr.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784027276/galleryp212_zdlzo7.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784027272/galleryp213_e2udft.jpg'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588056/galleryp211_vka1qr_mmkhs5.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588056/galleryp212_zdlzo7_xfmgnu.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588057/galleryp213_e2udft_pdwwse.jpg'
         ],
         category: 'Touring',
         subcategory: 'Tank Bags',
@@ -551,11 +551,11 @@ const catalogProducts = [
         name: 'Zana Universal Mobile Holder with USB Charger',
         price: 3000,
         discount: 12,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784026154/product2_owiusd.webp',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587891/product2_owiusd_sfk4da.webp',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784027268/galleryp221_zfzurd.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784027263/galleryp222_zpdygb.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784027260/galleryp223_lzkeo6.webp'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588057/galleryp221_zfzurd_dgfc5w.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588057/galleryp222_zpdygb_flt6fy.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588058/galleryp223_lzkeo6_c8ievb.webp'
         ],
         category: 'Lighting',
         subcategory: 'Electricals',
@@ -577,11 +577,11 @@ const catalogProducts = [
         name: 'Royal Enfield Himalayan 450 Top Box 42 Ltr (Black)',
         price: 15999,
         discount: 0,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784026150/product23_rcwbsi.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587892/product23_rcwbsi_i9xrfi.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784027255/galleryp231_jtxvvr.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784027252/galleryp232_jelbhn.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784027247/galleryp233_kcwuu6.jpg'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588059/galleryp231_jtxvvr_nlrsrj.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588060/galleryp233_kcwuu6_uefrsm.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588059/galleryp232_jelbhn_tj1kn3.webp'
         ],
         category: 'Touring',
         subcategory: 'Top Boxes',
@@ -603,11 +603,11 @@ const catalogProducts = [
         name: 'MOTO TORQUE BACK REST',
         price: 1799,
         discount: 15,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784026147/4_j1x4kz.webp',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587891/4_j1x4kz_limyza.webp',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784027243/galleryp241_o7coky.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784027239/galleryp242_jkqkme.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784027235/galleryp243_d4ykeb.webp'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588061/galleryp241_o7coky_zjlheo.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588061/galleryp242_jkqkme_o2nypm.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588062/galleryp243_d4ykeb_pco7wt.webp'
         ],
         category: 'Touring',
         subcategory: 'Back Rests',
@@ -629,11 +629,11 @@ const catalogProducts = [
         name: 'Rynox Unisex Adult H2Go Pro 3 Rain Standard Length Jacket',
         price: 1350,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784026139/product25_auupre.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587893/product25_auupre_zemwi4.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784027231/galleryp251_z2q60a.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784027227/galleryp252_zz7jlt.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784027223/galleryp253_okk1r6.jpg'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588062/galleryp251_z2q60a_rcwp34.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588063/galleryp252_zz7jlt_iya5c7.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588064/galleryp253_okk1r6_qefixt.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Rain Gear',
@@ -655,11 +655,11 @@ const catalogProducts = [
         name: 'KTM Duke Exhaust Slip-On Vagary Akrapovic Exhaust Universal',
         price: 5590,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784026135/product26_t6a6rn.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587894/product26_t6a6rn_enovxn.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784027218/galleryp261_qjvabc.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784027214/galleryp262_tptoly.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784027210/galleryp263_gupvry.jpg'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588065/galleryp261_qjvabc_vrhski.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588065/galleryp262_tptoly_qzybsl.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588066/galleryp263_gupvry_djf0qs.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Exhaust',
@@ -681,11 +681,11 @@ const catalogProducts = [
         name: 'Barkbusters Storm Guards',
         price: 4499,
         discount: 0,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784026131/product27_dafiqt.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587896/product27_dafiqt_yebu5c.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784027206/galleryp271_en1vl4.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784027202/galleryp272_hpy619.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784027199/galleryp273_u6b27i.jpg'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588066/galleryp271_en1vl4_mcmcqm.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588068/galleryp273_u6b27i_fwvzy9.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588068/galleryp272_hpy619_csqbme.webp'
         ],
         category: 'Bike Accessories',
         subcategory: 'Handguards',
@@ -707,11 +707,11 @@ const catalogProducts = [
         name: 'Rynox Air GT Gloves',
         price: 2999,
         discount: 20,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784026127/product28_y7jkia.webp',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587895/product28_y7jkia_i5g0z2.webp',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784027195/galleryp281_n0sqxa.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784027190/galleryp282_akqnkb.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784027186/galleryp283_lntr4c.webp'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588069/galleryp281_n0sqxa_jxyepe.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588069/galleryp282_akqnkb_j8i8ni.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588070/galleryp283_lntr4c_odi4wq.webp'
         ],
         category: 'Riding Gear',
         subcategory: 'Gloves',
@@ -733,11 +733,11 @@ const catalogProducts = [
         name: 'Universal Led Fog Light (ZFL-70)',
         price: 5999,
         discount: 25,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784026124/product29_tiriaw.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790587896/product29_tiriaw_l6zbwk.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784027182/galleryp291_x0iqpf.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784027178/galleryp292_zyfkhg.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784027174/galleryp293_nkioth.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588071/galleryp291_x0iqpf_nv2jq6.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588071/galleryp292_zyfkhg_mkqclg.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588071/galleryp293_nkioth_kpwz1q.png'
         ],
         category: 'Lighting',
         subcategory: 'Indicators',
@@ -759,11 +759,11 @@ const catalogProducts = [
         name: 'MOTO TORQUE ROVER - SADDLE STAY FOR REBORN CLASSIC 350',
         price: 7999,
         discount: 15,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784026121/product30_ow7br6.webp',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588026/product30_ow7br6_lyqxmh.webp',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784027170/galleryp301_tajl2j.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784027166/galleryp302_jfresm.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784027163/galleryp303_lamgrx.webp'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588072/galleryp301_tajl2j_rpsuaw.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588073/galleryp302_jfresm_ttvs3l.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588073/galleryp303_lamgrx_aznnio.webp'
         ],
         category: 'Touring',
         subcategory: 'Saddle Bags',
@@ -785,11 +785,11 @@ const catalogProducts = [
         name: 'Studds Shifter D2 Helmet',
         price: 1999,
         discount: 30,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784027767/product31_nt9zpr.webp',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588377/product31_nt9zpr_hvmrxm.webp',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784028563/galleryp311_h2ref8.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784028558/galleryp312_uah3bk.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784028554/galleryp313_gjdenr.webp'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588603/galleryp311_h2ref8_gxwu3j.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588603/galleryp312_uah3bk_q8fty3.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588603/galleryp313_gjdenr_uvfsll.webp'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -811,11 +811,11 @@ const catalogProducts = [
         name: 'Royal Enfield Chain Lube 500ml',
         price: 599,
         discount: 0,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784027763/product32_cq4x0s.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588377/product32_cq4x0s_poylx6.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784028549/galleryp321_fy381r.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784028544/galleryp322_u26yna.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784028540/galleryp323_yxgaz7.jpg'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588604/galleryp321_fy381r_iuxvxp.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588604/galleryp322_u26yna_amaa1r.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588606/galleryp323_yxgaz7_vnyjkf.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Lubricants',
@@ -837,11 +837,11 @@ const catalogProducts = [
         name: 'MOTO CARE UPPER LOWER CRASH GUARD FOR BMW F850 GS',
         price: 15999,
         discount: 0,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784027758/product33_fwzrlj.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588378/product33_fwzrlj_mptvlc.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784028536/galleryp331_zkso3c.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784028531/galleryp332_dord2y.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784028527/galleryp333_iidfeg.jpg'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588607/galleryp331_zkso3c_uxevmh.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588608/galleryp332_dord2y_p4a1at.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588608/galleryp333_iidfeg_c6b6ws.jpg'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -863,11 +863,11 @@ const catalogProducts = [
         name: 'Raida Tourer Riding Jacket (Grey)',
         price: 4999,
         discount: 20,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784027754/product34_hfyp39.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588378/product34_hfyp39_hrggwn.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784028522/galleryp33_tiimzd.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784028518/galleryp342_dn3lh7.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784028514/galleryp343_rdzcrw.jpg'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588610/galleryp343_rdzcrw_hrby2p.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588609/galleryp342_dn3lh7_teagao.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588610/galleryp343_rdzcrw_hrby2p.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Jackets',
@@ -889,11 +889,11 @@ const catalogProducts = [
         name: 'MOTO TORQUE KTM ADVENTURE 390 - Fog Light Mount',
         price: 4999,
         discount: 15,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784027749/product35_znhupr.webp',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588378/product35_znhupr_fvqls1.webp',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784028509/galleryp351_vq2om7.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784028505/galleryp352_eej90y.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784028501/galleryp353_izttwp.webp'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588611/galleryp351_vq2om7_rfk6es.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588612/galleryp352_eej90y_a1oq6j.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588612/galleryp353_izttwp_xnhihb.webp'
         ],
         category: 'Lighting',
         subcategory: 'Fog Lamps',
@@ -915,11 +915,11 @@ const catalogProducts = [
         name: 'Rynox ADVENTO PRO PANTS',
         price: 7950,
         discount: 25,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784027745/product36_uinyeg.webp',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588379/product36_uinyeg_brovq3.webp',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784028496/galleryp361_vtllo0.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784028492/galleryp362_gbgxyz.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784028488/galleryp363_kbwfms.jpg'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588613/galleryp361_vtllo0_tnagto.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588615/galleryp362_gbgxyz_dbwkhq.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588616/galleryp363_kbwfms_dqbent.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Rain Gear',
@@ -941,11 +941,11 @@ const catalogProducts = [
         name: 'Universal Bike Horn, 12V Loud Sound',
         price: 599,
         discount: 20,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784027741/product36_nyw4ql.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588378/product36_nyw4ql_m2mlpo.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784028483/galleryp371_tl7skq.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784028479/galleryp372_yidvxk.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784028475/galleryp373_uknh5i.jpg'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588616/galleryp371_tl7skq_blr7oe.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588616/galleryp372_yidvxk_kplfpp.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588617/galleryp373_uknh5i_akehst.jpg'
         ],
         category: 'Lighting',
         subcategory: 'Electricals',
@@ -967,11 +967,11 @@ const catalogProducts = [
         name: 'Royal Enfield HIMALAYAN 450 - ENGINE GUARD (ALUMINIUM)',
         price: 2800,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784027737/product38_nhxh1a.webp',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588381/product38_nhxh1a_yks985.webp',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784028470/galleryp381_jdmn7j.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784028466/galleryp382_lsjpmf.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784028462/galleryp383_wu87sk.webp'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588619/galleryp381_jdmn7j_e5xmnd.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588619/galleryp382_lsjpmf_runtsx.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588620/galleryp383_wu87sk_dlzgj3.webp'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Protection',
@@ -993,11 +993,11 @@ const catalogProducts = [
         name: 'LGP 3 digit Anti Theft Helmet Lock Portable',
         price: 499,
         discount: 0,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784027732/product39_fxmn2c.webp',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588381/product39_fxmn2c_ta781y.webp',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784028457/galleryp391_qrspam.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784028453/galleryp392_m6sh4t.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784028449/galleryp393_teg6bu.webp'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588620/galleryp391_qrspam_vimla7.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588622/galleryp392_m6sh4t_elzups.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588622/galleryp393_teg6bu_lg5j0f.webp'
         ],
         category: 'Bike Accessories',
         subcategory: 'Locks',
@@ -1019,11 +1019,11 @@ const catalogProducts = [
         name: 'Raida Tourer Motorcycle Boots | Grey',
         price: 3999,
         discount: 25,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784027729/product40_ynnja2.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588382/product40_ynnja2_b9iohu.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784028445/galleryp401_psodib.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784028440/galleryp402_snsnur.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784028438/galleryp403_wj03ji.jpg'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588624/galleryp401_psodib_lttgon.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588624/galleryp402_snsnur_rijsao.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588625/galleryp403_wj03ji_waulji.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Boots',
@@ -1045,11 +1045,11 @@ const catalogProducts = [
         name: 'Barkbusters Carbon Fiber Guards',
         price: 16999,
         discount: 0,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784029147/product41_vee3n3.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589035/product41_vee3n3_o3yip2.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784030235/galleryp411_wfmzly.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784030234/galleryp412_abnbgh.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784030234/galleryp413_ouwpyn.jpg'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589237/galleryp411_wfmzly_evszso.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589239/galleryp412_abnbgh_jp1h1d.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589240/galleryp413_ouwpyn_vlcutl.jpg'
         ],
         category: 'Bike Accessories',
         subcategory: 'Handguards',
@@ -1071,11 +1071,11 @@ const catalogProducts = [
         name: 'KTM Duke Bar End Mirrors',
         price: 1299,
         discount: 15,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784029147/product42_imwab4.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589036/product42_imwab4_vkkswv.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784030234/galleryp421_i6j25k.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784030233/galleryp422_e1wxti.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784030231/galleryp423_u2qz5k.jpg'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589242/galleryp421_i6j25k_mzwgzg.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589243/galleryp422_e1wxti_vxamn0.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589245/galleryp423_u2qz5k_xa0wzl.jpg'
         ],
         category: 'Bike Accessories',
         subcategory: 'Mirrors',
@@ -1097,11 +1097,11 @@ const catalogProducts = [
         name: 'Rynox Stealth Evo Pants Grey',
         price: 8999,
         discount: 20,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784029146/product43_qku1ah.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589038/product43_qku1ah_cwcjus.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784030231/galleryp431_tscuor.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784030230/galleryp432_wq2blm.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784030230/galleryp433_s2dkk0.jpg'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589246/galleryp431_tscuor_g4v1kj.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589248/galleryp432_wq2blm_lhao0f.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589249/galleryp433_s2dkk0_y77u1h.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Pants',
@@ -1123,11 +1123,11 @@ const catalogProducts = [
         name: 'TAIL TIDY BLACK FOR TRIUMPH SPEED 400 X',
         price: 1499,
         discount: 30,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784029148/product44_uf4imo.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589040/product44_uf4imo_muoawq.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784030229/galleryp441_e9evq5.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784030228/galleryp442_ntojdc.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784030228/galleryp443_jfeonn.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589251/galleryp441_e9evq5_h25aqx.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589253/galleryp442_ntojdc_bo4kzr.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589254/galleryp443_jfeonn_o8ndrv.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Tail Tidy',
@@ -1149,11 +1149,11 @@ const catalogProducts = [
         name: 'Royal Enfield Touring Dual Seat For Royal Enfield Interceptor 650 ',
         price: 4699,
         discount: 0,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784029147/product45_thvifj.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589039/product45_thvifj_nfgg9n.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784030228/galleryp451_uduaaq.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784030227/galleryp452_te62ao.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784030226/galleryp453_x9bpju.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589257/galleryp451_uduaaq_rhgagq.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589257/galleryp452_te62ao_zksngz.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589259/galleryp453_x9bpju_vctolq.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Seats',
@@ -1175,11 +1175,11 @@ const catalogProducts = [
         name: 'Pro Taper Sport Bike handle Grip',
         price: 299,
         discount: 25,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784029147/product46_pplwf3.webp',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589041/product46_pplwf3_tr3god.webp',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784030226/galleryp461_seyrzf.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784030225/galleryp462_ex5c3u.webp',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784030225/galleryp463_bry5e8.webp'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589258/galleryp461_seyrzf_g3kj4x.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589260/galleryp462_ex5c3u_itvtvs.webp',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589261/galleryp463_bry5e8_jibfy3.webp'
         ],
         category: 'Bike Accessories',
         subcategory: 'Grips',
@@ -1201,11 +1201,11 @@ const catalogProducts = [
         name: 'Raida Drift Evo Motorcycle Gloves',
         price: 5999,
         discount: 20,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784029146/product47_vudv5w.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589042/product47_vudv5w_aqf86k.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784030224/galleryp471_zag8ee.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784030223/galleryp473_cbvyyv.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784030223/galleryp472_ffrnrq.jpg'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589263/galleryp471_zag8ee_smrdby.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589264/galleryp472_ffrnrq_nzaxru.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589266/galleryp473_cbvyyv_dxfhin.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Gloves',
@@ -1227,9 +1227,9 @@ const catalogProducts = [
         name: 'Reise Motorrad Riding Socks',
         price: 4999,
         discount: 0,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784029146/product48_st4qz3.webp',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589043/product48_st4qz3_nuze6t.webp',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784030222/galleryp481_bbnqnu.webp'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589267/galleryp481_bbnqnu_yxzo6e.webp'
         ],
         category: 'Riding Gear',
         subcategory: 'Accessories',
@@ -1251,11 +1251,11 @@ const catalogProducts = [
         name: 'MOTO CARE KTM DUKE CRASH GUARD WITH DUAL SLIDERS FOR 250/390 BS6',
         price: 4699,
         discount: 15,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1772786318/1707652507_65c8b59be6ab2.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589045/product49_sz3zo6_ej9qet.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784030223/galleryp491_immlhd.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784030222/galleryp492_ddfesg.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784030222/galleryp493_w60oeg.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589269/galleryp491_immlhd_omhhye.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589271/galleryp492_ddfesg_r3pckw.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589272/galleryp493_w60oeg_xb55fz.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Protection',
@@ -1277,11 +1277,11 @@ const catalogProducts = [
         name: 'Rynox Navigator Backpack 30L',
         price: 3599,
         discount: 25,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1772786525/61cUScxqdlL._SL1080_.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589046/product50_axjsdv_v94mdq.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784030222/galleryp501_zqsfsq.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784030222/galleryp502_oerop3.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784030221/galleryp503_nygted.jpg'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589273/galleryp501_zqsfsq_ayooj9.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589274/galleryp502_oerop3_mgmxxh.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589276/galleryp503_nygted_aaiipt.jpg'
         ],
         category: 'Touring',
         subcategory: 'Backpacks',
@@ -1303,11 +1303,11 @@ const catalogProducts = [
         name: 'MOTO CARE TYPE 2 - TYRE HUGGER FOR DUKE 250/390 BS6',
         price: 1699,
         discount: 15,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784031353/product51_gf2mld.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589642/product51_gf2mld_kplng2.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784031463/galleryp511_rjq7bv.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784031462/galleryp512_oa0xae.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784031461/galleryp513_kyqj0r.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589830/galleryp511_rjq7bv_fupuac.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589832/galleryp512_oa0xae_qr0ni5.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589834/galleryp513_kyqj0r_uvnxsx.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Protection',
@@ -1329,11 +1329,11 @@ const catalogProducts = [
         name: 'MOTO CARE POLYCARBONATE VISOR FOR KTM DUKE 250/390 BS6',
         price: 1799,
         discount: 15,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784031352/product52_j6kraf.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589643/product52_j6kraf_devwvc.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784031460/galleryp521_jyhxb9.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784031459/galleryp522_ixpeo7.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784031458/galleryp523_qvzqgx.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589836/galleryp521_jyhxb9_bkzmsq.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589837/galleryp522_ixpeo7_ljrjny.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589839/galleryp523_qvzqgx_mumeo4.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Wind Deflectors',
@@ -1355,11 +1355,11 @@ const catalogProducts = [
         name: 'MOTO CARE TYRE HUGGER FOR DUKE 250/390 BS6',
         price: 1699,
         discount: 15,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784031351/product53_a1mtqk.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589644/product53_a1mtqk_ocqrq0.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784031457/galleryp531_jpx9hv.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784031457/galleryp532_z1kt2u.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784031456/galleryp534_urwjez.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589841/galleryp531_jpx9hv_oijyy4.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589843/galleryp532_z1kt2u_lkybbb.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589845/galleryp534_urwjez_pvwu4j.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Protection',
@@ -1381,11 +1381,11 @@ const catalogProducts = [
         name: 'MOTO CARE NUMBER PLATE HOLDER FOR DUKE 250/390 BS6',
         price: 1199,
         discount: 15,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784031350/product54_cho2g2.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589646/product54_cho2g2_ev1k7a.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784031454/galleryp543_o4vtrq.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784031454/galleryp542_dt5ktu.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784031455/galleryp541_o2jasw.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589846/galleryp541_o2jasw_odszok.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589848/galleryp542_dt5ktu_skaupp.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589850/galleryp543_o4vtrq_tya4im.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Protection',
@@ -1407,11 +1407,11 @@ const catalogProducts = [
         name: 'MOTO CARE CNC CARRIER PLATE FOR DUKE 250/390 BS6',
         price: 2599,
         discount: 15,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784031349/product_55_qagvnu.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589640/product_55_qagvnu_xdxusn.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784031453/galleryp551_liwxxj.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784031452/galleryp552_oyjxvq.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784031452/galleryp553_ug7g7i.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589851/galleryp551_liwxxj_pkkmlj.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589853/galleryp552_oyjxvq_i6uv62.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589854/galleryp553_ug7g7i_p0qnxm.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -1433,11 +1433,11 @@ const catalogProducts = [
         name: 'MOTO CARE CNC CARRIER PLATE AND BACKREST FOR DUKE 250/390 BS6',
         price: 3599,
         discount: 15,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784031348/product56_gx3zqv.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589647/product56_gx3zqv_sqjtzr.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784031451/galleryp561_thdch7.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784031450/galleryp562_fjhsep.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784031449/galleryp563_qbgdb7.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589856/galleryp561_thdch7_amhcmu.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589858/galleryp562_fjhsep_bcsklg.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589859/galleryp563_qbgdb7_muwokc.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -1459,11 +1459,11 @@ const catalogProducts = [
         name: 'MOTO CARE PIPE CARRIER FOR DUKE 250/390 BS6',
         price: 2560,
         discount: 15,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784031348/product57_nc6jer.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589649/product57_nc6jer_jp3kal.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784031448/galleryp571_hxakyd.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784031448/galleryp572_gc0kmt.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784031446/galleryp573_mzlxub.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589861/galleryp571_hxakyd_t6wlma.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589862/galleryp572_gc0kmt_dwbkyd.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589864/galleryp573_mzlxub_fmxkfz.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -1485,11 +1485,11 @@ const catalogProducts = [
         name: 'MOTO CARE 4 SLIDER CRASH GUARD FOR DUKE 250/390 BS6',
         price: 4640,
         discount: 15,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784031348/product58_q7u5db.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589651/product58_q7u5db_f3j1vt.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784031445/galleryp581_zgg1sd.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784031443/galleryp582_b5ztsq.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784031412/galleryp583_mhl6on.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589866/galleryp581_zgg1sd_s2reek.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589867/galleryp582_b5ztsq_bdrptt.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589869/galleryp583_mhl6on_yjfqm5.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Protection',
@@ -1511,11 +1511,11 @@ const catalogProducts = [
         name: 'MOTO CARE CRASH GUARD WITH DUAL SLIDERS FOR DUKE 250/390 BS6',
         price: 4640,
         discount: 15,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784031347/product59_qxr9wt.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589652/product59_qxr9wt_qupove.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784031411/galleryp590_yydmcb.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784031410/galleryp592_y8dxfe.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784031409/galleryp593_gbvp9t.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589870/galleryp590_yydmcb_syxqe6.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589872/galleryp592_y8dxfe_fwp9va.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589874/galleryp593_gbvp9t_nbxb4h.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Protection',
@@ -1537,11 +1537,11 @@ const catalogProducts = [
         name: 'MOTO CARE UPPER LOWER CRASH GUARD ( ORANGE ) FOR ADVENTURE',
         price: 8000,
         discount: 15,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784031347/product60_qieuen.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589654/product60_qieuen_e3xmhb.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784031409/galleryp601_rsboyi.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784031408/galleryp602_nmlz1v.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784031407/galleryp603_wcdkgl.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589875/galleryp601_rsboyi_qlbnfz.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589877/galleryp602_nmlz1v_xna4d3.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589879/galleryp603_wcdkgl_woeh6g.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Protection',
@@ -1563,11 +1563,11 @@ const catalogProducts = [
         name: 'MOTO CARE UPPER LOWER CRASH GUARD FOR ADVENTURE',
         price: 7200,
         discount: 5,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784032321/product61_xgcoyh.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590816/product61_xgcoyh_dyke2h.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784032433/galleryp611_cozchl.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784032432/galleryp612_bgqo02.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784032431/galleryp613_oak27w.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590960/galleryp611_cozchl_rqycks.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590963/galleryp612_bgqo02_crnibj.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590965/galleryp613_oak27w_rlcyuq.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Protection',
@@ -1589,11 +1589,11 @@ const catalogProducts = [
         name: 'MOTO CARE CRASH GUARD WITH DUAL SLIDERS FOR ADVENTURE 250/390',
         price: 5120,
         discount: 15,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784032320/product62_blkzsr.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590818/product62_blkzsr_nolnca.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784032430/galleryp621_vj89ww.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784032428/galleryp622_jz49dc.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784032427/galleryp623_kaqt4h.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590967/galleryp621_vj89ww_yllhhw.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590969/galleryp622_jz49dc_tu02we.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590971/galleryp623_kaqt4h_iyfbj6.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Protection',
@@ -1615,11 +1615,11 @@ const catalogProducts = [
         name: 'MOTO CARE CNC SADDLE STAY FOR KTM ADVENTURE',
         price: 2400,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784032319/product63_mhjjyg.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590819/product63_mhjjyg_gkev5g.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784032426/galleryp631_vd2igc.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784032425/galleryp632_c7omdb.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784032424/galleryp633_m6wb8m.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590973/galleryp631_vd2igc_zcbcgw.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590975/galleryp632_c7omdb_j32zbx.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590977/galleryp633_m6wb8m_vgbjw2.png'
         ],
         category: 'Touring',
         subcategory: 'Saddle Bags',
@@ -1641,11 +1641,11 @@ const catalogProducts = [
         name: 'MOTO CARE SADDLE STAY FOR ADVENTURE',
         price: 2400,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784032318/product64_r6vvmu.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590821/product64_r6vvmu_ym30zz.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784032423/galleryp641_xypg4m.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784032422/galleryp642_vp6ybr.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784032420/galleryp643_yehmvt.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590979/galleryp641_xypg4m_loyixc.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590981/galleryp642_vp6ybr_ez3w2c.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590983/galleryp643_yehmvt_wt6v2u.png'
         ],
         category: 'Touring',
         subcategory: 'Saddle Bags',
@@ -1667,11 +1667,11 @@ const catalogProducts = [
         name: 'MOTO CARE CNC CARRIER PLATE FOR KTM ADVENTURE',
         price: 2560,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784032317/product65_szsy4y.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590823/product65_szsy4y_sudqeh.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784032419/galleryp651_vesdhx.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784032418/galleryp652_qpj4gf.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784032417/galleryp653_mmmzsv.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590985/galleryp651_vesdhx_afaorf.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590987/galleryp652_qpj4gf_qpzlnh.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590989/galleryp653_mmmzsv_bfea8c.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -1693,11 +1693,11 @@ const catalogProducts = [
         name: 'MOTO CARE POLYCARBONATE VISOR FOR KTM ADVENTURE',
         price: 2240,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784032316/galleryp66_ustfoy.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590815/galleryp66_ustfoy_h69cyh.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784032416/galleryp661_pconvr.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784032415/galleryp662_yh4hln.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784032414/galleryp663_hiqv5z.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590991/galleryp661_pconvr_eamp3f.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590993/galleryp662_yh4hln_zczqg7.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590994/galleryp663_hiqv5z_rflhwg.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Wind Deflectors',
@@ -1719,11 +1719,11 @@ const catalogProducts = [
         name: 'MOTO CARE HEADLIGHT GRILL FOR ADVENTURE',
         price: 1600,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784032314/product67_femonp.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590825/product67_femonp_godrur.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784032411/galleryp673_xan4vx.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784032411/galleryp672_kk4ieq.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784032413/galleryp671_zrenh5.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590996/galleryp671_zrenh5_v8p0ks.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590998/galleryp672_kk4ieq_kbblao.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591000/galleryp673_xan4vx_zjdvfe.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Wind Deflectors',
@@ -1745,11 +1745,11 @@ const catalogProducts = [
         name: 'MOTO CARE GPS MOUNT FOR ADVENTURE',
         price: 880,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784032313/product68_jwdd8d.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590827/product68_jwdd8d_fhnxyt.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784032379/galleryp681_msdtnt.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784032378/galleryp682_bp4xl7.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784032361/galleryp683_benq33.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591002/galleryp681_msdtnt_qw0k3l.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591004/galleryp682_bp4xl7_kieier.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591007/galleryp683_benq33_utmfkb.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -1771,11 +1771,11 @@ const catalogProducts = [
         name: 'MOTO CARE FOG LIGHT CLAMP FOR ADVENTURE',
         price: 560,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784032313/product69_mosmye.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590829/product69_mosmye_tlhaz7.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784032360/galleryp691_ppdajp.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784032359/galleryp692_j6ltwo.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784032346/galleryp693_zygzy9.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591009/galleryp691_ppdajp_dnhfkv.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591011/galleryp692_j6ltwo_a4fjxn.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591013/galleryp693_zygzy9_virslw.png'
         ],
         category: 'Lighting',
         subcategory: 'Fog Lamps',
@@ -1797,11 +1797,11 @@ const catalogProducts = [
         name: 'MOTO CARE SUM GUARD FOR ADVENTURE 390',
         price: 3200,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784032312/product70_ziomwr.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590830/product70_ziomwr_hllwyu.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784032344/galleryp701_jp2mye.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784032343/galleryp6702_azezbu.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784032342/galleryp703_f3haaa.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591015/galleryp701_jp2mye_fv8v2b.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591017/galleryp703_f3haaa_kpr54u.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591019/galleryp6702_azezbu_mqwqto.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -1823,11 +1823,11 @@ const catalogProducts = [
         name: 'MOTO CARE CNC SIDE STAND EXTENDER (ORANGE) FOR ADVENTURE',
         price: 1360,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784033370/product71_z3djjh.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591249/product71_z3djjh_wujh6o.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784033507/galleyp711_syuuww.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784033506/galleyp712_rdzgtl.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784033504/galleyp713_swapiz.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591367/galleyp711_syuuww_f92tzs.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591369/galleyp712_rdzgtl_f3ov5h.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591372/galleyp713_swapiz_qzagcv.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -1849,11 +1849,11 @@ const catalogProducts = [
         name: 'MOTO CARE SIDE STAND EXTENDER (BLACK) FOR ADVENTURE',
         price: 1360,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784033369/product72_zafi5g.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591251/product72_zafi5g_dzx3eo.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784033502/galleyp721_yxpofe.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784033501/galleyp722_lj1v38.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784033499/galleyp72_stvaib.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591374/galleyp721_yxpofe_q3y4nk.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591376/galleyp722_lj1v38_g21eme.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591365/galleyp72_stvaib_mnpzou.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -1875,11 +1875,11 @@ const catalogProducts = [
         name: 'MOTO CARE RADIATOR GUARD (KTM LOGO) FOR KTM ADVENTURE',
         price: 1920,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784033367/product73_iyu6y9.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591253/product73_iyu6y9_orwp9f.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784033494/galleyp733_gmyinx.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784033496/galleyp732_uxpff2.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784033497/galleyp731_cz0ir3.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591379/galleyp731_cz0ir3_w2afvj.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591381/galleyp732_uxpff2_ucku8o.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591384/galleyp733_gmyinx_twjzll.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -1901,11 +1901,11 @@ const catalogProducts = [
         name: 'MOTO CARE TAIL TIDY FOR DUKE 250/390 GEN-3',
         price: 880,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784033366/product74_eivxtw.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591255/product74_eivxtw_nhphyb.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784033485/galleyp743_aojd8d.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784033490/galleyp742_b99qcd.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784033492/galleyp741_jqoiur.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591386/galleyp741_jqoiur_dz30da.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591388/galleyp742_b99qcd_qnqzj8.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591391/galleyp743_aojd8d_xm5zix.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Tail Tidy',
@@ -1927,11 +1927,11 @@ const catalogProducts = [
         name: 'MOTO CARE POLYCARBONATE VISOR FOR KTM DUKE 250/390 GEN-3',
         price: 1760,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784033365/product75_jjluhq.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591257/product75_jjluhq_eojcbd.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784033483/galleyp751_xnvd7s.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784033477/galleyp752_smlsxe.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784033471/galleyp753_g9daqu.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591393/galleyp751_xnvd7s_q9xvhe.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591395/galleyp752_smlsxe_n5nenl.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591397/galleyp753_g9daqu_j0ufw8.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Wind Deflectors',
@@ -1953,11 +1953,11 @@ const catalogProducts = [
         name: 'MOTO CARE TYRE HUGGER FOR KTM DUKE 250/390 GEN-3',
         price: 1600,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784033363/product76_fzpme1.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591259/product76_fzpme1_hcl62c.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784033455/galleyp763_qvovac.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784033462/galleyp762_ecjvks.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784033467/galleyp761_jy4y2i.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591399/galleyp761_jy4y2i_n8f0nh.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591402/galleyp762_ecjvks_o9xgt0.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591404/galleyp763_qvovac_rizlar.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -1979,11 +1979,11 @@ const catalogProducts = [
         name: 'MOTO CARE CRASH GUARD WITH DUAL SLIDERS (BLACK) FOR KTM DUKE 250/390 GEN-3',
         price: 4640,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784033362/produt77_szk4bu.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591267/produt77_szk4bu_ouhkoa.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784033441/galleyp773_hxnbx1.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784033447/galleyp772_prz2vs.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784033454/galleyp771_ndc9kv.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591406/galleyp771_ndc9kv_ehuch7.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591408/galleyp772_prz2vs_yzf7fy.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591410/galleyp773_hxnbx1_cczfpr.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -2005,11 +2005,11 @@ const catalogProducts = [
         name: 'MOTO CARE CRASH GUARD (ORANGE) WITH DUAL SLIDERS FOR KTM DUKE 250/390 GEN-3',
         price: 4800,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784033361/product78_powrz4.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591261/product78_powrz4_lfstmw.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784033435/galleyp781_w25hzo.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784033433/galleyp782_q1f4rt.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784033426/galleyp783_v6wjck.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591413/galleyp781_w25hzo_qcsohu.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591415/galleyp782_q1f4rt_pcgv84.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591417/galleyp783_v6wjck_awyldj.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -2031,11 +2031,11 @@ const catalogProducts = [
         name: 'MOTO CARE SADDLE STAY FOR KTM DUKE 250/390 GEN-3',
         price: 2400,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784033359/product79_qwuxgx.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591263/product79_qwuxgx_qqcvlm.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784033418/galleyp793_onyc2c.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784033419/galleyp792_i9uhlx.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784033425/galleyp791_cbuugi.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591420/galleyp791_cbuugi_gogmle.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591422/galleyp792_i9uhlx_rdskqk.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591424/galleyp793_onyc2c_ws0epp.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -2057,11 +2057,11 @@ const catalogProducts = [
         name: 'MOTO CARE RADIATOR GUARD (BLACK) FOR KTM DUKE 250/390 GEN-3',
         price: 1200,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784033359/product80_pthsat.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591264/product80_pthsat_ljrvjk.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784033416/galleyp801_xt6qy8.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784033414/galleyp802_xuevuq.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784033392/galleyp803_ppjiil.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591427/galleyp801_xt6qy8_lwsbdu.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591430/galleyp802_xuevuq_sjkdq3.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591431/galleyp803_ppjiil_psardy.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -2083,11 +2083,11 @@ const catalogProducts = [
         name: 'MOTO CARE SADDLE STAY WITH PLATE FOR DUKE 200/390 BS4',
         price: 2400,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784034222/product81_nor08b.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591634/product81_nor08b_xrm9of.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784034410/galleryp811_hob0of.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784034410/galleryp811_hob0of.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784034401/galleryp812_ltd41w.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591874/galleryp811_hob0of_evn2fz.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591878/galleryp812_ltd41w_bd5cnm.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591880/galleryp813_hwvz9v_o5eupt.png'
         ],
         category: 'Touring',
         subcategory: 'Saddle Bags',
@@ -2109,11 +2109,11 @@ const catalogProducts = [
         name: 'MOTO CARE TYRE HUGGER FOR DUKE 200/390 BS4',
         price: 1600,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784034220/product82_ttqbdw.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591637/product82_ttqbdw_e9ckce.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784034394/galleryp822_sdi7ar.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784034396/galleryp823_tuyrik.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784034398/galleryp821_v2k5f9.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591882/galleryp821_v2k5f9_yv4844.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591885/galleryp822_sdi7ar_esgbqo.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591887/galleryp823_tuyrik_jiphyj.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -2135,11 +2135,11 @@ const catalogProducts = [
         name: 'MOTO CARE PLATE CARRIER WITH BACKREST FOR DUKE 200/390 BS4',
         price: 3600,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784034219/product83_xznfpp.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591640/product83_xznfpp_cs5sqx.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784034388/galleryp833_m48kbn.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784034390/galleryp832_tvk413.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784034392/galleryp831_pq88o6.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591889/galleryp831_pq88o6_jlc2g6.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591891/galleryp832_tvk413_oavibm.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591893/galleryp833_m48kbn_cagevn.png'
         ],
         category: 'Touring',
         subcategory: 'Saddle Bags',
@@ -2161,11 +2161,11 @@ const catalogProducts = [
         name: 'MOTO CARE PLATE CARRIER FOR DUKE 200/390 BS4',
         price: 2560,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784034217/product84_zc1myt.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591643/product84_zc1myt_dthvev.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784034374/galleryp846_g2mdmu.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784034383/galleryp845_andkt5.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784034385/galleryp841_n6wiwh.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591895/galleryp841_n6wiwh_yoxoob.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591897/galleryp845_andkt5_rmj1bk.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591900/galleryp846_g2mdmu_qfdsdr.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -2187,11 +2187,11 @@ const catalogProducts = [
         name: 'MOTO CARE 4 SLIDER CRASH GUARD FOR DUKE 200/390 BS4',
         price: 4160,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784034215/product85_l3kjlb.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591645/product85_l3kjlb_nkjkdq.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784034359/galleryp853_txyqff.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784034366/galleryp852_shqj7z.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784034368/galleryp851_yfco9v.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591902/galleryp851_yfco9v_i0xawc.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591905/galleryp852_shqj7z_kqmvra.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591907/galleryp853_txyqff_ket9jf.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -2213,11 +2213,11 @@ const catalogProducts = [
         name: 'MOTO CARE FORK SLIDERS SET OF 4 (FRONT AND BACK) FOR KTM DUKE 200/390 BS4',
         price: 2240,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784034214/product86_nzbrcg.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591647/product86_nzbrcg_oftjz9.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784034348/galleryp863_dunpni.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784034350/galleryp862_ce1hyq.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784034352/galleryp861_hqeg3k.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591910/galleryp861_hqeg3k_jjrvo8.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591912/galleryp862_ce1hyq_ygkctm.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591915/galleryp863_dunpni_gffjc5.jpg'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -2239,11 +2239,11 @@ const catalogProducts = [
         name: 'MOTO CARE CRASH GUARD WITH DUAL SLIDERS (WITH LOGO) FOR DUKE 200 BS6',
         price: 4160,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784034212/product87_kbnn7x.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591650/product87_kbnn7x_fe56uy.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784034340/galleryp871_leg10m.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784034338/galleryp872_vmbuy6.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784034330/galleryp873_ilkjqi.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591917/galleryp871_leg10m_mv8lzt.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591920/galleryp872_vmbuy6_awkp0p.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591922/galleryp873_ilkjqi_wagkxa.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -2265,11 +2265,11 @@ const catalogProducts = [
         name: 'MOTO CARE SADDLE STAY WITH PLATE FOR DUKE 200 BS6',
         price: 2400,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784034211/product88_tvpqvm.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591652/product88_tvpqvm_gm2j76.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784034322/galleryp881_uqkrle.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784034314/galleryp882_cqmifc.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784034312/galleryp883_y5fltr.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591925/galleryp881_uqkrle_z0adnk.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591928/galleryp882_cqmifc_kifemz.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591931/galleryp883_y5fltr_quxrgq.png'
         ],
         category: 'Touring',
         subcategory: 'Saddle bags',
@@ -2291,11 +2291,11 @@ const catalogProducts = [
         name: 'MOTO CARE CNC CARRIER WITH PLATE FOR DUKE 200 BS6',
         price: 2560,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784034210/product89_xlcyqo.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591654/product89_xlcyqo_rxiksk.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784034291/galleryp893_lallrt.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784034293/galleryp892_jezykj.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784034305/galleryp890_jyy9l7.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591933/galleryp890_jyy9l7_b24gx4.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591936/galleryp892_jezykj_fwztts.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591939/galleryp893_lallrt_ax8rc5.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -2317,11 +2317,11 @@ const catalogProducts = [
         name: 'MOTO CARE CNC CARRIER PLATE AND BACKREST FOR DUKE 200 BS6',
         price: 3600,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784034208/product90_hje21z.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591656/product90_hje21z_lomlho.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784034238/galleryp903_ufxuqq.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784034286/galleryp902_ryrc05.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784034288/galleryp901_pvdfdy.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591941/galleryp901_pvdfdy_ffbs9o.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591944/galleryp902_ryrc05_yh2oes.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591946/galleryp903_ufxuqq_br2a2w.png'
         ],
         category: 'Touring',
         subcategory: 'Saddle bags',
@@ -2343,11 +2343,11 @@ const catalogProducts = [
         name: 'MOTO CARE PIPE CARRIER FOR DUKE 200 BS6',
         price: 2560,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784035100/product91_zvzhkk.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591673/product91_zvzhkk_t9bexq.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784035301/gallerryp911_lhrqau.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784035299/galleryp912_lg0jq1.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784035297/galleryp913_u8ru8q.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790592139/gallerryp911_lhrqau_yjbtsg.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790592142/galleryp912_lg0jq1_jmuiq8.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790592144/galleryp913_u8ru8q_xeip0g.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -2369,11 +2369,11 @@ const catalogProducts = [
         name: 'MOTO CARE FRAME SLIDERS FOR RC200/390',
         price: 1920,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784035098/product92_urn934.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591675/product92_urn934_prhh0k.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784035295/galleryp921_yienvp.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784035293/galleryp922_jw2y6j.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784035291/galleryp923_gdseyw.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790592147/galleryp921_yienvp_xh6wfy.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790592150/galleryp922_jw2y6j_t5w2mn.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790592153/galleryp923_gdseyw_bwrgcp.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -2395,11 +2395,11 @@ const catalogProducts = [
         name: 'MOTO CARE SADDLE STAY FOR RC200/390',
         price: 1920,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784035096/product933_jbxz1v.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591680/product933_jbxz1v_pudhgd.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784035288/galleryp931_ba01p0.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784035286/galleryp932_dadwe8.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784035283/galleryp933_moxqcr.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790592156/galleryp931_ba01p0_j5yct4.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790592159/galleryp932_dadwe8_wkhsnw.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790592162/galleryp933_moxqcr_wgnluc.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -2421,11 +2421,11 @@ const catalogProducts = [
         name: 'MOTO CARE PIPE CARRIER WITH BACKREST FOR RC200/390',
         price: 4220,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784035094/product94_wdp6f9.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591678/product94_wdp6f9_t2k9mj.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784035271/galleryp941_xkecll.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784035263/galleryp942_ylfo8j.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784035254/galleryp943_m95scu.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790592164/galleryp941_xkecll_dstgmt.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790592167/galleryp942_ylfo8j_issxlm.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790592170/galleryp943_m95scu_hwkif3.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -2447,11 +2447,11 @@ const catalogProducts = [
         name: 'MOTO CARE CRASH GUARD WITH DUAL SLIDERS FOR RC 200/390',
         price: 7200,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784035093/pro95_izwj1t.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591659/pro95_izwj1t_wjwqet.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784035247/galleryp951_qiiulu.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784035245/galleryp952_lqajjp.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784035242/galleryp953_aph9ki.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790592173/galleryp951_qiiulu_qidrws.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790592176/galleryp952_lqajjp_bqg8zk.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790592179/galleryp953_aph9ki_rzcgym.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -2473,11 +2473,11 @@ const catalogProducts = [
         name: 'MOTO CARE PIPE CARRIER WITH BACKREST FOR 2025 KTM ADVENTURE 250/390',
         price: 3600,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784035091/pro96_im37lu.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591662/pro96_im37lu_j8xitp.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784035234/galleryp961_d1rz2c.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784035226/galleryp962_q5x0el.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784035219/galleryp963_idti5g.pngs'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790592181/galleryp961_d1rz2c_n4vcqw.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790592184/galleryp962_q5x0el_qlnzx5.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790592187/galleryp963_idti5g_uerv1o.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -2499,11 +2499,11 @@ const catalogProducts = [
         name: 'MOTO CARE CNC STAND EXTENDER FOR 2025 KTM ADVENTURE 250/390',
         price: 1360,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784035089/pro97_zjhon1.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591664/pro97_zjhon1_hblfli.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784035212/galleryp971_fctwk7.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784035204/galleryp972_cr4h8h.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784035197/galleryp973_d20ue6.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790592189/galleryp971_fctwk7_lhl1hk.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790592193/galleryp972_cr4h8h_uj1tzn.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790592195/galleryp973_d20ue6_m1gzei.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -2525,11 +2525,11 @@ const catalogProducts = [
         name: 'MOTO CARE TYPE 2 (ORANGE) - CRASH GUARD WITH DUAL SLIDERS FOR 2025 KTM ADVENTURE 250/390',
         price: 4800,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784035087/pro98_hb4lfu.png',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591667/pro98_hb4lfu_shnced.png',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784035195/galleryp981_lyvid1.jpg',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784035142/galleryp982_uhoyzb.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784035125/galleryp983_h9czus.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790592198/galleryp981_lyvid1_zu3ubk.jpg',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790592201/galleryp982_uhoyzb_kp8o3r.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790592204/galleryp983_h9czus_gzgaei.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -2551,11 +2551,11 @@ const catalogProducts = [
         name: 'MOTO CARE TYPE 2 (BLACK) - CRASH GUARD WITH DUAL SLIDERS FOR 2025 KTM ADVENTURE 250/390',
         price: 4640,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784035085/pro99_eieuqb.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591669/pro99_eieuqb_l9rrqa.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784035123/galleryp991_vopvu4.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784035120/galleryp992_vmglhy.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784035118/galleryp993_spmsux.png'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790592207/galleryp991_vopvu4_ws2vnb.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790592209/galleryp992_vmglhy_dckba0.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790592212/galleryp993_spmsux_lxz7o5.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -2577,11 +2577,11 @@ const catalogProducts = [
         name: 'MOTO CARE CNC CARRIER WITH PLATE FOR 2025 KTM ADVENTURE 250/390',
         price: 2560,
         discount: 10,
-        image: 'https://res.cloudinary.com/twjztvms/image/upload/v1784035083/pro100_tjuxe9.jpg',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591671/pro100_tjuxe9_mfm3ih.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784035116/galleryp1001_frynkm.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784035114/galleryp1002_acacer.png',
-            'https://res.cloudinary.com/twjztvms/image/upload/v1784035112/galleryp1003_ttu4d4.pngs'
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790592215/galleryp1001_frynkm_mgr6p4.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790592218/galleryp1002_acacer_kbsvto.png',
+            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790592221/galleryp1003_ttu4d4_qv2qx1.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -41085,6 +41085,209 @@ const catalogProducts = [
         'Warranty': '1 Year Warranty'
     }
 },
+{
+    id: 1736,
+    name: 'Altitude Moto GPS Mount + RE Visor for RE Scram 440',
+    price: 6170,
+    discount: 0,
+    image: 'https://ik.imagekit.io/kno0oq7ci/motogears%20product/image.png',
+    galleryImages: [
+        'https://ik.imagekit.io/kno0oq7ci/motogears%20product/image(1).png',
+        'https://ik.imagekit.io/kno0oq7ci/motogears%20product/image(2).png',
+        'https://ik.imagekit.io/kno0oq7ci/motogears%20product/image(3).png'
+    ],
+    category: 'Motorcycle Accessories',
+    subcategory: 'GPS Mounts & Visors',
+    brand: 'Altitude Moto',
+    rating: 5,
+    reviews: 15,
+    isNew: true,
+    bikes: ['Royal Enfield Scram 440'],
+    description: 'Altitude Moto GPS Mount + RE Visor for Scram 440 offers stable navigation mounting and enhanced wind protection, featuring vibration-resistant mount design and aerodynamic visor setup for daily and touring rides. Designed specifically for Royal Enfield Scram 440 to maintain a clean cockpit look with proper positioning.',
+    specifications: {
+        'Product Type': 'GPS Mount + Visor Combo',
+        'Compatibility': 'Royal Enfield Scram 440',
+        'Mount Material': 'Metal Construction',
+        'Mount Function': 'Mobile / GPS Holder Support',
+        'Visor Material': 'Polycarbonate / Acrylic',
+        'Function': 'Navigation Support + Wind Protection',
+        'Package Contents': 'GPS Mount Bracket, Visor / Windshield, Mounting Hardware'
+    }
+},
+{
+    id: 1737,
+    name: 'Altitude Moto GPS Mount + RE Visor for Speed 400',
+    price: 6170,
+    discount: 0,
+    image: 'https://ik.imagekit.io/kno0oq7ci/motogears%20product/image(4).png',
+    galleryImages: [
+        'https://ik.imagekit.io/kno0oq7ci/motogears%20product/image(5).png',
+        'https://ik.imagekit.io/kno0oq7ci/motogears%20product/image(6).png',
+        'https://ik.imagekit.io/kno0oq7ci/motogears%20product/image(7).png'
+    ],
+    category: 'Motorcycle Accessories',
+    subcategory: 'GPS Mounts & Visors',
+    brand: 'Altitude Moto',
+    rating: 5,
+    reviews: 14,
+    isNew: true,
+    bikes: ['Triumph Speed 400'],
+    description: 'Altitude Moto GPS Mount + RE Visor for Speed 400 offers stable navigation mounting and enhanced wind protection, featuring vibration-resistant mount design and aerodynamic visor setup for daily and touring rides. Designed specifically for Speed 400 to maintain a clean cockpit look with proper positioning.',
+    specifications: {
+        'Product Type': 'GPS Mount + Visor Combo',
+        'Compatibility': 'Triumph Speed 400',
+        'Mount Material': 'Metal Construction',
+        'Mount Function': 'Mobile / GPS Holder Support',
+        'Visor Material': 'Polycarbonate / Acrylic',
+        'Function': 'Navigation Support + Wind Protection',
+        'Package Contents': 'GPS Mount Bracket, Visor / Windshield, Mounting Hardware'
+    }
+},
+{
+    id: 1738,
+    name: 'Altitude Royal Enfield OEM Adventure Windscreen for Himalayan 450',
+    price: 3220,
+    discount: 0,
+    image: 'https://ik.imagekit.io/kno0oq7ci/motogears%20product/image(8).png',
+    galleryImages: [
+        'https://ik.imagekit.io/kno0oq7ci/motogears%20product/image(9).png'
+    ],
+    category: 'Motorcycle Accessories',
+    subcategory: 'Windshields & Visors',
+    brand: 'Altitude',
+    rating: 5,
+    reviews: 9,
+    isNew: true,
+    bikes: ['Royal Enfield Himalayan 450'],
+    description: 'Altitude Royal Enfield OEM Adventure Windscreen for Himalayan 450 is designed to provide optimal wind deflection, reducing rider fatigue and buffeting during long highway cruising and rugged adventure rides.',
+    specifications: {
+        'Product Type': 'Adventure Windscreen / Visor',
+        'Compatibility': 'Royal Enfield Himalayan 450',
+        'Material': 'High Impact Polycarbonate',
+        'Position': 'Front Headlight Cowl / Fairing',
+        'Function': 'Wind Protection & Aerodynamics',
+        'Fitment Type': 'Direct OEM Fit'
+    }
+},
+{
+    id: 1739,
+    name: 'Altitude Moto GPS Mount + RE Visor for Scrambler 400 X',
+    price: 6170,
+    discount: 0,
+    image: 'https://ik.imagekit.io/kno0oq7ci/motogears%20product/image(10).png',
+    galleryImages: [
+        'https://ik.imagekit.io/kno0oq7ci/motogears%20product/image(11).png',
+        'https://ik.imagekit.io/kno0oq7ci/motogears%20product/image(12).png',
+        'https://ik.imagekit.io/kno0oq7ci/motogears%20product/image(13).png'
+    ],
+    category: 'Motorcycle Accessories',
+    subcategory: 'GPS Mounts & Visors',
+    brand: 'Altitude Moto',
+    rating: 5,
+    reviews: 12,
+    isNew: true,
+    bikes: ['Triumph Scrambler 400 X'],
+    description: 'Altitude Moto GPS Mount + RE Visor for Scrambler 400 X offers stable navigation mounting and enhanced wind protection, featuring vibration-resistant mount design and aerodynamic visor setup for daily and touring rides. Designed specifically for Scrambler 400 X to maintain a clean cockpit look with proper positioning.',
+    specifications: {
+        'Product Type': 'GPS Mount + Visor Combo',
+        'Compatibility': 'Triumph Scrambler 400 X',
+        'Mount Material': 'Metal Construction',
+        'Mount Function': 'Mobile / GPS Holder Support',
+        'Visor Material': 'Polycarbonate / Acrylic',
+        'Function': 'Navigation Support + Wind Protection',
+        'Package Contents': 'GPS Mount Bracket, Visor / Windshield, Mounting Hardware'
+    }
+},
+{
+    id: 1740,
+    name: 'Altitude Moto GPS Mount & RE Visor for RE Hunter 350',
+    price: 6219,
+    discount: 0,
+    image: 'https://ik.imagekit.io/kno0oq7ci/motogears%20product/image(14).png',
+    galleryImages: [
+        'https://ik.imagekit.io/kno0oq7ci/motogears%20product/image(15).png',
+        'https://ik.imagekit.io/kno0oq7ci/motogears%20product/image(16).png',
+        'https://ik.imagekit.io/kno0oq7ci/motogears%20product/image(17).png'
+    ],
+    category: 'Motorcycle Accessories',
+    subcategory: 'GPS Mounts & Visors',
+    brand: 'Altitude Moto',
+    rating: 5,
+    reviews: 15,
+    isNew: true,
+    bikes: ['Royal Enfield Hunter 350'],
+    description: 'Altitude Moto GPS Mount for RE Hunter 350 offers stable navigation mounting and enhanced wind protection, featuring vibration-resistant mount design and aerodynamic visor setup for daily and touring rides. Designed specifically for Royal Enfield Hunter 350 to maintain a clean cockpit look with proper positioning.',
+    specifications: {
+        'Product Type': 'GPS Mount + Visor Combo',
+        'Compatibility': 'Royal Enfield Hunter 350',
+        'Mount Material': 'Metal Construction',
+        'Mount Function': 'Mobile / GPS Holder Support',
+        'Visor Material': 'Polycarbonate / Acrylic',
+        'Function': 'Navigation Support + Wind Protection'
+    }
+},
+{
+    id: 1741,
+    name: 'Altitude Moto GPS Mount for Himalayan 411 - BS4',
+    price: 1699,
+    discount: 15,
+    image: 'https://ik.imagekit.io/kno0oq7ci/motogears%20product/image(18).png',
+    galleryImages: [
+        'https://ik.imagekit.io/kno0oq7ci/motogears%20product/image(19).png',
+        'https://ik.imagekit.io/kno0oq7ci/motogears%20product/image(20).png'
+    ],
+    category: 'Motorcycle Accessories',
+    subcategory: 'GPS Mounts & Visors',
+    brand: 'Altitude Moto',
+    rating: 5,
+    reviews: 11,
+    isNew: true,
+    bikes: ['Royal Enfield Himalayan 411 BS4'],
+    description: 'The Altitude Moto GPS Mount for Royal Enfield Himalayan BS4 is designed to provide a stable and convenient platform for your GPS device or smartphone. Built for adventure riders and long-distance tourers, it offers secure mounting, excellent visibility, and rugged durability while seamlessly integrating with the Himalayan’s adventure-focused design.',
+    specifications: {
+        'Product Type': 'GPS Mount',
+        'Compatibility': 'Royal Enfield Himalayan BS4',
+        'Material': 'High-Strength Metal Construction',
+        'Mounting Type': 'Cockpit GPS Mount',
+        'Device Compatibility': 'GPS Devices & Smartphones',
+        'Adjustable Positioning': 'Yes',
+        'Weather Resistant': 'Yes',
+        'Installation': 'Direct Fit',
+        'Usage': 'Touring, Adventure & Daily Riding'
+    }
+},
+{
+    id: 1742,
+    name: 'Altitude Moto GPS Mount for Himalayan 411 - BS6',
+    price: 1799,
+    discount: 10,
+    image: 'https://ik.imagekit.io/kno0oq7ci/motogears%20product/image(21).png',
+    galleryImages: [
+        'https://ik.imagekit.io/kno0oq7ci/motogears%20product/image(22).png',
+        'https://ik.imagekit.io/kno0oq7ci/motogears%20product/image(23).png',
+        'https://ik.imagekit.io/kno0oq7ci/motogears%20product/image(24).png'
+    ],
+    category: 'Motorcycle Accessories',
+    subcategory: 'GPS Mounts & Visors',
+    brand: 'Altitude Moto',
+    rating: 5,
+    reviews: 8,
+    isNew: true,
+    bikes: ['Royal Enfield Himalayan 411 BS6'],
+    description: 'The Altitude Moto GPS Mount for Royal Enfield Himalayan BS6 is designed to provide a stable and convenient platform for your GPS device or smartphone. Built for adventure riders and long-distance tourers, it offers secure mounting, excellent visibility, and rugged durability while seamlessly integrating with the Himalayan’s adventure-focused design.',
+    specifications: {
+        'Product Type': 'GPS Mount',
+        'Compatibility': 'Royal Enfield Himalayan BS6',
+        'Material': 'High-Strength Metal Construction',
+        'Mounting Type': 'Cockpit GPS Mount',
+        'Device Compatibility': 'GPS Devices & Smartphones',
+        'Adjustable Positioning': 'Yes',
+        'Weather Resistant': 'Yes',
+        'Installation': 'Direct Fit',
+        'Usage': 'Touring, Adventure & Daily Riding'
+    }
+},
+
 ];
 
 
