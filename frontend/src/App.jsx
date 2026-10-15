@@ -7,7 +7,6 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Helmet } from 'react-helmet';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
-import MobileBottomNav from '@/components/MobileBottomNav';
 import HomePage from '@/pages/HomePage';
 import ProductListing from '@/pages/ProductListing';
 import ProductDetail from '@/pages/ProductDetail';
@@ -63,7 +62,7 @@ function App() {
         <Route path="/*" element={
           <div className="min-h-screen bg-[#0a0a0a] text-white flex flex-col relative">
             <Header ref={headerRef} />
-            <main className="flex-1 pb-20 md:pb-0">
+            <main className="flex-1">
               <Routes>
                 <Route path="/forgot-password" element={<ForgotPassword />} />
                 <Route path="/reset-password/:token" element={<ResetPassword />} />
@@ -81,7 +80,6 @@ function App() {
               </Routes>
             </main>
             <Footer />
-            <MobileBottomNav />
             <WhatsAppButton />
             <Toaster />
             <VideoModal />

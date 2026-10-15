@@ -1,7 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Facebook, Instagram, Youtube, Twitter, Mail, ArrowRight, MapPin, MessageCircle } from 'lucide-react';
+import { Facebook, Instagram, Youtube, Twitter, Mail, ArrowRight, MapPin } from 'lucide-react';
 import { SUPPORT_PHONE_DISPLAY, getWhatsAppUrl } from '@/config/contact';
+import WhatsAppIcon from '@/components/WhatsAppIcon';
 
 const Footer = () => {
   return (
@@ -33,14 +34,30 @@ const Footer = () => {
           <div>
             <h4 className="text-gray-900 font-bold text-lg mb-6 tracking-wider">QUICK LINKS</h4>
             <ul className="space-y-3">
-              {['Shop', 'About Us', 'Contact', 'Blog'].map((item) => (
-                <li key={item}>
-                  <Link to="#" className="text-gray-600 hover:text-[#e63946] text-sm transition-colors flex items-center gap-2 group">
-                    <span className="w-0 group-hover:w-2 h-[1px] bg-[#e63946] transition-all"></span>
-                    {item}
+              {[
+                { label: 'Shop', to: '/products' },
+                { label: 'About Us', to: '/about' },
+                { label: 'Contact', to: '/contact' },
+              ].map(({ label, to }) => (
+                <li key={to}>
+                  <Link to={to} className="text-gray-600 hover:text-[#e63946] text-sm transition-colors flex items-center gap-2 group">
+                    <span className="w-0 group-hover:w-2 h-[1px] bg-[#e63946] transition-all" />
+                    {label}
                   </Link>
                 </li>
               ))}
+              <li>
+                <a
+                  href={getWhatsAppUrl()}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-gray-600 hover:text-[#25D366] text-sm font-medium transition-colors flex items-center gap-2 group"
+                >
+                  <span className="w-0 group-hover:w-2 h-[1px] bg-[#25D366] transition-all" />
+                  <WhatsAppIcon className="h-4 w-4 shrink-0 fill-[#25D366]" />
+                  Support
+                </a>
+              </li>
             </ul>
           </div>
 
@@ -58,7 +75,7 @@ const Footer = () => {
                 </p>
               </div>
               <a href={getWhatsAppUrl()} target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 hover:text-[#25D366] transition-colors group">
-                <MessageCircle size={18} className="text-[#25D366]" />
+                <WhatsAppIcon className="h-[18px] w-[18px] shrink-0 fill-[#25D366]" />
                 <span>{SUPPORT_PHONE_DISPLAY}</span>
               </a>
               <a href="mailto:support@motogears.com" className="flex items-center gap-3 hover:text-[#e63946] transition-colors">

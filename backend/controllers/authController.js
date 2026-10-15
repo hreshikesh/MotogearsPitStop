@@ -8,6 +8,12 @@ import sendEmail from '../utils/sendEmail.js';
 
 const PRODUCTION_FRONTEND_URL = 'https://motogearspitstop.com';
 
+const normalizePhone = (phone) => {
+  const digits = String(phone || '').replace(/\D/g, '');
+  if (digits.length > 10) return digits.slice(-10);
+  return digits;
+};
+
 const normalizeUrl = url => url?.trim().replace(/\/$/, '');
 
 const getFrontendUrl = (req) => {
@@ -28,9 +34,11 @@ const getFrontendUrl = (req) => {
 // @POST /api/auth/register
 export const register = asyncHandler(async (req, res) => {
   const { name, email, password, phone } = req.body;
-  const phoneDigits = String(phone || '').replace(/\D/g, '');
+  const phoneDigits = normalizePhone(phone);
 
-  if (!name || !email || !password || !phone) {
+  const normalizedEmail = String(email || '').trim().toLowerCase();
+
+  if (!name || !password || !phone) {
     res.status(400);
     throw new Error('Please fill all required fields');
   }
@@ -45,13 +53,26 @@ export const register = asyncHandler(async (req, res) => {
     throw new Error('Password must be at least 6 characters and include one lowercase letter');
   }
 
-  const userExists = await User.findOne({ email });
-  if (userExists) {
+  const phoneExists = await User.findOne({ phone: phoneDigits });
+  if (phoneExists) {
     res.status(400);
-    throw new Error('Email already registered');
+    throw new Error('Phone number already registered');
   }
 
-  const user = await User.create({ name, email, password, phone: phoneDigits });
+  if (normalizedEmail) {
+    const emailExists = await User.findOne({ email: normalizedEmail });
+    if (emailExists) {
+      res.status(400);
+      throw new Error('Email already registered');
+    }
+  }
+
+  const user = await User.create({
+    name,
+    password,
+    phone: phoneDigits,
+    ...(normalizedEmail ? { email: normalizedEmail } : {})
+  });
   const token = generateToken(res, user._id);
 
   res.status(201).json({
@@ -70,17 +91,27 @@ export const register = asyncHandler(async (req, res) => {
 
 // @POST /api/auth/login
 export const login = asyncHandler(async (req, res) => {
-  const { email, password } = req.body;
+  const { name, phone, password } = req.body;
+  const phoneDigits = normalizePhone(phone);
 
-  if (!email || !password) {
+  if (!name?.trim() || !phoneDigits || !password) {
     res.status(400);
-    throw new Error('Please enter email and password');
+    throw new Error('Please enter your name, phone number, and password');
   }
 
-  const user = await User.findOne({ email });
-  if (!user || !(await user.matchPassword(password))) {
+  if (phoneDigits.length < 10) {
+    res.status(400);
+    throw new Error('Please enter a valid phone number');
+  }
+
+  const user = await User.findOne({ phone: phoneDigits });
+  const nameMatches =
+    user &&
+    user.name.trim().toLowerCase() === String(name).trim().toLowerCase();
+
+  if (!user || !nameMatches || !(await user.matchPassword(password))) {
     res.status(401);
-    throw new Error('Invalid email or password');
+    throw new Error('Invalid name, phone number, or password');
   }
 
   const token = generateToken(res, user._id);

@@ -7,13 +7,21 @@ import { getBikeSearchTarget, searchProducts } from '@/utils/searchUtils';
 import { productUrl, productsUrl } from '@/utils/urlUtils';
 import { getProductImage, handleProductImageError } from '@/utils/imageUtils';
 
-const SearchBar = ({ onSearchTriggered }) => {
+const SearchBar = ({ onSearchTriggered, autoFocus = false }) => {
   const [query, setQuery] = useState('');
   const [isFocused, setIsFocused] = useState(false);
   const [recentSearches, setRecentSearches] = useState([]);
   const [results, setResults] = useState([]);
   const navigate = useNavigate();
   const searchRef = useRef(null);
+  const inputRef = useRef(null);
+
+  useEffect(() => {
+    if (autoFocus) {
+      inputRef.current?.focus();
+      setIsFocused(true);
+    }
+  }, [autoFocus]);
 
   useEffect(() => {
     const saved = localStorage.getItem('recentSearches');
@@ -95,6 +103,7 @@ const SearchBar = ({ onSearchTriggered }) => {
     <div className="w-full relative group" ref={searchRef}>
       <div className="relative flex items-center">
         <input 
+          ref={inputRef}
           type="text" 
           value={query}
           onChange={(e) => setQuery(e.target.value)}

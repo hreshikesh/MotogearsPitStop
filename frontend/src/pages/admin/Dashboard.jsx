@@ -1,7 +1,9 @@
 //frontend/src/pages/admin/Dashboard.jsx
 
 import React, { useEffect, useMemo, useState } from 'react';
+import { Link } from 'react-router-dom';
 import { AlertTriangle, Package, ShoppingBag, TrendingUp, Users } from 'lucide-react';
+import { formatUserEmail, formatUserPhone } from '@/utils/userDisplay';
 import { Bar, BarChart, CartesianGrid, Line, LineChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
 import api from '@/api/axiosInstance';
 import { products as catalogProducts } from '@/data/products';
@@ -42,7 +44,8 @@ export default function Dashboard() {
     totalOrders: 0,
     totalRevenue: 0,
     monthlyRevenue: [],
-    recentOrders: []
+    recentOrders: [],
+    recentUsers: []
   });
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
@@ -129,6 +132,56 @@ export default function Dashboard() {
               <Bar dataKey="orders" fill="#e63946" radius={[4, 4, 0, 0]} />
             </BarChart>
           </ResponsiveContainer>
+        </div>
+      </div>
+
+      <div className="mb-8 rounded-xl border border-gray-800 bg-gray-900 p-6">
+        <div className="mb-4 flex items-center justify-between gap-4">
+          <h2 className="font-bold text-white">Recent Accounts</h2>
+          <Link to="/admin/users" className="text-sm font-medium text-red-400 transition hover:text-red-300">
+            View all users
+          </Link>
+        </div>
+        <div className="overflow-x-auto">
+          <table className="w-full min-w-[520px]">
+            <thead>
+              <tr className="border-b border-gray-800 text-left text-xs uppercase tracking-wide text-gray-500">
+                <th className="px-3 py-2">Name</th>
+                <th className="px-3 py-2">Phone No.</th>
+                <th className="px-3 py-2">Email</th>
+                <th className="px-3 py-2">Joined</th>
+              </tr>
+            </thead>
+            <tbody>
+              {(stats.recentUsers || []).length === 0 && (
+                <tr>
+                  <td colSpan={4} className="px-3 py-6 text-center text-sm text-gray-500">
+                    No accounts yet
+                  </td>
+                </tr>
+              )}
+              {(stats.recentUsers || []).map((account) => (
+                <tr key={account._id} className="border-b border-gray-800/80 last:border-0">
+                  <td className="px-3 py-3 text-sm font-medium text-white">{account.name}</td>
+                  <td className="px-3 py-3 text-sm text-gray-300">{formatUserPhone(account.phone)}</td>
+                  <td className={`px-3 py-3 text-sm ${account.email ? 'text-gray-300' : 'italic text-gray-500'}`}>
+                    {formatUserEmail(account.email)}
+                  </td>
+                  <td className="px-3 py-3 text-xs text-gray-400">
+                    {account.createdAt
+                      ? new Date(account.createdAt).toLocaleString('en-IN', {
+                          day: '2-digit',
+                          month: 'short',
+                          year: 'numeric',
+                          hour: '2-digit',
+                          minute: '2-digit'
+                        })
+                      : '—'}
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
         </div>
       </div>
 

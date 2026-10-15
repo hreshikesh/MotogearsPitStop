@@ -395,6 +395,13 @@ import useOrderStore from '@/store/orderStore';
 import { useToast } from '@/components/ui/use-toast';
 import { Label } from '@/components/ui/label';
 import AuthModal from '@/components/AuthModal';
+import { FIRST_PURCHASE_PROMO } from '@/config/promotions';
+import {
+  calculateOrderPricing,
+  COD_ADVANCE_PERCENTAGE,
+  DELIVERY_CHARGE,
+  FREE_DELIVERY_MINIMUM,
+} from '@/utils/orderPricing';
 import { getProductImage, handleProductImageError } from '@/utils/imageUtils';
 
 const getItemId = (item) => item?.product?._id || item?.product?.id || item?._id || item?.id;
@@ -403,9 +410,6 @@ const getItemProduct = (item) => item?.product || item;
 const getItemImage = (item) => getProductImage(getItemProduct(item));
 const getItemPrice = (item) => Number(item?.price ?? item?.product?.discountPrice ?? item?.product?.price ?? 0);
 const getItemsTotal = (items) => items.reduce((sum, item) => sum + getItemPrice(item) * item.quantity, 0);
-const FREE_DELIVERY_MINIMUM = 5000;
-const DELIVERY_CHARGE = 199;
-const COD_ADVANCE_PERCENTAGE = 20;
 const formatINR = (value = 0) => `Rs. ${Number(value || 0).toLocaleString('en-IN')}`;
 const normalizeWhatsAppNumber = (phone) => {
   const digits = String(phone || '').replace(/\D/g, '');
@@ -436,13 +440,19 @@ const loadRazorpayScript = () => {
 const Checkout = () => {
   const { items, clearCart, syncCartToBackend } = useCartStore();
   const { isAuthenticated, user } = useAuthStore();
-  const { createOrder, createRazorpayOrder, verifyPayment } = useOrderStore();
+  const {
+    createOrder,
+    createRazorpayOrder,
+    verifyPayment,
+    fetchFirstPurchaseEligibility,
+  } = useOrderStore();
   const navigate = useNavigate();
   const { toast } = useToast();
 
   const [step, setStep] = useState(1);
   const [showAuth, setShowAuth] = useState(false);
   const [loading, setLoading] = useState(false);
+  const [firstPurchaseEligible, setFirstPurchaseEligible] = useState(false);
   const [formData, setFormData] = useState({
     fullName: user?.name || '',
     phone: user?.phone || '',
@@ -465,9 +475,32 @@ const Checkout = () => {
     }));
   }, [user]);
 
+  useEffect(() => {
+    let active = true;
+
+    const loadEligibility = async () => {
+      if (!isAuthenticated) {
+        if (active) setFirstPurchaseEligible(false);
+        return;
+      }
+
+      const result = await fetchFirstPurchaseEligibility();
+      if (active) setFirstPurchaseEligible(result.eligible);
+    };
+
+    loadEligibility();
+    return () => {
+      active = false;
+    };
+  }, [isAuthenticated, fetchFirstPurchaseEligibility]);
+
   const itemsTotal = getItemsTotal(items);
-  const deliveryCharge = itemsTotal >= FREE_DELIVERY_MINIMUM ? 0 : DELIVERY_CHARGE;
-  const total = itemsTotal + deliveryCharge;
+  const pricing = calculateOrderPricing(itemsTotal, { firstPurchaseEligible });
+  const {
+    deliveryCharge,
+    firstPurchaseDiscount,
+    total,
+  } = pricing;
   const itemCount = items.reduce((sum, item) => sum + item.quantity, 0);
   const codAdvanceAmount = Math.round(total * (COD_ADVANCE_PERCENTAGE / 100));
   const codLeftoverAmount = Math.max(total - codAdvanceAmount, 0);
@@ -496,6 +529,8 @@ const Checkout = () => {
           onClose={() => setShowAuth(false)}
           onSuccess={async () => {
             await syncCartToBackend();
+            const result = await fetchFirstPurchaseEligibility();
+            setFirstPurchaseEligible(result.eligible);
             setShowAuth(false);
           }}
         />
@@ -891,6 +926,12 @@ const Checkout = () => {
                   <span>Delivery charge</span>
                   <span>{deliveryCharge === 0 ? 'FREE' : formatINR(deliveryCharge)}</span>
                 </div>
+                {firstPurchaseEligible && firstPurchaseDiscount > 0 && (
+                  <div className="flex justify-between gap-4 text-green-700">
+                    <span>First purchase ({FIRST_PURCHASE_PROMO.discountPercent}%)</span>
+                    <span className="font-bold">-{formatINR(firstPurchaseDiscount)}</span>
+                  </div>
+                )}
                 {formData.paymentMethod === 'cod' && (
                   <div className="rounded-lg bg-gray-50 p-3 text-sm">
                     <div className="flex justify-between gap-4 text-green-700">
