@@ -1,5 +1,5 @@
-export const SUPPORT_PHONE_DISPLAY = '+91 87924 95478';
-export const SUPPORT_WHATSAPP_NUMBER = '918792495478';
+export const SUPPORT_PHONE_DISPLAY = '+91 63619 11949';
+export const SUPPORT_WHATSAPP_NUMBER = '916361911949';
 
 export const getWhatsAppUrl = (message) => {
   const query = message ? `?text=${encodeURIComponent(message)}` : '';

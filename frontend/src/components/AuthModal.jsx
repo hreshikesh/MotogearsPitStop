@@ -76,7 +76,7 @@ export default function AuthModal({ isOpen, onClose, onSuccess, initialMode = 'l
       <form
         onSubmit={handleSubmit}
         autoComplete="off"
-        className="relative w-full max-w-md overflow-hidden rounded-lg border border-zinc-800 bg-black p-5 shadow-2xl sm:p-6"
+        className="relative w-full max-w-md overflow-hidden rounded-2xl border border-zinc-800 bg-black p-5 shadow-2xl sm:p-6"
       >
         <button
           type="button"
@@ -87,7 +87,7 @@ export default function AuthModal({ isOpen, onClose, onSuccess, initialMode = 'l
           x
         </button>
 
-        <h2 className="mb-4 pr-8 text-xl font-bold text-yellow-400 sm:text-2xl">
+        <h2 className="mb-4 pr-8 text-xl font-bold text-white sm:text-2xl">
           {mode === 'login' ? 'Login' : 'Create Account'}
         </h2>
 
@@ -97,7 +97,7 @@ export default function AuthModal({ isOpen, onClose, onSuccess, initialMode = 'l
           <label className="mb-1 block text-sm text-white">Full Name *</label>
           <input
             autoComplete="name"
-            className="w-full rounded border border-zinc-700 bg-zinc-900 px-3 py-2.5 text-white focus:border-red-500 focus:outline-none"
+            className="w-full rounded-lg border border-zinc-700 bg-zinc-900 px-3 py-2.5 text-white focus:border-red-500 focus:outline-none"
             value={form.name}
             onChange={(e) => setForm({ ...form, name: e.target.value })}
             placeholder="Your name"
@@ -109,7 +109,7 @@ export default function AuthModal({ isOpen, onClose, onSuccess, initialMode = 'l
           <input
             type="tel"
             autoComplete="tel"
-            className="w-full rounded border border-zinc-700 bg-zinc-900 px-3 py-2.5 text-white focus:border-red-500 focus:outline-none"
+            className="w-full rounded-lg border border-zinc-700 bg-zinc-900 px-3 py-2.5 text-white focus:border-red-500 focus:outline-none"
             value={form.phone}
             onChange={(e) => setForm({ ...form, phone: e.target.value })}
             placeholder="+91 98765 43210"
@@ -124,7 +124,7 @@ export default function AuthModal({ isOpen, onClose, onSuccess, initialMode = 'l
             <input
               type="email"
               autoComplete="email"
-              className="w-full rounded border border-zinc-700 bg-zinc-900 px-3 py-2.5 text-white focus:border-red-500 focus:outline-none"
+              className="w-full rounded-lg border border-zinc-700 bg-zinc-900 px-3 py-2.5 text-white focus:border-red-500 focus:outline-none"
               value={form.email}
               onChange={(e) => setForm({ ...form, email: e.target.value })}
               placeholder="your@email.com"
@@ -138,7 +138,7 @@ export default function AuthModal({ isOpen, onClose, onSuccess, initialMode = 'l
             <input
               type={mode === 'login' && showPassword ? 'text' : 'password'}
               autoComplete={mode === 'login' ? 'current-password' : 'new-password'}
-              className={`w-full rounded border border-zinc-700 bg-zinc-900 px-3 py-2.5 text-white focus:border-red-500 focus:outline-none ${
+              className={`w-full rounded-lg border border-zinc-700 bg-zinc-900 px-3 py-2.5 text-white focus:border-red-500 focus:outline-none ${
                 mode === 'login' ? 'pr-12' : ''
               }`}
               value={form.password}
@@ -166,7 +166,7 @@ export default function AuthModal({ isOpen, onClose, onSuccess, initialMode = 'l
         <button
           type="submit"
           disabled={loading}
-          className="mb-3 w-full rounded bg-zinc-800 py-2.5 text-sm font-semibold text-white transition hover:bg-zinc-700 disabled:opacity-50"
+          className="mb-3 w-full rounded-full bg-zinc-800 py-2.5 text-sm font-semibold text-white transition hover:bg-zinc-700 disabled:opacity-50"
         >
           {loading ? 'Please wait...' : mode === 'login' ? 'LOG IN' : 'CREATE ACCOUNT'}
         </button>

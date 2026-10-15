@@ -1,5 +1,5 @@
 // frontend/src/pages/Cart.jsx
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useMemo, useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { Minus, Plus, ShoppingBag, Trash2, Tag } from 'lucide-react';
 import useCartStore from '@/store/cartStore';
@@ -8,6 +8,11 @@ import useOrderStore from '@/store/orderStore';
 import { FIRST_PURCHASE_PROMO } from '@/config/promotions';
 import { calculateOrderPricing } from '@/utils/orderPricing';
 import { getProductImage, handleProductImageError } from '@/utils/imageUtils';
+import { products } from '@/data/products';
+import { useToast } from '@/components/ui/use-toast';
+import { productUrl } from '@/utils/urlUtils';
+
+const ADD_ON_MAX_PRICE = 500;
 
 const getItemId = (item) => item?.product?._id || item?.product?.id || item?._id || item?.id;
 const getItemName = (item) => item?.product?.name || item?.name || 'Product';
@@ -16,9 +21,13 @@ const getItemImage = (item) => getProductImage(getItemProduct(item));
 const getItemPrice = (item) => Number(item?.price ?? item?.product?.discountPrice ?? item?.product?.price ?? 0);
 const formatINR = (value = 0) => `Rs. ${Number(value || 0).toLocaleString('en-IN')}`;
 
+const addOnScore = (product) =>
+  (Number(product.rating) || 0) * (Number(product.reviews) || 0) + (Number(product.rating) || 0) * 100;
+
 const Cart = () => {
   const navigate = useNavigate();
-  const { items, updateQuantity, removeFromCart, getCartTotal } = useCartStore();
+  const { toast } = useToast();
+  const { items, updateQuantity, removeFromCart, getCartTotal, addToCart } = useCartStore();
   const isAuthenticated = useAuthStore((state) => state.isAuthenticated);
   const fetchFirstPurchaseEligibility = useOrderStore((state) => state.fetchFirstPurchaseEligibility);
   const [firstPurchaseEligible, setFirstPurchaseEligible] = useState(false);
@@ -26,6 +35,27 @@ const Cart = () => {
   const itemsTotal = getCartTotal();
   const itemCount = items.reduce((acc, item) => acc + item.quantity, 0);
   const pricing = calculateOrderPricing(itemsTotal, { firstPurchaseEligible });
+
+  const addOnProducts = useMemo(() => {
+    const cartIds = new Set(items.map((item) => String(getItemId(item))));
+    return products
+      .filter(
+        (product) =>
+          product?.price > 0 &&
+          product.price <= ADD_ON_MAX_PRICE &&
+          !cartIds.has(String(product.id))
+      )
+      .sort((a, b) => addOnScore(b) - addOnScore(a))
+      .slice(0, 6);
+  }, [items]);
+
+  const handleAddOn = (product) => {
+    addToCart(product);
+    toast({
+      title: 'Added to cart',
+      description: `${product.name} added to your order.`,
+    });
+  };
 
   useEffect(() => {
     let active = true;
@@ -101,7 +131,7 @@ const Cart = () => {
                     <div className="flex items-start justify-between gap-3">
                       <div>
                         <h2 className="line-clamp-2 font-bold text-gray-900">{getItemName(item)}</h2>
-                        <p className="mt-1 font-bold text-[#e63946]">{formatINR(price)}</p>
+                        <p className="mt-1 font-bold text-gray-900">{formatINR(price)}</p>
                         <p className="mt-1 text-sm text-gray-500">Qty: {item.quantity}</p>
                       </div>
                       <button
@@ -139,6 +169,56 @@ const Cart = () => {
                 </div>
               );
             })}
+
+            {addOnProducts.length > 0 && (
+              <div className="rounded-lg border border-gray-200 bg-gray-50 p-4 sm:p-5">
+                <div className="mb-4 flex items-center justify-end">
+                  <h2 className="font-bold text-gray-900">Everyone love these too..!</h2>
+                </div>
+                <div className="-mx-1 flex gap-3 overflow-x-auto pb-1 scroll-smooth [scrollbar-width:thin]">
+                  {addOnProducts.map((product) => (
+                    <div
+                      key={product.id}
+                      className="flex w-[168px] shrink-0 flex-col rounded-lg border border-gray-200 bg-white p-3 shadow-sm sm:w-[180px]"
+                    >
+                      <Link
+                        to={productUrl(product)}
+                        className="mb-2 aspect-square w-full overflow-hidden rounded-md bg-gray-100"
+                      >
+                        <img
+                          src={getProductImage(product)}
+                          alt={product.name}
+                          onError={(event) => handleProductImageError(event, product)}
+                          className="h-full w-full object-cover"
+                        />
+                      </Link>
+                      <Link
+                        to={productUrl(product)}
+                        className="line-clamp-2 min-h-[2.5rem] text-sm font-semibold leading-snug text-gray-900 hover:text-[#e63946]"
+                      >
+                        {product.name}
+                      </Link>
+                      <p className="mt-1 text-sm font-bold text-black">
+                        {formatINR(product.price)}
+                      </p>
+                      {(product.rating > 0 || product.reviews > 0) && (
+                        <p className="mt-0.5 truncate text-xs text-gray-500">
+                          {product.rating ? `${product.rating}★` : ''}
+                          {product.reviews ? ` · ${product.reviews} reviews` : ''}
+                        </p>
+                      )}
+                      <button
+                        type="button"
+                        onClick={() => handleAddOn(product)}
+                        className="mt-auto pt-2 rounded-full bg-[#0a0a0a] px-2 py-1.5 text-xs font-bold text-white transition-colors hover:bg-black"
+                      >
+                        Add to cart
+                      </button>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
           </div>
 
           <aside className="lg:col-span-1">
@@ -164,7 +244,7 @@ const Cart = () => {
                 )}
                 <div className="flex justify-between gap-4 border-t border-gray-200 pt-3 font-bold text-gray-900">
                   <span>Total</span>
-                  <span className="text-[#e63946]">{formatINR(pricing.total)}</span>
+                  <span className="text-gray-900">{formatINR(pricing.total)}</span>
                 </div>
               </div>
 
@@ -177,13 +257,13 @@ const Cart = () => {
 
               <button
                 onClick={() => navigate('/checkout')}
-                className="mt-6 w-full rounded-lg bg-[#e63946] px-6 py-3 font-bold text-white transition-colors hover:bg-[#d62839]"
+                className="mt-6 w-full rounded-full bg-[#0a0a0a] px-6 py-3 font-bold text-white transition-colors hover:bg-black"
               >
                 Proceed to Checkout
               </button>
               <Link
                 to="/products"
-                className="mt-3 flex w-full items-center justify-center rounded-lg border border-gray-300 px-6 py-3 font-bold text-gray-900 transition-colors hover:border-[#e63946] hover:text-[#e63946]"
+                className="mt-3 flex w-full items-center justify-center rounded-full border border-gray-300 px-6 py-3 font-bold text-gray-900 transition-colors hover:border-[#e63946] hover:text-[#e63946]"
               >
                 Continue Shopping
               </Link>

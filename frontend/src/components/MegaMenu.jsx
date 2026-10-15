@@ -3,47 +3,49 @@ import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { productsUrl } from '@/utils/urlUtils';
 
+export const shopCategories = [
+  {
+    name: 'Bike Accessories',
+    items: ['Crash Guards', 'Crash Protection', 'Handguards', 'Tank Pads', 'Wind Deflectors', 'Tail Tidy', 'Mirrors', 'Seats'],
+  },
+  {
+    name: 'Riding Gear',
+    items: ['Helmets', 'Jackets', 'Gloves', 'Boots', 'Pants', 'Rain Gear', 'Knee Guards', 'Bluetooth & Intercom'],
+  },
+  {
+    name: 'Touring',
+    items: ['Panniers', 'Top Boxes', 'Saddle Bags', 'Tank Bags', 'Tail Bags', 'Backpacks', 'Seats', 'Racks'],
+  },
+  {
+    name: 'Performance Parts',
+    items: ['Exhaust', 'Engine Oil', 'Lubricants', 'Chain Sets', 'Air Filters', 'Brake Pads'],
+  },
+  {
+    name: 'Lighting',
+    items: ['Fog Lamps', 'Indicators', 'Electricals', 'Tail Lights'],
+  },
+  {
+    name: 'Popular Brands',
+    isBrand: true,
+    items: ['Maddog', 'Barkbusters', 'KTM', 'Royal Enfield', 'Studds', 'Axor', 'Cardo'],
+  },
+];
+
 const MegaMenu = ({ onClose }) => {
-  const categories = [
-    {
-      name: 'Bike Accessories',
-      items: ['Crash Guards', 'Crash Protection', 'Handguards', 'Tank Pads', 'Wind Deflectors', 'Tail Tidy', 'Mirrors', 'Seats']
-    },
-    {
-      name: 'Riding Gear',
-      items: ['Helmets', 'Jackets', 'Gloves', 'Boots', 'Pants', 'Rain Gear', 'Knee Guards', 'Bluetooth & Intercom']
-    },
-    {
-      name: 'Touring',
-      items: ['Panniers', 'Top Boxes', 'Saddle Bags', 'Tank Bags', 'Tail Bags', 'Backpacks', 'Seats', 'Racks']
-    },
-    {
-      name: 'Performance Parts',
-      items: ['Exhaust', 'Engine Oil', 'Lubricants', 'Chain Sets', 'Air Filters', 'Brake Pads']
-    },
-    {
-      name: 'Lighting',
-      items: ['Fog Lamps', 'Indicators', 'Electricals', 'Tail Lights']
-    },
-    {
-      name: 'Popular Brands',
-      isBrand: true,
-      items: ['Maddog', 'Barkbusters', 'KTM', 'Royal Enfield', 'Studds', 'Axor', 'Cardo']
-    }
-  ];
+  const categories = shopCategories;
 
   return (
     <motion.div
-      initial={{ opacity: 0, y: -20 }}
+      initial={{ opacity: 0, y: -14 }}
       animate={{ opacity: 1, y: 0 }}
-      exit={{ opacity: 0, y: -20 }}
+      exit={{ opacity: 0, y: -14 }}
       onMouseEnter={(e) => e.stopPropagation()}
       onMouseLeave={onClose}
-      className="absolute top-full left-1/2 -translate-x-1/2 mt-4 w-[1000px] bg-white border border-gray-200 rounded-lg shadow-2xl p-8"
+      className="absolute left-0 top-full mt-2 w-screen bg-white border-y border-gray-200 shadow-2xl"
     >
-      <div className="grid grid-cols-3 gap-x-8 gap-y-10">
+      <div className="mx-auto grid max-h-[calc(100vh-150px)] max-w-[1600px] grid-cols-2 gap-x-8 gap-y-10 overflow-y-auto px-8 py-8 sm:grid-cols-3 lg:grid-cols-3 xl:grid-cols-6">
         {categories.map((category, idx) => (
-          <div key={idx}>
+          <div key={idx} className="border-r border-gray-200 px-2 last:border-r-0 xl:px-4">
             <Link 
               to={category.isBrand ? '/products' : productsUrl({ category: category.name })}
               onClick={onClose}
