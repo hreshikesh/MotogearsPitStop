@@ -68,11 +68,11 @@ const FirstPurchasePromoModal = () => {
               onClick={handleClose}
             />
 
-            <div className="relative w-full max-w-[420px] overflow-hidden rounded-xl border border-zinc-800 bg-[#0f0f0f] shadow-2xl">
+            <div className="relative w-full max-w-[420px] overflow-hidden rounded-xl border border-[#CA8A04]/50 bg-[#FDE047] shadow-2xl">
               <button
                 type="button"
                 onClick={handleClose}
-                className="absolute right-2 top-2 z-10 flex h-8 w-8 items-center justify-center rounded-full bg-black/60 text-white backdrop-blur-sm transition hover:bg-black/80"
+                className="absolute right-2 top-2 z-10 flex h-8 w-8 items-center justify-center rounded-full bg-[#0a0a0a]/10 text-[#0a0a0a] transition hover:bg-[#0a0a0a]/20"
                 aria-label="Close"
               >
                 <X size={18} />
@@ -80,23 +80,23 @@ const FirstPurchasePromoModal = () => {
 
               {showCouponAfterLogin && isAuthenticated ? (
                 <div className="p-4 sm:p-5">
-                  <div className="mb-4 overflow-hidden rounded-lg border border-zinc-800">
+                  <div className="mb-4 overflow-hidden rounded-lg border border-[#0a0a0a]/15">
                     <img
                       src={PROMO_IMAGE_SRC}
                       alt="First purchase discount unlocked"
                       className="h-[155px] w-full object-cover object-top sm:h-[165px]"
                     />
                   </div>
-                  <h2 className="text-xl font-bold text-white">
+                  <h2 className="text-xl font-bold text-[#0a0a0a]">
                     Your discount is unlocked
                   </h2>
-                  <p className="mt-1.5 text-xs leading-relaxed text-zinc-400 sm:text-sm">
+                  <p className="mt-1.5 text-xs leading-relaxed text-[#0a0a0a]/80 sm:text-sm">
                     {FIRST_PURCHASE_PROMO.discountPercent}% off your first order (max ₹
                     {FIRST_PURCHASE_PROMO.maxDiscountRs.toLocaleString('en-IN')}) is applied
                     automatically in your cart at checkout.
                   </p>
-                  <div className="mt-4 flex items-center gap-2 rounded-lg border border-dashed border-[#e63946]/50 bg-zinc-900/80 px-3 py-2.5">
-                    <span className="flex-1 font-mono text-base font-bold tracking-wider text-white">
+                  <div className="mt-4 flex items-center gap-2 rounded-lg border border-dashed border-[#e63946]/50 bg-white/60 px-3 py-2.5">
+                    <span className="flex-1 font-mono text-base font-bold tracking-wider text-[#0a0a0a]">
                       {FIRST_PURCHASE_PROMO.couponCode}
                     </span>
                     <button
@@ -123,10 +123,10 @@ const FirstPurchasePromoModal = () => {
                     alt="Sign up and get your first purchase discount"
                     className="h-[185px] w-full object-cover object-top sm:h-[200px]"
                   />
-                  <div className="p-4 sm:p-5">
-                    <p className="text-center text-xs leading-relaxed text-zinc-400 sm:text-sm">
+                  <div className="bg-[#FDE047] p-4 sm:p-5">
+                    <p className="text-center text-xs leading-relaxed text-[#0a0a0a]/80 sm:text-sm">
                       Get{' '}
-                      <span className="font-semibold text-white">
+                      <span className="font-semibold text-[#0a0a0a]">
                         {FIRST_PURCHASE_PROMO.discountPercent}% off up to ₹
                         {FIRST_PURCHASE_PROMO.maxDiscountRs.toLocaleString('en-IN')}
                       </span>{' '}
@@ -142,7 +142,7 @@ const FirstPurchasePromoModal = () => {
                     <button
                       type="button"
                       onClick={handleClose}
-                      className="mt-2 w-full py-1.5 text-xs text-zinc-500 transition hover:text-zinc-300 sm:text-sm"
+                      className="mt-2 w-full py-1.5 text-xs font-medium text-[#0a0a0a]/60 transition hover:text-[#0a0a0a] sm:text-sm"
                     >
                       Continue browsing
                     </button>

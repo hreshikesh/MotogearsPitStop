@@ -403,6 +403,9 @@ import {
   FREE_DELIVERY_MINIMUM,
 } from '@/utils/orderPricing';
 import { getProductImage, handleProductImageError } from '@/utils/imageUtils';
+import IndianPhoneInput from '@/components/IndianPhoneInput';
+import { toIndianLocalDigits } from '@/utils/phoneUtils';
+import { formatUserPhone } from '@/utils/userDisplay';
 
 const getItemId = (item) => item?.product?._id || item?.product?.id || item?._id || item?.id;
 const getItemName = (item) => item?.product?.name || item?.name || 'Product';
@@ -455,7 +458,7 @@ const Checkout = () => {
   const [firstPurchaseEligible, setFirstPurchaseEligible] = useState(false);
   const [formData, setFormData] = useState({
     fullName: user?.name || '',
-    phone: user?.phone || '',
+    phone: toIndianLocalDigits(user?.phone || ''),
     email: user?.email || '',
     addressLine1: '',
     addressLine2: '',
@@ -470,7 +473,7 @@ const Checkout = () => {
     setFormData((current) => ({
       ...current,
       fullName: current.fullName || user.name || '',
-      phone: current.phone || user.phone || '',
+      phone: toIndianLocalDigits(current.phone || user.phone || ''),
       email: current.email || user.email || '',
     }));
   }, [user]);
@@ -546,6 +549,14 @@ const Checkout = () => {
     const { fullName, phone, email, addressLine1, city, state, pincode } = formData;
     if (!fullName || !phone || !email || !addressLine1 || !city || !state || !pincode) {
       toast({ title: 'Missing Information', description: 'Please fill in all address fields', variant: 'destructive' });
+      return false;
+    }
+    if (toIndianLocalDigits(phone).length < 10) {
+      toast({
+        title: 'Invalid phone number',
+        description: 'Please enter a valid 10-digit mobile number',
+        variant: 'destructive',
+      });
       return false;
     }
     return true;
@@ -676,7 +687,16 @@ const Checkout = () => {
   return (
     <div className="min-h-screen bg-white pt-40 px-4 pb-8">
       <div className="max-w-[1000px] mx-auto">
-        <h1 className="text-3xl font-bold text-gray-900 mb-8">Checkout</h1>
+        <h1 className="text-3xl font-bold text-gray-900 mb-4">Checkout</h1>
+        <div className="mb-8 rounded-lg border border-gray-200 bg-gray-50 p-4 text-sm text-gray-700">
+          <p className="font-bold text-gray-900">Payment options for every item</p>
+          <p className="mt-1">
+            Choose <strong>full payment online</strong> or <strong>Cash on Delivery (COD)</strong>.
+            To book a COD order, you must pay at least{' '}
+            <strong>{COD_ADVANCE_PERCENTAGE}% in advance</strong> online; the remaining balance is collected
+            when your order is delivered.
+          </p>
+        </div>
 
         {/* Progress Steps */}
         <div className="flex items-center justify-center mb-8">
@@ -712,9 +732,13 @@ const Checkout = () => {
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                     <div>
                       <Label className="text-gray-700 mb-2 block">Phone *</Label>
-                      <input type="tel" name="phone" value={formData.phone}
-                        onChange={handleInputChange}
-                        className="w-full bg-white text-gray-900 border border-gray-300 rounded-lg px-4 py-2 focus:outline-none focus:border-[#e63946]" />
+                      <IndianPhoneInput
+                        value={formData.phone}
+                        onChange={(phone) => setFormData({ ...formData, phone })}
+                        containerClassName="border-gray-300 bg-white"
+                        prefixClassName="border-gray-300 bg-gray-50"
+                        inputClassName="text-gray-900 placeholder:text-gray-500"
+                      />
                     </div>
                     <div>
                       <Label className="text-gray-700 mb-2 block">Email *</Label>
@@ -756,8 +780,11 @@ const Checkout = () => {
                     </div>
                   </div>
                 </div>
-                <button onClick={() => validateStep1() && setStep(2)}
-                  className="mt-6 w-full bg-[#e63946] hover:bg-[#d62839] text-white px-6 py-3 rounded-lg font-bold transition-colors">
+                <button
+                  type="button"
+                  onClick={() => validateStep1() && setStep(2)}
+                  className="btn-primary-yellow mt-6 w-full rounded-full px-6 py-3 font-bold"
+                >
                   Continue to Payment
                 </button>
               </motion.div>
@@ -770,29 +797,44 @@ const Checkout = () => {
                 <h2 className="text-xl font-bold text-gray-900 mb-4">Payment Method</h2>
                 <div className="space-y-3">
                   {[
-                    { value: 'cod', label: 'Cash on Delivery', icon: Banknote },
-                    { value: 'razorpay', label: 'Pay Online (UPI / Card / NetBanking)', icon: CreditCard },
+                    {
+                      value: 'cod',
+                      label: `Cash on Delivery (minimum ${COD_ADVANCE_PERCENTAGE}% advance online to confirm)`,
+                      icon: Banknote,
+                    },
+                    { value: 'razorpay', label: 'Pay full amount online (UPI / Card / NetBanking)', icon: CreditCard },
                   ].map(({ value, label, icon: Icon }) => (
                     <label key={value}
                       className={`flex items-center gap-3 p-4 rounded-lg border-2 cursor-pointer transition-all ${
                         formData.paymentMethod === value
-                          ? 'border-[#e63946] bg-[#e63946]/5'
+                          ? 'border-[#CA8A04] bg-[#FDE047]'
                           : 'border-gray-200 hover:border-gray-300'
                       }`}>
-                      <input type="radio" name="paymentMethod" value={value}
+                      <input
+                        type="radio"
+                        name="paymentMethod"
+                        value={value}
                         checked={formData.paymentMethod === value}
-                        onChange={handleInputChange} className="text-[#e63946]" />
-                      <Icon className="text-[#e63946]" size={24} />
-                      <span className="text-gray-900 font-medium">{label}</span>
+                        onChange={handleInputChange}
+                        className="h-4 w-4 shrink-0 cursor-pointer appearance-none rounded-full border-2 border-[#0a0a0a] bg-white checked:border-[#0a0a0a] checked:bg-[#0a0a0a]"
+                      />
+                      <Icon
+                        className={
+                          formData.paymentMethod === value ? 'text-[#0a0a0a]' : 'text-[#CA8A04]'
+                        }
+                        size={24}
+                      />
+                      <span className="font-bold text-gray-900">{label}</span>
                     </label>
                   ))}
                 </div>
                 {formData.paymentMethod === 'cod' && (
-                  <div className="mt-4 rounded-lg border border-[#e63946]/30 bg-[#e63946]/5 p-4">
-                    <p className="text-sm font-bold text-gray-900">COD advance payment</p>
-                    <p className="mt-1 text-sm text-gray-600">
-                      Pay {COD_ADVANCE_PERCENTAGE}% now ({formatINR(codAdvanceAmount)}) to confirm your COD order.
-                      The remaining {formatINR(codLeftoverAmount)} is payable on delivery.
+                  <div className="mt-4 rounded-lg border border-[#CA8A04]/40 bg-[#FDE047] p-4 font-bold text-gray-900">
+                    <p className="text-sm">COD booking requires advance payment</p>
+                    <p className="mt-1 text-sm">
+                      Minimum {COD_ADVANCE_PERCENTAGE}% must be paid now ({formatINR(codAdvanceAmount)}) to confirm
+                      and book this COD order. Pay the remaining {formatINR(codLeftoverAmount)} in cash when your
+                      order is delivered.
                     </p>
                   </div>
                 )}
@@ -801,8 +843,11 @@ const Checkout = () => {
                     className="flex-1 bg-gray-100 hover:bg-gray-200 text-gray-900 px-6 py-3 rounded-lg font-bold transition-colors">
                     Back
                   </button>
-                  <button onClick={() => setStep(3)}
-                    className="flex-1 bg-[#e63946] hover:bg-[#d62839] text-white px-6 py-3 rounded-lg font-bold transition-colors">
+                  <button
+                    type="button"
+                    onClick={() => setStep(3)}
+                    className="flex-1 bg-[#e63946] px-6 py-3 font-bold text-white transition-colors hover:bg-[#d62839] rounded-lg"
+                  >
                     Review Order
                   </button>
                 </div>
@@ -821,7 +866,7 @@ const Checkout = () => {
                       {formData.fullName}<br />
                       {formData.addressLine1}{formData.addressLine2 && `, ${formData.addressLine2}`}<br />
                       {formData.city}, {formData.state} - {formData.pincode}<br />
-                      Phone: {formData.phone}
+                      Phone: {formatUserPhone(formData.phone)}
                     </p>
                   </div>
                   <div>
@@ -932,22 +977,37 @@ const Checkout = () => {
                     <span className="font-bold">-{formatINR(firstPurchaseDiscount)}</span>
                   </div>
                 )}
-                {formData.paymentMethod === 'cod' && (
-                  <div className="rounded-lg bg-gray-50 p-3 text-sm">
-                    <div className="flex justify-between gap-4 text-green-700">
-                      <span>Advance now ({COD_ADVANCE_PERCENTAGE}%)</span>
-                      <span className="font-bold">{formatINR(codAdvanceAmount)}</span>
-                    </div>
-                    <div className="mt-1 flex justify-between gap-4 text-orange-700">
-                      <span>Leftover on delivery</span>
-                      <span className="font-bold">{formatINR(codLeftoverAmount)}</span>
+                {formData.paymentMethod === 'cod' ? (
+                  <div className="rounded-xl border border-[#FDE047] bg-white py-1 pl-3 pr-1 sm:pl-4 sm:pr-2">
+                    <div className="divide-y divide-[#FDE047]/50">
+                      <div className="flex items-center justify-between gap-2 py-3 text-lg font-bold text-[#0a0a0a]">
+                        <span className="min-w-0 flex-1 leading-snug pr-2">
+                          Advance now ({COD_ADVANCE_PERCENTAGE}%)
+                        </span>
+                        <span className="shrink-0 whitespace-nowrap tabular-nums text-right">
+                          {formatINR(codAdvanceAmount)}
+                        </span>
+                      </div>
+                      <div className="flex items-center justify-between gap-2 py-3 text-lg font-bold text-[#0a0a0a]">
+                        <span className="min-w-0 flex-1 leading-snug pr-2">Leftover on delivery</span>
+                        <span className="shrink-0 whitespace-nowrap tabular-nums text-right">
+                          {formatINR(codLeftoverAmount)}
+                        </span>
+                      </div>
+                      <div className="flex items-center justify-between gap-2 py-3 text-lg font-bold text-[#0a0a0a]">
+                        <span className="min-w-0 flex-1 leading-snug pr-2">Total</span>
+                        <span className="shrink-0 whitespace-nowrap tabular-nums text-right">
+                          {formatINR(total)}
+                        </span>
+                      </div>
                     </div>
                   </div>
+                ) : (
+                  <div className="flex items-center justify-between gap-3 border-t border-gray-200 pt-3 text-lg font-bold text-gray-900">
+                    <span className="shrink-0 whitespace-nowrap">Total</span>
+                    <span className="shrink-0 whitespace-nowrap tabular-nums">{formatINR(total)}</span>
+                  </div>
                 )}
-                <div className="border-t border-gray-200 pt-3 flex justify-between gap-4 text-gray-900 font-bold text-lg">
-                  <span>Total</span>
-                  <span className="text-[#e63946]">{formatINR(total)}</span>
-                </div>
               </div>
             </div>
           </div>

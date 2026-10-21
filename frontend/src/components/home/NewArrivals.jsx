@@ -191,7 +191,7 @@ const NewArrivals = () => {
                     {/* Add to cart button (mobile) */}
                     <button
                       onClick={(e) => handleAddToCart(e, product)}
-                      className="sm:hidden w-full inline-flex items-center justify-center gap-1.5 bg-gray-900 text-white font-bold uppercase tracking-widest text-[10px] py-2.5 rounded-full transition-all duration-300 active:scale-95"
+                      className="btn-primary-yellow sm:hidden w-full inline-flex items-center justify-center gap-1.5 font-bold uppercase tracking-widest text-[10px] py-2.5 rounded-full transition-all duration-300 active:scale-95"
                     >
                       <ShoppingCart size={12} />
                       Add
@@ -206,7 +206,7 @@ const NewArrivals = () => {
         {/* ══════ MOBILE VIEW ALL ══════ */}
         <div className="mt-8 md:hidden">
           <Link to={productsUrl({ filter: 'new' })} className="block">
-            <button className="w-full inline-flex items-center justify-center gap-2 text-white bg-gray-900 hover:bg-red-600 font-bold uppercase tracking-widest text-xs py-4 rounded-full transition-colors duration-300 group">
+            <button className="btn-primary-yellow w-full inline-flex items-center justify-center gap-2 font-bold uppercase tracking-widest text-xs py-4 rounded-full transition-colors duration-300 group">
               View All New Arrivals
               <ArrowUpRight size={16} className="group-hover:rotate-45 transition-transform duration-300" />
             </button>

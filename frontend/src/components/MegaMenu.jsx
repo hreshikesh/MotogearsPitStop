@@ -36,12 +36,10 @@ const MegaMenu = ({ onClose }) => {
 
   return (
     <motion.div
-      initial={{ opacity: 0, y: -14 }}
+      initial={{ opacity: 0, y: -8 }}
       animate={{ opacity: 1, y: 0 }}
-      exit={{ opacity: 0, y: -14 }}
-      onMouseEnter={(e) => e.stopPropagation()}
-      onMouseLeave={onClose}
-      className="absolute left-0 top-full mt-2 w-screen bg-white border-y border-gray-200 shadow-2xl"
+      exit={{ opacity: 0, y: -8 }}
+      className="w-full bg-white border-y border-gray-200 shadow-2xl"
     >
       <div className="mx-auto grid max-h-[calc(100vh-150px)] max-w-[1600px] grid-cols-2 gap-x-8 gap-y-10 overflow-y-auto px-8 py-8 sm:grid-cols-3 lg:grid-cols-3 xl:grid-cols-6">
         {categories.map((category, idx) => (

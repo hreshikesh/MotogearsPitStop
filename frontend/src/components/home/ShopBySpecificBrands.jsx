@@ -395,7 +395,7 @@ const ShopBySpecificBrands = () => {
           {/* All Brands CTA */}
           <button
             onClick={() => navigate('/products')}
-            className="w-full md:w-auto inline-flex items-center justify-center gap-2 bg-neutral-900 hover:bg-black text-white font-bold uppercase text-xs tracking-wider px-6 py-3.5 rounded-xl transition-all duration-300 shadow-md hover:shadow-lg"
+            className="btn-primary-yellow w-full md:w-auto inline-flex items-center justify-center gap-2 font-bold uppercase text-xs tracking-wider px-6 py-3.5 rounded-xl transition-all duration-300 shadow-md hover:shadow-lg"
           >
             <span>View All Partner Brands</span>
             <ArrowUpRight size={15} />

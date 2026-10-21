@@ -1,8 +1,19 @@
-import React, { useState } from 'react';
-import { useParams, Link } from 'react-router-dom';
-import { Helmet } from 'react-helmet';
+import React, { useState, useEffect, useMemo } from 'react';
+import { useParams, Link, useNavigate } from 'react-router-dom';
+import SeoHead from '@/components/SeoHead';
+import {
+  productMetaTitle,
+  productMetaDescription,
+} from '@/utils/seoText';
+import {
+  productSchema,
+  breadcrumbSchema,
+} from '@/utils/jsonLd';
+import { productImageAlt } from '@/utils/imageSeo';
+import { trackViewItem, trackAddToCart } from '@/utils/analytics';
+import { getProductIdentifier } from '@/utils/urlUtils';
 import { motion } from 'framer-motion';
-import { ShoppingCart, Heart, Minus, Plus, Star, Truck, Shield } from 'lucide-react';
+import { Heart, Minus, Plus, Star, Truck } from 'lucide-react';
 import { products } from '@/data/products';
 import { useCartStore } from '@/store/cartStore';
 import { useWishlistStore } from '@/store/wishlistStore';
@@ -11,11 +22,12 @@ import ProductCard from '@/components/ProductCard';
 import ProductImageGallery from '@/components/ProductImageGallery';
 import ImageLightbox from '@/components/ImageLightbox';
 import { productsUrl } from '@/utils/urlUtils';
-import { getWhatsAppUrl } from '@/config/contact';
 import { getProductGalleryImages, getProductImage, handleProductImageError } from '@/utils/imageUtils';
+import { getWhatsAppUrl } from '@/config/contact';
 
 const ProductDetail = () => {
   const { id } = useParams();
+  const navigate = useNavigate();
   const decodedId = decodeURIComponent(id || '');
   const product = products.find(p =>
     String(p.id) === decodedId ||
@@ -30,8 +42,41 @@ const ProductDetail = () => {
   const { isInWishlist, addToWishlist, removeFromWishlist } = useWishlistStore();
   const { toast } = useToast();
 
+  useEffect(() => {
+    if (product) trackViewItem(product);
+  }, [product]);
+
+  const canonicalPath = product
+    ? `/product/${encodeURIComponent(String(getProductIdentifier(product)))}`
+    : undefined;
+
+  const jsonLd = useMemo(() => {
+    if (!product) return null;
+    const crumbs = breadcrumbSchema([
+      { name: 'Home', path: '/' },
+      { name: 'Products', path: '/products' },
+      ...(product.category
+        ? [{ name: product.category, path: productsUrl({ category: product.category }) }]
+        : []),
+      ...(product.subcategory
+        ? [{
+            name: product.subcategory,
+            path: productsUrl({ subcategory: product.subcategory }),
+          }]
+        : []),
+      { name: product.name, path: canonicalPath },
+    ]);
+    return [productSchema(product), crumbs];
+  }, [product, canonicalPath]);
+
   if (!product) {
     return (
+      <>
+        <SeoHead
+          title="Product Not Found | MotoGearsPitstop"
+          description="This product could not be found. Browse our motorcycle gear catalog."
+          robots="noindex, follow"
+        />
       <div className="min-h-screen bg-white pt-24 px-4 flex items-center justify-center">
         <div className="text-center">
           <h2 className="text-2xl text-gray-900 mb-4">Product not found</h2>
@@ -40,6 +85,7 @@ const ProductDetail = () => {
           </Link>
         </div>
       </div>
+      </>
     );
   }
 
@@ -54,6 +100,7 @@ const ProductDetail = () => {
     for (let i = 0; i < quantity; i++) {
       addToCart(product);
     }
+    trackAddToCart(product, quantity);
     toast({
       title: "Added to cart!",
       description: `${quantity}x ${product.name} added to your cart.`,
@@ -70,8 +117,49 @@ const ProductDetail = () => {
     }
   };
 
-  const handleLiveDemo = () => {
-    window.open(getWhatsAppUrl(`Hi, I'd like to see a live demo of ${product.name}`), '_blank');
+  const handleBuyNow = () => {
+    for (let i = 0; i < quantity; i++) {
+      addToCart(product);
+    }
+    navigate('/checkout');
+  };
+
+  const handleShare = async () => {
+    const url = window.location.href;
+    const sharePayload = {
+      title: product.name,
+      text: `Check out ${product.name} at Moto Gears Pit Stop`,
+      url,
+    };
+
+    if (navigator.share) {
+      try {
+        await navigator.share(sharePayload);
+        return;
+      } catch (err) {
+        if (err?.name === 'AbortError') return;
+      }
+    }
+
+    try {
+      await navigator.clipboard.writeText(url);
+      toast({
+        title: 'Link copied',
+        description: 'Product link copied to your clipboard.',
+      });
+    } catch {
+      toast({
+        title: 'Could not share',
+        description: url,
+        variant: 'destructive',
+      });
+    }
+  };
+
+  const handleAskQuestion = () => {
+    const url = window.location.href;
+    const message = `Hi, I have a question about ${product.name}:\n${url}`;
+    window.open(getWhatsAppUrl(message), '_blank', 'noopener,noreferrer');
   };
 
   const openLightbox = (index) => {
@@ -107,10 +195,15 @@ const ProductDetail = () => {
 
   return (
     <>
-      <Helmet>
-        <title>{`${product.name} - MotoGearsPitstop`}</title>
-        <meta name="description" content={product.description} />
-      </Helmet>
+      <SeoHead
+        title={product.seoTitle || productMetaTitle(product)}
+        description={product.metaDescription || productMetaDescription(product)}
+        canonicalPath={canonicalPath}
+        ogType="product"
+        ogImage={productImage}
+        ogImageAlt={productImageAlt(product)}
+        jsonLd={jsonLd}
+      />
 
       <div className="min-h-screen bg-white pt-24 px-4 pb-8">
         <div className="max-w-[1400px] mx-auto">
@@ -141,7 +234,9 @@ const ProductDetail = () => {
               >
                 <img
                   src={productImage}
-                  alt={product.name}
+                  alt={product.imageAlt || productImageAlt(product)}
+                  fetchPriority="high"
+                  decoding="async"
                   onError={(event) => handleProductImageError(event, product)}
                   className="w-full h-full object-cover"
                 />
@@ -239,20 +334,32 @@ const ProductDetail = () => {
               <div className="mb-8 flex flex-col gap-3">
                 <button
                   onClick={handleAddToCart}
-                  className="flex w-full items-center justify-center gap-2 rounded-full bg-[#0a0a0a] px-6 py-4 text-lg font-bold text-white shadow-md transition-colors hover:bg-black"
+                  className="btn-primary-off-white flex w-full items-center justify-center rounded-full px-6 py-4 text-lg font-bold shadow-sm"
                 >
-                  <ShoppingCart size={20} />
                   Add to Cart
                 </button>
                 <button
-                  onClick={handleLiveDemo}
-                  className="flex w-full items-center justify-center gap-2 rounded-full bg-[#0a0a0a] px-6 py-4 text-lg font-bold text-white shadow-md transition-colors hover:bg-black"
+                  onClick={handleBuyNow}
+                  className="flex w-full items-center justify-center btn-primary-yellow rounded-full px-6 py-4 text-lg font-bold shadow-md"
                 >
-                  <svg viewBox="0 0 32 32" className="h-[22px] w-[22px] shrink-0 fill-[#25D366]" aria-hidden>
-                    <path d="M16.001 3.2c-7.06 0-12.8 5.74-12.8 12.8 0 2.253.586 4.457 1.7 6.395L3.2 28.8l6.556-1.723a12.7 12.7 0 006.245 1.607c7.06 0 12.799-5.74 12.799-12.799 0-3.421-1.332-6.638-3.75-9.056A12.717 12.717 0 0016 3.2zm0 23.309a10.5 10.5 0 01-5.35-1.465l-.384-.228-3.973 1.043 1.06-3.874-.25-.4a10.51 10.51 0 01-1.61-5.585c0-5.83 4.743-10.574 10.574-10.574 2.825 0 5.48 1.1 7.478 3.099a10.51 10.51 0 013.097 7.478c0 5.83-4.744 10.573-10.574 10.573zm5.799-7.917c-.318-.16-1.882-.929-2.174-1.035-.292-.106-.504-.16-.716.16-.212.318-.822 1.035-1.008 1.248-.186.212-.371.239-.69.08-.318-.16-1.342-.494-2.556-1.577-.945-.842-1.583-1.883-1.769-2.201-.185-.318-.02-.49.14-.649.144-.143.318-.371.478-.557.16-.185.212-.318.318-.53.106-.212.053-.398-.026-.557-.08-.16-.716-1.725-.981-2.362-.258-.62-.52-.536-.716-.546-.185-.008-.398-.01-.61-.01-.212 0-.557.08-.849.398-.291.318-1.113 1.088-1.113 2.653 0 1.566 1.14 3.08 1.299 3.293.16.212 2.243 3.425 5.436 4.803.76.328 1.352.523 1.815.67.762.242 1.457.208 2.006.126.612-.091 1.882-.769 2.148-1.512.266-.743.266-1.38.186-1.512-.08-.132-.291-.211-.61-.371z" />
-                  </svg>
-                  Live Product Demo
+                  Buy It Now
                 </button>
+                <div className="flex flex-col gap-2 sm:flex-row sm:gap-3">
+                  <button
+                    type="button"
+                    onClick={handleShare}
+                    className="btn-primary-off-white flex flex-1 items-center justify-center rounded-full px-4 py-3 text-sm font-bold shadow-sm"
+                  >
+                    Share
+                  </button>
+                  <button
+                    type="button"
+                    onClick={handleAskQuestion}
+                    className="btn-primary-off-white flex flex-1 items-center justify-center rounded-full px-4 py-3 text-sm font-bold shadow-sm"
+                  >
+                    Ask a Question
+                  </button>
+                </div>
               </div>
 
               {/* Benefits */}
@@ -264,12 +371,9 @@ const ProductDetail = () => {
                     <div className="text-gray-600 text-xs">On orders above ₹5000</div>
                   </div>
                 </div>
-                <div className="flex items-center gap-3">
-                  <Shield className="text-[#e63946]" size={24} />
-                  <div>
-                    <div className="text-gray-900 font-medium text-sm">Genuine Product</div>
-                    <div className="text-gray-600 text-xs">100% Authentic</div>
-                  </div>
+                <div>
+                  <div className="text-gray-900 font-medium text-sm">Genuine Product</div>
+                  <div className="text-gray-600 text-xs">100% Authentic</div>
                 </div>
               </div>
             </div>

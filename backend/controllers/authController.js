@@ -38,7 +38,7 @@ export const register = asyncHandler(async (req, res) => {
 
   const normalizedEmail = String(email || '').trim().toLowerCase();
 
-  if (!name || !password || !phone) {
+  if (!name || !password || !phone || !normalizedEmail) {
     res.status(400);
     throw new Error('Please fill all required fields');
   }
@@ -59,19 +59,17 @@ export const register = asyncHandler(async (req, res) => {
     throw new Error('Phone number already registered');
   }
 
-  if (normalizedEmail) {
-    const emailExists = await User.findOne({ email: normalizedEmail });
-    if (emailExists) {
-      res.status(400);
-      throw new Error('Email already registered');
-    }
+  const emailExists = await User.findOne({ email: normalizedEmail });
+  if (emailExists) {
+    res.status(400);
+    throw new Error('Email already registered');
   }
 
   const user = await User.create({
     name,
     password,
     phone: phoneDigits,
-    ...(normalizedEmail ? { email: normalizedEmail } : {})
+    email: normalizedEmail,
   });
   const token = generateToken(res, user._id);
 

@@ -4,8 +4,8 @@ import ForgotPassword from '@/pages/ForgotPassword';
 import ResetPassword from '@/pages/ResetPassword';
 import React, { useEffect, useRef } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import { Helmet } from 'react-helmet';
 import Header from '@/components/Header';
+import StoreLocation from '@/pages/StoreLocation';
 import Footer from '@/components/Footer';
 import HomePage from '@/pages/HomePage';
 import ProductListing from '@/pages/ProductListing';
@@ -43,10 +43,6 @@ function App() {
   return (
     <Router>
       <ScrollToTop />
-      <Helmet>
-        <title>MotoGearsPitstop - Premium Bike Accessories & Riding Gear</title>
-        <meta name="description" content="Premium motorcycle accessories and riding gear for Indian riders. Shop helmets, jackets, crash guards, touring gear and more." />
-      </Helmet>
 
       <Routes>
         {/* ─── Admin Routes (no Header/Footer) ─── */}
@@ -77,6 +73,7 @@ function App() {
                 <Route path="/shop-by-bike/:bike" element={<ShopByBike />} />
                 <Route path="/about" element={<About />} />
                 <Route path="/contact" element={<Contact />} />
+                <Route path="/motorcycle-accessories-store-whitefield-bengaluru" element={<StoreLocation />} />
               </Routes>
             </main>
             <Footer />

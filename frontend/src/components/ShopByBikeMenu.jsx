@@ -80,12 +80,10 @@ export const bikeGroups = [
 
 const ShopByBikeMenu = ({ onClose }) => (
   <motion.div
-    initial={{ opacity: 0, y: -14 }}
+    initial={{ opacity: 0, y: -8 }}
     animate={{ opacity: 1, y: 0 }}
-    exit={{ opacity: 0, y: -14 }}
-    onMouseEnter={(e) => e.stopPropagation()}
-    onMouseLeave={onClose}
-    className="absolute left-0 top-full mt-2 w-screen bg-white border-y border-gray-200 shadow-2xl"
+    exit={{ opacity: 0, y: -8 }}
+    className="w-full bg-white border-y border-gray-200 shadow-2xl"
   >
     <div className="mx-auto grid max-h-[calc(100vh-150px)] max-w-[1600px] grid-cols-2 gap-y-8 overflow-y-auto px-8 py-8 sm:grid-cols-3 lg:grid-cols-5 xl:grid-cols-6">
       {bikeGroups.map((group) => (

@@ -4,6 +4,8 @@ import { createPortal } from 'react-dom';
 import { useNavigate } from 'react-router-dom';
 import { Eye, EyeOff } from 'lucide-react';
 import useAuthStore from '../store/authStore';
+import IndianPhoneInput from '@/components/IndianPhoneInput';
+import { toIndianLocalDigits } from '@/utils/phoneUtils';
 
 export default function AuthModal({ isOpen, onClose, onSuccess, initialMode = 'login' }) {
   const [mode, setMode] = useState(initialMode);
@@ -26,14 +28,22 @@ export default function AuthModal({ isOpen, onClose, onSuccess, initialMode = 'l
     event?.preventDefault();
     setError('');
 
-    if (!form.password) return setError('Please fill all fields');
-    if (!form.name.trim()) return setError('Name is required');
-    if (!form.phone.trim()) return setError('Phone number is required');
-    if (form.phone.replace(/\D/g, '').length < 10) {
-      return setError('Please enter a valid phone number');
+    if (!form.name.trim()) return setError('Full name is required');
+
+    const phoneDigits = toIndianLocalDigits(form.phone);
+    if (!phoneDigits) return setError('Phone number is required');
+    if (phoneDigits.length < 10) {
+      return setError('Please enter a valid 10-digit mobile number');
     }
 
+    if (!form.password) return setError('Password is required');
+
     if (mode === 'register') {
+      const email = form.email.trim();
+      if (!email) return setError('Email is required');
+      if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+        return setError('Please enter a valid email address');
+      }
       if (form.password.length < 6) {
         return setError('Password must be at least 6 characters');
       }
@@ -46,13 +56,13 @@ export default function AuthModal({ isOpen, onClose, onSuccess, initialMode = 'l
       mode === 'login'
         ? await login({
             name: form.name.trim(),
-            phone: form.phone.trim(),
+            phone: phoneDigits,
             password: form.password
           })
         : await register({
             name: form.name.trim(),
-            phone: form.phone.trim(),
-            email: form.email.trim() || undefined,
+            phone: phoneDigits,
+            email: form.email.trim(),
             password: form.password
           });
 
@@ -76,28 +86,28 @@ export default function AuthModal({ isOpen, onClose, onSuccess, initialMode = 'l
       <form
         onSubmit={handleSubmit}
         autoComplete="off"
-        className="relative w-full max-w-md overflow-hidden rounded-2xl border border-zinc-800 bg-black p-5 shadow-2xl sm:p-6"
+        className="relative w-full max-w-md overflow-hidden rounded-2xl border border-[#CA8A04]/50 bg-[#FDE047] p-5 shadow-2xl sm:p-6"
       >
         <button
           type="button"
           onClick={onClose}
-          className="absolute right-3 top-3 text-xl text-white hover:text-[#e63946]"
+          className="absolute right-3 top-3 text-xl font-bold text-[#0a0a0a] transition hover:text-[#e63946]"
           aria-label="Close"
         >
           x
         </button>
 
-        <h2 className="mb-4 pr-8 text-xl font-bold text-white sm:text-2xl">
+        <h2 className="mb-4 pr-8 text-xl font-bold text-[#0a0a0a] sm:text-2xl">
           {mode === 'login' ? 'Login' : 'Create Account'}
         </h2>
 
-        {error && <p className="mb-3 text-sm text-red-400">{error}</p>}
+        {error && <p className="mb-3 text-sm font-medium text-[#e63946]">{error}</p>}
 
         <div className="mb-3">
-          <label className="mb-1 block text-sm text-white">Full Name *</label>
+          <label className="mb-1 block text-sm font-medium text-[#0a0a0a]">Full Name *</label>
           <input
             autoComplete="name"
-            className="w-full rounded-lg border border-zinc-700 bg-zinc-900 px-3 py-2.5 text-white focus:border-red-500 focus:outline-none"
+            className="w-full rounded-lg border border-[#0a0a0a]/15 bg-white/90 px-3 py-2.5 text-[#0a0a0a] placeholder:text-gray-500 focus:border-[#e63946] focus:outline-none"
             value={form.name}
             onChange={(e) => setForm({ ...form, name: e.target.value })}
             placeholder="Your name"
@@ -105,26 +115,23 @@ export default function AuthModal({ isOpen, onClose, onSuccess, initialMode = 'l
         </div>
 
         <div className="mb-3">
-          <label className="mb-1 block text-sm text-white">Phone Number *</label>
-          <input
-            type="tel"
-            autoComplete="tel"
-            className="w-full rounded-lg border border-zinc-700 bg-zinc-900 px-3 py-2.5 text-white focus:border-red-500 focus:outline-none"
+          <label className="mb-1 block text-sm font-medium text-[#0a0a0a]">Phone Number *</label>
+          <IndianPhoneInput
             value={form.phone}
-            onChange={(e) => setForm({ ...form, phone: e.target.value })}
-            placeholder="+91 98765 43210"
+            onChange={(phone) => setForm({ ...form, phone })}
+            containerClassName="border-[#0a0a0a]/15 bg-white/90"
+            prefixClassName="border-[#0a0a0a]/15 bg-[#F7F7F5]"
+            inputClassName="text-[#0a0a0a] placeholder:text-gray-500"
           />
         </div>
 
         {mode === 'register' && (
           <div className="mb-3">
-            <label className="mb-1 block text-sm text-white">
-              Email Address <span className="font-normal text-yellow-400">(optional)</span>
-            </label>
+            <label className="mb-1 block text-sm font-medium text-[#0a0a0a]">Email Address *</label>
             <input
               type="email"
               autoComplete="email"
-              className="w-full rounded-lg border border-zinc-700 bg-zinc-900 px-3 py-2.5 text-white focus:border-red-500 focus:outline-none"
+              className="w-full rounded-lg border border-[#0a0a0a]/15 bg-white/90 px-3 py-2.5 text-[#0a0a0a] placeholder:text-gray-500 focus:border-[#e63946] focus:outline-none"
               value={form.email}
               onChange={(e) => setForm({ ...form, email: e.target.value })}
               placeholder="your@email.com"
@@ -133,12 +140,12 @@ export default function AuthModal({ isOpen, onClose, onSuccess, initialMode = 'l
         )}
 
         <div className="mb-4">
-          <label className="mb-1 block text-sm text-white">Password *</label>
+          <label className="mb-1 block text-sm font-medium text-[#0a0a0a]">Password *</label>
           <div className="relative">
             <input
               type={mode === 'login' && showPassword ? 'text' : 'password'}
               autoComplete={mode === 'login' ? 'current-password' : 'new-password'}
-              className={`w-full rounded-lg border border-zinc-700 bg-zinc-900 px-3 py-2.5 text-white focus:border-red-500 focus:outline-none ${
+              className={`w-full rounded-lg border border-[#0a0a0a]/15 bg-white/90 px-3 py-2.5 text-[#0a0a0a] placeholder:text-gray-500 focus:border-[#e63946] focus:outline-none ${
                 mode === 'login' ? 'pr-12' : ''
               }`}
               value={form.password}
@@ -149,7 +156,7 @@ export default function AuthModal({ isOpen, onClose, onSuccess, initialMode = 'l
               <button
                 type="button"
                 onClick={() => setShowPassword((value) => !value)}
-                className="absolute inset-y-0 right-3 flex items-center text-zinc-400 transition hover:text-white"
+                className="absolute inset-y-0 right-3 flex items-center text-gray-600 transition hover:text-[#0a0a0a]"
                 aria-label={showPassword ? 'Hide password' : 'Show password'}
               >
                 {showPassword ? <EyeOff size={20} /> : <Eye size={20} />}
@@ -157,7 +164,7 @@ export default function AuthModal({ isOpen, onClose, onSuccess, initialMode = 'l
             )}
           </div>
           {mode === 'register' && (
-            <p className="mt-1.5 text-[11px] leading-snug text-zinc-400 sm:text-xs">
+            <p className="mt-1.5 text-[11px] leading-snug text-[#0a0a0a]/65 sm:text-xs">
               Min. 6 characters, one lowercase letter.
             </p>
           )}
@@ -166,7 +173,7 @@ export default function AuthModal({ isOpen, onClose, onSuccess, initialMode = 'l
         <button
           type="submit"
           disabled={loading}
-          className="mb-3 w-full rounded-full bg-zinc-800 py-2.5 text-sm font-semibold text-white transition hover:bg-zinc-700 disabled:opacity-50"
+          className="mb-3 w-full rounded-full bg-[#e63946] py-2.5 text-sm font-bold text-white transition hover:bg-[#c1121f] disabled:opacity-50"
         >
           {loading ? 'Please wait...' : mode === 'login' ? 'LOG IN' : 'CREATE ACCOUNT'}
         </button>
@@ -178,7 +185,7 @@ export default function AuthModal({ isOpen, onClose, onSuccess, initialMode = 'l
               onClose();
               navigate('/forgot-password');
             }}
-            className="mb-3 w-full text-center text-sm text-white underline transition hover:text-[#e63946]"
+            className="mb-3 w-full text-center text-sm font-medium text-[#0a0a0a] underline transition hover:text-[#e63946]"
           >
             Forgot your password?
           </button>
@@ -190,11 +197,7 @@ export default function AuthModal({ isOpen, onClose, onSuccess, initialMode = 'l
             setMode(mode === 'login' ? 'register' : 'login');
             setError('');
           }}
-          className={`w-full py-1 text-center text-sm font-medium transition-colors ${
-            mode === 'register'
-              ? 'text-yellow-400 hover:text-yellow-300'
-              : 'text-zinc-400 hover:text-white'
-          }`}
+          className="w-full py-1 text-center text-sm font-medium text-[#0a0a0a]/75 transition-colors hover:text-[#e63946]"
         >
           {mode === 'login' ? 'Create account' : 'Already have an account? Log in'}
         </button>
