@@ -149,7 +149,7 @@ const FeaturedDealsBanner = () => {
 
                       <button
                         onClick={(e) => handleAddToCart(e, product)}
-                        className="w-full inline-flex items-center justify-center gap-1.5 sm:gap-2 bg-gray-900 group-hover:bg-red-600 text-white font-bold uppercase tracking-widest text-[11px] sm:text-xs py-2.5 sm:py-3 rounded-full transition-all duration-300 hover:shadow-lg hover:shadow-red-600/25 active:scale-[0.98]"
+                        className="btn-primary-yellow w-full inline-flex items-center justify-center gap-1.5 sm:gap-2 font-bold uppercase tracking-widest text-[11px] sm:text-xs py-2.5 sm:py-3 rounded-full transition-all duration-300 group-hover:bg-[#FACC15] hover:shadow-lg active:scale-[0.98]"
                       >
                         <ShoppingCart size={14} className="shrink-0" />
                         <span className="hidden sm:inline">Add To Cart</span>
@@ -171,7 +171,7 @@ const FeaturedDealsBanner = () => {
         {/* Mobile View All */}
         <div className="md:hidden mt-6">
           <Link to={productsUrl({ filter: 'deals' })} className="block">
-            <button className="w-full inline-flex items-center justify-center gap-2 bg-gray-900 hover:bg-red-600 text-white font-bold uppercase tracking-widest text-xs py-4 rounded-full transition-colors duration-300 group">
+            <button className="btn-primary-yellow w-full inline-flex items-center justify-center gap-2 font-bold uppercase tracking-widest text-xs py-4 rounded-full transition-colors duration-300 group">
               View All Deals
               <ArrowUpRight size={16} className="group-hover:rotate-45 transition-transform duration-300" />
             </button>

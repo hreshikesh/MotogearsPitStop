@@ -1,5 +1,7 @@
 import React from 'react';
-import { Helmet } from 'react-helmet';
+import SeoHead from '@/components/SeoHead';
+import { buildTitle, truncateMeta } from '@/utils/seoText';
+import { breadcrumbSchema, organizationSchema } from '@/utils/jsonLd';
 import { Link } from 'react-router-dom';
 import { Shield, Truck, Star, Wrench } from 'lucide-react';
 import { motion } from 'framer-motion';
@@ -7,10 +9,20 @@ import { motion } from 'framer-motion';
 const About = () => {
   return (
     <>
-      <Helmet>
-        <title>About Us - MotoGearsPitstop</title>
-        <meta name="description" content="Learn more about MotoGearsPitstop, your premium destination for motorcycle accessories and riding gear." />
-      </Helmet>
+      <SeoHead
+        title={buildTitle('About Us — Motorcycle Gear for Indian Riders')}
+        description={truncateMeta(
+          'MotoGearsPitstop curates premium motorcycle accessories, riding gear and touring products for riders across India, with a physical store in Whitefield, Bengaluru.',
+        )}
+        canonicalPath="/about"
+        jsonLd={[
+          organizationSchema(),
+          breadcrumbSchema([
+            { name: 'Home', path: '/' },
+            { name: 'About', path: '/about' },
+          ]),
+        ]}
+      />
       
       <div className="min-h-screen bg-white pt-24 px-4 pb-20">
         <div className="max-w-[1200px] mx-auto">

@@ -5,9 +5,11 @@
   "private": true,
   "scripts": {
     "dev": "vite --host :: --port 3000",
-    "build": "node tools/generate-llms.js || true && vite build && node tools/create-spa-fallbacks.js",
+    "sitemap": "node tools/generate-sitemap.js",
+    "build": "node tools/generate-sitemap.js && (node tools/generate-llms.js || true) && vite build && node tools/generate-seo-static-pages.js && node tools/create-spa-fallbacks.js",
     "preview": "vite preview --host :: --port 3000",
     "lint": "eslint . --quiet",
+    "test:seo": "node tools/generate-sitemap.js && node --test tools/seo.test.js",
     "postinstall": "npm ls eslint"
   },
   "dependencies": {

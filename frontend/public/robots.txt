@@ -1,0 +1,21 @@
+# https://motogearspitstop.com/robots.txt
+User-agent: *
+Allow: /
+
+Disallow: /cart
+Disallow: /checkout
+Disallow: /wishlist
+Disallow: /orders
+Disallow: /forgot-password
+Disallow: /reset-password
+Disallow: /admin
+Disallow: /api/
+
+# Faceted search — utility URLs; canonical listing pages are in sitemap
+Disallow: /products?*search=
+Disallow: /products?*minPrice=
+Disallow: /products?*maxPrice=
+Disallow: /products?*minRating=
+Disallow: /products?*hasDiscount=
+
+Sitemap: https://motogearspitstop.com/sitemap.xml

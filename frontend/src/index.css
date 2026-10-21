@@ -65,6 +65,20 @@
   .font-bebas {
     font-family: 'Bebas Neue', sans-serif;
   }
+  .font-montserrat {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+  }
+  .font-montserrat-bold {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+  }
+  .btn-primary-yellow {
+    @apply bg-[#FDE047] text-[#0a0a0a] transition-colors hover:bg-[#FACC15];
+  }
+  .btn-primary-off-white {
+    @apply border border-gray-200 bg-[#F7F7F5] text-[#0a0a0a] transition-colors hover:bg-[#EFEFEB];
+  }
   .text-shadow {
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
   }

@@ -1,6 +1,8 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
-import { Helmet } from 'react-helmet';
+import SeoHead from '@/components/SeoHead';
+import { listingMetaTitle, listingMetaDescription } from '@/utils/seoText';
+import { breadcrumbSchema, itemListSchema } from '@/utils/jsonLd';
 import { motion } from 'framer-motion';
 import ProductCard from '@/components/ProductCard';
 import { products } from '@/data/products';
@@ -14,10 +16,20 @@ const ShopByBike = () => {
 
   return (
     <>
-      <Helmet>
-        <title>{`${bikeName} Accessories - MotoGearsPitstop`}</title>
-        <meta name="description" content={`Shop premium accessories and parts for ${bikeName}. Free shipping on orders above ₹5000.`} />
-      </Helmet>
+      <SeoHead
+        title={listingMetaTitle({ bike: bikeName })}
+        description={listingMetaDescription({ bike: bikeName, productCount: filteredProducts.length })}
+        canonicalPath={`/shop-by-bike/${bike}`}
+        jsonLd={[
+          breadcrumbSchema([
+            { name: 'Home', path: '/' },
+            { name: `${bikeName} accessories`, path: `/shop-by-bike/${bike}` },
+          ]),
+          ...(filteredProducts.length
+            ? [itemListSchema({ name: `${bikeName} accessories`, items: filteredProducts })]
+            : []),
+        ]}
+      />
 
       <div className="min-h-screen bg-white pt-24 px-4 pb-8">
         <div className="max-w-[1400px] mx-auto">

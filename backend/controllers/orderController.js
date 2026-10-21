@@ -21,7 +21,7 @@ const escapeHtml = (value = '') => String(value)
 const formatCurrency = (value = 0) => `INR ${Number(value || 0).toLocaleString('en-IN')}`;
 const FREE_DELIVERY_MINIMUM = 5000;
 const DELIVERY_CHARGE = 199;
-const COD_ADVANCE_PERCENTAGE = 20;
+const COD_ADVANCE_PERCENTAGE = 10;
 
 const calculatePaymentBreakup = (paymentMethod, totalPrice) => {
   const total = Number(totalPrice || 0);
@@ -67,6 +67,9 @@ const buildCustomerOrderEmail = (order, customerName) => `
     <p>Your MotoGear Pitstop order has been placed successfully.</p>
     <p><strong>Order ID:</strong> ${order._id}</p>
     <p><strong>Payment:</strong> ${order.paymentMethod === 'cod' ? 'Cash on Delivery' : 'Online Payment'} (${order.paymentStatus})</p>
+    ${order.paymentMethod === 'cod' && order.codAdvancePercentage > 0
+      ? `<p><strong>COD advance:</strong> ${order.codAdvancePercentage}% paid online to confirm this order.</p>`
+      : ''}
     <p><strong>Amount Paid:</strong> ${formatCurrency(order.amountPaid)}</p>
     <p><strong>Leftover Amount:</strong> ${formatCurrency(order.amountDue)}</p>
     <h3>Order Items</h3>

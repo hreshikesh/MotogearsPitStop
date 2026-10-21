@@ -17088,7 +17088,7 @@ const catalogProducts = [
         name: 'Axor Retro Moto-X Helmet',
         price: 5498,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006397/RetroMotoXAthenaGrey_2_900x_kpcflj.webphttps://res.cloudinary.com/k4uklwi4/image/upload/v1786006236/X1WHITERED_2_900x_yakxcx.webp',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006397/RetroMotoXAthenaGrey_2_900x_kpcflj.webp',
         galleryImages: [
             'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006393/RetroMotoXAthenaGrey_1_900x_hvryvb.webp',
             'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006401/RetroMotoXAthenaGrey_6_900x_scclpu.webp',
@@ -19678,7 +19678,7 @@ const catalogProducts = [
         name: 'Axor Tail Bag-25 LTS',
         price: 5498,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087948/1_xjnmyw.webphttps://res.cloudinary.com/k4uklwi4/image/upload/v1786087466/AXOROASIS_HYDERATIONBAGWITHBLADER_-1Red_900x_yf2ips.webp',
+        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087948/1_xjnmyw.webp',
         galleryImages: [
             'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087949/3_ceccex.webp',
             'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087949/4_yeoim4.webp',
@@ -19755,11 +19755,11 @@ const catalogProducts = [
         name: 'AXOR IMPACT-X KNEE GUARD Black and Red',
         price: 3230,
         discount: 8,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088359/11_apwrkl.webphttps://res.cloudinary.com/twjztvms/image/upload/v1784024723/product15_spgnf3.webp',
+        image: 'https://cdn.shopify.com/s/files/1/0630/7174/8248/files/IMPACT-XKNEEGUARDRED2_900x_842b7262-fb35-47c5-9895-14bb45247cb6.webp?v=1779306511',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088382/22_gkif7l.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088383/33_gdrk9d.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088383/44_edpzcl.webp'
+            'https://cdn.shopify.com/s/files/1/0630/7174/8248/files/IMPACT-XKNEEGUARDRED1_900x_7c48020e-8330-4d6d-bc83-c8641d7f622a.webp?v=1779306511',
+            'https://cdn.shopify.com/s/files/1/0630/7174/8248/files/IMPACT-XKNEEGUARD4_900x_e6b6aaec-b8e2-40a5-8650-abb6a058527b.webp?v=1779306511',
+            'https://cdn.shopify.com/s/files/1/0630/7174/8248/files/IMPACT-XKNEEGUARDRED3_900x_57379b02-4527-4b94-abba-1e9a3cd648b1.webp?v=1779306511'
         ],
         category: 'Riding Gear',
         subcategory: 'Knee Guards',
@@ -19781,11 +19781,11 @@ const catalogProducts = [
         name: 'AXOR IMPACT-X KNEE GUARD Black and Neon Yellow',
         price: 3230,
         discount: 8,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088467/IMPACT-XKNEEGUARDNEONYELLOW2_900x_udvii4.webp',
+        image: 'https://cdn.shopify.com/s/files/1/0630/7174/8248/files/IMPACT-XKNEEGUARDNEONYELLOW2_900x_804e84b0-7cf3-47e3-9b43-ff576e52da40.webp?v=1779306645',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088466/IMPACT-XKNEEGUARDNEONYELLOW1_900x_z1rovx.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088469/IMPACT-XKNEEGUARDNEONYELLOW3_900x_xwmpml.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088458/IMPACT-X_KNEE_GUARD_40_900x_pdvhe4.webp'
+            'https://cdn.shopify.com/s/files/1/0630/7174/8248/files/IMPACT-XKNEEGUARDNEONYELLOW1_900x_c34f904f-0d66-41f1-9e6a-fbd96c04dca8.webp?v=1779306645',
+            'https://cdn.shopify.com/s/files/1/0630/7174/8248/files/IMPACT-X_KNEE_GUARD_40_900x_4bf6ba28-7215-4a7a-9c98-bd7d25e6d06e.webp?v=1779306645',
+            'https://cdn.shopify.com/s/files/1/0630/7174/8248/files/IMPACT-XKNEEGUARDNEONYELLOW3_900x_2b89f128-b446-4b85-85a0-792e7c9e1f8b.webp?v=1779306645'
         ],
         category: 'Riding Gear',
         subcategory: 'Knee Guards',

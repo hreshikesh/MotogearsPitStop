@@ -1,6 +1,9 @@
 import React from 'react';
-import { Helmet } from 'react-helmet';
+import SeoHead from '@/components/SeoHead';
 import HeroSection from '@/components/home/HeroSection';
+import { DEFAULT_DESCRIPTION, DEFAULT_OG_IMAGE } from '@/config/seo';
+import { buildTitle } from '@/utils/seoText';
+import { organizationSchema, websiteSchema } from '@/utils/jsonLd';
 import CategoryShowcase from '@/components/home/CategoryShowcase';
 import FeaturedDealsBanner from '@/components/home/FeaturedDealsBanner';
 import ShopByBrands from '@/components/home/ShopByBrands';
@@ -23,10 +26,13 @@ const HomePage = ({ headerRef }) => {
 
   return (
     <>
-      <Helmet>
-        <title>MotoGearsPitstop - Premium Bike Accessories & Riding Gear for Indian Riders</title>
-        <meta name="description" content="Shop premium motorcycle accessories, riding gear, helmets, jackets, crash guards, and touring essentials. Free shipping on orders above ₹5000. Trusted by riders across India." />
-      </Helmet>
+      <SeoHead
+        title={buildTitle('Premium Motorcycle Accessories & Riding Gear for Indian Riders')}
+        description={DEFAULT_DESCRIPTION}
+        canonicalPath="/"
+        ogImage={DEFAULT_OG_IMAGE}
+        jsonLd={[organizationSchema(), websiteSchema()]}
+      />
       <FirstPurchasePromoModal />
       <div className="bg-white min-h-screen">
         <HeroSection headerHeight={headerHeight} />

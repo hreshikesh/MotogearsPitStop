@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Helmet } from 'react-helmet';
+import SeoHead from '@/components/SeoHead';
 import { motion } from 'framer-motion';
 import { Heart, ShoppingBag } from 'lucide-react';
 import { useWishlistStore } from '@/store/wishlistStore';
@@ -12,10 +12,11 @@ const Wishlist = () => {
   if (items.length === 0) {
     return (
       <>
-        <Helmet>
-          <title>Wishlist - MotoGearsPitstop</title>
-          <meta name="description" content="Your wishlist is empty. Save your favorite motorcycle accessories." />
-        </Helmet>
+        <SeoHead
+          title="Wishlist | MotoGearsPitstop"
+          description="Your wishlist is empty. Save your favorite motorcycle accessories."
+          robots="noindex, follow"
+        />
 
         <div className="min-h-screen bg-white pt-24 px-4 flex items-center justify-center">
           <motion.div
@@ -41,10 +42,11 @@ const Wishlist = () => {
 
   return (
     <>
-      <Helmet>
-        <title>{`Wishlist (${items.length}) - MotoGearsPitstop`}</title>
-        <meta name="description" content="View and manage your saved motorcycle accessories and riding gear." />
-      </Helmet>
+      <SeoHead
+        title={`Wishlist (${items.length}) | MotoGearsPitstop`}
+        description="View and manage your saved motorcycle accessories and riding gear."
+        robots="noindex, follow"
+      />
 
       <div className="min-h-screen bg-white pt-40 px-4 pb-8">
         <div className="max-w-[1400px] mx-auto">
