@@ -8335,11 +8335,11 @@ const catalogProducts = [
         name: 'vesrah Royal Enfield Thunderbird/ Thunderbird X 500 Vesrah Brake pads (Ceramic)',
         price: 3395,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435956/Screenshot_2026-09-03_171543_ajtgf8.jpg',
+        image: 'https://ik.imagekit.io/zcuzede8x/products/extra-ids/image.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435956/Screenshot_2026-09-03_171543_ajtgf8.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435956/Screenshot_2026-09-03_171543_ajtgf8.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435956/Screenshot_2026-09-03_171543_ajtgf8.jpg'
+            'https://ik.imagekit.io/zcuzede8x/products/extra-ids/image(1).png',
+            'https://ik.imagekit.io/zcuzede8x/products/extra-ids/image(2).png',
+         
         ],
         category: 'Performance Parts',
         subcategory: 'Brake Pads',
