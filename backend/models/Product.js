@@ -26,7 +26,13 @@ const productSchema = new mongoose.Schema({
   numReviews: { type: Number, default: 0 },
   reviews: [reviewSchema],
   isFeatured: { type: Boolean, default: false },
-  isNewArrival: { type: Boolean, default: false }
+  isNewArrival: { type: Boolean, default: false },
+  seoTitle: { type: String, default: '' },
+  metaDescription: { type: String, default: '' },
+  seoCanonical: { type: String, default: '' },
+  noindex: { type: Boolean, default: false },
+  imageAlt: { type: String, default: '' },
+  discontinued: { type: Boolean, default: false },
 }, { timestamps: true });
 
 const Product = mongoose.model('Product', productSchema);

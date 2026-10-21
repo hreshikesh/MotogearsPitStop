@@ -7,6 +7,7 @@ import { useWishlistStore } from '@/store/wishlistStore';
 import { useToast } from '@/components/ui/use-toast';
 import { productUrl } from '@/utils/urlUtils';
 import { getProductImage, handleProductImageError } from '@/utils/imageUtils';
+import { productImageAlt } from '@/utils/imageSeo';
 
 const ProductCard = ({ product }) => {
   const addToCart = useCartStore((state) => state.addToCart);
@@ -52,7 +53,7 @@ const ProductCard = ({ product }) => {
         <div className="relative aspect-square overflow-hidden bg-gradient-to-br from-gray-50 to-white">
           <img
             src={productImage}
-            alt={product.name}
+            alt={product.imageAlt || productImageAlt(product)}
             loading="lazy"
             onError={(event) => handleProductImageError(event, product)}
             className="w-full h-full object-cover object-center transition-transform duration-700 group-hover:scale-110"
@@ -128,7 +129,7 @@ const ProductCard = ({ product }) => {
             {/* Add-to-cart icon button */}
             <button
               onClick={handleAddToCart}
-              className="shrink-0 w-9 h-9 sm:w-10 sm:h-10 rounded-full bg-gray-900 group-hover:bg-red-600 hover:!bg-red-500 text-white flex items-center justify-center transition-all duration-300 shadow-md group-hover:shadow-lg group-hover:shadow-red-600/40 active:scale-90"
+              className="btn-primary-yellow shrink-0 w-9 h-9 sm:w-10 sm:h-10 rounded-full flex items-center justify-center transition-all duration-300 shadow-md group-hover:shadow-lg active:scale-90 hover:!bg-[#FACC15]"
               aria-label="Add to cart"
               title="Add to cart"
             >

@@ -1,4 +1,6 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useRef } from 'react';
+import SeoHead from '@/components/SeoHead';
+import { trackPurchase } from '@/utils/analytics';
 import { Link, useLocation, useParams, useSearchParams } from 'react-router-dom';
 import { CheckCircle, ShoppingBag } from 'lucide-react';
 import useOrderStore from '@/store/orderStore';
@@ -9,10 +11,32 @@ const OrderSuccess = () => {
   const [searchParams, setSearchParams] = useSearchParams();
   const { order, fetchOrderById } = useOrderStore();
   const [showSuccess, setShowSuccess] = useState(false);
+  const purchaseTracked = useRef(false);
 
   useEffect(() => {
     fetchOrderById(id);
   }, [fetchOrderById, id]);
+
+  useEffect(() => {
+    if (
+      purchaseTracked.current ||
+      !order ||
+      !(location.state?.orderPlaced || searchParams.get('placed') === '1')
+    ) {
+      return;
+    }
+    purchaseTracked.current = true;
+    trackPurchase({
+      transactionId: order._id || id,
+      value: order.totalPrice,
+      items: (order.orderItems || []).map((item) => ({
+        id: item.product?._id || item.product,
+        name: item.name,
+        price: item.price,
+        quantity: item.quantity,
+      })),
+    });
+  }, [order, id, location.state, searchParams]);
 
   useEffect(() => {
     if (location.state?.orderPlaced || searchParams.get('placed') === '1') {
@@ -26,6 +50,12 @@ const OrderSuccess = () => {
   };
 
   return (
+    <>
+    <SeoHead
+      title="Order Confirmation | MotoGearsPitstop"
+      description="Your order has been placed successfully."
+      robots="noindex, follow"
+    />
     <div className="min-h-screen bg-white pt-36 px-4 pb-12">
       {showSuccess && (
         <div className="fixed inset-0 z-[80] flex items-center justify-center bg-black/60 px-4">
@@ -96,6 +126,7 @@ const OrderSuccess = () => {
         </Link>
       </div>
     </div>
+    </>
   );
 };
 

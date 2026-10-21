@@ -1,6 +1,9 @@
 import React, { useState, useEffect, useMemo, useCallback, useRef } from 'react';
 import { useSearchParams } from 'react-router-dom';
-import { Helmet } from 'react-helmet';
+import SeoHead from '@/components/SeoHead';
+import { listingMetaTitle, listingMetaDescription } from '@/utils/seoText';
+import { robotsDirective } from '@/utils/indexability';
+import { itemListSchema, breadcrumbSchema } from '@/utils/jsonLd';
 import { motion, AnimatePresence } from 'framer-motion';
 import { SlidersHorizontal, X, PackageSearch, ArrowUpRight } from 'lucide-react';
 import ProductCard from '@/components/ProductCard';
@@ -211,13 +214,51 @@ const ProductListing = () => {
     };
   }, [showMobileFilters]);
 
+  const categoryParam = searchParams.get('category');
+  const categoryName = categoryParam || null;
+
   const pageHeading = brandName
     ? brandName
     : bikeName
     ? `Products for ${bikeName}`
     : subcategoryName
     ? subcategoryName
+    : categoryName
+    ? categoryName
     : null;
+
+  const listingCanonicalPath = useMemo(() => {
+    const params = new URLSearchParams();
+    if (brandName) params.set('brand', brandName);
+    else if (bikeName) params.set('bike', bikeName);
+    else if (subcategoryName) params.set('subcategory', subcategoryName);
+    else if (categoryName) params.set('category', categoryName);
+    const qs = params.toString();
+    return qs ? `/products?${qs}` : '/products';
+  }, [brandName, bikeName, subcategoryName, categoryName]);
+
+  const listingRobots = robotsDirective({
+    pathname: '/products',
+    searchParams,
+  });
+
+  const listingJsonLd = useMemo(() => {
+    if (filteredProducts.length === 0) return null;
+    const crumbs = breadcrumbSchema([
+      { name: 'Home', path: '/' },
+      { name: 'Products', path: '/products' },
+      ...(pageHeading
+        ? [{ name: pageHeading, path: listingCanonicalPath }]
+        : []),
+    ]);
+    return [
+      crumbs,
+      itemListSchema({
+        name: pageHeading || 'Motorcycle products',
+        items: filteredProducts,
+      }),
+    ];
+  }, [filteredProducts, listingCanonicalPath, pageHeading]);
 
   // Count active filters for mobile button badge
   const activeFilterCount = useMemo(() => {
@@ -234,29 +275,25 @@ const ProductListing = () => {
 
   return (
     <>
-      <Helmet>
-        <title>
-          {brandName
-            ? `${brandName} Products - Shop Motorcycle Gear - MotoGearsPitstop`
-            : bikeName
-            ? `${bikeName} Accessories - Shop Motorcycle Gear - MotoGearsPitstop`
-            : subcategoryName
-            ? `${subcategoryName} - Shop Motorcycle Gear - MotoGearsPitstop`
-            : 'Shop Motorcycle Gear & Accessories - MotoGearsPitstop'}
-        </title>
-        <meta
-          name="description"
-          content={
-            brandName
-              ? `Browse our collection of ${brandName} products. Premium quality motorcycle accessories and gear.`
-              : bikeName
-              ? `Browse our collection of accessories and gear for ${bikeName}. Premium quality riding gear and parts.`
-              : subcategoryName
-              ? `Browse our collection of ${subcategoryName} for motorcycles. Premium quality riding gear and accessories.`
-              : 'Browse our complete collection of motorcycle accessories, riding gear, and performance parts.'
-          }
-        />
-      </Helmet>
+      <SeoHead
+        title={listingMetaTitle({
+          brand: brandName,
+          bike: bikeName,
+          subcategory: subcategoryName,
+          category: categoryName,
+          search: filters.searchQuery,
+        })}
+        description={listingMetaDescription({
+          brand: brandName,
+          bike: bikeName,
+          subcategory: subcategoryName,
+          category: categoryName,
+          productCount: filteredProducts.length,
+        })}
+        canonicalPath={listingCanonicalPath}
+        robots={listingRobots}
+        jsonLd={listingJsonLd}
+      />
 
       <div className="min-h-screen bg-gradient-to-b from-white via-gray-50/50 to-white pt-20 sm:pt-24 pb-12 sm:pb-16">
         <div className="max-w-[1600px] mx-auto px-3 sm:px-4 md:px-6 lg:px-8">
@@ -290,7 +327,7 @@ const ProductListing = () => {
               <div className="lg:hidden sticky top-16 z-30 -mx-3 sm:-mx-4 px-3 sm:px-4 py-2 bg-white/95 backdrop-blur-md border-b border-gray-100 mb-4">
                 <button
                   onClick={() => setShowMobileFilters(true)}
-                  className="group relative flex items-center justify-center gap-2 w-full bg-gray-900 hover:bg-red-600 text-white px-4 py-3 rounded-full font-black uppercase tracking-widest text-xs transition-all duration-300 shadow-lg"
+                  className="btn-primary-yellow group relative flex items-center justify-center gap-2 w-full px-4 py-3 rounded-full font-black uppercase tracking-widest text-xs transition-all duration-300 shadow-lg"
                 >
                   <SlidersHorizontal size={15} />
                   <span>Filters & Sort</span>
@@ -475,7 +512,7 @@ const ProductListing = () => {
               <div className="sticky bottom-0 border-t border-gray-100 bg-white p-3 flex gap-2 shadow-2xl">
                 <button
                   onClick={handleClearAll}
-                  className="flex-1 py-3 rounded-full border-2 border-gray-900 text-gray-900 font-black uppercase tracking-widest text-xs hover:bg-gray-900 hover:text-white transition-all"
+                  className="flex-1 py-3 rounded-full border-2 border-[#0a0a0a] text-[#0a0a0a] font-black uppercase tracking-widest text-xs hover:bg-[#FDE047] transition-all"
                 >
                   Reset
                 </button>

@@ -1,5 +1,7 @@
 import React from 'react';
-import { Helmet } from 'react-helmet';
+import SeoHead from '@/components/SeoHead';
+import { buildTitle, truncateMeta } from '@/utils/seoText';
+import { breadcrumbSchema, organizationSchema } from '@/utils/jsonLd';
 import { Link } from 'react-router-dom';
 import { MapPin, Mail, Clock, MessageCircle } from 'lucide-react';
 import { motion } from 'framer-motion';
@@ -20,10 +22,20 @@ const Contact = () => {
 
   return (
     <>
-      <Helmet>
-        <title>Contact Us - MotoGearsPitstop</title>
-        <meta name="description" content="Get in touch with MotoGearsPitstop for support, inquiries, or feedback." />
-      </Helmet>
+      <SeoHead
+        title={buildTitle('Contact Us — Support & Store Enquiries')}
+        description={truncateMeta(
+          'Contact MotoGearsPitstop for orders, product questions and store visits. Phone, WhatsApp and email support. Whitefield, Bengaluru showroom.',
+        )}
+        canonicalPath="/contact"
+        jsonLd={[
+          organizationSchema(),
+          breadcrumbSchema([
+            { name: 'Home', path: '/' },
+            { name: 'Contact', path: '/contact' },
+          ]),
+        ]}
+      />
       
       <div className="min-h-screen bg-white pt-24 px-4 pb-20">
         <div className="max-w-[1200px] mx-auto">

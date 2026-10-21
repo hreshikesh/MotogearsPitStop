@@ -1,7 +1,12 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Facebook, Instagram, Youtube, Twitter, Mail, ArrowRight, MapPin } from 'lucide-react';
-import { SUPPORT_PHONE_DISPLAY, getWhatsAppUrl } from '@/config/contact';
+import { Facebook, Instagram, Youtube, Twitter, ArrowRight, MapPin } from 'lucide-react';
+import { getWhatsAppUrl, INSTAGRAM_URL } from '@/config/contact';
+import {
+  BUSINESS_ADDRESS_LINES,
+  BUSINESS_PHONE_DISPLAY,
+  STORE_LOCATION_PATH,
+} from '@/config/business';
 import WhatsAppIcon from '@/components/WhatsAppIcon';
 
 const Footer = () => {
@@ -22,10 +27,13 @@ const Footer = () => {
               Your one-stop destination for premium motorcycle accessories and riding gear. Built for riders, engineered for roads.
             </p>
             <div className="flex gap-4">
-              {[Instagram, Facebook, Youtube, Twitter].map((Icon, i) => (
-                <a key={i} href="#" className="bg-gray-100 p-2 rounded-sm text-gray-600 hover:bg-[#e63946] hover:text-white transition-all">
+              <a href={INSTAGRAM_URL} target="_blank" rel="noopener noreferrer" className="bg-gray-100 p-2 rounded-sm text-gray-600 hover:bg-[#e63946] hover:text-white transition-all" aria-label="Instagram">
+                <Instagram size={20} />
+              </a>
+              {[Facebook, Youtube, Twitter].map((Icon, i) => (
+                <span key={i} className="bg-gray-100 p-2 rounded-sm text-gray-400 cursor-not-allowed" aria-hidden="true">
                   <Icon size={20} />
-                </a>
+                </span>
               ))}
             </div>
           </div>
@@ -38,6 +46,7 @@ const Footer = () => {
                 { label: 'Shop', to: '/products' },
                 { label: 'About Us', to: '/about' },
                 { label: 'Contact', to: '/contact' },
+                { label: 'Whitefield Store', to: STORE_LOCATION_PATH },
               ].map(({ label, to }) => (
                 <li key={to}>
                   <Link to={to} className="text-gray-600 hover:text-[#e63946] text-sm transition-colors flex items-center gap-2 group">
@@ -68,19 +77,14 @@ const Footer = () => {
               <div className="flex items-start gap-3">
                 <MapPin size={18} className="text-[#e63946] flex-shrink-0 mt-1" />
                 <p className="leading-relaxed">
-                  No.301, Varthur Main Rd, next to Dmart,<br />
-                  Narayanswamy Layout, Siddapura,<br />
-                  Whitefield, Bengaluru,<br />
-                  Karnataka 560066
+                  {BUSINESS_ADDRESS_LINES.map((line) => (
+                    <span key={line} className="block">{line}</span>
+                  ))}
                 </p>
               </div>
               <a href={getWhatsAppUrl()} target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 hover:text-[#25D366] transition-colors group">
                 <WhatsAppIcon className="h-[18px] w-[18px] shrink-0 fill-[#25D366]" />
-                <span>{SUPPORT_PHONE_DISPLAY}</span>
-              </a>
-              <a href="mailto:support@motogears.com" className="flex items-center gap-3 hover:text-[#e63946] transition-colors">
-                <Mail size={18} className="text-[#e63946]" />
-                <span>support@motogears.com</span>
+                <span>{BUSINESS_PHONE_DISPLAY}</span>
               </a>
             </div>
           </div>

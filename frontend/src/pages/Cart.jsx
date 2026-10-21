@@ -210,7 +210,7 @@ const Cart = () => {
                       <button
                         type="button"
                         onClick={() => handleAddOn(product)}
-                        className="mt-auto pt-2 rounded-full bg-[#0a0a0a] px-2 py-1.5 text-xs font-bold text-white transition-colors hover:bg-black"
+                        className="mt-auto pt-2 btn-primary-yellow rounded-full px-2 py-1.5 text-xs font-bold"
                       >
                         Add to cart
                       </button>
@@ -257,7 +257,7 @@ const Cart = () => {
 
               <button
                 onClick={() => navigate('/checkout')}
-                className="mt-6 w-full rounded-full bg-[#0a0a0a] px-6 py-3 font-bold text-white transition-colors hover:bg-black"
+                className="btn-primary-yellow mt-6 w-full rounded-full px-6 py-3 font-bold"
               >
                 Proceed to Checkout
               </button>

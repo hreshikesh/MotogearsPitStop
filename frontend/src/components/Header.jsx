@@ -2,13 +2,13 @@
 
 import React, { useState, useEffect, useRef, forwardRef } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { ShoppingCart, User, Menu, X, Heart, Clock, ChevronDown, Search } from 'lucide-react';
+import { ShoppingCart, User, Menu, X, Clock, ChevronDown, Instagram } from 'lucide-react';
+import { INSTAGRAM_FOLLOW_LABEL, INSTAGRAM_URL } from '@/config/contact';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useCartStore } from '@/store/cartStore';
-import { useWishlistStore } from '@/store/wishlistStore';
 import useAuthStore from '@/store/authStore';
 import AuthModal from '@/components/AuthModal';
-import MegaMenu, { shopCategories } from '@/components/MegaMenu';
+import { shopCategories } from '@/components/MegaMenu';
 import ShopByBikeMenu, { bikeGroups } from '@/components/ShopByBikeMenu';
 import SearchBar from '@/components/SearchBar';
 import { productsUrl } from '@/utils/urlUtils';
@@ -20,20 +20,23 @@ const Header = forwardRef((props, ref) => {
   const [isMobileBikeOpen, setIsMobileBikeOpen] = useState(false);
   const [expandedBikeBrand, setExpandedBikeBrand] = useState('');
   const [expandedMobileCategory, setExpandedMobileCategory] = useState('');
-  const [showSearchPanel, setShowSearchPanel] = useState(false);
   const [desktopMenu, setDesktopMenu] = useState(null);
+  const [instagramCtaShowsFollow, setInstagramCtaShowsFollow] = useState(false);
+
+  useEffect(() => {
+    const intervalId = window.setInterval(() => {
+      setInstagramCtaShowsFollow((current) => !current);
+    }, 3500);
+    return () => window.clearInterval(intervalId);
+  }, []);
 
 
   const cartCount = useCartStore(state => state.items.reduce((acc, i) => acc + i.quantity, 0));
-const wishlistCount = useWishlistStore(state => state.products?.length || 0);
   const { isAuthenticated, user, logout } = useAuthStore();
   const location = useLocation();
   
   const announcementRef = useRef(null);
   const navbarRef = useRef(null);
-  const searchToggleRef = useRef(null);
-  const searchPanelRef = useRef(null);
-
   useEffect(() => {
     const handleScroll = () => setIsScrolled(window.scrollY > 20);
     window.addEventListener('scroll', handleScroll);
@@ -49,35 +52,8 @@ const wishlistCount = useWishlistStore(state => state.products?.length || 0);
   }, [location]);
 
   useEffect(() => {
-    setShowSearchPanel(false);
     setDesktopMenu(null);
   }, [location.pathname]);
-
-  useEffect(() => {
-    if (!showSearchPanel) return;
-
-    const handlePointerDown = (event) => {
-      const target = event.target;
-      if (
-        searchPanelRef.current?.contains(target) ||
-        searchToggleRef.current?.contains(target)
-      ) {
-        return;
-      }
-      setShowSearchPanel(false);
-    };
-
-    const handleEscape = (event) => {
-      if (event.key === 'Escape') setShowSearchPanel(false);
-    };
-
-    document.addEventListener('mousedown', handlePointerDown);
-    document.addEventListener('keydown', handleEscape);
-    return () => {
-      document.removeEventListener('mousedown', handlePointerDown);
-      document.removeEventListener('keydown', handleEscape);
-    };
-  }, [showSearchPanel]);
 
   const handleBrandScroll = (e) => {
     if (location.pathname === '/') {
@@ -114,7 +90,45 @@ const wishlistCount = useWishlistStore(state => state.products?.length || 0);
   const mobileMenuSubButtonRowClass = `flex w-full items-center justify-between border-b border-[#222] px-5 py-3.5 text-left ${mobileMenuSubTextClass}`;
 
   const desktopNavLinkClass =
-    'whitespace-nowrap text-sm font-semibold text-white transition-colors hover:text-[#e63946] xl:text-base 2xl:text-[17px]';
+    'whitespace-nowrap text-lg uppercase tracking-[0.08em] text-[#0a0a0a] transition-colors hover:text-[#e63946] xl:text-xl 2xl:text-2xl';
+  const desktopNavTriggerClass = `${desktopNavLinkClass} inline-flex items-center gap-1.5`;
+
+  const instagramCtaLink = (variant) => (
+    <motion.a
+      href={INSTAGRAM_URL}
+      target="_blank"
+      rel="noopener noreferrer"
+      layout
+      className={`font-montserrat-bold inline-flex shrink-0 items-center justify-center self-center overflow-hidden rounded-full bg-gradient-to-r from-[#f09433] via-[#e6683c] via-[#dc2743] via-[#cc2366] to-[#bc1888] text-base text-white shadow-sm transition-opacity hover:opacity-95 md:text-lg ${
+        variant === 'desktop'
+          ? `hidden py-3 md:inline-flex md:ml-10 lg:ml-16 xl:ml-20 md:py-3 ${instagramCtaShowsFollow ? 'gap-3.5' : 'gap-0'}`
+          : `py-2 md:hidden ${instagramCtaShowsFollow ? 'gap-3' : 'gap-0'}`
+      }`}
+      animate={{
+        paddingLeft: instagramCtaShowsFollow ? (variant === 'desktop' ? 20 : 14) : 14,
+        paddingRight: instagramCtaShowsFollow ? (variant === 'desktop' ? 20 : 14) : 14,
+      }}
+      transition={{ duration: 0.45, ease: [0.4, 0, 0.2, 1] }}
+      aria-label={
+        instagramCtaShowsFollow ? `Follow us on Instagram` : 'Instagram'
+      }
+    >
+      <Instagram size={22} strokeWidth={2.25} className="shrink-0" aria-hidden />
+      <motion.span
+        className="block overflow-hidden whitespace-nowrap"
+        initial={false}
+        animate={{
+          maxWidth: instagramCtaShowsFollow ? 80 : 0,
+          opacity: instagramCtaShowsFollow ? 1 : 0,
+          marginLeft: instagramCtaShowsFollow ? 4 : 0,
+          x: instagramCtaShowsFollow ? 0 : 16,
+        }}
+        transition={{ duration: 0.45, ease: [0.4, 0, 0.2, 1] }}
+      >
+        {INSTAGRAM_FOLLOW_LABEL}
+      </motion.span>
+    </motion.a>
+  );
 
   return (
     <header className="fixed top-0 left-0 right-0 z-50">
@@ -134,213 +148,180 @@ const wishlistCount = useWishlistStore(state => state.products?.length || 0);
 
       <div ref={navbarRef}>
         <div
-          className={`relative bg-[#0a0a0a] border-b border-[#222] transition-shadow duration-300 ${isScrolled ? 'shadow-lg shadow-black/40' : ''}`}
+          className={`relative transition-shadow duration-300 ${isScrolled ? 'shadow-lg shadow-black/25' : ''}`}
+          onMouseLeave={() => setDesktopMenu(null)}
         >
-        <div className="max-w-[1600px] mx-auto w-full px-4 py-3 sm:px-5 sm:py-3.5 md:px-6 xl:py-4">
-          <div className="flex min-h-[56px] w-full items-center gap-3 sm:min-h-[64px] md:gap-4 xl:grid xl:min-h-[72px] xl:grid-cols-[minmax(0,auto)_1fr_minmax(0,auto)] xl:items-center xl:gap-6">
-            <Link to="/" className="relative z-10 flex shrink-0 items-center xl:justify-self-start">
-              <img
-                src="/logo.webp"
-                alt="Moto Gears - Bike Accessories"
-                className="h-14 w-auto object-contain sm:h-16 md:h-20 xl:h-24"
-              />
-            </Link>
+        <div className="w-full bg-[#FDE047] px-4 py-3 sm:px-5 sm:py-4 md:px-6 md:py-6 xl:py-8">
+          <div className="mx-auto w-full max-w-[1600px]">
+            <div className="grid grid-cols-[auto_1fr_auto] items-center gap-x-2 gap-y-2 sm:gap-x-4 sm:gap-y-3 md:min-h-[6.75rem] md:gap-x-5 md:gap-y-5 xl:min-h-[7.25rem]">
+              <div className="relative z-10 col-start-1 row-start-1 flex shrink-0 items-center gap-1 self-center pl-2 sm:gap-2 sm:pl-5 md:pl-8 lg:pl-10">
+                <button
+                  type="button"
+                  onClick={() => {
+                    setIsMobileMenuOpen((open) => !open);
+                    setDesktopMenu(null);
+                  }}
+                  className="flex items-center p-1 text-[#0a0a0a] transition-colors hover:text-[#e63946] xl:hidden"
+                  aria-label={isMobileMenuOpen ? 'Close menu' : 'Open menu'}
+                >
+                  {isMobileMenuOpen ? (
+                    <X size={28} strokeWidth={2.25} className="sm:h-8 sm:w-8" />
+                  ) : (
+                    <Menu size={28} strokeWidth={2.25} className="sm:h-8 sm:w-8" />
+                  )}
+                </button>
+                <Link to="/" className="flex shrink-0 items-center">
+                  <img
+                    src="/logo.webp"
+                    alt="Moto Gears - Bike Accessories"
+                    className="h-14 w-auto object-contain sm:h-20 md:h-28 xl:h-[7.5rem]"
+                  />
+                </Link>
+              </div>
+
+              <div
+                id="header-search-panel"
+                className="relative z-30 col-span-3 row-start-2 flex min-w-0 flex-col items-stretch gap-2 overflow-visible sm:flex-row sm:items-center sm:justify-center sm:gap-3 md:col-span-1 md:col-start-2 md:row-start-1 md:w-full md:max-w-none md:px-2 lg:gap-4"
+              >
+                <div className="min-w-0 w-full md:max-w-2xl md:flex-1">
+                  <SearchBar compact />
+                </div>
+                {instagramCtaLink('desktop')}
+              </div>
+
+              <div className="relative z-10 col-start-3 row-start-1 flex shrink-0 items-center justify-self-end gap-2 sm:gap-3 md:gap-6">
+                {instagramCtaLink('mobile')}
+                <Link to="/cart" className="relative flex items-center p-1 text-[#0a0a0a] transition-colors hover:text-[#e63946] group" aria-label="Cart">
+                  <ShoppingCart className="h-7 w-7 sm:h-8 sm:w-8" strokeWidth={2.25} />
+                  {cartCount > 0 && (
+                    <span className="absolute -top-1 -right-1 flex h-5 w-5 items-center justify-center rounded-full bg-[#e63946] text-[11px] font-bold text-white">
+                      {cartCount}
+                    </span>
+                  )}
+                </Link>
+
+                <button
+                  onClick={() => {
+                    if (isAuthenticated) {
+                      setShowAccountMenu((current) => !current);
+                      return;
+                    }
+                    setShowAuth(true);
+                  }}
+                  className="flex items-center p-1 text-[#0a0a0a] transition-colors hover:text-[#e63946] sm:max-w-[8rem] md:max-w-36"
+                  title={isAuthenticated ? 'Account menu' : 'Login / Sign up'}
+                  aria-label={isAuthenticated ? 'Account menu' : 'Login or sign up'}
+                >
+                  {isAuthenticated ? (
+                    <>
+                      <User className="h-7 w-7 shrink-0 sm:hidden sm:h-8 sm:w-8" strokeWidth={2.25} />
+                      <span className="hidden truncate text-base font-bold uppercase sm:inline">
+                        {user?.name || 'Account'}
+                      </span>
+                    </>
+                  ) : (
+                    <User className="h-7 w-7 sm:h-8 sm:w-8" strokeWidth={2.25} />
+                  )}
+                </button>
+
+                <AnimatePresence>
+                  {isAuthenticated && showAccountMenu && (
+                    <motion.div
+                      initial={{ opacity: 0, y: -6 }}
+                      animate={{ opacity: 1, y: 0 }}
+                      exit={{ opacity: 0, y: -6 }}
+                      className="absolute right-0 top-full z-[70] mt-2 w-56 rounded-lg border border-gray-200 bg-white p-2 text-gray-900 shadow-xl"
+                    >
+                      <div className="border-b border-gray-100 px-3 py-2">
+                        <p className="truncate text-sm font-bold">{user?.name || 'Account'}</p>
+                        {user?.email && <p className="truncate text-xs text-gray-500">{user.email}</p>}
+                      </div>
+                      {user?.role === 'admin' && (
+                        <Link
+                          to="/admin"
+                          onClick={() => setShowAccountMenu(false)}
+                          className="mt-2 block w-full rounded-md px-3 py-2 text-left text-sm font-bold text-gray-900 hover:bg-gray-100"
+                        >
+                          Admin Panel
+                        </Link>
+                      )}
+                      <Link
+                        to="/orders"
+                        onClick={() => setShowAccountMenu(false)}
+                        className="mt-2 flex w-full items-center gap-2 rounded-md px-3 py-2 text-left text-sm font-bold text-gray-900 hover:bg-gray-100"
+                      >
+                        <Clock size={16} />
+                        Order History
+                      </Link>
+                      <button
+                        onClick={handleLogout}
+                        className="mt-2 w-full rounded-md px-3 py-2 text-left text-sm font-bold text-[#e63946] hover:bg-gray-100"
+                      >
+                        Logout
+                      </button>
+                    </motion.div>
+                  )}
+                </AnimatePresence>
+              </div>
+            </div>
 
             <nav
-              className="hidden min-w-0 xl:flex xl:justify-self-center xl:items-center xl:justify-center xl:gap-5 2xl:gap-7"
+              className="font-montserrat-bold hidden min-w-0 flex-col items-stretch gap-5 pb-1 pl-5 pt-5 uppercase tracking-[0.08em] sm:pl-6 md:pl-8 lg:pl-10 xl:flex"
               aria-label="Shop categories"
             >
-              <div
-                className="relative shrink-0"
-                onMouseEnter={() => setDesktopMenu('bike')}
-                onMouseLeave={() => setDesktopMenu(null)}
-              >
-                <button
-                  type="button"
-                  className={`${desktopNavLinkClass} ${desktopMenu === 'bike' ? 'text-[#e63946]' : ''}`}
+              <div className="flex min-w-0 flex-wrap items-center justify-start gap-x-8 gap-y-3 xl:gap-x-10 2xl:gap-x-12">
+                <div
+                  className="relative shrink-0"
+                  onMouseEnter={() => setDesktopMenu('bike')}
                 >
-                  Shop By Bike
-                </button>
+                  <button
+                    type="button"
+                    className={`${desktopNavTriggerClass} ${desktopMenu === 'bike' ? 'text-[#e63946]' : ''}`}
+                  >
+                    Shop By Bike
+                    <ChevronDown
+                      size={22}
+                      strokeWidth={2.5}
+                      className={`shrink-0 transition-transform duration-200 ${desktopMenu === 'bike' ? 'rotate-180' : ''}`}
+                    />
+                  </button>
+                </div>
+                {shopCategories.slice(0, 4).map((category) => (
+                  <Link
+                    key={category.name}
+                    to={category.isBrand ? '/products' : productsUrl({ category: category.name })}
+                    className={`${desktopNavLinkClass} shrink-0`}
+                  >
+                    {category.name}
+                  </Link>
+                ))}
               </div>
-              <div
-                className="relative shrink-0"
-                onMouseEnter={() => setDesktopMenu('shop')}
-                onMouseLeave={() => setDesktopMenu(null)}
-              >
-                <button
-                  type="button"
-                  className={`${desktopNavLinkClass} ${desktopMenu === 'shop' ? 'text-[#e63946]' : ''}`}
-                >
-                  Categories
-                </button>
-              </div>
-              {shopCategories.map((category) => (
-                <Link
-                  key={category.name}
-                  to={category.isBrand ? '/products' : productsUrl({ category: category.name })}
-                  className={`${desktopNavLinkClass} shrink-0`}
-                >
-                  {category.name}
+              <div className="flex min-w-0 flex-wrap items-center justify-start gap-x-8 gap-y-3 xl:gap-x-10 2xl:gap-x-12">
+                {shopCategories.slice(4).map((category) => (
+                  <Link
+                    key={category.name}
+                    to={category.isBrand ? '/products' : productsUrl({ category: category.name })}
+                    className={`${desktopNavLinkClass} shrink-0`}
+                  >
+                    {category.name}
+                  </Link>
+                ))}
+                <Link to="/products" className={`${desktopNavLinkClass} shrink-0`}>
+                  All Products
                 </Link>
-              ))}
-              <Link to="/products" className={`${desktopNavLinkClass} shrink-0`}>
-                All Products
-              </Link>
+              </div>
             </nav>
-
-            <div className="relative z-10 ml-auto flex shrink-0 items-center gap-3 sm:gap-4 md:gap-5 xl:ml-0 xl:justify-self-end">
-            <button
-              ref={searchToggleRef}
-              type="button"
-              onClick={() => {
-                setShowSearchPanel(true);
-                setIsMobileMenuOpen(false);
-                setDesktopMenu(null);
-              }}
-              className={`flex items-center transition-colors ${showSearchPanel ? 'text-[#e63946]' : 'text-white hover:text-[#e63946]'}`}
-              aria-label="Search"
-              aria-expanded={showSearchPanel}
-              aria-controls="header-search-panel"
-            >
-              <Search size={22} strokeWidth={2.5} />
-            </button>
-
-            <Link to="/wishlist" className="hidden sm:flex items-center text-white hover:text-[#e63946] transition-colors relative group">
-               <Heart size={22} strokeWidth={2.5} />
-               {wishlistCount > 0 && <span className="absolute -top-2 -right-2 bg-[#e63946] text-white text-[10px] font-bold rounded-full w-4 h-4 flex items-center justify-center">
-                     {wishlistCount}
-                  </span>}
-            </Link>
-            
-            <Link to="/cart" className="flex items-center text-white hover:text-[#e63946] transition-colors relative group" aria-label="Cart">
-              <ShoppingCart size={22} strokeWidth={2.5} />
-              {cartCount > 0 && <span className="absolute -top-2 -right-2 bg-[#e63946] text-white text-[10px] font-bold rounded-full w-4 h-4 flex items-center justify-center">
-                  {cartCount}
-                </span>}
-            </Link>
-
-            <button
-              onClick={() => {
-                if (isAuthenticated) {
-                  setShowAccountMenu((current) => !current);
-                  return;
-                }
-                setShowAuth(true);
-              }}
-              className="hidden sm:flex max-w-[7rem] md:max-w-32 items-center text-white hover:text-[#e63946] transition-colors"
-              title={isAuthenticated ? 'Account menu' : 'Login / Sign up'}
-            >
-               {isAuthenticated ? (
-                 <span className="truncate text-sm font-bold uppercase">{user?.name || 'Account'}</span>
-               ) : (
-                 <User size={22} strokeWidth={2.5} />
-               )}
-            </button>
-
-            <AnimatePresence>
-              {isAuthenticated && showAccountMenu && (
-                <motion.div
-                  initial={{ opacity: 0, y: -6 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  exit={{ opacity: 0, y: -6 }}
-                  className="absolute right-6 top-[calc(100%-0.75rem)] z-[70] w-56 rounded-lg border border-gray-200 bg-white p-2 text-gray-900 shadow-xl"
-                >
-                  <div className="border-b border-gray-100 px-3 py-2">
-                    <p className="truncate text-sm font-bold">{user?.name || 'Account'}</p>
-                    {user?.email && <p className="truncate text-xs text-gray-500">{user.email}</p>}
-                  </div>
-                  {user?.role === 'admin' && (
-                    <Link
-                      to="/admin"
-                      onClick={() => setShowAccountMenu(false)}
-                      className="mt-2 block w-full rounded-md px-3 py-2 text-left text-sm font-bold text-gray-900 hover:bg-gray-100"
-                    >
-                      Admin Panel
-                    </Link>
-                  )}
-                  <Link
-                    to="/orders"
-                    onClick={() => setShowAccountMenu(false)}
-                    className="mt-2 flex w-full items-center gap-2 rounded-md px-3 py-2 text-left text-sm font-bold text-gray-900 hover:bg-gray-100"
-                  >
-                    <Clock size={16} />
-                    Order History
-                  </Link>
-                  <button
-                    onClick={handleLogout}
-                    className="mt-2 w-full rounded-md px-3 py-2 text-left text-sm font-bold text-[#e63946] hover:bg-gray-100"
-                  >
-                    Logout
-                  </button>
-                </motion.div>
-              )}
-            </AnimatePresence>
-
-            <button
-              onClick={() => {
-                setIsMobileMenuOpen((open) => !open);
-                setShowSearchPanel(false);
-                setDesktopMenu(null);
-              }}
-              className="flex xl:hidden items-center text-white hover:text-[#e63946] transition-colors"
-            >
-              {isMobileMenuOpen ? <X size={28} /> : <Menu size={28} />}
-            </button>
-            </div>
           </div>
         </div>
 
         <AnimatePresence>
           {desktopMenu === 'bike' && (
-            <div
-              className="absolute left-0 right-0 top-full z-50 hidden xl:block"
-              onMouseEnter={() => setDesktopMenu('bike')}
-              onMouseLeave={() => setDesktopMenu(null)}
-            >
+            <div className="absolute left-0 right-0 top-full z-50 hidden pt-2 xl:block">
               <ShopByBikeMenu onClose={() => setDesktopMenu(null)} />
-            </div>
-          )}
-          {desktopMenu === 'shop' && (
-            <div
-              className="absolute left-0 right-0 top-full z-50 hidden xl:block"
-              onMouseEnter={() => setDesktopMenu('shop')}
-              onMouseLeave={() => setDesktopMenu(null)}
-            >
-              <MegaMenu onClose={() => setDesktopMenu(null)} />
             </div>
           )}
         </AnimatePresence>
 
-        <AnimatePresence>
-          {showSearchPanel && (
-            <motion.div
-              id="header-search-panel"
-              ref={searchPanelRef}
-              initial={{ opacity: 0, y: -6 }}
-              animate={{ opacity: 1, y: 0 }}
-              exit={{ opacity: 0, y: -6 }}
-              transition={{ duration: 0.2, ease: [0.25, 0.1, 0.25, 1] }}
-              className="absolute left-0 right-0 top-full z-40 border-t border-gray-200 bg-white shadow-lg shadow-gray-200/60"
-            >
-              <div className="mx-auto w-full max-w-[1600px] px-4 py-3 sm:px-5 sm:py-4 md:px-6">
-                <div className="relative mx-auto w-full max-w-3xl pl-1 pr-10 sm:pr-12">
-                  <button
-                    type="button"
-                    onClick={() => setShowSearchPanel(false)}
-                    className="absolute right-0 top-2 rounded-full p-1.5 text-gray-500 transition-colors hover:bg-gray-100 hover:text-gray-900"
-                    aria-label="Close search"
-                  >
-                    <X size={22} strokeWidth={2.5} />
-                  </button>
-                  <SearchBar
-                    autoFocus
-                    onSearchTriggered={() => setShowSearchPanel(false)}
-                  />
-                </div>
-              </div>
-            </motion.div>
-          )}
-        </AnimatePresence>
         </div>
       </div>
 

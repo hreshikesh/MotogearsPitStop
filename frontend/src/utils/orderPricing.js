@@ -2,7 +2,7 @@ import { FIRST_PURCHASE_PROMO } from '@/config/promotions';
 
 export const FREE_DELIVERY_MINIMUM = 5000;
 export const DELIVERY_CHARGE = 199;
-export const COD_ADVANCE_PERCENTAGE = 20;
+export const COD_ADVANCE_PERCENTAGE = 10;
 
 export const calculateFirstPurchaseDiscount = (billAmount) => {
   const bill = Number(billAmount || 0);
