@@ -31,7 +31,7 @@ const ShopByBike = () => {
         ]}
       />
 
-      <div className="min-h-screen bg-white pt-24 px-4 pb-8">
+      <div className="min-h-screen bg-white py-6 px-4 pb-8">
         <div className="max-w-[1400px] mx-auto">
           <motion.h1
             initial={{ opacity: 0, y: -20 }}

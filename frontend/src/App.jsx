@@ -2,7 +2,7 @@
 
 import ForgotPassword from '@/pages/ForgotPassword';
 import ResetPassword from '@/pages/ResetPassword';
-import React, { useEffect, useRef } from 'react';
+import React, { useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from '@/components/Header';
 import StoreLocation from '@/pages/StoreLocation';
@@ -33,7 +33,6 @@ import AdminUsers from '@/pages/admin/AdminUsers';
 import AdminRevenue from '@/pages/admin/AdminRevenue';
 
 function App() {
-  const headerRef = useRef(null);
   const getMe = useAuthStore(state => state.getMe);
 
   useEffect(() => {
@@ -57,12 +56,12 @@ function App() {
         {/* ─── Public Routes (with Header/Footer) ─── */}
         <Route path="/*" element={
           <div className="min-h-screen bg-[#0a0a0a] text-white flex flex-col relative">
-            <Header ref={headerRef} />
+            <Header />
             <main className="flex-1">
               <Routes>
                 <Route path="/forgot-password" element={<ForgotPassword />} />
                 <Route path="/reset-password/:token" element={<ResetPassword />} />
-                <Route path="/" element={<HomePage headerRef={headerRef} />} />
+                <Route path="/" element={<HomePage />} />
                 <Route path="/products" element={<ProductListing />} />
                 <Route path="/product/:id" element={<ProductDetail />} />
                 <Route path="/cart" element={<Cart />} />

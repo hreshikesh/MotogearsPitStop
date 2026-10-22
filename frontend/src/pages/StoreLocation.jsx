@@ -55,7 +55,7 @@ const StoreLocation = () => {
         jsonLd={jsonLd}
       />
 
-      <div className="min-h-screen bg-white pt-24 px-4 pb-16">
+      <div className="min-h-screen bg-white py-6 px-4 pb-16">
         <div className="max-w-[1100px] mx-auto">
           <nav className="flex items-center gap-2 text-sm text-gray-600 mb-8" aria-label="Breadcrumb">
             <Link to="/" className="hover:text-gray-900">Home</Link>

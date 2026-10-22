@@ -40,6 +40,7 @@ export const BUSINESS_HOURS_TEXT = {
 
 export const SOCIAL_PROFILES = {
   instagram: 'https://www.instagram.com/motogearpitstop/',
+  youtube: (import.meta.env.VITE_YOUTUBE_URL || '').trim(),
 };
 
 export const STORE_LOCATION_PATH = '/motorcycle-accessories-store-whitefield-bengaluru';

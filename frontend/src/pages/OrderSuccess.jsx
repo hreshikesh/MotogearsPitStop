@@ -56,7 +56,7 @@ const OrderSuccess = () => {
       description="Your order has been placed successfully."
       robots="noindex, follow"
     />
-    <div className="min-h-screen bg-white pt-36 px-4 pb-12">
+    <div className="min-h-screen bg-white py-6 px-4 pb-12">
       {showSuccess && (
         <div className="fixed inset-0 z-[80] flex items-center justify-center bg-black/60 px-4">
           <div className="w-full max-w-md rounded-lg bg-white p-6 text-center shadow-2xl">
