@@ -58,6 +58,9 @@
 }
 
 @layer utilities {
+  .pt-header {
+    padding-top: var(--site-header-offset, 7.5rem);
+  }
   .font-mono-bold {
     font-family: 'Space Mono', monospace;
     font-weight: 700;

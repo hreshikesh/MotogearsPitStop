@@ -23,6 +23,8 @@ const useHeaderHeight = (headerRef) => {
         }
       }
 
+      const pageOffset = totalHeight > 0 ? totalHeight + 12 : 120;
+      document.documentElement.style.setProperty('--site-header-offset', `${pageOffset}px`);
       setHeaderHeight(totalHeight);
     };
 
@@ -32,8 +34,22 @@ const useHeaderHeight = (headerRef) => {
     // Calculate again after component mount
     calculateHeaderHeight();
 
-    // Recalculate on window resize
+    // Recalculate on window resize (also fired when desktop nav collapses)
     window.addEventListener('resize', calculateHeaderHeight);
+
+    let resizeObserver;
+    const attachResizeObserver = () => {
+      const navbarEl = headerRef?.current?.navbarRef?.current;
+      if (!navbarEl || resizeObserver) return;
+      resizeObserver = new ResizeObserver(calculateHeaderHeight);
+      resizeObserver.observe(navbarEl);
+    };
+    attachResizeObserver();
+    const observerRetry = setInterval(() => {
+      attachResizeObserver();
+      if (resizeObserver) clearInterval(observerRetry);
+    }, 100);
+    setTimeout(() => clearInterval(observerRetry), 2000);
 
     // Recalculate periodically for the first second (handles dynamic content loading)
     const intervals = [200, 400, 600, 800, 1000].map(delay =>
@@ -43,6 +59,8 @@ const useHeaderHeight = (headerRef) => {
     // Cleanup
     return () => {
       window.removeEventListener('resize', calculateHeaderHeight);
+      clearInterval(observerRetry);
+      resizeObserver?.disconnect();
       clearTimeout(initialTimeout);
       intervals.forEach(clearTimeout);
     };

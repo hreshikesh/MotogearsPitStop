@@ -295,7 +295,7 @@ const ProductListing = () => {
         jsonLd={listingJsonLd}
       />
 
-      <div className="min-h-screen bg-gradient-to-b from-white via-gray-50/50 to-white pt-20 sm:pt-24 pb-12 sm:pb-16">
+      <div className="min-h-screen bg-gradient-to-b from-white via-gray-50/50 to-white py-6 pb-12 sm:pb-16">
         <div className="max-w-[1600px] mx-auto px-3 sm:px-4 md:px-6 lg:px-8">
           {/* ═══════ HEADER ═══════ */}
           <SearchResultsHeader
@@ -312,7 +312,7 @@ const ProductListing = () => {
           <div className="flex gap-4 lg:gap-6 xl:gap-8 mt-4 sm:mt-6">
             {/* ═══════ DESKTOP SIDEBAR ═══════ */}
             <aside className="hidden lg:block w-64 xl:w-72 flex-shrink-0">
-              <div className="sticky top-24">
+              <div className="sticky top-4">
                 <FilterPanel
                   filters={filters}
                   onChange={handleFilterChange}
@@ -324,7 +324,7 @@ const ProductListing = () => {
             {/* ═══════ MAIN CONTENT ═══════ */}
             <div className="flex-1 min-w-0">
               {/* ── Mobile Filter Button (Sticky) ── */}
-              <div className="lg:hidden sticky top-16 z-30 -mx-3 sm:-mx-4 px-3 sm:px-4 py-2 bg-white/95 backdrop-blur-md border-b border-gray-100 mb-4">
+              <div className="lg:hidden sticky top-4 z-30 -mx-3 sm:-mx-4 px-3 sm:px-4 py-2 bg-white/95 backdrop-blur-md border-b border-gray-100 mb-4">
                 <button
                   onClick={() => setShowMobileFilters(true)}
                   className="btn-primary-yellow group relative flex items-center justify-center gap-2 w-full px-4 py-3 rounded-full font-black uppercase tracking-widest text-xs transition-all duration-300 shadow-lg"

@@ -18,12 +18,7 @@ import RidingGearShowcase from '@/components/home/RidingGearShowcase';
 import TouringShowcase from '@/components/home/TouringShowcase';
 import TrustBenefits from '@/components/home/TrustBenefits';
 import FirstPurchasePromoModal from '@/components/home/FirstPurchasePromoModal';
-import useHeaderHeight from '@/hooks/useHeaderHeight';
-
-const HomePage = ({ headerRef }) => {
-  // Calculate dynamic header height using the passed headerRef
-  const headerHeight = useHeaderHeight(headerRef);
-
+const HomePage = () => {
   return (
     <>
       <SeoHead
@@ -35,7 +30,7 @@ const HomePage = ({ headerRef }) => {
       />
       <FirstPurchasePromoModal />
       <div className="bg-white min-h-screen">
-        <HeroSection headerHeight={headerHeight} />
+        <HeroSection />
         <CategoryShowcase />
         <FeaturedDealsBanner />
         <ShopByBrands />

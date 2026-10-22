@@ -18,7 +18,7 @@ const Wishlist = () => {
           robots="noindex, follow"
         />
 
-        <div className="min-h-screen bg-white pt-24 px-4 flex items-center justify-center">
+        <div className="min-h-screen bg-white py-6 px-4 flex items-center justify-center">
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
@@ -48,7 +48,7 @@ const Wishlist = () => {
         robots="noindex, follow"
       />
 
-      <div className="min-h-screen bg-white pt-40 px-4 pb-8">
+      <div className="min-h-screen bg-white py-6 px-4 pb-8">
         <div className="max-w-[1400px] mx-auto">
           <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-8">
             My Wishlist ({items.length})

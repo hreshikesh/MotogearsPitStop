@@ -13,7 +13,7 @@ import { productImageAlt } from '@/utils/imageSeo';
 import { trackViewItem, trackAddToCart } from '@/utils/analytics';
 import { getProductIdentifier } from '@/utils/urlUtils';
 import { motion } from 'framer-motion';
-import { Heart, Minus, Plus, Star, Truck } from 'lucide-react';
+import { Heart, Minus, Plus, Star } from 'lucide-react';
 import { products } from '@/data/products';
 import { useCartStore } from '@/store/cartStore';
 import { useWishlistStore } from '@/store/wishlistStore';
@@ -77,7 +77,7 @@ const ProductDetail = () => {
           description="This product could not be found. Browse our motorcycle gear catalog."
           robots="noindex, follow"
         />
-      <div className="min-h-screen bg-white pt-24 px-4 flex items-center justify-center">
+      <div className="min-h-screen bg-white py-6 px-4 flex items-center justify-center">
         <div className="text-center">
           <h2 className="text-2xl text-gray-900 mb-4">Product not found</h2>
           <Link to="/products" className="text-[#e63946] hover:underline">
@@ -205,7 +205,7 @@ const ProductDetail = () => {
         jsonLd={jsonLd}
       />
 
-      <div className="min-h-screen bg-white pt-24 px-4 pb-8">
+      <div className="min-h-screen bg-white py-6 px-4 pb-8">
         <div className="max-w-[1400px] mx-auto">
           {/* Breadcrumbs Navigation */}
           <div className="flex flex-wrap items-center gap-2 text-sm text-gray-600 mb-8 bg-gray-50 p-3 rounded-lg border border-gray-200 w-fit">
@@ -290,7 +290,7 @@ const ProductDetail = () => {
                   {product.bikes.map((bike, idx) => (
                     <span
                       key={idx}
-                      className="bg-gray-100 text-gray-700 px-3 py-1 rounded-full text-sm border border-gray-300"
+                      className="bg-[#FDE047] text-[#0a0a0a] px-3 py-1 rounded-full text-sm font-bold border border-[#e5c940]"
                     >
                       {bike}
                     </span>
@@ -363,30 +363,27 @@ const ProductDetail = () => {
               </div>
 
               {/* Benefits */}
-              <div className="grid grid-cols-2 gap-4 p-4 bg-gray-50 rounded-lg border border-gray-200">
-                <div className="flex items-center gap-3">
-                  <Truck className="text-[#e63946]" size={24} />
-                  <div>
-                    <div className="text-gray-900 font-medium text-sm">Free Shipping</div>
-                    <div className="text-gray-600 text-xs">On orders above ₹5000</div>
-                  </div>
+              <div className="grid grid-cols-2 gap-4">
+                <div className="p-4 rounded-2xl border border-[#0a0a0a]/15">
+                  <div className="text-[#0a0a0a] font-bold text-sm">Free Shipping</div>
+                  <div className="text-[#0a0a0a]/80 text-xs">On orders above ₹5000</div>
                 </div>
-                <div>
-                  <div className="text-gray-900 font-medium text-sm">Genuine Product</div>
-                  <div className="text-gray-600 text-xs">100% Authentic</div>
+                <div className="p-4 rounded-2xl border border-[#0a0a0a]/15">
+                  <div className="text-[#0a0a0a] font-bold text-sm">Genuine Product</div>
+                  <div className="text-[#0a0a0a]/80 text-xs">100% Authentic</div>
                 </div>
               </div>
             </div>
           </div>
 
           {/* Specifications */}
-          <div className="bg-gray-50 rounded-lg p-6 border border-gray-200 mb-12">
-            <h2 className="text-2xl font-bold text-gray-900 mb-6">Specifications</h2>
+          <div className="bg-[#FDE047] rounded-lg p-6 border border-[#e5c940] mb-12">
+            <h2 className="text-2xl font-bold text-[#0a0a0a] mb-6">Specifications</h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               {Object.entries(product.specifications).map(([key, value]) => (
-                <div key={key} className="flex justify-between py-3 border-b border-gray-200">
-                  <span className="text-gray-600">{key}</span>
-                  <span className="text-gray-900 font-medium">{value}</span>
+                <div key={key} className="flex justify-between gap-4 py-3 border-b border-[#0a0a0a]/15 text-sm font-bold text-[#0a0a0a]">
+                  <span>{key}</span>
+                  <span className="text-right">{value}</span>
                 </div>
               ))}
             </div>

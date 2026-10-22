@@ -131,7 +131,7 @@ const Header = forwardRef((props, ref) => {
   );
 
   return (
-    <header className="fixed top-0 left-0 right-0 z-50">
+    <header className="relative z-50 w-full">
       <div ref={announcementRef} className="overflow-hidden bg-[#e63946] text-white text-xs font-bold py-1 tracking-widest uppercase">
         <motion.div
           className="flex w-max whitespace-nowrap"
@@ -151,9 +151,9 @@ const Header = forwardRef((props, ref) => {
           className={`relative transition-shadow duration-300 ${isScrolled ? 'shadow-lg shadow-black/25' : ''}`}
           onMouseLeave={() => setDesktopMenu(null)}
         >
-        <div className="w-full bg-[#FDE047] px-4 py-3 sm:px-5 sm:py-4 md:px-6 md:py-6 xl:py-8">
+        <div className="w-full bg-[#FDE047] px-4 py-2.5 sm:px-5 sm:py-3 md:px-6 md:py-4 xl:py-5">
           <div className="mx-auto w-full max-w-[1600px]">
-            <div className="grid grid-cols-[auto_1fr_auto] items-center gap-x-2 gap-y-2 sm:gap-x-4 sm:gap-y-3 md:min-h-[6.75rem] md:gap-x-5 md:gap-y-5 xl:min-h-[7.25rem]">
+            <div className="grid grid-cols-[auto_1fr_auto] items-center gap-x-2 gap-y-2 sm:gap-x-4 sm:gap-y-2 md:min-h-[5.5rem] md:gap-x-5 md:gap-y-3 xl:min-h-[6rem]">
               <div className="relative z-10 col-start-1 row-start-1 flex shrink-0 items-center gap-1 self-center pl-2 sm:gap-2 sm:pl-5 md:pl-8 lg:pl-10">
                 <button
                   type="button"
@@ -174,7 +174,7 @@ const Header = forwardRef((props, ref) => {
                   <img
                     src="/logo.webp"
                     alt="Moto Gears - Bike Accessories"
-                    className="h-14 w-auto object-contain sm:h-20 md:h-28 xl:h-[7.5rem]"
+                    className="h-12 w-auto object-contain sm:h-16 md:h-20 xl:h-24"
                   />
                 </Link>
               </div>
@@ -266,7 +266,7 @@ const Header = forwardRef((props, ref) => {
             </div>
 
             <nav
-              className="font-montserrat-bold hidden min-w-0 flex-col items-stretch gap-5 pb-1 pl-5 pt-5 uppercase tracking-[0.08em] sm:pl-6 md:pl-8 lg:pl-10 xl:flex"
+              className="font-montserrat-bold hidden min-w-0 flex-col items-stretch gap-3 pb-0.5 pl-5 pt-3 uppercase tracking-[0.08em] sm:pl-6 md:pl-8 lg:pl-10 xl:flex"
               aria-label="Shop categories"
             >
               <div className="flex min-w-0 flex-wrap items-center justify-start gap-x-8 gap-y-3 xl:gap-x-10 2xl:gap-x-12">

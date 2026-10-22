@@ -23,7 +23,7 @@ const OrderHistory = () => {
 
   if (!isAuthenticated) {
     return (
-      <div className="min-h-screen bg-white pt-36 px-4 pb-12">
+      <div className="min-h-screen bg-white px-4 py-6 sm:py-8 pb-12">
         <div className="mx-auto max-w-3xl text-center">
           <PackageSearch className="mx-auto mb-4 text-[#e63946]" size={56} />
           <h1 className="mb-2 text-3xl font-bold text-gray-900">Login to view order history</h1>
@@ -41,7 +41,7 @@ const OrderHistory = () => {
   }
 
   return (
-    <div className="min-h-screen bg-white pt-36 px-4 pb-12">
+    <div className="min-h-screen bg-white px-4 py-6 sm:py-8 pb-12">
       <div className="mx-auto max-w-5xl">
         <div className="mb-8 flex items-center gap-3">
           <Clock className="text-[#e63946]" size={30} />

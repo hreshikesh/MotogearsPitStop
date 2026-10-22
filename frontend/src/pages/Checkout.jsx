@@ -348,7 +348,7 @@
 
 //           {/* Order Summary */}
 //           <div className="lg:col-span-1">
-//             <div className="bg-white rounded-lg p-6 border border-gray-200 sticky top-24 shadow-sm">
+//             <div className="bg-white rounded-lg p-6 border border-gray-200 sticky top-4 shadow-sm">
 //               <h2 className="text-xl font-bold text-gray-900 mb-4">Order Summary</h2>
 //               <div className="space-y-3 mb-4">
 //                 <div className="flex justify-between text-gray-700">
@@ -517,7 +517,7 @@ const Checkout = () => {
   if (!isAuthenticated) {
     return (
       <>
-        <div className="min-h-screen bg-white flex flex-col items-center justify-center gap-4">
+        <div className="min-h-screen bg-white py-6 flex flex-col items-center justify-center gap-4">
           <h2 className="text-2xl font-bold text-gray-900">Login to continue checkout</h2>
           <p className="text-gray-500">You need to be logged in to place an order</p>
           <button
@@ -685,7 +685,7 @@ const Checkout = () => {
   };
 
   return (
-    <div className="min-h-screen bg-white pt-40 px-4 pb-8">
+    <div className="min-h-screen bg-white px-4 py-6 pb-8">
       <div className="max-w-[1000px] mx-auto">
         <h1 className="text-3xl font-bold text-gray-900 mb-4">Checkout</h1>
         <div className="mb-8 rounded-lg border border-gray-200 bg-gray-50 p-4 text-sm text-gray-700">
@@ -939,7 +939,7 @@ const Checkout = () => {
 
           {/* Order Summary */}
           <div className="lg:col-span-1">
-            <div className="bg-white rounded-lg p-6 border border-gray-200 sticky top-24 shadow-sm">
+            <div className="bg-white rounded-lg p-6 border border-gray-200 sticky top-4 shadow-sm">
               <h2 className="text-xl font-bold text-gray-900 mb-4">Order Summary</h2>
               <div className="space-y-4 mb-4">
                 <div className="space-y-3 border-b border-gray-100 pb-4">
