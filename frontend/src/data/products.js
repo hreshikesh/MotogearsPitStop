@@ -8310,11 +8310,11 @@ const catalogProducts = [
         name: 'vesrah Royal Enfield Super Meteor 650 Vesrah Brake pads (Ceramic)',
         price: 3395,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435903/Screenshot_2026-09-03_171434_kkhdum.jpg',
+        image: 'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-323_Xj3HTvsDl',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435903/Screenshot_2026-09-03_171434_kkhdum.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435903/Screenshot_2026-09-03_171434_kkhdum.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435903/Screenshot_2026-09-03_171434_kkhdum.jpg'
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-323_Xj3HTvsDl',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-323_Xj3HTvsDl',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-323_Xj3HTvsDl'
         ],
         category: 'Performance Parts',
         subcategory: 'Brake Pads',
@@ -8385,11 +8385,11 @@ const catalogProducts = [
         name: 'vesrah Royal Enfield Electra 350 Vesrah Brake pads (Ceramic)',
         price: 3395,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436082/classic_89f3dd56-b34b-444a-bbf3-c43afbf440a6_bjkmm5.webp',
+        image: 'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-326_UfByiUvAX',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436082/classic_89f3dd56-b34b-444a-bbf3-c43afbf440a6_bjkmm5.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436082/classic_89f3dd56-b34b-444a-bbf3-c43afbf440a6_bjkmm5.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436082/classic_89f3dd56-b34b-444a-bbf3-c43afbf440a6_bjkmm5.webp'
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-326_UfByiUvAX',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-326_UfByiUvAX',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-326_UfByiUvAX'
         ],
         category: 'Performance Parts',
         subcategory: 'Brake Pads',
@@ -8435,11 +8435,11 @@ const catalogProducts = [
         name: 'vesrah Royal Enfield shotgun 650 brake pads (Ceramic)',
         price: 3395,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436262/Untitled-design-2-1-30_omog1x.webp',
+        image: 'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-328_WUWgq3Xs8',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436262/Untitled-design-2-1-30_omog1x.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436262/Untitled-design-2-1-30_omog1x.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436262/Untitled-design-2-1-30_omog1x.webp'
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-328_WUWgq3Xs8',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-328_WUWgq3Xs8',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-328_WUWgq3Xs8'
         ],
         category: 'Performance Parts',
         subcategory: 'Brake Pads',
@@ -8460,11 +8460,11 @@ const catalogProducts = [
         name: 'vesrah Royal Enfield Himalayan 450 Vesrah Brake pads (Ceramic)',
         price: 3395,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436262/Untitled-design-2-1-30_omog1x.webp',
+        image: 'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-329_Iw7B_vfC1',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436262/Untitled-design-2-1-30_omog1x.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436262/Untitled-design-2-1-30_omog1x.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436262/Untitled-design-2-1-30_omog1x.webp'
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-329_Iw7B_vfC1',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-329_Iw7B_vfC1',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-329_Iw7B_vfC1'
         ],
         category: 'Performance Parts',
         subcategory: 'Brake Pads',
@@ -8485,11 +8485,11 @@ const catalogProducts = [
         name: 'vesrah Royal Enfield Guerrilla 450 Vesrah Brake pads (Ceramic)',
         price: 3395,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436340/himalyan-450-vesrah-disc-pad_bpyaz7.webp',
+        image: 'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-330_-yMeO9VQT',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436340/himalyan-450-vesrah-disc-pad_bpyaz7.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436340/himalyan-450-vesrah-disc-pad_bpyaz7.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436340/himalyan-450-vesrah-disc-pad_bpyaz7.webp'
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-330_-yMeO9VQT',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-330_-yMeO9VQT',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-330_-yMeO9VQT'
         ],
         category: 'Performance Parts',
         subcategory: 'Brake Pads',
@@ -8510,11 +8510,11 @@ const catalogProducts = [
         name: 'vesrah KTM Duke 390 Vesrah brake pads (Ceramic)',
         price: 3395,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436397/vesrah-ceramic-ktm-rc-disc-pad_b4twsq.webp',
+        image: 'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-331_xiIGHtk0B',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436399/vesrah-ktm-duke-disc-pad_q8qe8b.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436397/vesrah-ceramic-ktm-rc-disc-pad_b4twsq.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436399/vesrah-ktm-duke-disc-pad_q8qe8b.webp'
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-331_xiIGHtk0B',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-331_xiIGHtk0B',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-331_xiIGHtk0B'
         ],
         category: 'Performance Parts',
         subcategory: 'Brake Pads',
@@ -8585,11 +8585,11 @@ const catalogProducts = [
         name: 'vesrah KTM Adventure 390 /250 Rear Brake Pads (Ceramic) for 2025 GEN 3 Models',
         price: 1698,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436602/Screenshot_2026-09-03_172558_b4v8nx.jpg',
+        image: 'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-334_Dk9YXeMbe',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436604/Screenshot_2026-09-03_172624_zubwky.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436602/Screenshot_2026-09-03_172558_b4v8nx.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436604/Screenshot_2026-09-03_172624_zubwky.jpg'
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-334_Dk9YXeMbe',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-334_Dk9YXeMbe',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-334_Dk9YXeMbe'
         ],
         category: 'Performance Parts',
         subcategory: 'Brake Pads',
@@ -8610,11 +8610,11 @@ const catalogProducts = [
         name: 'vesrah KTM Adventure 250/390 - Vesrah Brake pads (Ceramic) till 2024',
         price: 3395,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436702/KTMAdventure390_1440x1440_r1xswj.webp',
+        image: 'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-335_nvSlM5iq8',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436702/KTMAdventure390_1440x1440_r1xswj.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436702/KTMAdventure390_1440x1440_r1xswj.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436702/KTMAdventure390_1440x1440_r1xswj.webp'
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-335_nvSlM5iq8',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-335_nvSlM5iq8',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-335_nvSlM5iq8'
         ],
         category: 'Performance Parts',
         subcategory: 'Brake Pads',
@@ -8635,11 +8635,11 @@ const catalogProducts = [
         name: 'vesrah Bajaj Dominar 400 Vesrah Ceramic brake pad front and rear (UG 19) 2019 onwards',
         price: 1698,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436765/Screenshot_2026-09-03_172907_iqqlre.jpg',
+        image: 'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-336_kEzfKLkUo',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436765/Screenshot_2026-09-03_172907_iqqlre.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436765/Screenshot_2026-09-03_172907_iqqlre.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436765/Screenshot_2026-09-03_172907_iqqlre.jpg'
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-336_kEzfKLkUo',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-336_kEzfKLkUo',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-336_kEzfKLkUo'
         ],
         category: 'Performance Parts',
         subcategory: 'Brake Pads',
@@ -8660,11 +8660,11 @@ const catalogProducts = [
         name: 'vesrah Bajaj NS200 Till 2023 Vesrah Brake pads (Ceramic)',
         price: 1698,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436824/Screenshot_2026-09-03_173006_swwkvp.jpg',
+        image: 'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-337_jy6zx83fCt',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436824/Screenshot_2026-09-03_173006_swwkvp.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436824/Screenshot_2026-09-03_173006_swwkvp.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436824/Screenshot_2026-09-03_173006_swwkvp.jpg'
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-337_jy6zx83fCt',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-337_jy6zx83fCt',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-337_jy6zx83fCt'
         ],
         category: 'Performance Parts',
         subcategory: 'Brake Pads',
@@ -8685,11 +8685,11 @@ const catalogProducts = [
         name: 'vesrah Bajaj Pulsar 220 Vesrah brake pad (Ceramic)',
         price: 1698,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436903/Screenshot_2026-09-03_173125_ikea9u.jpg',
+        image: 'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-338_HFPGiMkVQ',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436903/Screenshot_2026-09-03_173125_ikea9u.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436903/Screenshot_2026-09-03_173125_ikea9u.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436903/Screenshot_2026-09-03_173125_ikea9u.jpg'
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-338_HFPGiMkVQ',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-338_HFPGiMkVQ',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-338_HFPGiMkVQ'
         ],
         category: 'Performance Parts',
         subcategory: 'Brake Pads',
@@ -8710,11 +8710,11 @@ const catalogProducts = [
         name: 'vesrah HERO XPULSE 200/ 4V- XPULSE RALLY VESRAH BRAKE PADS',
         price: 3935,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436959/Screenshot_2026-09-03_173219_ttjcxt.jpg',
+        image: 'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-339_ijvssX14IN',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436959/Screenshot_2026-09-03_173219_ttjcxt.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436959/Screenshot_2026-09-03_173219_ttjcxt.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436959/Screenshot_2026-09-03_173219_ttjcxt.jpg'
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-339_ijvssX14IN',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-339_ijvssX14IN',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-339_ijvssX14IN'
         ],
         category: 'Performance Parts',
         subcategory: 'Brake Pads',
@@ -8760,11 +8760,11 @@ const catalogProducts = [
         name: 'vesrah Yamaha R15 v4 vesrah brake pad (Ceramic)',
         price: 3935,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788437077/Screenshot_2026-09-03_173417_jyocop.jpg',
+        image: 'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-342_M2G8H4Fzw',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788437077/Screenshot_2026-09-03_173417_jyocop.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788437077/Screenshot_2026-09-03_173417_jyocop.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788437077/Screenshot_2026-09-03_173417_jyocop.jpg'
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-342_M2G8H4Fzw',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-342_M2G8H4Fzw',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-342_M2G8H4Fzw'
         ],
         category: 'Performance Parts',
         subcategory: 'Brake Pads',
@@ -8785,11 +8785,11 @@ const catalogProducts = [
         name: 'vesrah Yamaha Aerox 155 Vesrah brake pad front (Ceramic)',
         price: 3935,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436262/Untitled-design-2-1-30_omog1x.webp',
+        image: 'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-343_LvSZ_ehem',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436262/Untitled-design-2-1-30_omog1x.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436262/Untitled-design-2-1-30_omog1x.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436262/Untitled-design-2-1-30_omog1x.webp'
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-343_LvSZ_ehem',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-343_LvSZ_ehem',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-343_LvSZ_ehem'
         ],
         category: 'Performance Parts',
         subcategory: 'Brake Pads',
@@ -8835,11 +8835,11 @@ const catalogProducts = [
         name: 'vesrah Honda CB 200 X Brake Pads (Ceramic)',
         price: 3935,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788437207/Screenshot_2026-09-03_173627_wqqzwt.jpg',
+        image: 'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-345_dkwC9kkkw',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788437207/Screenshot_2026-09-03_173627_wqqzwt.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788437207/Screenshot_2026-09-03_173627_wqqzwt.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788437207/Screenshot_2026-09-03_173627_wqqzwt.jpg'
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-345_dkwC9kkkw',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-345_dkwC9kkkw',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-345_dkwC9kkkw'
         ],
         category: 'Performance Parts',
         subcategory: 'Brake Pads',
@@ -8883,11 +8883,11 @@ const catalogProducts = [
         name: 'vesrah Ducati Panigale 959 Brake pads (Ceramic)',
         price: 3935,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788437327/Screenshot_2026-09-03_173830_iaozly.jpg',
+        image: 'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-347_rZT8Oeg22',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788437327/Screenshot_2026-09-03_173830_iaozly.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788437327/Screenshot_2026-09-03_173830_iaozly.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788437327/Screenshot_2026-09-03_173830_iaozly.jpg'
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-347_rZT8Oeg22',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-347_rZT8Oeg22',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-347_rZT8Oeg22'
         ],
         category: 'Performance Parts',
         subcategory: 'Brake Pads',
@@ -8908,11 +8908,11 @@ const catalogProducts = [
         name: 'vesrah Triumph Scrambler 400 Vesrah Brake pads (Ceramic)',
         price: 3935,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788437384/Screenshot_2026-09-03_173925_y64nen.jpg',
+        image: 'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-348_R_AI6oTEG',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788437384/Screenshot_2026-09-03_173925_y64nen.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788437384/Screenshot_2026-09-03_173925_y64nen.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788437384/Screenshot_2026-09-03_173925_y64nen.jpg'
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-348_R_AI6oTEG',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-348_R_AI6oTEG',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-348_R_AI6oTEG'
         ],
         category: 'Performance Parts',
         subcategory: 'Brake Pads',
@@ -24603,11 +24603,11 @@ const catalogProducts = [
         name: 'Vesrah SD352 Motorcycle Brake Pads',
         price: 1599,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107575/d_eik2ep.png',
+        image: 'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-972_mT4-84xZ5',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107575/d_eik2ep.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107575/d_eik2ep.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107575/d_eik2ep.png'
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-972_mT4-84xZ5',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-972_mT4-84xZ5',
+            'https://ik.imagekit.io/zcuzede8x/products/vesrah/vesrah-product-972_mT4-84xZ5'
         ],
         category: 'Performance Parts',
         subcategory: 'Brake Pads',
@@ -35352,5503 +35352,5503 @@ const catalogProducts = [
             'Warranty': '1 year'
         }
     },
-//     {
-//         id: 1506,
-//         name: 'Moto Care 4 SLIDER CRASH GUARD FOR BAJAJ PULSAR NS200 - RED',
-//         price: 4640,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1506-1706270668_65b39fcc01f86_JYwp2i2Gv.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1506-1706270668_65b39fcc01f86_JYwp2i2Gv.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1506-1706270675_65b39fd32b8d4_OO3Z1MC1u.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1506-1706270682_65b39fda15424_WkSzadTTi.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1506-1706270689_65b39fe130191_dQQ4a-eW2.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1507,
-//         name: 'Moto Care 4 SLIDER CRASH GUARD FOR BAJAJ PULSAR NS200 - GREEN',
-//         price: 4640,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1507-1706270516_65b39f3476e14_XYS-BD8jqW.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1507-1706270516_65b39f3476e14_XYS-BD8jqW.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1507-1706270524_65b39f3ce852b_dHHE3Wfqeq.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1507-1706270532_65b39f44d9947_IigCfuGFUJ.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1507-1706270538_65b39f4a87f30_Nr9GpDgbdk.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1508,
-//         name: 'Moto Care CNC CARRIER PLATE WITH BACKREST FOR BAJAJ PULSAR NS200',
-//         price: 2560,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1508-1706270347_65b39e8bf4022_BY0ItIzql.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1508-1706270347_65b39e8bf4022_BY0ItIzql.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1508-1706270354_65b39e92d5cbc_25uFdLg3o.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1508-1706270366_65b39e9ee9796_dKqwUCnWZ.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1509,
-//         name: 'Moto Care CNC CARRIER PLATE FOR BAJAJ PULSAR NS200',
-//         price: 1520,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1509-1706269920_65b39ce0004cf_WripM7qHD.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1509-1706269920_65b39ce0004cf_WripM7qHD.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1509-1706269940_65b39cf45c984_PcQ8EhHB7.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1509-1706269948_65b39cfc25c16_e8YlO3mPh2.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1509-1706269958_65b39d06b86e0_yJ7gczMcG.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1510,
-//         name: 'Moto Care 4 SLIDER CRASH GUARD FOR BAJAJ PULSAR NS200 - BLACK',
-//         price: 3840,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1510-1706269735_65b39c274c7af_cQzgxZm3XP.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1510-1706269735_65b39c274c7af_cQzgxZm3XP.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1510-1706269742_65b39c2e4e263_i2M1OPynH5.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1510-1706269748_65b39c3488af1_8SbPe2OmP.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1510-1706269754_65b39c3a84b54_7X7TOd14q.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },
-//     {
-//         id: 1511,
-//         name: 'Moto Care FRAME SLIDERS FOR BAJAJ PULSAR RS 200',
-//         price: 1920,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1511-1739943568_67b56e9057e0c_KQid5xPg8.jpg',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1511-1739943568_67b56e9057e0c_KQid5xPg8.jpg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1511-1739943577_67b56e99a401f_kk0xOOt7t.jpg'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1512,
-//         name: 'Moto Care CRASH GUARD FOR BAJAJ PULSAR RS 200',
-//         price: 4160,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1512-1739943332_67b56da4714d1_hPDimkenyo.jpg',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1512-1739943332_67b56da4714d1_hPDimkenyo.jpg'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },
-//     {
-//         id: 1513,
-//         name: 'Moto Care TYPE 2 - TYRE HUGGER FOR BAJAJ DOMINAR 250/400',
-//         price: 1600,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1513-1769168437_69735e359d6bf_tbJ-dlrJQ.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1513-1769168437_69735e359d6bf_tbJ-dlrJQ.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1513-1769168444_69735e3c2eded_V-jUGCjEN.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1513-1769168454_69735e461107f_YRJle49wOb.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1513-1769168462_69735e4e3428b_aL3yVppAQ.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1514,
-//         name: 'Moto Care HANDLE RISER FOR BAJAJ DOMINAR 400',
-//         price: 560,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1514-1739954327_67b5989750e5f_1Vc7U3BxI7.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1514-1739954327_67b5989750e5f_1Vc7U3BxI7.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1515,
-//         name: 'Moto Care CNC STAND EXTENDER FOR BAJAJ DOMINAR 400',
-//         price: 1360,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1515-1739954222_67b5982e61971__GYh_gUm0q.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1515-1739954222_67b5982e61971__GYh_gUm0q.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1516,
-//         name: 'Moto Care SADDLE STAY WITH PLATE CARRIER AND BACKREST FOR BAJAJ DOMINAR 250/400',
-//         price: 6000,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1516-1717779387_66633bbb45dd2_pklE5uEBZ.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1516-1717779387_66633bbb45dd2_pklE5uEBZ.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1516-1717779396_66633bc46f82f_GLEOtNWIAO.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1516-1717779413_66633bd538c86_jmZEclBHf.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1516-1717779421_66633bdd29150_uTNTLl_Gi.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1517,
-//         name: 'Moto Care SADDLE STAY WITH PLATE AND CARRIER FOR BAJAJ DOMINAR 250/400',
-//         price: 4960,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1517-1717778972_66633a1c4d338_YXAA0lepR.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1517-1717778972_66633a1c4d338_YXAA0lepR.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1517-1717778980_66633a24a94c3_E5lcqM44U.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1517-1717778991_66633a2ff17eb_yIldEgj42P.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1517-1717778999_66633a378cd76_M6qR1q9MG.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1518,
-//         name: 'Moto Care TYPE 2 - SADDLE STAY WITH PLATE FOR BAJAJ DOMINAR 250/400',
-//         price: 2400,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1518-1717777129_666332e9bd948_ExweAf-5to.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1518-1717777129_666332e9bd948_ExweAf-5to.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1518-1717777140_666332f427780_Te9yn-idy.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1518-1717777149_666332fd76d48_AXFH-UtYL.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1518-1717777167_6663330f16f85_Mjfkqozmr.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1519,
-//         name: 'Moto Care TYPE 1 - SADDLE STAY WITH PLATE FOR BAJAJ DOMINAR 250/400',
-//         price: 2400,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1519-1717776893_666331fddfe23_6gKaDe-e6I.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1519-1717776893_666331fddfe23_6gKaDe-e6I.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1519-1717776904_6663320835b2c_771bK_K1F.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1519-1717776915_666332138e67a_GZoLmuiJA.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1519-1717776924_6663321c5ce0c_2JMXZhE-x.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1520,
-//         name: 'Moto Care NUMBER PLATE HOLDER FOR BAJAJ DOMINAR 250/400',
-//         price: 1120,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1520-1760774504_68f349688306d_Cqoj38kjW.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1520-1760774504_68f349688306d_Cqoj38kjW.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1520-1760774510_68f3496ef14a5_C0_D5qilu.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1520-1760774517_68f349751010f_mnUah2KCI.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1520-1760774525_68f3497d053b7_KQYAgLutc.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1521,
-//         name: 'Moto Care PLATE CARRIER FOR BAJAJ DOMINAR 250/400',
-//         price: 2560,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1521-1714464891_6630a87b2b074_BMdUgA_EM.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1521-1714464891_6630a87b2b074_BMdUgA_EM.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1521-1714464900_6630a884eeb1a_1HpB1A8bc.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1521-1714464909_6630a88d7d07b_b6jz4wxRh.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1521-1714464917_6630a8952c361_StpaogZ5_.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1522,
-//         name: 'Moto Care PLATE CARRIER WITH BACKREST FOR BAJAJ DOMINAR 250/400',
-//         price: 3600,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1522-1714464752_6630a7f05780d_ZVPOqHGE6.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1522-1714464752_6630a7f05780d_ZVPOqHGE6.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1522-1714464764_6630a7fcbfbc3_7SrHDq1bik.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1522-1714464776_6630a808af01d_BbutRepiv.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1522-1714464786_6630a812b07a6_hYCR64uqFw.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1523,
-//         name: 'Moto Care TYPE 2 - CRASH GUARD WITH DUAL SLIDERS FOR BAJAJ DOMINAR 250/400',
-//         price: 4160,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1523-1714464631_6630a77777708_dfQ9TmbfPB.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1523-1714464631_6630a77777708_dfQ9TmbfPB.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1523-1714464638_6630a77ec775a_-0E1lFpNG.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1523-1743166156_67e69acc475a6_D9LvIsa62.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1523-1743166163_67e69ad32b12c_H2MHmorDq.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1524,
-//         name: 'Moto Care FOOTREST FOR BAJAJ DOMINAR 400',
-//         price: 1280,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1524-1709986134_65ec51568564d_yVVirSIKFN.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1524-1709986134_65ec51568564d_yVVirSIKFN.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1524-1709986144_65ec516082e23_jdYydJG8s.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1524-1709986152_65ec516838628_T2Mc8ALi9.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1525,
-//         name: 'Moto Care RESERVOIR OIL CAP FOR BAJAJ DOMINAR 400',
-//         price: 400,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1525-1707044077_65bf6ced9095b_6XAiJiOW3.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1525-1707044077_65bf6ced9095b_6XAiJiOW3.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1525-1707044082_65bf6cf2b7165_IbG6hF0IO.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1525-1707044088_65bf6cf8bb58e_-3_fhDa1E.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1525-1707044095_65bf6cff78f49_GzRKEplVw.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1526,
-//         name: 'Moto Care STAND EXTENDER FOR BAJAJ DOMINAR 400',
-//         price: 400,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1526-1707043789_65bf6bcd021a6_jo_hs6Htw.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1526-1707043789_65bf6bcd021a6_jo_hs6Htw.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1526-1707043794_65bf6bd2d8fc4_jaKLkndxS.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1526-1707043800_65bf6bd8b955f_B7i_NVPCN.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1527,
-//         name: 'Moto Care SADDLE STAY WITHOUT PLATE FOR BAJAJ DOMINAR 400',
-//         price: 1680,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1527-1707043635_65bf6b339c0a6_5umsOb96K.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1527-1707043635_65bf6b339c0a6_5umsOb96K.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1527-1707043643_65bf6b3b56b7d_ppU-0PIvq.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1527-1707043649_65bf6b41045a7_aA3cqH44O.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1528,
-//         name: 'Moto Care RADIATOR GUARD FOR BAJAJ DOMINAR 400',
-//         price: 560,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1528-1707038024_65bf554884fcf_bCNZjNsl5.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1528-1707038024_65bf554884fcf_bCNZjNsl5.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1528-1707038031_65bf554f18730_LepBKjCvx.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1529,
-//         name: 'Moto Care PIPE CARRIER WITH PLATE AND BACKREST FOR BAJAJ DOMINAR 400',
-//         price: 3600,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1529-1707037798_65bf5466b636e_RByOci1Y-.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1529-1707037798_65bf5466b636e_RByOci1Y-.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1529-1707037807_65bf546f24ff5_ehK695mpX.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1529-1707037812_65bf5474b68e9_t3UaekXVP.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1529-1707037818_65bf547a4f55a_vdr1aTlV-.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1530,
-//         name: 'Moto Care PIPE CARRIER FOR BAJAJ DOMINAR 400',
-//         price: 1760,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1530-1707037393_65bf52d1538a3_ROSYwbGk2.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1530-1707037393_65bf52d1538a3_ROSYwbGk2.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1530-1707037408_65bf52e037b3c_0RNz2tixUg.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1530-1707037414_65bf52e65a703_9W0drjUC-G.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1530-1707037420_65bf52ec1da14_gbo0M0z3p-.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1531,
-//         name: 'Moto Care HEADLIGHT GRILL FOR BAJAJ DOMINAR 400',
-//         price: 1200,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1531-1707037260_65bf524c11dc2_s1vqXEiwkl.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1531-1707037260_65bf524c11dc2_s1vqXEiwkl.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1531-1707037265_65bf525160f79_kmffcMcO1.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1532,
-//         name: 'Moto Care GPS MOUNT FOR BAJAJ DOMINAR 400',
-//         price: 640,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1532-1707037093_65bf51a561ed9_dEaGLkDoV.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1532-1707037093_65bf51a561ed9_dEaGLkDoV.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1532-1707037100_65bf51ace8841_27Qc_84xU.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1532-1707037107_65bf51b3b38b3_IDAjINd49.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1533,
-//         name: 'Moto Care DISC OIL CAP FOR BAJAJ DOMINAR 400',
-//         price: 160,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1533-1707036146_65bf4df255706_G6l-7jW8C.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1533-1707036146_65bf4df255706_G6l-7jW8C.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1533-1707036156_65bf4dfc8861f_RZg8I0q1Y.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1533-1707036164_65bf4e042f2db_rSsJu9Yxog.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1533-1707036171_65bf4e0b3944a_QJXtrSwVgi.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1534,
-//         name: 'Moto Care CNC CARRIER PLATE FOR BAJAJ DOMINAR 400',
-//         price: 2560,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1534-1707035190_65bf4a369c42c_hVH3IHkGY7.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1534-1707035190_65bf4a369c42c_hVH3IHkGY7.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1534-1707035197_65bf4a3d0214c_7HOPtOZOOO.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1534-1707035203_65bf4a43d79ac_gyAXAzje6.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1535,
-//         name: 'Moto Care 4 SLIDER CRASH GUARD FOR BAJAJ DOMINAR 400',
-//         price: 4160,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1535-1707035009_65bf4981f163e_icoq15-lW.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1535-1707035009_65bf4981f163e_icoq15-lW.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1535-1707035016_65bf49881378e_mp9MXufXEc.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1535-1707035022_65bf498e39628_yvQbJ1R_V.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1535-1707035027_65bf4993aff55_Vfx-PIg4lm.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },
-//     {
-//         id: 1536,
-//         name: 'Moto Care DUAL FOOTREST FOR BAJAJ PULSAR N160/ F250',
-//         price: 1280,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1536-1778160566_69fc93b64c493_kR6VouB_ry.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1536-1778160566_69fc93b64c493_kR6VouB_ry.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1536-1778160597_69fc93d5a4bcc_F8YjeOdhF.jpeg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1536-1778160606_69fc93de1fc40_3xKgTbV7i.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1536-1778160613_69fc93e5077e6_jKuFIW8Vx.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },
-//     {
-//         id: 1537,
-//         name: 'Moto Care NUMBER PLATE CLAMP FOR BAJAJ PULSAR N160/ F250',
-//         price: 1120,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1537-1757154390_68bc0c5659454_xxhjwYNuIP.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1537-1757154390_68bc0c5659454_xxhjwYNuIP.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1537-1757154398_68bc0c5e0bbcc_drf46eL_Pu.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1537-1757154405_68bc0c6588eed_bqjbNfjvV.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1538,
-//         name: 'Moto Care FULL HANDLE KIT FOR BAJAJ PULSAR N160/F250',
-//         price: 2240,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1538-1739949706_67b5868a6b75d_E4u72U6xXG.jpg',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1538-1739949706_67b5868a6b75d_E4u72U6xXG.jpg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1538-1739949713_67b586919dce4_tQcN4Ezg6S.jpg'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1539,
-//         name: 'Moto Care HANDLE KIT FOR BAJAJ PULSAR N160/F250',
-//         price: 1280,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1539-1739949602_67b58622e3615_86aH00y4l.jpg',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1539-1739949602_67b58622e3615_86aH00y4l.jpg'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1540,
-//         name: 'Moto Care SADDLE STAY FOR BAJAJ PULSAR N160/ F250',
-//         price: 2400,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1540-1709980428_65ec3b0c1b684_o3hvs2uJ_.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1540-1709980428_65ec3b0c1b684_o3hvs2uJ_.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1541,
-//         name: 'Moto Care RESERVOIR OIL CAP FOR BAJAJ PULSAR N160/ F250',
-//         price: 400,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1541-1709969156_65ec0f04aad62_IWs7Fq2lV.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1541-1709969156_65ec0f04aad62_IWs7Fq2lV.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1541-1709969166_65ec0f0ee4c92_cQ-wIV3vyE.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1541-1709969175_65ec0f17cf58e_tfwJTHDASf.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1542,
-//         name: 'Moto Care DISC OIL CAP FOR BAJAJ PULSAR N160/ F250',
-//         price: 200,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1542-1709968836_65ec0dc41b5c2_YAC3x40fm.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1542-1709968836_65ec0dc41b5c2_YAC3x40fm.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1542-1709968845_65ec0dcdd36bb_JAhmY_Q53.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1542-1709968859_65ec0ddbecc32_qtFirH8bM.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1542-1709968871_65ec0de76ff98_2hXIGaYwb.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1543,
-//         name: 'Moto Care CNC CARRIER PLATE WITH BACKREST FOR BAJAJ PULSAR N160/ F250',
-//         price: 2960,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1543-1709968066_65ec0ac2324ad_MAXNslbwZ.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1543-1709968066_65ec0ac2324ad_MAXNslbwZ.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1543-1709968077_65ec0acd9d0e2_HUWp7ZR-hH.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1543-1709968097_65ec0ae1628b2_Io0oLds6qb.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1543-1709968107_65ec0aeb71cc9_2SMb3pPF0.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1544,
-//         name: 'Moto Care CNC CARRIER PLATE FOR BAJAJ PULSAR N160/ F250',
-//         price: 1920,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1544-1709967849_65ec09e9a9dfa_jJ-rvU2-U.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1544-1709967849_65ec09e9a9dfa_jJ-rvU2-U.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1544-1709967862_65ec09f6ef28c_Ivs6MtAkj.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1544-1709967880_65ec0a081bb18_1UeORadtw.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1544-1709967891_65ec0a1352b8c_1gOxqcxGk.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1545,
-//         name: 'Moto Care 4 SLIDER CRASH GUARD FOR BAJAJ PULSAR N160/ F250',
-//         price: 4160,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1545-1706872656_65bccf504c760_XEfAdACZ7.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1545-1706872656_65bccf504c760_XEfAdACZ7.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1545-1706872662_65bccf56c44ea_oJ-mFlYqZ.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1545-1706872668_65bccf5ccf18a_SzvTPOxFT.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1545-1706872678_65bccf66cbf3e_Rk8D3rvtH.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },
-//     {
-//         id: 1546,
-//         name: 'Moto Care RESERVOIR OIL CAP BLACK FOR BAJAJ NS400Z',
-//         price: 400,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1546-1739876840_67b469e810668_wIevACkBu.jpg',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1546-1739876840_67b469e810668_wIevACkBu.jpg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1546-1739876848_67b469f01c0a2_FT1ANtEcC.jpg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1546-1739876855_67b469f74d6f2_oRAgvbbbO.jpg'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1547,
-//         name: 'Moto Care CRASH GUARD SMALL FOR BAJAJ PULSAR NS400Z',
-//         price: 3040,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1547-1724406767_66c85befdebfd_fFnH9Vcsc.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1547-1724406767_66c85befdebfd_fFnH9Vcsc.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1547-1724406835_66c85c331d2e7_Gc0T7O3Qr.JPG',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1547-1724406848_66c85c4095107_Jze-8q9N9b.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1547-1724406862_66c85c4ed788f_0nH6fmXE1.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1548,
-//         name: 'Moto Care SADDLE STAY FOR BAJAJ PULSAR NS400Z',
-//         price: 2400,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1548-1723804865_66bf2cc1db9ea_2Ton9rWgo.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1548-1723804865_66bf2cc1db9ea_2Ton9rWgo.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1548-1723804998_66bf2d46eb570_R6xkK_N6O.JPG',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1548-1723805028_66bf2d648f1ca_iexURhMUx.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1548-1723805073_66bf2d912503b_ZceL3JKtAh.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1549,
-//         name: 'Moto Care STAND EXTENDER FOR BAJAJ NS400Z',
-//         price: 400,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1549-1723641176_66bcad58c1db6_UJ1LiI3Nr.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1549-1723641176_66bcad58c1db6_UJ1LiI3Nr.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1549-1723641218_66bcad82a9899_nG1uBw9RO.JPG',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1549-1723641229_66bcad8db63fa_fid5giIDPp.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1549-1723641238_66bcad9669af0_TTa-Sa1bz.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1550,
-//         name: 'Moto Care CNC CARRIER PLATE WITH BACKREST FOR BAJAJ NS400Z',
-//         price: 3600,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1550-1723640819_66bcabf3d2c50_wK2fcVwZE.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1550-1723640819_66bcabf3d2c50_wK2fcVwZE.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1550-1723640920_66bcac58795ed__kUZcYqZh.JPG',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1550-1723640935_66bcac67abf51_bscHaZ-xfL.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1550-1723640950_66bcac7695d78_7gMi66mJB.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1551,
-//         name: 'Moto Care CNC CARRIER FOR BAJAJ PULSAR NS400Z',
-//         price: 2560,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1551-1723640505_66bcaab9205ae_7yB-fIkcx.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1551-1723640505_66bcaab9205ae_7yB-fIkcx.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1551-1723640569_66bcaaf99c92c_AkKJ1KPzP.JPG',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1551-1723640581_66bcab055a237_LfBCsRDfnd.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1551-1723640594_66bcab121f5c2_6m12dSRuJ.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1552,
-//         name: 'Moto Care CRASH GUARD WITH PLATE FOR BAJAJ PULSAR NS400Z',
-//         price: 4160,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1552-1723639756_66bca7cca087a_vzsdnmtXN.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1552-1723639756_66bca7cca087a_vzsdnmtXN.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1552-1723639805_66bca7fdeb812_KYYNQUoBPe.JPG',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1552-1723639816_66bca808af392_t2I6rxNnM.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1552-1723639825_66bca8111b471_lNY8nIWH2.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['BAJAJ'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'BAJAJ',
-//             'Warranty': '1 year'
-//         }
-//     },
-//     {
-//         id: 1553,
-//         name: 'Moto Care SADDLE STAY WITH PLATE FOR HONDA CB300F',
-//         price: 2400,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1553-1708170986_65d09eea33257_iy7Q1vwjS.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1553-1708170986_65d09eea33257_iy7Q1vwjS.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1553-1708170997_65d09ef5af181_BQIGZ2f1c.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1553-1708171011_65d09f036ef86_sv7sDBUpan.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1553-1708171022_65d09f0eea38d_e24C_vLrz.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },
-//      {
-//         id: 1554,
-//         name: 'Moto Care PIPE CARRIER FOR HONDA CB300F',
-//         price: 2880,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1554-1708169614_65d0998ed568f_16-Sv88_GM.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1554-1708169614_65d0998ed568f_16-Sv88_GM.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1554-1708169639_65d099a7579ff_-o8nsCbg-.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1554-1708169715_65d099f345a94_jjv-l0O5g.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1554-1708169749_65d09a1536ac0_DjDCjYLlLd.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     }, {
-//         id: 1555,
-//         name: 'Moto Care CARRIER WITH BACKREST FOR HONDA CB300F',
-//         price: 3920,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1555-1708169206_65d097f63ca56_ZsQ5I_g3D.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1555-1708169206_65d097f63ca56_ZsQ5I_g3D.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1555-1708169248_65d098208f169_Zv07f5zlHO.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1555-1708169272_65d09838ba9e1_y43XxzG7oc.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     }, {
-//         id: 1556,
-//         name: 'Moto Care 4 SLIDER CRASH GUARD FOR HONDA CB 300F',
-//         price: 4480,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1556-1707049417_65bf81c9b75fe_J2kyeUWzOS.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1556-1707049417_65bf81c9b75fe_J2kyeUWzOS.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1556-1707049426_65bf81d2c0cf1_ficjpWwu4.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1556-1707049431_65bf81d7f18e4_6A7iuf1wJ.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1556-1707049438_65bf81de47595_TW2ZVLNgEF.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },
-//     {
-//         id: 1557,
-//         name: 'Moto Care POLYCARBONATE VISOR FOR HONDA CB 350 RS',
-//         price: 2240,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1557-1737634134_679231563ce7f_AXtOZX-dq.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1557-1737634134_679231563ce7f_AXtOZX-dq.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1557-1737634154_6792316a54e57_FwJqS0od8.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1557-1737634166_6792317643bb4_SoGe-l9M37.jpg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1557-1737634126_6792314e7365c_6f_ePKHMN.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1558,
-//         name: 'Moto Care SEAT RING FOR HONDA CB 350 RS',
-//         price: 800,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1558-1737613682_6791e1726ab70_6er-r8Ln5.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1558-1737613682_6791e1726ab70_6er-r8Ln5.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1558-1737613689_6791e179b5e99_mtC_PCSQh.jpg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1558-1737613698_6791e18213ed7_l9t80NG3M.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1558-1737613705_6791e18919bc2_n1r-6nVFN.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1559,
-//         name: 'Moto Care FOOTREST FOR HONDA CB 350 RS',
-//         price: 1440,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1559-1709984164_65ec49a4f120d_u_x_2FmgK.jpeg',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1559-1709984164_65ec49a4f120d_u_x_2FmgK.jpeg'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1560,
-//         name: 'Moto Care SUM GUARD FOR HONDA CB350 RS',
-//         price: 1600,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1560-1708256573_65d1ed3da3fbd_1otcJSq1O.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1560-1708256573_65d1ed3da3fbd_1otcJSq1O.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1560-1708256579_65d1ed430a93c_gmW0uB_TM.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1560-1708256584_65d1ed48d7284_yn5gcmCi7.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1560-1708256590_65d1ed4ebbb8c_fkHl7-6Fn.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1561,
-//         name: 'Moto Care HANDLE BAR RISER FOR HONDA CB350 RS',
-//         price: 1680,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1561-1708256261_65d1ec05105d1_BH44s7NSr.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1561-1708256261_65d1ec05105d1_BH44s7NSr.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1561-1708256380_65d1ec7c23f51_xoOxQs8YO.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1561-1708256384_65d1ec807cbc9_JW2C2m6mZ.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1562,
-//         name: 'Moto Care CNC CARRIER WITH PLATE AND BACKREST FOR HONDA CB350 RS',
-//         price: 3920,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1562-1773490880_69b552c0c658b_LEevHBKKc6.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1562-1773490880_69b552c0c658b_LEevHBKKc6.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1562-1773490886_69b552c6e9281_DT9-C8O71R.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1563,
-//         name: 'Moto Care CNC CARRIER PLATE FOR HONDA CB350 RS',
-//         price: 2560,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1563-1773490938_69b552fae4f94_t9bVtU0XNY.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1563-1773490938_69b552fae4f94_t9bVtU0XNY.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1563-1773490949_69b55305a8f86_mSjN4HQXX.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1563-1773490955_69b5530b1ec49_JWq_s7xZe.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1564,
-//         name: 'Moto Care CNC BACKREST FOR HONDA CB350 RS',
-//         price: 1920,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1564-1708255034_65d1e73ac99f2_AiLO7MdSY.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1564-1708255034_65d1e73ac99f2_AiLO7MdSY.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1564-1708255040_65d1e7400c7b5_j-wStepER.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1564-1708255046_65d1e7468f16a_rVGfvrdx09.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1564-1708255052_65d1e74cc0999_MRBGw1IoA8.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1565,
-//         name: 'Moto Care BACKREST FOR HONDA CB350 RS',
-//         price: 1920,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1565-1708254831_65d1e66f9ad72_67BvSGVp5.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1565-1708254831_65d1e66f9ad72_67BvSGVp5.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1565-1708254837_65d1e675768ee_VbyWJheye.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1565-1708254841_65d1e679e2eb3_pwqamykMX.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1566,
-//         name: 'Moto Care 4 SLIDER CRASH GUARD FOR HONDA CB350 RS',
-//         price: 4160,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1566-1708254523_65d1e53b003d1_YzYRsQOlOZ.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1566-1708254523_65d1e53b003d1_YzYRsQOlOZ.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1566-1708254529_65d1e541ddd3b_voQnNrYqw.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1566-1708254539_65d1e54b002bb_Ij_qSK99Z.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1566-1708254549_65d1e55569e6a_hujGqI86p.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },
-//     {
-//         id: 1567,
-//         name: 'Moto Care GPS MOUNT FOR HONDA HNESS CB 350',
-//         price: 720,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1567-1746954753_68206a012e8fe_H5WAJqVnE2.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1567-1746954753_68206a012e8fe_H5WAJqVnE2.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1567-1746954761_68206a0952123_e8uWh6Hl8.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1567-1746954769_68206a11e56d7_78ZgXR-nyV.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1567-1746954779_68206a1b633c0_P0cJEPbD5.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },
-//      {
-//         id: 1568,
-//         name: 'Moto Care TYRE HUGGER FOR HONDA HNESS CB 350',
-//         price: 1600,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1568-1773491585_69b555811bfb9_wpmMnY2y3.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1568-1773491585_69b555811bfb9_wpmMnY2y3.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1568-1773491593_69b55589096c0_M9FWS5xDi.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1568-1773491599_69b5558f66ea7_Jn8HZNV3mR.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1568-1773491607_69b555978352e_OML6E8DIMU.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     }, {
-//         id: 1569,
-//         name: 'Moto Care SADDLE STAY WITH PLATE FOR HONDA HNESS CB 350',
-//         price: 2400,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1569-1773491513_69b555390348c_HEG1AWw6f.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1569-1773491513_69b555390348c_HEG1AWw6f.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1569-1773491519_69b5553fa4c89_rZsp1TegK.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1569-1773491528_69b5554810397_DGcpWMLni7.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1569-1773491535_69b5554f517f9_o20Xi3ry7.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     }, {
-//         id: 1570,
-//         name: 'Moto Care METAL VISOR FOR HONDA HNESS CB 350',
-//         price: 1040,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1570-1739430451_67ad9a33854e9_crFqDWeIM3.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1570-1739430451_67ad9a33854e9_crFqDWeIM3.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1570-1739430472_67ad9a484698b_Kdkp_Rrmn.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1570-1739430511_67ad9a6f2a6b1_kim65FgMo.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1570-1739430541_67ad9a8d428c4_Y_soewMTjO.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     }, {
-//         id: 1571,
-//         name: 'Moto Care POLYCARBONATE VISOR FOR HONDA HNESS CB 350',
-//         price: 2240,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1571-1737633868_6792304c3870b_nG2ctrfd0.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1571-1737633868_6792304c3870b_nG2ctrfd0.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1571-1737633882_6792305a8de61_CjiuDtmp8t.jpg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1571-1737633890_679230629dca7_jljv5QhUD.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1571-1737633898_6792306a1c59d_U3VEBQ5AVK.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     }, {
-//         id: 1572,
-//         name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR HONDA HNESS CB 350',
-//         price: 3840,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1572-1714060572_662a7d1cda8dc_CnDSKbinE.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1572-1714060572_662a7d1cda8dc_CnDSKbinE.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1572-1714060585_662a7d2987f98_jnSSX6N5O.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1572-1714060598_662a7d3684540_PWLelRGy-E.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1572-1714060613_662a7d4563183_WuHUSBJBSJ.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     }, {
-//         id: 1573,
-//         name: 'Moto Care SUM GUARD FOR HONDA HNESS CB 350',
-//         price: 1600,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1573-1708252788_65d1de741a1c9_gs_TTpD5L.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1573-1708252788_65d1de741a1c9_gs_TTpD5L.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1573-1708252793_65d1de7951d18_82n4w0lim.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1573-1708252804_65d1de84a5e4e_UmFkHJS1a.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1573-1708252810_65d1de8aae70b_3d-WinUHNF.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     }, {
-//         id: 1574,
-//         name: 'Moto Care SADDLE STAY FOR HONDA H NESS CB 350',
-//         price: 1680,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1574-1708252082_65d1dbb28984a_10bH6hF8u.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1574-1708252082_65d1dbb28984a_10bH6hF8u.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1574-1708252087_65d1dbb747025_oTp_z1SRk.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1574-1708252092_65d1dbbceaf83_IfPO71Or1.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1574-1708252101_65d1dbc50edd0_yr17_fLdO.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     }, {
-//         id: 1575,
-//         name: 'Moto Care HEADLIGHT GRILL WITH GLASS FOR HONDA H NESS CB 350',
-//         price: 1360,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1575-1708245340_65d1c15c3821c_i7_4vT609.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1575-1708245340_65d1c15c3821c_i7_4vT609.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1575-1708245345_65d1c16144202_ZdfeX6--UB.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1575-1708245349_65d1c165ce151_lZ82vAs5C.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1575-1708245355_65d1c16b97a44_VoiSMQVxW.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     }, {
-//         id: 1576,
-//         name: 'Moto Care HANDLE BAR RISER FOR HONDA H NESS CB 350',
-//         price: 1680,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1576-1708244825_65d1bf59118fb_FEPSASCXGH.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1576-1708244825_65d1bf59118fb_FEPSASCXGH.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1576-1708244830_65d1bf5e22760_6B06lJlvJ.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1576-1708244835_65d1bf63e71c3_sr8DabqqP.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     }, {
-//         id: 1577,
-//         name: 'Moto Care CALIBER GUARD FOR HONDA H NESS CB 350',
-//         price: 480,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1577-1708244566_65d1be560153c_YSi0NvHtL.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1577-1708244566_65d1be560153c_YSi0NvHtL.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1577-1708244571_65d1be5bd774d_DTHnbnLjkE.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1577-1708244577_65d1be61c1539_KjmeVqdLX6.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     }, {
-//         id: 1578,
-//         name: 'Moto Care FOOTREST FOR HONDA HNESS CB 350',
-//         price: 1920,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1578-1773491436_69b554ecc0932_5u_zay793.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1578-1773491436_69b554ecc0932_5u_zay793.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1578-1773491445_69b554f5df3a5_g6aPg0FpD.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1578-1773491451_69b554fb96182_iEur3ccza.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1578-1773491462_69b55506ab1fc_PPEyOQkcu.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     }, {
-//         id: 1579,
-//         name: 'Moto Care CNC CARRIER PLATE WITH BACKREST FOR HONDA HNESS CB 350',
-//         price: 3920,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1579-1773491266_69b5544216b24_MqRNPdIM2.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1579-1773491266_69b5544216b24_MqRNPdIM2.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     }, {
-//         id: 1580,
-//         name: 'Moto Care CNC CARRIER PLATE FOR HNESS CB 350',
-//         price: 2560,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1580-1773491366_69b554a6b018a_qyOrugdbo.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1580-1773491366_69b554a6b018a_qyOrugdbo.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1580-1773491373_69b554ad18f25_w4c9n60T9.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1580-1773491377_69b554b1c4fbd_44o91HVIuJ.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     }, {
-//         id: 1581,
-//         name: 'Moto Care HEADLIGHT GRILL WITHOUT GLASS FOR HONDA HNESS CB 350',
-//         price: 1200,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1581-1708252613_65d1ddc5a86be_qUDWsCDt6.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1581-1708252613_65d1ddc5a86be_qUDWsCDt6.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1581-1708252624_65d1ddd014681_KqF0opStO.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     }, {
-//         id: 1582,
-//         name: 'Moto Care 4 SLIDER CRASH GUARD FOR HONDA HNESS CB 350',
-//         price: 4160,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1582-1708241253_65d1b16531597_LOA61in23.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1582-1708241253_65d1b16531597_LOA61in23.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1582-1708241258_65d1b16a95322_k7BY4udLf.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1582-1708241264_65d1b170da39c_TS0PgBwc78.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1582-1708241271_65d1b1774e871_kXCg0eDVwo.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },
-//     {
-//         id: 1583,
-//         name: 'Moto Care HEADLIGHT GRILL FOR HONDA CB200X',
-//         price: 1600,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1583-1755584483_68a417e3bec3d_DiCYFnBL9R.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1583-1755584483_68a417e3bec3d_DiCYFnBL9R.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1583-1755584531_68a41813ad62d_v-eB3Isfv.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1583-1755584539_68a4181bd61fc_D0MpvbEZK.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1583-1755584547_68a4182332d96_vz-XJFFPF.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1584,
-//         name: 'Moto Care RESERVOIR OIL CAP FOR HONDA CB200X',
-//         price: 400,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1584-1747037939_6821aef35cd3d_fpbAIib1H.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1584-1747037939_6821aef35cd3d_fpbAIib1H.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1584-1747037947_6821aefb25783_bzFLviHzyT.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1584-1747037954_6821af02083a6_gpAFRvlLxa.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1584-1747037962_6821af0a5ec95_BYocVhi2l.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1585,
-//         name: 'Moto Care DISC OIL CAP FOR HONDA CB200X',
-//         price: 200,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1585-1743226672_67e78730a563d_gxRqKeNuv.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1585-1743226672_67e78730a563d_gxRqKeNuv.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1585-1743226680_67e78738dce92_Q3OEf5NVEC.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1585-1743226689_67e787412d5cc_LG4Ewunyvk.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1586,
-//         name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR HONDA CB 200X',
-//         price: 5600,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1586-1740040640_67b6e9c063e83_ozVnFPzD-.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1586-1740040640_67b6e9c063e83_ozVnFPzD-.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1586-1740040695_67b6e9f76415b_fFCuPms3P.jpeg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1586-1740040704_67b6ea00a1748_M4q6Y8bpY.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1586-1740040712_67b6ea0870a07_BG1Kg5WBI.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1587,
-//         name: 'Moto Care SADDLE STAY WITH PLATE FOR HONDA CB 200X',
-//         price: 2400,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1587-1740040052_67b6e77482591_6kuxvp2yZ.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1587-1740040052_67b6e77482591_6kuxvp2yZ.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1587-1740040059_67b6e77b04fd0_4nJynfBNjp.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1587-1740040068_67b6e78419c2f_cSkihqY44L.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1587-1740040076_67b6e78c509d3_hMUmk7KA-.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1588,
-//         name: 'Moto Care POLYCARBONATE VISOR FOR HONDA CB 200X',
-//         price: 2080,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1588-1740039469_67b6e52d64ebf_w9HmgR2Sc.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1588-1740039469_67b6e52d64ebf_w9HmgR2Sc.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1588-1740039500_67b6e54c97ed4_9QinspcUA.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1588-1740039508_67b6e55424c32_xD-m_iFta.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1588-1740039517_67b6e55d7735a_OhDxsYL4U.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1589,
-//         name: 'Moto Care GPS MOUNT FOR HONDA CB 200X',
-//         price: 1360,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1589-1711449915_6602a73b91045_n6HuT1MHN.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1589-1711449915_6602a73b91045_n6HuT1MHN.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1589-1711449949_6602a75d2da74_VngthvsRQ.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1589-1711449956_6602a764f3119_-SsqZMbEq.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1589-1711449964_6602a76cd2dba_7WT_PuhLA.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1590,
-//         name: 'Moto Care BACKREST FOR HONDA CB 200X',
-//         price: 2160,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1590-1709974378_65ec236a66a9f_i9B3h5mL6.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1590-1709974378_65ec236a66a9f_i9B3h5mL6.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1591,
-//         name: 'Moto Care UPPER LOWER CRASH GUARD FOR HONDA CB 200X',
-//         price: 9600,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1591-1709971160_65ec16d8de087_PAzJl9JZ0.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1591-1709971160_65ec16d8de087_PAzJl9JZ0.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1591-1709971168_65ec16e0e8882_-6QToAgpdV.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1591-1709971177_65ec16e93298e_18atvvTdz.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1591-1709971185_65ec16f19cf7b_NYlF5xHqk.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1592,
-//         name: 'Moto Care SADDLE STAY FOR HONDA CB 200X',
-//         price: 1680,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1592-1709970983_65ec162754b55_nkIW9s9rX.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1592-1709970983_65ec162754b55_nkIW9s9rX.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1592-1709970992_65ec163005820_AXCy1QECQ.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1592-1709970999_65ec16379d00a_mjiYky6lDc.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1592-1709971008_65ec164038997_bbguq2kxF.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1593,
-//         name: 'Moto Care 4 SLIDER CRASH GUARD FOR HONDA HNESS CB 350',
-//         price: 4160,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1582-1708241253_65d1b16531597_LOA61in23.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1582-1708241253_65d1b16531597_LOA61in23.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1582-1708241258_65d1b16a95322_k7BY4udLf.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1582-1708241264_65d1b170da39c_TS0PgBwc78.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1582-1708241271_65d1b1774e871_kXCg0eDVwo.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1594,
-//         name: 'Moto Care PIPE CARRIER WITH BACKREST FOR HONDA CB 200X',
-//         price: 2960,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1594-1709970744_65ec1538408ad_tOL1EUEsU.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1594-1709970744_65ec1538408ad_tOL1EUEsU.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1594-1709970754_65ec154239533_UF-r8ZvSxF.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1594-1709970763_65ec154b6716f_w_F29RbEs.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1595,
-//         name: 'Moto Care PIPE CARRIER FOR HONDA CB 200X',
-//         price: 1920,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1595-1709970580_65ec1494170fd_IY1TQyVHn.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1595-1709970580_65ec1494170fd_IY1TQyVHn.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1595-1709970589_65ec149d85832_k4PjF58fR.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1595-1709970613_65ec14b572fb8_IwjnJR3EH.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1596,
-//         name: 'Moto Care CNC CARRIER PLATE WITH BACKREST FOR HONDA CB 200X',
-//         price: 3600,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1596-1709970258_65ec13527b0e6_lp_TlZb_RU.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1596-1709970258_65ec13527b0e6_lp_TlZb_RU.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1596-1709970267_65ec135b61fd3_kWZKxjtgcC.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1596-1709970275_65ec13638f095_FqI6LvDlA.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1596-1709970294_65ec1376154ce_kB9jnSZ3k.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1597,
-//         name: 'Moto Care CNC CARRIER PLATE FOR HONDA CB 200X',
-//         price: 2560,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1597-1709970046_65ec127e31f55_QpdxxmkvzZ.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1597-1709970046_65ec127e31f55_QpdxxmkvzZ.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1597-1709970059_65ec128bcb562_n42GGBJ5F.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1597-1709970071_65ec1297aab10_ogH9MMILB.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1597-1709970081_65ec12a11c03f_mw_hr0VeO.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },
-//     {
-//         id: 1598,
-//         name: 'Moto Care PIPE CARRIER WITH ALUMINIUM PLATE WITH BACKREST FOR HONDA CB350',
-//         price: 3920,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1598-1773581158_69b6b36610ef3_toMgOUjEM.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1598-1773581158_69b6b36610ef3_toMgOUjEM.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1598-1773581166_69b6b36ec44e5_OKh4tmAOj6.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1598-1773581172_69b6b374bb243_2cw7wTS7Aa.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1598-1773581178_69b6b37a7249a_nyjrtxhSM.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1599,
-//         name: 'Moto Care PIPE CARRIER WITH ALUMINIUM PLATE FOR HONDA CB350',
-//         price: 2880,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1599-1773490734_69b5522e025ec_XULBdrsikp.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1599-1773490734_69b5522e025ec_XULBdrsikp.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1599-1773490739_69b55233f3aea_MLY1RNwWx.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1599-1773490745_69b552393b207_hlikiuvHc.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1599-1773490750_69b5523e279eb_pLbqEYQEb.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1600,
-//         name: 'Moto Care HEADLIGHT GRILL FOR HONDA CB350',
-//         price: 1200,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1600-1773490659_69b551e32a5bf_YKy0hr1k_.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1600-1773490659_69b551e32a5bf_YKy0hr1k_.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1600-1773490664_69b551e8db5c9_-v7XtODB5C.jpg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1600-1773490673_69b551f16d0ae_iGvEhdqiS.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1600-1773490678_69b551f68ef50_c32XGZA6Y.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1601,
-//         name: 'Moto Care SINGLE FOOTREST FOR HONDA CB350',
-//         price: 880,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1601-1773490576_69b55190c781f_-UN_vYHM3.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1601-1773490576_69b55190c781f_-UN_vYHM3.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1601-1773490584_69b55198869a2_umPDcdCKL.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1601-1773490589_69b5519d8d2fd_JkdSf3BAt.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1601-1773490597_69b551a58a86d_u9toxQ_-_4.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1602,
-//         name: 'Moto Care PIPE CARRIER WITH BACKREST FOR HONDA CB350',
-//         price: 3600,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1602-1773490504_69b55148c0ca3_scW2f92B2.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1602-1773490504_69b55148c0ca3_scW2f92B2.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1602-1773490512_69b551503af70_Bwv2d-n4x.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1602-1773490518_69b55156c7d2e_E6UObO4z6.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1602-1773490525_69b5515d09c1e_6bRwiLBhe.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1603,
-//         name: 'Moto Care PIPE CARRIER FOR HONDA CB350',
-//         price: 2560,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1603-1773490421_69b550f5da5ac_G4qNoeZ2AL.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1603-1773490421_69b550f5da5ac_G4qNoeZ2AL.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1603-1773490431_69b550ff5b8d9_cmuMpipwD.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1603-1773490438_69b551062c76a_SPbGtY9Id.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1603-1773490445_69b5510d753af_TkptwkngG.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1604,
-//         name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR HONDA CB350',
-//         price: 3840,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1604-1735465439_677119df9d6c1_rMbCiW4vX.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1604-1735465439_677119df9d6c1_rMbCiW4vX.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1604-1735465446_677119e63c8f9_ss4RKNXxO.jpg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1604-1735465454_677119eedca0b_eiofeL4sW.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1604-1735465464_677119f84f90a_boBMzj6gy.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },
-//     {
-//         id: 1605,
-//         name: 'Moto Care SADDLE STAY WITH PLATE FOR HONDA CB350',
-//         price: 2880,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1605-1773490343_69b550a73a51d_yG5vCar-h.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1605-1773490343_69b550a73a51d_yG5vCar-h.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1605-1773490349_69b550ad9d981_WS3RqSMcS.jpg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1605-1773490356_69b550b47b9dd_3b6WsYa6A.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1605-1773490363_69b550bba790f_y9WS5s_UQC.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HONDA'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic', 
-//             'Compatibility': 'HONDA',
-//             'Warranty': '1 year'
-//         }
-//     },
-//     {
-//         id: 1606,
-//         name: 'Moto Care RALLY TOWER TOURING WINDSHIELD WITH CLAMP KIT FOR HERO XPULSE 200 4V',
-//         price: 15200,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1606-1765277037_6937fd6db8582_XfU69l1Qh.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1606-1765277037_6937fd6db8582_XfU69l1Qh.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1606-1765277049_6937fd795ffbb_7DWRmRlRb.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1606-1765277058_6937fd8241bd4__6pQvliKb.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1606-1765277065_6937fd899ea04_Zk_2K6yci.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1607,
-//         name: 'Moto Care FOG LIGHT CLAMP FOR HERO XPULSE',
-//         price: 288,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1607-1739881309_67b47b5d747d8_sj-BlspYdg.jpg',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1607-1739881309_67b47b5d747d8_sj-BlspYdg.jpg'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1608,
-//         name: 'Moto Care HANDLE WITHOUT PLATE FOR HERO XPULSE',
-//         price: 800,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1608-1739881194_67b47aea632e2_3SbIC_67v.jpg',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1608-1739881194_67b47aea632e2_3SbIC_67v.jpg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1608-1739881201_67b47af198e97_8lEyKSfPY.jpg'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1609,
-//         name: 'Moto Care METAL VISOR FOR HERO XPULSE',
-//         price: 640,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1609-1739432197_67ada105353cf_O10wkoESG.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1609-1739432197_67ada105353cf_O10wkoESG.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1609-1739432205_67ada10d7b741_cVvZww5sB.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1609-1739432328_67ada1882166c_huQhp0Svh.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1610,
-//         name: 'Moto Care CRASH GAURD WITH DUAL SLIDERS (RED) FOR HERO XPULSE',
-//         price: 4480,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1610-1717995855_6666894f12f84_reMSYDqAG.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1610-1717995855_6666894f12f84_reMSYDqAG.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1610-1717995869_6666895de7fdc_r0fY39hLcF.jpg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1610-1717995880_66668968e47ee_391h0rqwd.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1610-1717995890_66668972e8e73_NZZD45fDP.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1611,
-//         name: 'Moto Care HANDLE WITH PLATE FOR HERO XPULSE',
-//         price: 1040,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1611-1717995589_666688451cbe4_B2_E7oDyY.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1611-1717995589_666688451cbe4_B2_E7oDyY.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1611-1717995602_66668852c76ef_ZQevrl3KdF.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1611-1717995612_6666885c6cb5f_x9Npbj4s7w.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1611-1717995623_666688675448a_Rnj2qydWE.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1612,
-//         name: 'Moto Care HEADLIGHT GRILL FOR HERO XPULSE',
-//         price: 1200,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1612-1714311761_662e52516908e_2IrWhElQ_p.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1612-1714311761_662e52516908e_2IrWhElQ_p.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1612-1714311769_662e5259874b9_W5U8au9D5.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1612-1714311779_662e52633228d_-1FgBGJYQ.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1612-1714311787_662e526bb9cf6_XzPBAZpMq.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1613,
-//         name: 'Moto Care TAIL TIDY FOR HERO XPULSE',
-//         price: 1880,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1613-1708261748_65d20174d8d55_9eG-hyduN.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1613-1708261748_65d20174d8d55_9eG-hyduN.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1613-1708261754_65d2017a17bb3_WcoWGj0gU.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1613-1708261759_65d2017f56c9f_qPDu5M3Wx.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1614,
-//         name: 'Moto Care SINGLE FOOTREST FOR HERO XPULSE',
-//         price: 1040,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1614-1708261499_65d2007bba351_2YzMWoDLU.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1614-1708261499_65d2007bba351_2YzMWoDLU.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1614-1708261509_65d20085bece0_RnNLiGXlx.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1614-1708261514_65d2008ac0481_Iajj_mZE9.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1615,
-//         name: 'Moto Care SIDE STAND EXTENDER FOR HERO XPULSE',
-//         price: 400,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1615-1708261245_65d1ff7d43d78_tWv5Fjyk0.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1615-1708261245_65d1ff7d43d78_tWv5Fjyk0.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1615-1708261283_65d1ffa3479c7_kbM4sCF6n.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1615-1708261289_65d1ffa96f656_GQeURWMkZ.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1615-1708261327_65d1ffcf4d855_iVrT0y2-d.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1616,
-//         name: 'Moto Care SADDLE STAY WITHOUT PLATE FOR HERO XPULSE',
-//         price: 1840,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1616-1708261012_65d1fe94a274e_s-3tMJjgM.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1616-1708261012_65d1fe94a274e_s-3tMJjgM.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1616-1708261017_65d1fe99aec1e_gkraNW1k4P.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1616-1708261022_65d1fe9eeb72b_9Isb7QXya.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1616-1708261027_65d1fea3f2a66_bq5KJJUIe.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1617,
-//         name: 'Moto Care SADDLE STAY WITH PLATE FOR HERO XPULSE',
-//         price: 2400,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1617-1708260822_65d1fdd6ccba1_IRfzOOW53.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1617-1708260822_65d1fdd6ccba1_IRfzOOW53.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1617-1708260828_65d1fddc1574f_rySeqU3qm.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1617-1708260838_65d1fde6eedb3_7ReiON30m.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1617-1708260843_65d1fdeb8ee56_pLo52pYb4.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1618,
-//         name: 'Moto Care RESERVOIR OIL CAP FOR HERO XPULSE',
-//         price: 400,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1618-1708260571_65d1fcdb9d76e_6yCOCvTz7T.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1618-1708260571_65d1fcdb9d76e_6yCOCvTz7T.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1618-1708260577_65d1fce14819e_oorW5w2BN.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1618-1708260587_65d1fceb86308_F0xMVjLNO.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1618-1708260592_65d1fcf0aaad6_9si83MPPBf.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1619,
-//         name: 'Moto Care RADIATOR GUARD FOR HERO XPULSE',
-//         price: 400,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1619-1708260386_65d1fc22be40d_tWrcDR-vx.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1619-1708260386_65d1fc22be40d_tWrcDR-vx.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1619-1708260402_65d1fc32aae19_Ap-l0mcvD.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1619-1708260414_65d1fc3e8a31a_yzkFr2000M.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1619-1708260435_65d1fc5385d2b_Xpw0e67NZ.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1620,
-//         name: 'Moto Care PIPE CARRIER WITH BACKREST FOR HERO XPULSE',
-//         price: 2960,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1620-1708260115_65d1fb13ad1f9_P21bNGN2Z.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1620-1708260115_65d1fb13ad1f9_P21bNGN2Z.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1620-1708260123_65d1fb1b7218e_h-rfxImjB.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1621,
-//         name: 'Moto Care PIPE CARRIER FOR HERO XPULSE',
-//         price: 1920,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1621-1708259989_65d1fa952bda6_2k09l5vmM.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1621-1708259989_65d1fa952bda6_2k09l5vmM.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1621-1708259995_65d1fa9b3eb7b_aS76Y5qEs.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1621-1708260001_65d1faa19e5da_gjpnmJzQU.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1621-1708260007_65d1faa79b9e1_hYQv2x71s.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1622,
-//         name: 'Moto Care GPS MOUNT FOR HERO XPULSE',
-//         price: 880,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1622-1708259767_65d1f9b7d83dc_7adp7YijX.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1622-1708259767_65d1f9b7d83dc_7adp7YijX.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1622-1708259772_65d1f9bc4bf6b_CAJKmB-MR.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1622-1708259776_65d1f9c0cccdb_pHkDBne2r.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1623,
-//         name: 'Moto Care CRASH GAURD WITH DUAL SLIDERS AND NAME FOR HERO XPULSE',
-//         price: 4160,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1623-1708259612_65d1f91c7e342_1nvGz7tux.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1623-1708259612_65d1f91c7e342_1nvGz7tux.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1623-1708259621_65d1f925bda44_eB9CEf2YU.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1623-1708259627_65d1f92ba0452_jVcujlYBs.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1623-1708259636_65d1f93499df7_zs7EYE0MD.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1624,
-//         name: 'Moto Care CNC CARRIER PLATE FOR HERO XPULSE',
-//         price: 960,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1624-1708259454_65d1f87e45dcd_0LSDOKcXes.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1624-1708259454_65d1f87e45dcd_0LSDOKcXes.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1624-1708259459_65d1f8836cd7a_fQ8NGTO0U.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1624-1708259463_65d1f887caed1_IPMaGEKuyA.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1624-1708259469_65d1f88d7924d_LEGSmGmQ1.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1625,
-//         name: 'Moto Care HANDLE BAR RISER FOR HERO XPULSE',
-//         price: 1200,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1625-1708261588_65d200d458189_xrbk6UZZG.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1625-1708261588_65d200d458189_xrbk6UZZG.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1625-1708261593_65d200d9107dd_is5QsV7Bd.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1625-1708261597_65d200ddc758a_duWZMrRmL.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1625-1708261608_65d200e8ea53b_LugQitVfp.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1626,
-//         name: 'Moto Care CRASH GAURD WITH DUAL SLIDERS FOR HERO XPULSE',
-//         price: 4480,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1626-1708258417_65d1f471ed168_gYeHDIeSv.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1626-1708258417_65d1f471ed168_gYeHDIeSv.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1626-1708258423_65d1f4773e906_FRCLtb-feU.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1626-1708258429_65d1f47d1aa7b_3dmxY1txc.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1626-1708258433_65d1f481920f0_AXE8VO84R.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-//     {
-//         id: 1627,
-//         name: 'Moto Care SADDLE STAY WITH PLATE FOR HERO MAVRICK 440',
-//         price: 2400,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1627-1739879660_67b474ec74862_wWMq7HJ8e.jpg',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1627-1739879660_67b474ec74862_wWMq7HJ8e.jpg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1627-1739879670_67b474f6a0b54_a4acJBSDAc.jpg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1627-1739879679_67b474ffbc7e8_SESVg_zzh.jpg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1627-1739879690_67b4750a70d0c_sP2c5y9fU.jpg'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1628,
-//         name: 'Moto Care PIPE CARRIER WITH BACKREST FOR HERO MAVRICK',
-//         price: 3600,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1628-1717814187_6663c3abbc192_VcBN5W7N6.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1628-1717814187_6663c3abbc192_VcBN5W7N6.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1628-1717814198_6663c3b67e3db_6u6o60v98.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1628-1717814209_6663c3c1a27dc_6mjdCTdlXL.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1628-1717814220_6663c3cc95726_NRxsvgEIBm.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1629,
-//         name: 'Moto Care PIPE CARRIER FOR HERO MAVRICK 440',
-//         price: 2560,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1629-1717813974_6663c2d64eaca_9aoT68EI4.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1629-1717813974_6663c2d64eaca_9aoT68EI4.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1629-1717813987_6663c2e3eaec4_kuvZviGGyc.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1629-1717813998_6663c2ee7281e_dLHMOQZCdv.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1629-1717814010_6663c2fa4cf1e_LWK2K71zm.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1630,
-//         name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR MAVRICK 440',
-//         price: 4160,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1630-1717813800_6663c2286df44_1oe4vi4KC.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1630-1717813800_6663c2286df44_1oe4vi4KC.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1630-1717813811_6663c2332bb5b_7wBfl5DnZ.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1630-1717813822_6663c23e25fd5_C3XXXBic-q.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1630-1717813835_6663c24b54a23_HQVPXjxIE.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1631,
-//         name: 'Moto Care CARRIER WITH BACKREST FOR HERO XTREME 125 R',
-//         price: 3600,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1631-1725029443_66d1dc431bfdc_VIjEXrnBHM.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1631-1725029443_66d1dc431bfdc_VIjEXrnBHM.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1631-1725029456_66d1dc506aa3c_VcOJ1kyW2.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1631-1725029463_66d1dc577fb8e_uc0bezG6D.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1631-1725029473_66d1dc61d65a4_eqzgZzLB0L.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1632,
-//         name: 'Moto Care CARRIER WITH PLATE FOR HERO XTREME 125 R',
-//         price: 2560,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1632-1725029230_66d1db6ecd838_q67evdzJ3.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1632-1725029230_66d1db6ecd838_q67evdzJ3.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1632-1725029238_66d1db7661803_YsMiqYTkJ.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1632-1725029246_66d1db7eb6280_DQ0sy5umB.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1632-1725029253_66d1db85f2097_b-fDWwW5Xc.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1633,
-//         name: 'Moto Care SADDLE STAY FOR HERO XTREME 125 R',
-//         price: 2400,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1633-1725028988_66d1da7cbb2c8_xDvAxCpz1.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1633-1725028988_66d1da7cbb2c8_xDvAxCpz1.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1633-1725028998_66d1da86199fb_517gPqia_.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1633-1725029004_66d1da8cca6e3_gqaaqN-O7o.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1633-1725029012_66d1da94d8e77_k6gIBrJip.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1634,
-//         name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR HERO XTREME 125 R',
-//         price: 4160,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1634-1720102780_6686af7c2d916_5sXnFtOzS.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1634-1720102780_6686af7c2d916_5sXnFtOzS.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1634-1720102788_6686af8492794_xMBBCUEPf.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1634-1720102798_6686af8e7ffe5_qhLFvf90rg.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1634-1720102808_6686af98c138b_jtzPWzQmF.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1635,
-//         name: 'Moto Care TYPE 2 - TYRE HUGGER FOR XPULSE 210',
-//         price: 1600,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1635-1769168374_69735df609c31_SW2DtxxU3j.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1635-1769168374_69735df609c31_SW2DtxxU3j.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1635-1769168381_69735dfd94a08_C8aFhl-zge.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1635-1769168390_69735e0611d8c_TudgPApzu.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1635-1769168400_69735e1031432_0hmIbE6TH.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1636,
-//         name: 'Moto Care MOTOCARE MANTIS RALLY TOWER TOURING WINDSHIELD WITH CLAMP KIT FOR HERO XPULSE 210',
-//         price: 15200,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1636-1765277083_6937fd9bee4ac_yHDJZJizY.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1636-1765277083_6937fd9bee4ac_yHDJZJizY.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1636-1765277151_6937fddf99c23_rEIbD3orc.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1636-1765277161_6937fde98e6cd_DZHsoatQf.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1636-1765277169_6937fdf1a61b7_GsRTMxmyBc.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1637,
-//         name: 'Moto Care FOG LIGHT CLAMP FOR HERO XPULSE 210',
-//         price: 1040,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1637-1765031483_69343e3b0acfd_VeU1fEyi3q.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1637-1765031483_69343e3b0acfd_VeU1fEyi3q.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1637-1765031490_69343e42006a9_kKHXSTd9z.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1637-1765031523_69343e6364b61_iPBcGSW3hV.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1637-1765031538_69343e720e2b1_YBgCP5_hs.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1638,
-//         name: 'Moto Care CALIBER GUARD (BLACK) FOR HERO XPULSE 210',
-//         price: 480,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1638-1763130616_69173cf814e8b_bRj70TEaj.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1638-1763130616_69173cf814e8b_bRj70TEaj.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1638-1763130625_69173d01800bb_70BIrYAGtk.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1638-1763130631_69173d07846b5_zrtLqosmV.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1639,
-//         name: 'Moto Care FRONT MUD FLAP FOR HERO XPULSE 210',
-//         price: 160,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1639-1756798253_68b69d2d58b99_KahFJgCuW7.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1639-1756798253_68b69d2d58b99_KahFJgCuW7.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1639-1756798505_68b69e298fac1_FbmeWyyeJ.jpeg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1639-1756798516_68b69e34d2af6_WNKTUTuDZ.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1640,
-//         name: 'Moto Care SADDLE STAY (RED) FOR HERO XPULSE 210',
-//         price: 2400,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1640-1756465533_68b1897d29181_DFh76iV62.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1640-1756465533_68b1897d29181_DFh76iV62.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1640-1756465785_68b18a794ebdf_S0VLeAL_B.jpg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1640-1756465793_68b18a81d9ad3_XvBClIosqz.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1640-1756465802_68b18a8a9774c_1pgNE_v3h.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1641,
-//         name: 'Moto Care PIPE CARRIER (BLACK) FOR HERO XPULSE 210',
-//         price: 2560,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1641-1756465258_68b1886ae4ebb_TcGDlDtua8.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1641-1756465258_68b1886ae4ebb_TcGDlDtua8.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1641-1756465270_68b188769f416_S6kGpwpv6.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1641-1756465276_68b1887cd7409_MrKImeZiO.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1641-1756465282_68b18882c492f_JXXze2hZrM.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-// {
-//         id: 1642,
-//         name: 'Moto Care GPS MOUNT ( BLACK) FOR HERO XPULSE 210',
-//         price: 960,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1642-1754379831_6891b637883fd_ZrCGHz9mnl.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1642-1754379831_6891b637883fd_ZrCGHz9mnl.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1642-1754379965_6891b6bd8ce67_f8Df2nsq6.JPG',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1642-1754379975_6891b6c758309_9eaFE6wPR.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1642-1754379980_6891b6cc91f01_JvvnT3ILH.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-//     {
-//         id: 1643,
-//         name: 'Moto Care SIDE STAND EXTENDER FOR FOR HERO XPULSE 210',
-//         price: 720,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1643-1754296121_68906f39cb64a_mRVT0RUht.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1643-1754296121_68906f39cb64a_mRVT0RUht.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1643-1754298657_68907921c1b03_uZ_uQnNFM.jpg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1643-1754298694_6890794616d22_ihLgxbDLB.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1643-1754298701_6890794d74de5_WR0KWSeOH.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1644,
-//         name: 'Moto Care PIPE CARRIER WITH BACKREST ( RED & BLACK) FOR HERO XPULSE 210',
-//         price: 3600,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1644-1754028841_688c5b293f262_OVeX6P_09w.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1644-1754028841_688c5b293f262_OVeX6P_09w.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1644-1754028850_688c5b3267304_LgIvr4euI.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1644-1754028856_688c5b38d8e74_Log7noEx6.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1644-1754028863_688c5b3fd6196_eNJkG50Fc.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1645,
-//         name: 'Moto Care PIPE CARRIER ( RED & BLACK) FOR HERO XPULSE 210',
-//         price: 2560,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1645-1754028695_688c5a9775c60_mNxHH_eAN.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1645-1754028695_688c5a9775c60_mNxHH_eAN.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1645-1754028702_688c5a9e95af9_naZe0bdUY.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1645-1754028709_688c5aa59d385_QoSZQvZJ0.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1645-1754028715_688c5aab6869e_k1K_CJ_GF.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1646,
-//         name: 'Moto Care GPS MOUNT ( BLACK) FOR HERO XPULSE 210',
-//         price: 5200,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1642-1754379831_6891b637883fd_ZrCGHz9mnl.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1642-1754379831_6891b637883fd_ZrCGHz9mnl.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1642-1754379965_6891b6bd8ce67_f8Df2nsq6.JPG',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1642-1754379975_6891b6c758309_9eaFE6wPR.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1642-1754379980_6891b6cc91f01_JvvnT3ILH.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1647,
-//         name: 'Moto Care UPPER LOWER CRASH GUARD (WHITE) FOR HERO XPULSE 210',
-//         price: 5200,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1647-1753598847_6885cb7f79320_4in6xTyp3.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1647-1753598847_6885cb7f79320_4in6xTyp3.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1647-1753598855_6885cb87ab9c1_mzh4Ngav5M.jpg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1647-1753598863_6885cb8f10996_bG9rCQsMKW.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1647-1753598870_6885cb9608b68_ptCc1VD9W.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1648,
-//         name: 'Moto Care PIPE CARRIER FOR HERO XPULSE 210',
-//         price:2560,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1648-1753598572_6885ca6c0fbd0_udSmH1QGUD.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1648-1753598572_6885ca6c0fbd0_udSmH1QGUD.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1648-1753598581_6885ca75ae4b3_sBMILTlX0.JPG',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1648-1753598593_6885ca819c502_4hIxaq9wl.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1648-1753598599_6885ca8799713_HDKKD9aRMO.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1649,
-//         name: 'Moto Care PIPE CARRIER WITH BACKREST FOR HERO XPULSE 210',
-//         price: 3600,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1649-1753598399_6885c9bf57694_0PWlch66q.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1649-1753598399_6885c9bf57694_0PWlch66q.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1649-1753598422_6885c9d6cc982_xdSmZ1TXm1.JPG',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1649-1753598435_6885c9e32115f_NcVSuYXC1.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1649-1753598442_6885c9eac61bc_h_o0dGL9Ig.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1650,
-//         name: 'Moto Care UPPER LOWER CRASH GUARD BLACK FOR HERO XPULSE 210',
-//         price: 5200,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1650-1753096094_687e1f9ec8ebb_vpoWK622q.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1650-1753096094_687e1f9ec8ebb_vpoWK622q.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1650-1753096104_687e1fa85f703_unfnN4gOW.jpg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1650-1753096116_687e1fb408276_c61JJLk9W.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1650-1753096124_687e1fbcf37ad_3S1BJCk1N.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1651,
-//         name: 'Moto Care CHAIN SPROCK GUARD FOR HERO XPULSE 210',
-//         price: 480,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1651-1753078045_687dd91d5d49d_8FLCWgdCD.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1651-1753078045_687dd91d5d49d_8FLCWgdCD.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1651-1753078205_687dd9bd9215b_8J3MkcZqId.JPG',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1651-1753078216_687dd9c8aa3b7_niBr9L-_7.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1651-1753078222_687dd9cedde33_e733_tHks.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1652,
-//         name: 'Moto Care SADDLE STAY WITH SILVER/BLACK PLATE FOR HERO XPULSE 210',
-//         price: 2400,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1652-1753077797_687dd8255e5c7_msERip-bD.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1652-1753077797_687dd8255e5c7_msERip-bD.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1652-1753077852_687dd85c8192d_Z65R9dOBR.JPG',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1652-1753077863_687dd8676d797_UZOCrIxHW.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1652-1753077871_687dd86f51c18_ggJscsVuW.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1653,
-//         name: 'Moto Care UPPER LOWER CRASH GUARD RED FOR HERO XPULSE 210',
-//         price: 5200,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1653-1753077561_687dd73955e71_btya3CbLK.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1653-1753077561_687dd73955e71_btya3CbLK.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1653-1753077588_687dd754486c3_Wtps60AjV.JPG',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1653-1753077597_687dd75d1825c_HgcJs8X-O.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1653-1753077605_687dd76502789_gh5h6WhRXe.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1654,
-//         name: 'Moto Care CHAIN GUARD FOR HERO XPULSE 210',
-//         price: 960,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1654-1752821407_6879ee9f802cd_mpG2UHyVQ.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1654-1752821407_6879ee9f802cd_mpG2UHyVQ.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1654-1752821428_6879eeb4ac4c4_E5jjyt79T.JPG',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1654-1752821445_6879eec506afc_M96TFMvpR.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1654-1752821462_6879eed67bd7a_e87Pbs-h3.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1655,
-//         name: 'Moto Care GPS MOUNT FOR HERO XPULSE 210',
-//         price: 960,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1655-1752820891_6879ec9b051a8_oS1hvcfj0.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1655-1752820891_6879ec9b051a8_oS1hvcfj0.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1655-1752821013_6879ed150bb33_4uWfrr5gb.JPG',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1655-1752821049_6879ed39cfca7_jhgiNDXPiy.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1655-1752821062_6879ed466af65_WFPPfxubc.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1656,
-//         name: 'Moto Care SUM GUARD FOR HERO XPULSE 210',
-//         price: 1600,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1656-1752301879_68720137dc0c6_S2fTAFSx2.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1656-1752301879_68720137dc0c6_S2fTAFSx2.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1656-1752302020_687201c49e3b4_VOlo6Mepo.JPG',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1656-1752302030_687201ce5b16c_WTKy2hzUU.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1656-1752302050_687201e2997f2_vG1gIQFOT.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1657,
-//         name: 'Moto Care CALIBER GUARD (SILVER) FOR HERO XPULSE 210',
-//         price: 480,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1657-1752301431_6871ff770a5f7_hiV0WFU7Eu.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1657-1752301431_6871ff770a5f7_hiV0WFU7Eu.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1657-1752301467_6871ff9b1512c_XfbIBBM1o.JPG',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1657-1752301478_6871ffa6b4a09_leK6Qp4s6.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1657-1752301539_6871ffe356b71_XxQZhA5ED.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1658,
-//         name: 'Moto Care DISC OIL CAP FOR HERO XPULSE 210',
-//         price: 200,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1658-1752300713_6871fca9ab8a1_072NFw4Ez.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1658-1752300713_6871fca9ab8a1_072NFw4Ez.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1658-1752300824_6871fd1858d8a_6Etev86Nf.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1658-1752300892_6871fd5c0fd22_a7vH2jqBK.JPG',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1658-1752300898_6871fd62b8269_0hg_k-9WS.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1659,
-//         name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR HERO XPULSE 210 (RED)',
-//         price: 4640,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1659-1749646262_68497bb64fd3a_T62svnHUZ.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1659-1749646262_68497bb64fd3a_T62svnHUZ.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1659-1752301122_6871fe4207114_vLw0Z-MU9.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1659-1752301128_6871fe48b182f_4BaubAwuG.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1659-1752301134_6871fe4ec6ab4_qhLapJe--.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1660,
-//         name: 'Moto Care HANDLE RISER FOR HERO XPULSE 210',
-//         price: 880,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1660-1746523816_6819d6a821385_5jbMx9OSt.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1660-1746523816_6819d6a821385_5jbMx9OSt.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1660-1746523848_6819d6c87f445_lKf6XG2G9.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1660-1746523856_6819d6d0c220d_skXaar4DR.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1660-1746523863_6819d6d7ab963_TTBo_t9K_.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1661,
-//         name: 'Moto Care FOOTREST FOR HERO XPULSE 210',
-//         price: 1280,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1661-1745738265_680dda1978195_UX5QC2wVU8.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1661-1745738265_680dda1978195_UX5QC2wVU8.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1661-1745738276_680dda241a0ff_vRko8EYZt.jpg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1661-1745738284_680dda2ce8e2b_x7eb13joS.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1661-1745738291_680dda336bdf2_HxIRrObap.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1662,
-//         name: 'Moto Care RADIATOR GUARD FOR HERO XPULSE 210',
-//         price: 880,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1662-1745734102_680dc9d67ed7f_jHBdZYQxj.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1662-1745734102_680dc9d67ed7f_jHBdZYQxj.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1662-1745734123_680dc9eb65303_uGI_k3amR.jpg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1662-1745734153_680dca097816c_RsINQTm8A.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1662-1745734163_680dca13dcb6d_80hStVQLz.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1663,
-//         name: 'Moto Care TYRE HUGGER FOR HERO XPULSE 210',
-//         price: 1600,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1663-1745733899_680dc90bb7537_mK9SVDgch.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1663-1745733899_680dc90bb7537_mK9SVDgch.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1663-1745733945_680dc93975249_IAbMl29g8.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1663-1745733952_680dc940c0b99_qHhQBXb02.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1663-1745733959_680dc947a3d1d_HpQiz7y_1.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1664,
-//         name: 'Moto Care HEADLIGHT GRILL FOR HERO XPULSE 210',
-//         price: 1040,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1664-1745733679_680dc82f96326_EbSfD595Q.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1664-1745733679_680dc82f96326_EbSfD595Q.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1664-1745733740_680dc86c3356f_yPR-0zC34.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1664-1745733752_680dc878140ca_NXm_bOEts.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1664-1745733762_680dc88218c2f_8DsVdkqls5.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1665,
-//         name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR HERO XPULSE 210',
-//         price: 4480,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1665-1745067609_68039e5947d3c_0yNHuvR9A6.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1665-1745067609_68039e5947d3c_0yNHuvR9A6.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1665-1745067617_68039e6167ff1_xZlpS1B4y.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1665-1745067625_68039e695a300_z0YENcDz5.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1665-1745067635_68039e736af7b_JUXDeTmVU.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1666,
-//         name: 'Moto Care SADDLE STAY WITH PLATE FOR HERO XPULSE 210',
-//         price: 2400,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1666-1745067380_68039d74174eb_4JIPk2xsp.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1666-1745067380_68039d74174eb_4JIPk2xsp.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1666-1745067431_68039da765e79_KCz_5Bd66C.jpeg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1666-1745067440_68039db07cd8a_oK6Qo_-fL.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1666-1745067449_68039db9d3272_acy1Ou19y.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1667,
-//         name: 'Moto Care CNC CARRIER WITH PLATE FOR HERO XPULSE 210',
-//         price: 1440,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1667-1745048769_680354c125cd9_rl14tNIuk.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1667-1745048769_680354c125cd9_rl14tNIuk.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1667-1745048828_680354fc52160_fyQf455ok.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1667-1745048837_680355059be6d_DShnfSmu_l.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1667-1745048845_6803550d564d2__jY-BFUoi.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1668,
-//         name: 'Moto Care CNC CARRIER WITH BACKREST FOR HERO XPULSE 210',
-//         price: 2480,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1668-1745048462_6803538e6050d_z7JBTyOHA.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1668-1745048462_6803538e6050d_z7JBTyOHA.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1668-1745048469_680353952bf67_kfyTWZ2Ufg.jpg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1668-1745048477_6803539d8347a_Lx9xG2Fg_.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1668-1745048604_6803541c71c6f_5qxoLvcbA.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-//     {
-//         id: 1669,
-//         name: 'Moto Care POLYCARBONATE VISOR FOR HERO XTREME 250R',
-//         price: 2080,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1669-1774354436_69c280047f793_iCQZ_uB_j.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1669-1774354436_69c280047f793_iCQZ_uB_j.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1669-1774354559_69c2807f15df5_sychs4zj6.JPG',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1669-1774354443_69c2800bf3ace_lYrBcJD4C.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1669-1774354451_69c28013779ae_wbk-nzSDvh.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1670,
-//         name: 'Moto Care NUMBER PLATE HOLDER FOR HERO XTREME 250R',
-//         price: 1120,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1670-1767364623_6957d80f7ed01_OOwTCpgpt.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1670-1767364623_6957d80f7ed01_OOwTCpgpt.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1670-1767364631_6957d8174350d_fa-M-D27Y.JPG',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1670-1767364639_6957d81f13a61_Ie3sNH8M0.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1670-1767364645_6957d8259a553_N1YaF5BeS.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1671,
-//         name: 'Moto Care RADIATOR GUARD FOR HERO XTREME 250R',
-//         price: 1040,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1671-1767017400_69528bb8ac5f6_0PKsS1uvn.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1671-1767017400_69528bb8ac5f6_0PKsS1uvn.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1671-1767017409_69528bc102cc5_KL6225Pe6.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1671-1767017417_69528bc967118_UJkKsuZnb.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1671-1767017427_69528bd3e8e73_kK2DiIOJN7.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1672,
-//         name: 'Moto Care FOOTREST FOR HERO XTREME 250R',
-//         price: 1280,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1672-1767017075_69528a7399e35_OnDOY23Vf.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1672-1767017075_69528a7399e35_OnDOY23Vf.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1672-1767017111_69528a9771f8f_An2gz7hZu.JPG',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1672-1767017121_69528aa1d20ee_4MDHV56fP.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1672-1767017128_69528aa8e384f_-vBZItghi.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1673,
-//         name: 'Moto Care 4 SLIDER CRASH GUARD FOR HERO XTREME 250R',
-//         price: 4640,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1673-1766746798_694e6aae046cf_hgqtwyijf.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1673-1766746798_694e6aae046cf_hgqtwyijf.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1673-1766746910_694e6b1ec5f24_lFWyYCak9P.JPG',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1673-1766746918_694e6b267a1e8_PZET1C3EC.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1673-1766746925_694e6b2d87e92_KuMmv27h_.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1674,
-//         name: 'Moto Care CNC CARRIER WITH BACKREST FOR HERO XTREME 250R',
-//         price: 3600,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1674-1766746530_694e69a230982_HoTwoz3OI.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1674-1766746530_694e69a230982_HoTwoz3OI.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1674-1766746537_694e69a9d130b_K-qarNuMq.JPG',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1674-1766746544_694e69b02f948_2YJmcH7Tp.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1674-1766746550_694e69b647c7e_seYDZDFsfL.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1675,
-//         name: 'Moto Care CNC CARRIER WITH PLATE FOR HERO XTREME 250R',
-//         price: 2560,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1675-1766746377_694e69092ef17_zC3fyjeJ-.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1675-1766746377_694e69092ef17_zC3fyjeJ-.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1675-1766746393_694e69193fed9_UZz1qH7Dw.jpeg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1675-1766746399_694e691f3b306_RnD66q5mM.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1675-1766746407_694e692728405_kpXC8X70CV.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1676,
-//         name: 'Moto Care SADDLE STAY WITH PLATE FOR HERO XTREME 250R',
-//         price: 2400,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1676-1766745599_694e65ff63e5f_YAvI0IXaMy.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1676-1766745599_694e65ff63e5f_YAvI0IXaMy.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1676-1766745624_694e6618490f7_EJkiIoZmC.jpeg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1676-1766745631_694e661fee1f4_iLOTb3U-M.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1676-1766745640_694e662803233_mO0Pm25HZ.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1677,
-//         name: 'Moto Care RESERVOIR OIL CAP FOR HERO XTREME 250R',
-//         price: 400,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1677-1766745269_694e64b500f65_Xk2iuH5nf.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1677-1766745269_694e64b500f65_Xk2iuH5nf.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1677-1766745275_694e64bb13f84_uB9oqiVVq.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1677-1766745284_694e64c4a6fde_tDi5kIwo68.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1677-1766745290_694e64cac15a9_lzJOGxeXEt.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1678,
-//         name: 'Moto Care DISC OIL CAP FOR HERO XTREME 250R',
-//         price: 200,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1678-1766744861_694e631d33f89_nW4FRHGrp.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1678-1766744861_694e631d33f89_nW4FRHGrp.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1678-1766744908_694e634ca0f48_xK2r7W8aLt.jpeg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1678-1766744917_694e6355ce450_MbV8L4kVm.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1678-1766744932_694e63640d58c_i8tJwekC2.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['HERO'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'HERO',
-//             'Warranty': '1 year'
-//         }
-//     },
-//     {
-//         id: 1679,
-//         name: 'Moto Care PIPE CARRIER WITH BACKREST FOR TVS RONIN (2024/2025 MODEL)',
-//         price: 3920,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1679-1754725461_6896fc55516ad_EBcKSELWUF.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1679-1754725461_6896fc55516ad_EBcKSELWUF.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1679-1754725469_6896fc5da9ddd_MteoGMigB.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1679-1754725476_6896fc6410553_WvOnBbK6N.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1679-1754725483_6896fc6b08ccc_jAEEYwMF6.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },
-//      {
-//         id: 1680,
-//         name: 'Moto Care PIPE CARRIER FOR TVS RONIN (2024/2025 MODEL)',
-//         price: 2880,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1680-1754725297_6896fbb16bb51_dRDdbszMQ.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1680-1754725297_6896fbb16bb51_dRDdbszMQ.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1680-1754725309_6896fbbd08d4d_uVp5kpTsQa.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1680-1754725315_6896fbc3eb8dc_qLzcX43Qf.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1680-1754725321_6896fbc9a8d22_zKs9Mh7Vb.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     }, {
-//         id: 1681,
-//         name: 'Moto Care POLYCARBONATE VISOR FOR TVS RONIN',
-//         price: 2240,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1681-1750744593_685a3e1196ee6_uTfCyDc2p.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1681-1750744593_685a3e1196ee6_uTfCyDc2p.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1681-1750744618_685a3e2a11d14_7vGneREFb.jpg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1681-1750744643_685a3e432e3e4_-KewOtmlw.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1681-1750744604_685a3e1c22be6_YorbI70tW.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     }, {
-//         id: 1682,
-//         name: 'Moto Care DISC OIL CAP FOR TVS RONIN',
-//         price: 200,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1682-1709366374_65e2dc661a182_quUXU7-Jd.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1682-1709366374_65e2dc661a182_quUXU7-Jd.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1682-1709366386_65e2dc7272ceb_KBnzo4S-Cu.jpg'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     }, {
-//         id: 1683,
-//         name: 'Moto Care VISOR FOR TVS RONIN',
-//         price: 960,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1683-1709365870_65e2da6eca820_nXi73R4rDG.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1683-1709365870_65e2da6eca820_nXi73R4rDG.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1683-1709365896_65e2da88b86d9_pL8_CbNfM.jpg'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     }, {
-//         id: 1684,
-//         name: 'Moto Care SADDLE STAY WITH PLATE FOR TVS RONIN',
-//         price: 2400,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1684-1709363420_65e2d0dc446cc_HYWETu2Oi.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1684-1709363420_65e2d0dc446cc_HYWETu2Oi.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1684-1709363430_65e2d0e60e926_S527fJPJ7E.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1684-1709363439_65e2d0ef9203a_5jW8QLwzj.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1684-1709363444_65e2d0f4d23b3_na0AfPXOf.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     }, {
-//         id: 1685,
-//         name: 'Moto Care RADIATOR GUARD FOR TVS RONIN',
-//         price: 560,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1685-1706963476_65be3214040f9_Lt6ESPiPA.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1685-1706963476_65be3214040f9_Lt6ESPiPA.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1685-1706963483_65be321bccc61_pkVw7v6ba.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1685-1706963490_65be3222ec03f_RXMR2Fkgn.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1685-1706963497_65be3229ddb7e_J32fjbP0E.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     }, {
-//         id: 1686,
-//         name: 'Moto Care FOG LIGHT CLAMP FOR TVS RONIN',
-//         price: 1040,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1686-1706963222_65be3116ed17f_MdK10tcsE.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1686-1706963222_65be3116ed17f_MdK10tcsE.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1686-1706963228_65be311c812a4_5w_LEjjZTe.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1686-1706963233_65be3121e03f4_oFKgPX_tU.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1686-1706963240_65be312854bdd_8JkHjvyuiY.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     }, {
-//         id: 1687,
-//         name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR TVS RONIN',
-//         price: 3840,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1687-1706962513_65be2e51576b6_AXvLFrHPe.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1687-1706962513_65be2e51576b6_AXvLFrHPe.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1687-1706962521_65be2e59ca724__8WQpQfBs.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1687-1706962531_65be2e63956b0_K2MDic1KL.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1687-1706962539_65be2e6bcd551_e8P4Nmfi7h.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },
-//      {
-//         id: 1688,
-//         name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR TVS RAIDER',
-//         price: 4160,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1688-1706871864_65bccc38aacdb_nGwNUjeCV.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1688-1706871864_65bccc38aacdb_nGwNUjeCV.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1688-1706871872_65bccc4071a8b_Z4GtPp_LWN.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1688-1706871879_65bccc47369d4_7bO9sTQ2s.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1688-1706871886_65bccc4e21d2d_F1xo8RJlT.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },
-//     {
-//         id: 1689,
-//         name: 'Moto Care DISC OIL CAP FOR TVS APACHE RTR 310',
-//         price: 200,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1689-1717765283_666304a39d985_WJ4YGsSPE.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1689-1717765283_666304a39d985_WJ4YGsSPE.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1689-1717765292_666304ac738f2_3MCwiVx3K.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1689-1717765305_666304b97e041_3ccxIvs3N.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1689-1717765313_666304c1625a7_H4uj995sr.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1690,
-//         name: 'Moto Care FORK SLIDERS ( SET OF 2 ) FOR TVS APACHE RTR 310',
-//         price: 2240,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1690-1711556544_660447c0b4e04_SqFzyhg3_.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1690-1711556544_660447c0b4e04_SqFzyhg3_.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1691,
-//         name: 'Moto Care SADDLE STAY FOR TVS APACHE RTR 310',
-//         price: 2400,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1691-1711297824_66005520b7226_aRaQmq_Tv.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1691-1711297824_66005520b7226_aRaQmq_Tv.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1692,
-//         name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR TVS RAIDER',
-//         price: 2080,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1688-1706871864_65bccc38aacdb_nGwNUjeCV.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1688-1706871864_65bccc38aacdb_nGwNUjeCV.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1688-1706871872_65bccc4071a8b_Z4GtPp_LWN.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1688-1706871879_65bccc47369d4_7bO9sTQ2s.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1688-1706871886_65bccc4e21d2d_F1xo8RJlT.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1693,
-//         name: 'Moto Care RADIATOR GUARD FOR TVS APACHE RTR 310',
-//         price: 1040,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1693-1707029049_65bf32390de91_7uYTLe08m.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1693-1707029049_65bf32390de91_7uYTLe08m.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1693-1707029058_65bf3242f31e9_oBScyhBke.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1693-1707029068_65bf324c72224_mKuqSIff1.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1693-1707029076_65bf3254127ca_bRkMKgMKI.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1694,
-//         name: 'Moto Care NUMBER PLATE HOLDER FOR TVS APACHE RTR 310',
-//         price: 1120,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1694-1707028740_65bf3104a2369_A7Hi0PI04.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1694-1707028740_65bf3104a2369_A7Hi0PI04.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1694-1707028747_65bf310b2de53_cf3kA3Fnj.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1694-1707028752_65bf311079c0c__3-ZJTgMO.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1694-1707028758_65bf311623e04_pEPBfwQ4Q.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1695,
-//         name: 'Moto Care GPS MOUNT FOR TVS APACHE RTR 310',
-//         price: 880,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1695-1707028492_65bf300c4d87f_2fyWy9p08.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1695-1707028492_65bf300c4d87f_2fyWy9p08.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1695-1707028498_65bf30128dcc1_j_JnkUZGV.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1695-1707028503_65bf3017d89c4_MOtJhlSFn.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1696,
-//         name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR TVS APACHE RTR 310',
-//         price: 4160,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1696-1707028249_65bf2f1902412_ANmS2vVpB9.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1696-1707028249_65bf2f1902412_ANmS2vVpB9.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1696-1707028255_65bf2f1f88a12_no3RDNL9Q.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1696-1707028260_65bf2f24f1860_daNwPlPqO.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1696-1707028266_65bf2f2abd3ed_tsbHSKdHY.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1697,
-//         name: 'Moto Care CNC CARRIER PLATE WITH BACKREST FOR TVS APACHE RTR 310',
-//         price: 3600,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1697-1707027131_65bf2abbb5ed5_EYvGyB-97.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1697-1707027131_65bf2abbb5ed5_EYvGyB-97.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1697-1707027138_65bf2ac29ef44_INQ7VD3Pzu.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1697-1707027146_65bf2aca32de7_5tJpnxp4k.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1697-1707027154_65bf2ad21fd36_J6_wYeNGe.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1698,
-//         name: 'Moto Care CNC CARRIER PLATE FOR TVS APACHE RTR 310',
-//         price: 2560,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1698-1707026944_65bf2a009a8bf_ilEb2Uzzk.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1698-1707026944_65bf2a009a8bf_ilEb2Uzzk.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1698-1707026952_65bf2a08c508c_GKaqthAu3G.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1698-1707026961_65bf2a111c83d_fbCbyGEky.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1698-1707026968_65bf2a1814dbb_Ak88Xm3FLj.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },
-//     {
-//         id: 1699,
-//         name: 'Moto Care PIPE CARRIER WITH BACKREST FOR TVS APACHE RTR 200',
-//         price: 3120,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1699-1714033428_662a131496931_uUriyfAW7l.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1699-1714033428_662a131496931_uUriyfAW7l.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1699-1714033435_662a131bb4501_lRA2BLi4N.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1699-1714033442_662a132293a84_6717dp9LY.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1699-1714033448_662a1328bf8d1_8HHnF1bCsx.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1700,
-//         name: 'Moto Care PIPE CARRIER FOR TVS APACHE RTR 200',
-//         price: 2080,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1700-1714032902_662a1106ec421_o9h9yBP2QO.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1700-1714032902_662a1106ec421_o9h9yBP2QO.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1700-1714032959_662a113f03899_wiKU87nUr.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1700-1714032972_662a114c0d319_I51dzoea-.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1700-1714032979_662a1153e371d_a6k5qrNf2.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1701,
-//         name: 'Moto Care PLATE CARRIER WITH BACKREST FOR TVS APACHE RTR 200',
-//         price: 3600,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1701-1714032742_662a106625141_bMafY2VLL.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1701-1714032742_662a106625141_bMafY2VLL.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1701-1714032749_662a106dd3a49_pFUGbBQvv.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1701-1714032762_662a107a282ea_e8aE3RE9I.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1701-1714032770_662a1082629ed_FuuUUe91E.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1702,
-//         name: 'Moto Care PLATE CARRIER FOR TVS APACHE RTR 200',
-//         price: 2560,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1702-1714032594_662a0fd257bc6_jJcZzzilol.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1702-1714032594_662a0fd257bc6_jJcZzzilol.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1702-1714032601_662a0fd9cf045_D_Db-gJzU.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1702-1714032611_662a0fe350d07_DkDzgXce6m.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1702-1714032618_662a0feacb52e_ahQA50IDth.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1703,
-//         name: 'Moto Care SADDLE STAY FOR TVS APACHE RTR 200',
-//         price: 2400,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1703-1714032372_662a0ef4e3dbb_rJ0sK9a8cF.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1703-1714032372_662a0ef4e3dbb_rJ0sK9a8cF.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1703-1714032379_662a0efb6228a_3B4Yh_te9.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1703-1714032388_662a0f044acb2_beSE8h-SJ.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1703-1714032394_662a0f0a6a8d6_5R7NkTm_i.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1704,
-//         name: 'Moto Care TYPE 1 - 4 SLIDER CRASH GUARD FOR TVS APACHE RTR 200',
-//         price: 4480,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1704-1714031432_662a0b4894137_1abFNxqHm.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1704-1714031432_662a0b4894137_1abFNxqHm.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1704-1714031439_662a0b4fb90a4_YT8HUYJymL.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1704-1714031446_662a0b5618dea_E-Oj65HN5.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1704-1714031452_662a0b5cf1fc5_1DCrCT2uT.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1705,
-//         name: 'Moto Care TYPE 2 - 4 SLIDER CRASH GUARD FOR TVS APACHE RTR 200',
-//         price: 3840,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1705-1713605238_66238a769a8c9_IQbkDDxEa.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1705-1713605238_66238a769a8c9_IQbkDDxEa.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1705-1713605244_66238a7cb90c3_WW-SvLJa4.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1705-1713605252_66238a842b03d_hpI3g3oz_.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1705-1713605258_66238a8a990ad_z6oudH5pP.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },
-//     {
-//         id: 1706,
-//         name: 'Moto Care SADDLE STAY WITH PLATE FOR TVS APACHE RTR 160',
-//         price: 2400,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1706-1759838566_68e501669f014_qcNFOhL2so.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1706-1759838566_68e501669f014_qcNFOhL2so.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1706-1759838573_68e5016d2433d_0g0d2WyWl.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1706-1759838578_68e501729d313_xr-wJoLrn.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1706-1759838586_68e5017a111ce_T1G7nKMYW.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1707,
-//         name: 'Moto Care 4 SLIDER CRASH GUARD FOR TVS APACHE RTR 160',
-//         price: 3840,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1707-1714034894_662a18ced2f8c_DVRw1pzOJ.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1707-1714034894_662a18ced2f8c_DVRw1pzOJ.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1707-1714034902_662a18d63b305_bFS3b9Bs1.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1707-1714034913_662a18e168255_Vg0TlUY-v.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1707-1714034922_662a18ea56e93_rhZJ-SgRB.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1708,
-//         name: 'Moto Care PIPE CARRIER FOR TVS APACHE RTR 160',
-//         price: 1760,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1708-1714034793_662a186922b88_FkIOnoMoV.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1708-1714034793_662a186922b88_FkIOnoMoV.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1708-1714034800_662a1870786ba_d2IBUhIGL.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1708-1714034807_662a1877e5e7b_tevzL6XIw.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1708-1714034814_662a187ed4ebe_Dv3X6PPDl.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1709,
-//         name: 'Moto Care PIPE CARRIER WITH BACKREST FOR TVS APACHE RTR 160',
-//         price: 2800,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1709-1714034392_662a16d808705_sJ9ELeXU1.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1709-1714034392_662a16d808705_sJ9ELeXU1.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1709-1714034403_662a16e376591_oGVI-U7DK.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1709-1714034410_662a16ea88a45_zDdutiKyJ.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1709-1714034417_662a16f1becb5_bKc5uoq7p.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1710,
-//         name: 'Moto Care SADDLE STAY FOR TVS APACHE RTR 160',
-//         price: 1680,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1710-1714034224_662a163033502_RmWDwe6dNy.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1710-1714034224_662a163033502_RmWDwe6dNy.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1710-1714034231_662a163788329_eh216_OSg.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1710-1714034247_662a1647552f6_JFLWOqRAa.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1710-1714034253_662a164d6a089_VNkujP1as.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },
-//     {
-//         id: 1711,
-//         name: 'Moto Care UPPER LOWER CRASH GUARD (RED) FOR TVS APACHE RTX 300',
-//         price: 5600,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1711-1775916838_69da572607b40_EJCCuaCJb.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1711-1775916838_69da572607b40_EJCCuaCJb.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1711-1775916847_69da572f06687_f_agbs52C.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1711-1775916854_69da57361ae28_gRCYRelhE.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1711-1775916863_69da573f30720_zNwJjgDyZ.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1712,
-//         name: 'Moto Care UPPER LOWER CRASH GUARD (WHITE) FOR TVS APACHE RTX 300',
-//         price: 5600,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1712-1775916726_69da56b628996_C-E0aAsrP.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1712-1775916726_69da56b628996_C-E0aAsrP.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1712-1775916734_69da56bef3b79_v9uEgPSo8.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1712-1775916742_69da56c641a23_-NUtA2TEX.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1712-1775916748_69da56cc2beea_BNw1CQONz.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1713,
-//         name: 'Moto Care SUM GUARD FOR TVS APACHE RTX 300',
-//         price: 1600,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1713-1775916438_69da5596e0b5d_9UKBs8Phk.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1713-1775916438_69da5596e0b5d_9UKBs8Phk.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1713-1775916446_69da559eabfc9_Ee2Mg0kFK.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1713-1775916452_69da55a46fd0b_JxUsUKzm_.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1713-1775916460_69da55ac0b19d_CtvSzM7jk.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1714,
-//         name: 'Moto Care CHAIN GUARD FOR TVS APACHE RTX 300',
-//         price: 1040,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1714-1775915957_69da53b54d4cf_iti-V9HQt.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1714-1775915957_69da53b54d4cf_iti-V9HQt.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1714-1775915963_69da53bbee63d_3f_qmvSyB.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1714-1775915970_69da53c2b8868_sE_Qf8xis.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1714-1775915976_69da53c834835_8PX3Iw0RP.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1715,
-//         name: 'Moto Care PIPE CARRIER FOR TVS APACHE RTX 300',
-//         price: 3040,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1715-1774354937_69c281f94a79c_Edhjd78m2.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1715-1774354937_69c281f94a79c_Edhjd78m2.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1715-1774354945_69c2820189fc1_5e4yjqJUSC.jpg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1715-1774354954_69c2820a17392_1XG8Djk5F.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1715-1774354962_69c2821230e34_bcnWMZw-3.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1716,
-//         name: 'Moto Care PIPE CARRIER WITH BACKREST FOR TVS APACHE RTX 300',
-//         price: 4080,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1716-1774354806_69c28176d6e6a_df3z8JZwN.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1716-1774354806_69c28176d6e6a_df3z8JZwN.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1716-1774354815_69c2817fa2f76_wYrJr_zcz.jpg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1716-1774354824_69c281888e715_ZBa3reGVJ.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1716-1774354831_69c2818f8ccf4_subg8D2S7.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1717,
-//         name: 'Moto Care GPS MOUNT FOR TVS APACHE RTX 300',
-//         price: 1360,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1717-1772786624_69aa93c0c7b1f_g8kfaZVCr.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1717-1772786624_69aa93c0c7b1f_g8kfaZVCr.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1717-1772786734_69aa942e83a5b_EuELpQZaK.jpg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1717-1772786747_69aa943b7529d_ZPVZ1NyLg.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1717-1772786753_69aa9441d5d94_gOZ5fCufB.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1718,
-//         name: 'Moto Care RADIATOR GUARD FOR TVS APACHE RTX 300',
-//         price: 1280,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1718-1772786477_69aa932daa80b_XFsHUKRGX.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1718-1772786477_69aa932daa80b_XFsHUKRGX.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1718-1772786514_69aa93523301d_gq7Jf0ajV.jpg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1718-1772786522_69aa935a4f985_5512HLO6f.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1718-1772786528_69aa9360a3cc6_E60IgaoN7.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1719,
-//         name: 'Moto Care STAND EXTENDER FOR TVS APACHE RTX 300',
-//         price: 560,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1719-1772786359_69aa92b74c97a_xDeGZsiD5L.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1719-1772786359_69aa92b74c97a_xDeGZsiD5L.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1719-1772786367_69aa92bfef47c_ztwKd-p-S.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1719-1772786373_69aa92c5c8604_TAMWIo9Ta.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1719-1772786382_69aa92ce9b75c_Msn3Igz9L.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1720,
-//         name: 'Moto Care UPPER LOWER CRASH GUARD FOR TVS APACHE RTX 300',
-//         price: 5600,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1720-1771414341_6995a345ae545_jy_FzhoAY.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1720-1771414341_6995a345ae545_jy_FzhoAY.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1720-1771414401_6995a3810bea9_Df-07xR6G.jpg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1720-1771414413_6995a38da3968_BVcRWZZpv.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1720-1771414422_6995a3964f659_rze9E9aUS.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },{
-//         id: 1721,
-//         name: 'Moto Care SADDLE STAY WITH PLATE FOR TVS APACHE RTX 300',
-//         price: 3200,
-//         discount: 0,
-//         image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1721-1771413436_69959fbcc31cb_HEsmTJ4YO.png',
-//         galleryImages: [
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1721-1771413436_69959fbcc31cb_HEsmTJ4YO.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1721-1771413673_6995a0a9bb421_8xLDSvVaMk.jpg',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1721-1771413686_6995a0b6e8a68_q5ndDdPmi.png',
-//             'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1721-1771413695_6995a0bfa3bcf_3FoYBp19c.png'
-//         ],
-//         category: 'Performance Parts',
-//         subcategory: '',
-//         brand: 'Moto Care',
-//         rating: 5,
-//         reviews: 234,
-//         isNew: true,
-//         bikes: ['TVS'],
-//         description: 'Improve Performance with Moto Care Parts',
-//         specifications: {
-//             'Material': 'Hard Plastic',
-//             'Sound': 'okay',
-//             'Compatibility': 'TVS',
-//             'Warranty': '1 year'
-//         }
-//     },
+    {
+        id: 1506,
+        name: 'Moto Care 4 SLIDER CRASH GUARD FOR BAJAJ PULSAR NS200 - RED',
+        price: 4640,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1506-1706270668_65b39fcc01f86_JYwp2i2Gv.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1506-1706270668_65b39fcc01f86_JYwp2i2Gv.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1506-1706270675_65b39fd32b8d4_OO3Z1MC1u.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1506-1706270682_65b39fda15424_WkSzadTTi.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1506-1706270689_65b39fe130191_dQQ4a-eW2.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1507,
+        name: 'Moto Care 4 SLIDER CRASH GUARD FOR BAJAJ PULSAR NS200 - GREEN',
+        price: 4640,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1507-1706270516_65b39f3476e14_XYS-BD8jqW.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1507-1706270516_65b39f3476e14_XYS-BD8jqW.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1507-1706270524_65b39f3ce852b_dHHE3Wfqeq.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1507-1706270532_65b39f44d9947_IigCfuGFUJ.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1507-1706270538_65b39f4a87f30_Nr9GpDgbdk.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1508,
+        name: 'Moto Care CNC CARRIER PLATE WITH BACKREST FOR BAJAJ PULSAR NS200',
+        price: 2560,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1508-1706270347_65b39e8bf4022_BY0ItIzql.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1508-1706270347_65b39e8bf4022_BY0ItIzql.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1508-1706270354_65b39e92d5cbc_25uFdLg3o.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1508-1706270366_65b39e9ee9796_dKqwUCnWZ.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1509,
+        name: 'Moto Care CNC CARRIER PLATE FOR BAJAJ PULSAR NS200',
+        price: 1520,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1509-1706269920_65b39ce0004cf_WripM7qHD.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1509-1706269920_65b39ce0004cf_WripM7qHD.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1509-1706269940_65b39cf45c984_PcQ8EhHB7.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1509-1706269948_65b39cfc25c16_e8YlO3mPh2.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1509-1706269958_65b39d06b86e0_yJ7gczMcG.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1510,
+        name: 'Moto Care 4 SLIDER CRASH GUARD FOR BAJAJ PULSAR NS200 - BLACK',
+        price: 3840,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1510-1706269735_65b39c274c7af_cQzgxZm3XP.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1510-1706269735_65b39c274c7af_cQzgxZm3XP.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1510-1706269742_65b39c2e4e263_i2M1OPynH5.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1510-1706269748_65b39c3488af1_8SbPe2OmP.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1510-1706269754_65b39c3a84b54_7X7TOd14q.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 1511,
+        name: 'Moto Care FRAME SLIDERS FOR BAJAJ PULSAR RS 200',
+        price: 1920,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1511-1739943568_67b56e9057e0c_KQid5xPg8.jpg',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1511-1739943568_67b56e9057e0c_KQid5xPg8.jpg',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1511-1739943577_67b56e99a401f_kk0xOOt7t.jpg'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1512,
+        name: 'Moto Care CRASH GUARD FOR BAJAJ PULSAR RS 200',
+        price: 4160,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1512-1739943332_67b56da4714d1_hPDimkenyo.jpg',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1512-1739943332_67b56da4714d1_hPDimkenyo.jpg'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 1513,
+        name: 'Moto Care TYPE 2 - TYRE HUGGER FOR BAJAJ DOMINAR 250/400',
+        price: 1600,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1513-1769168437_69735e359d6bf_tbJ-dlrJQ.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1513-1769168437_69735e359d6bf_tbJ-dlrJQ.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1513-1769168444_69735e3c2eded_V-jUGCjEN.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1513-1769168454_69735e461107f_YRJle49wOb.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1513-1769168462_69735e4e3428b_aL3yVppAQ.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1514,
+        name: 'Moto Care HANDLE RISER FOR BAJAJ DOMINAR 400',
+        price: 560,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1514-1739954327_67b5989750e5f_1Vc7U3BxI7.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1514-1739954327_67b5989750e5f_1Vc7U3BxI7.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1515,
+        name: 'Moto Care CNC STAND EXTENDER FOR BAJAJ DOMINAR 400',
+        price: 1360,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1515-1739954222_67b5982e61971__GYh_gUm0q.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1515-1739954222_67b5982e61971__GYh_gUm0q.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1516,
+        name: 'Moto Care SADDLE STAY WITH PLATE CARRIER AND BACKREST FOR BAJAJ DOMINAR 250/400',
+        price: 6000,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1516-1717779387_66633bbb45dd2_pklE5uEBZ.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1516-1717779387_66633bbb45dd2_pklE5uEBZ.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1516-1717779396_66633bc46f82f_GLEOtNWIAO.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1516-1717779413_66633bd538c86_jmZEclBHf.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1516-1717779421_66633bdd29150_uTNTLl_Gi.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1517,
+        name: 'Moto Care SADDLE STAY WITH PLATE AND CARRIER FOR BAJAJ DOMINAR 250/400',
+        price: 4960,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1517-1717778972_66633a1c4d338_YXAA0lepR.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1517-1717778972_66633a1c4d338_YXAA0lepR.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1517-1717778980_66633a24a94c3_E5lcqM44U.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1517-1717778991_66633a2ff17eb_yIldEgj42P.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1517-1717778999_66633a378cd76_M6qR1q9MG.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1518,
+        name: 'Moto Care TYPE 2 - SADDLE STAY WITH PLATE FOR BAJAJ DOMINAR 250/400',
+        price: 2400,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1518-1717777129_666332e9bd948_ExweAf-5to.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1518-1717777129_666332e9bd948_ExweAf-5to.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1518-1717777140_666332f427780_Te9yn-idy.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1518-1717777149_666332fd76d48_AXFH-UtYL.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1518-1717777167_6663330f16f85_Mjfkqozmr.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1519,
+        name: 'Moto Care TYPE 1 - SADDLE STAY WITH PLATE FOR BAJAJ DOMINAR 250/400',
+        price: 2400,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1519-1717776893_666331fddfe23_6gKaDe-e6I.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1519-1717776893_666331fddfe23_6gKaDe-e6I.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1519-1717776904_6663320835b2c_771bK_K1F.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1519-1717776915_666332138e67a_GZoLmuiJA.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1519-1717776924_6663321c5ce0c_2JMXZhE-x.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1520,
+        name: 'Moto Care NUMBER PLATE HOLDER FOR BAJAJ DOMINAR 250/400',
+        price: 1120,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1520-1760774504_68f349688306d_Cqoj38kjW.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1520-1760774504_68f349688306d_Cqoj38kjW.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1520-1760774510_68f3496ef14a5_C0_D5qilu.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1520-1760774517_68f349751010f_mnUah2KCI.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1520-1760774525_68f3497d053b7_KQYAgLutc.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1521,
+        name: 'Moto Care PLATE CARRIER FOR BAJAJ DOMINAR 250/400',
+        price: 2560,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1521-1714464891_6630a87b2b074_BMdUgA_EM.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1521-1714464891_6630a87b2b074_BMdUgA_EM.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1521-1714464900_6630a884eeb1a_1HpB1A8bc.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1521-1714464909_6630a88d7d07b_b6jz4wxRh.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1521-1714464917_6630a8952c361_StpaogZ5_.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1522,
+        name: 'Moto Care PLATE CARRIER WITH BACKREST FOR BAJAJ DOMINAR 250/400',
+        price: 3600,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1522-1714464752_6630a7f05780d_ZVPOqHGE6.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1522-1714464752_6630a7f05780d_ZVPOqHGE6.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1522-1714464764_6630a7fcbfbc3_7SrHDq1bik.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1522-1714464776_6630a808af01d_BbutRepiv.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1522-1714464786_6630a812b07a6_hYCR64uqFw.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1523,
+        name: 'Moto Care TYPE 2 - CRASH GUARD WITH DUAL SLIDERS FOR BAJAJ DOMINAR 250/400',
+        price: 4160,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1523-1714464631_6630a77777708_dfQ9TmbfPB.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1523-1714464631_6630a77777708_dfQ9TmbfPB.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1523-1714464638_6630a77ec775a_-0E1lFpNG.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1523-1743166156_67e69acc475a6_D9LvIsa62.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1523-1743166163_67e69ad32b12c_H2MHmorDq.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1524,
+        name: 'Moto Care FOOTREST FOR BAJAJ DOMINAR 400',
+        price: 1280,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1524-1709986134_65ec51568564d_yVVirSIKFN.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1524-1709986134_65ec51568564d_yVVirSIKFN.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1524-1709986144_65ec516082e23_jdYydJG8s.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1524-1709986152_65ec516838628_T2Mc8ALi9.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1525,
+        name: 'Moto Care RESERVOIR OIL CAP FOR BAJAJ DOMINAR 400',
+        price: 400,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1525-1707044077_65bf6ced9095b_6XAiJiOW3.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1525-1707044077_65bf6ced9095b_6XAiJiOW3.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1525-1707044082_65bf6cf2b7165_IbG6hF0IO.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1525-1707044088_65bf6cf8bb58e_-3_fhDa1E.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1525-1707044095_65bf6cff78f49_GzRKEplVw.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1526,
+        name: 'Moto Care STAND EXTENDER FOR BAJAJ DOMINAR 400',
+        price: 400,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1526-1707043789_65bf6bcd021a6_jo_hs6Htw.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1526-1707043789_65bf6bcd021a6_jo_hs6Htw.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1526-1707043794_65bf6bd2d8fc4_jaKLkndxS.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1526-1707043800_65bf6bd8b955f_B7i_NVPCN.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1527,
+        name: 'Moto Care SADDLE STAY WITHOUT PLATE FOR BAJAJ DOMINAR 400',
+        price: 1680,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1527-1707043635_65bf6b339c0a6_5umsOb96K.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1527-1707043635_65bf6b339c0a6_5umsOb96K.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1527-1707043643_65bf6b3b56b7d_ppU-0PIvq.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1527-1707043649_65bf6b41045a7_aA3cqH44O.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1528,
+        name: 'Moto Care RADIATOR GUARD FOR BAJAJ DOMINAR 400',
+        price: 560,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1528-1707038024_65bf554884fcf_bCNZjNsl5.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1528-1707038024_65bf554884fcf_bCNZjNsl5.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1528-1707038031_65bf554f18730_LepBKjCvx.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1529,
+        name: 'Moto Care PIPE CARRIER WITH PLATE AND BACKREST FOR BAJAJ DOMINAR 400',
+        price: 3600,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1529-1707037798_65bf5466b636e_RByOci1Y-.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1529-1707037798_65bf5466b636e_RByOci1Y-.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1529-1707037807_65bf546f24ff5_ehK695mpX.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1529-1707037812_65bf5474b68e9_t3UaekXVP.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1529-1707037818_65bf547a4f55a_vdr1aTlV-.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1530,
+        name: 'Moto Care PIPE CARRIER FOR BAJAJ DOMINAR 400',
+        price: 1760,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1530-1707037393_65bf52d1538a3_ROSYwbGk2.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1530-1707037393_65bf52d1538a3_ROSYwbGk2.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1530-1707037408_65bf52e037b3c_0RNz2tixUg.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1530-1707037414_65bf52e65a703_9W0drjUC-G.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1530-1707037420_65bf52ec1da14_gbo0M0z3p-.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1531,
+        name: 'Moto Care HEADLIGHT GRILL FOR BAJAJ DOMINAR 400',
+        price: 1200,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1531-1707037260_65bf524c11dc2_s1vqXEiwkl.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1531-1707037260_65bf524c11dc2_s1vqXEiwkl.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1531-1707037265_65bf525160f79_kmffcMcO1.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1532,
+        name: 'Moto Care GPS MOUNT FOR BAJAJ DOMINAR 400',
+        price: 640,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1532-1707037093_65bf51a561ed9_dEaGLkDoV.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1532-1707037093_65bf51a561ed9_dEaGLkDoV.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1532-1707037100_65bf51ace8841_27Qc_84xU.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1532-1707037107_65bf51b3b38b3_IDAjINd49.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1533,
+        name: 'Moto Care DISC OIL CAP FOR BAJAJ DOMINAR 400',
+        price: 160,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1533-1707036146_65bf4df255706_G6l-7jW8C.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1533-1707036146_65bf4df255706_G6l-7jW8C.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1533-1707036156_65bf4dfc8861f_RZg8I0q1Y.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1533-1707036164_65bf4e042f2db_rSsJu9Yxog.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1533-1707036171_65bf4e0b3944a_QJXtrSwVgi.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1534,
+        name: 'Moto Care CNC CARRIER PLATE FOR BAJAJ DOMINAR 400',
+        price: 2560,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1534-1707035190_65bf4a369c42c_hVH3IHkGY7.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1534-1707035190_65bf4a369c42c_hVH3IHkGY7.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1534-1707035197_65bf4a3d0214c_7HOPtOZOOO.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1534-1707035203_65bf4a43d79ac_gyAXAzje6.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1535,
+        name: 'Moto Care 4 SLIDER CRASH GUARD FOR BAJAJ DOMINAR 400',
+        price: 4160,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1535-1707035009_65bf4981f163e_icoq15-lW.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1535-1707035009_65bf4981f163e_icoq15-lW.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1535-1707035016_65bf49881378e_mp9MXufXEc.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1535-1707035022_65bf498e39628_yvQbJ1R_V.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1535-1707035027_65bf4993aff55_Vfx-PIg4lm.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 1536,
+        name: 'Moto Care DUAL FOOTREST FOR BAJAJ PULSAR N160/ F250',
+        price: 1280,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1536-1778160566_69fc93b64c493_kR6VouB_ry.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1536-1778160566_69fc93b64c493_kR6VouB_ry.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1536-1778160597_69fc93d5a4bcc_F8YjeOdhF.jpeg',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1536-1778160606_69fc93de1fc40_3xKgTbV7i.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1536-1778160613_69fc93e5077e6_jKuFIW8Vx.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 1537,
+        name: 'Moto Care NUMBER PLATE CLAMP FOR BAJAJ PULSAR N160/ F250',
+        price: 1120,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1537-1757154390_68bc0c5659454_xxhjwYNuIP.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1537-1757154390_68bc0c5659454_xxhjwYNuIP.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1537-1757154398_68bc0c5e0bbcc_drf46eL_Pu.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1537-1757154405_68bc0c6588eed_bqjbNfjvV.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1538,
+        name: 'Moto Care FULL HANDLE KIT FOR BAJAJ PULSAR N160/F250',
+        price: 2240,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1538-1739949706_67b5868a6b75d_E4u72U6xXG.jpg',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1538-1739949706_67b5868a6b75d_E4u72U6xXG.jpg',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1538-1739949713_67b586919dce4_tQcN4Ezg6S.jpg'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1539,
+        name: 'Moto Care HANDLE KIT FOR BAJAJ PULSAR N160/F250',
+        price: 1280,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1539-1739949602_67b58622e3615_86aH00y4l.jpg',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1539-1739949602_67b58622e3615_86aH00y4l.jpg'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1540,
+        name: 'Moto Care SADDLE STAY FOR BAJAJ PULSAR N160/ F250',
+        price: 2400,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1540-1709980428_65ec3b0c1b684_o3hvs2uJ_.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1540-1709980428_65ec3b0c1b684_o3hvs2uJ_.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1541,
+        name: 'Moto Care RESERVOIR OIL CAP FOR BAJAJ PULSAR N160/ F250',
+        price: 400,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1541-1709969156_65ec0f04aad62_IWs7Fq2lV.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1541-1709969156_65ec0f04aad62_IWs7Fq2lV.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1541-1709969166_65ec0f0ee4c92_cQ-wIV3vyE.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1541-1709969175_65ec0f17cf58e_tfwJTHDASf.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1542,
+        name: 'Moto Care DISC OIL CAP FOR BAJAJ PULSAR N160/ F250',
+        price: 200,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1542-1709968836_65ec0dc41b5c2_YAC3x40fm.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1542-1709968836_65ec0dc41b5c2_YAC3x40fm.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1542-1709968845_65ec0dcdd36bb_JAhmY_Q53.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1542-1709968859_65ec0ddbecc32_qtFirH8bM.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1542-1709968871_65ec0de76ff98_2hXIGaYwb.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1543,
+        name: 'Moto Care CNC CARRIER PLATE WITH BACKREST FOR BAJAJ PULSAR N160/ F250',
+        price: 2960,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1543-1709968066_65ec0ac2324ad_MAXNslbwZ.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1543-1709968066_65ec0ac2324ad_MAXNslbwZ.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1543-1709968077_65ec0acd9d0e2_HUWp7ZR-hH.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1543-1709968097_65ec0ae1628b2_Io0oLds6qb.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1543-1709968107_65ec0aeb71cc9_2SMb3pPF0.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1544,
+        name: 'Moto Care CNC CARRIER PLATE FOR BAJAJ PULSAR N160/ F250',
+        price: 1920,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1544-1709967849_65ec09e9a9dfa_jJ-rvU2-U.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1544-1709967849_65ec09e9a9dfa_jJ-rvU2-U.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1544-1709967862_65ec09f6ef28c_Ivs6MtAkj.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1544-1709967880_65ec0a081bb18_1UeORadtw.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1544-1709967891_65ec0a1352b8c_1gOxqcxGk.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1545,
+        name: 'Moto Care 4 SLIDER CRASH GUARD FOR BAJAJ PULSAR N160/ F250',
+        price: 4160,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1545-1706872656_65bccf504c760_XEfAdACZ7.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1545-1706872656_65bccf504c760_XEfAdACZ7.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1545-1706872662_65bccf56c44ea_oJ-mFlYqZ.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1545-1706872668_65bccf5ccf18a_SzvTPOxFT.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1545-1706872678_65bccf66cbf3e_Rk8D3rvtH.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 1546,
+        name: 'Moto Care RESERVOIR OIL CAP BLACK FOR BAJAJ NS400Z',
+        price: 400,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1546-1739876840_67b469e810668_wIevACkBu.jpg',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1546-1739876840_67b469e810668_wIevACkBu.jpg',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1546-1739876848_67b469f01c0a2_FT1ANtEcC.jpg',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1546-1739876855_67b469f74d6f2_oRAgvbbbO.jpg'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1547,
+        name: 'Moto Care CRASH GUARD SMALL FOR BAJAJ PULSAR NS400Z',
+        price: 3040,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1547-1724406767_66c85befdebfd_fFnH9Vcsc.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1547-1724406767_66c85befdebfd_fFnH9Vcsc.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1547-1724406835_66c85c331d2e7_Gc0T7O3Qr.JPG',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1547-1724406848_66c85c4095107_Jze-8q9N9b.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1547-1724406862_66c85c4ed788f_0nH6fmXE1.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1548,
+        name: 'Moto Care SADDLE STAY FOR BAJAJ PULSAR NS400Z',
+        price: 2400,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1548-1723804865_66bf2cc1db9ea_2Ton9rWgo.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1548-1723804865_66bf2cc1db9ea_2Ton9rWgo.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1548-1723804998_66bf2d46eb570_R6xkK_N6O.JPG',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1548-1723805028_66bf2d648f1ca_iexURhMUx.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1548-1723805073_66bf2d912503b_ZceL3JKtAh.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1549,
+        name: 'Moto Care STAND EXTENDER FOR BAJAJ NS400Z',
+        price: 400,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1549-1723641176_66bcad58c1db6_UJ1LiI3Nr.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1549-1723641176_66bcad58c1db6_UJ1LiI3Nr.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1549-1723641218_66bcad82a9899_nG1uBw9RO.JPG',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1549-1723641229_66bcad8db63fa_fid5giIDPp.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1549-1723641238_66bcad9669af0_TTa-Sa1bz.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1550,
+        name: 'Moto Care CNC CARRIER PLATE WITH BACKREST FOR BAJAJ NS400Z',
+        price: 3600,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1550-1723640819_66bcabf3d2c50_wK2fcVwZE.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1550-1723640819_66bcabf3d2c50_wK2fcVwZE.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1550-1723640920_66bcac58795ed__kUZcYqZh.JPG',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1550-1723640935_66bcac67abf51_bscHaZ-xfL.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1550-1723640950_66bcac7695d78_7gMi66mJB.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1551,
+        name: 'Moto Care CNC CARRIER FOR BAJAJ PULSAR NS400Z',
+        price: 2560,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1551-1723640505_66bcaab9205ae_7yB-fIkcx.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1551-1723640505_66bcaab9205ae_7yB-fIkcx.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1551-1723640569_66bcaaf99c92c_AkKJ1KPzP.JPG',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1551-1723640581_66bcab055a237_LfBCsRDfnd.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1551-1723640594_66bcab121f5c2_6m12dSRuJ.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1552,
+        name: 'Moto Care CRASH GUARD WITH PLATE FOR BAJAJ PULSAR NS400Z',
+        price: 4160,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1552-1723639756_66bca7cca087a_vzsdnmtXN.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1552-1723639756_66bca7cca087a_vzsdnmtXN.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1552-1723639805_66bca7fdeb812_KYYNQUoBPe.JPG',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1552-1723639816_66bca808af392_t2I6rxNnM.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1552-1723639825_66bca8111b471_lNY8nIWH2.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['BAJAJ'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'BAJAJ',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 1553,
+        name: 'Moto Care SADDLE STAY WITH PLATE FOR HONDA CB300F',
+        price: 2400,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1553-1708170986_65d09eea33257_iy7Q1vwjS.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1553-1708170986_65d09eea33257_iy7Q1vwjS.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1553-1708170997_65d09ef5af181_BQIGZ2f1c.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1553-1708171011_65d09f036ef86_sv7sDBUpan.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1553-1708171022_65d09f0eea38d_e24C_vLrz.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },
+     {
+        id: 1554,
+        name: 'Moto Care PIPE CARRIER FOR HONDA CB300F',
+        price: 2880,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1554-1708169614_65d0998ed568f_16-Sv88_GM.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1554-1708169614_65d0998ed568f_16-Sv88_GM.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1554-1708169639_65d099a7579ff_-o8nsCbg-.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1554-1708169715_65d099f345a94_jjv-l0O5g.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1554-1708169749_65d09a1536ac0_DjDCjYLlLd.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1555,
+        name: 'Moto Care CARRIER WITH BACKREST FOR HONDA CB300F',
+        price: 3920,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1555-1708169206_65d097f63ca56_ZsQ5I_g3D.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1555-1708169206_65d097f63ca56_ZsQ5I_g3D.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1555-1708169248_65d098208f169_Zv07f5zlHO.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1555-1708169272_65d09838ba9e1_y43XxzG7oc.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1556,
+        name: 'Moto Care 4 SLIDER CRASH GUARD FOR HONDA CB 300F',
+        price: 4480,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1556-1707049417_65bf81c9b75fe_J2kyeUWzOS.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1556-1707049417_65bf81c9b75fe_J2kyeUWzOS.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1556-1707049426_65bf81d2c0cf1_ficjpWwu4.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1556-1707049431_65bf81d7f18e4_6A7iuf1wJ.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1556-1707049438_65bf81de47595_TW2ZVLNgEF.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 1557,
+        name: 'Moto Care POLYCARBONATE VISOR FOR HONDA CB 350 RS',
+        price: 2240,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1557-1737634134_679231563ce7f_AXtOZX-dq.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1557-1737634134_679231563ce7f_AXtOZX-dq.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1557-1737634154_6792316a54e57_FwJqS0od8.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1557-1737634166_6792317643bb4_SoGe-l9M37.jpg',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1557-1737634126_6792314e7365c_6f_ePKHMN.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1558,
+        name: 'Moto Care SEAT RING FOR HONDA CB 350 RS',
+        price: 800,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1558-1737613682_6791e1726ab70_6er-r8Ln5.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1558-1737613682_6791e1726ab70_6er-r8Ln5.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1558-1737613689_6791e179b5e99_mtC_PCSQh.jpg',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1558-1737613698_6791e18213ed7_l9t80NG3M.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1558-1737613705_6791e18919bc2_n1r-6nVFN.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1559,
+        name: 'Moto Care FOOTREST FOR HONDA CB 350 RS',
+        price: 1440,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1559-1709984164_65ec49a4f120d_u_x_2FmgK.jpeg',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1559-1709984164_65ec49a4f120d_u_x_2FmgK.jpeg'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1560,
+        name: 'Moto Care SUM GUARD FOR HONDA CB350 RS',
+        price: 1600,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1560-1708256573_65d1ed3da3fbd_1otcJSq1O.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1560-1708256573_65d1ed3da3fbd_1otcJSq1O.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1560-1708256579_65d1ed430a93c_gmW0uB_TM.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1560-1708256584_65d1ed48d7284_yn5gcmCi7.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1560-1708256590_65d1ed4ebbb8c_fkHl7-6Fn.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1561,
+        name: 'Moto Care HANDLE BAR RISER FOR HONDA CB350 RS',
+        price: 1680,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1561-1708256261_65d1ec05105d1_BH44s7NSr.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1561-1708256261_65d1ec05105d1_BH44s7NSr.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1561-1708256380_65d1ec7c23f51_xoOxQs8YO.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1561-1708256384_65d1ec807cbc9_JW2C2m6mZ.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1562,
+        name: 'Moto Care CNC CARRIER WITH PLATE AND BACKREST FOR HONDA CB350 RS',
+        price: 3920,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1562-1773490880_69b552c0c658b_LEevHBKKc6.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1562-1773490880_69b552c0c658b_LEevHBKKc6.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1562-1773490886_69b552c6e9281_DT9-C8O71R.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1563,
+        name: 'Moto Care CNC CARRIER PLATE FOR HONDA CB350 RS',
+        price: 2560,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1563-1773490938_69b552fae4f94_t9bVtU0XNY.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1563-1773490938_69b552fae4f94_t9bVtU0XNY.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1563-1773490949_69b55305a8f86_mSjN4HQXX.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1563-1773490955_69b5530b1ec49_JWq_s7xZe.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1564,
+        name: 'Moto Care CNC BACKREST FOR HONDA CB350 RS',
+        price: 1920,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1564-1708255034_65d1e73ac99f2_AiLO7MdSY.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1564-1708255034_65d1e73ac99f2_AiLO7MdSY.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1564-1708255040_65d1e7400c7b5_j-wStepER.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1564-1708255046_65d1e7468f16a_rVGfvrdx09.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1564-1708255052_65d1e74cc0999_MRBGw1IoA8.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1565,
+        name: 'Moto Care BACKREST FOR HONDA CB350 RS',
+        price: 1920,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1565-1708254831_65d1e66f9ad72_67BvSGVp5.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1565-1708254831_65d1e66f9ad72_67BvSGVp5.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1565-1708254837_65d1e675768ee_VbyWJheye.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1565-1708254841_65d1e679e2eb3_pwqamykMX.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1566,
+        name: 'Moto Care 4 SLIDER CRASH GUARD FOR HONDA CB350 RS',
+        price: 4160,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1566-1708254523_65d1e53b003d1_YzYRsQOlOZ.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1566-1708254523_65d1e53b003d1_YzYRsQOlOZ.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1566-1708254529_65d1e541ddd3b_voQnNrYqw.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1566-1708254539_65d1e54b002bb_Ij_qSK99Z.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1566-1708254549_65d1e55569e6a_hujGqI86p.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 1567,
+        name: 'Moto Care GPS MOUNT FOR HONDA HNESS CB 350',
+        price: 720,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1567-1746954753_68206a012e8fe_H5WAJqVnE2.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1567-1746954753_68206a012e8fe_H5WAJqVnE2.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1567-1746954761_68206a0952123_e8uWh6Hl8.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1567-1746954769_68206a11e56d7_78ZgXR-nyV.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1567-1746954779_68206a1b633c0_P0cJEPbD5.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },
+     {
+        id: 1568,
+        name: 'Moto Care TYRE HUGGER FOR HONDA HNESS CB 350',
+        price: 1600,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1568-1773491585_69b555811bfb9_wpmMnY2y3.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1568-1773491585_69b555811bfb9_wpmMnY2y3.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1568-1773491593_69b55589096c0_M9FWS5xDi.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1568-1773491599_69b5558f66ea7_Jn8HZNV3mR.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1568-1773491607_69b555978352e_OML6E8DIMU.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1569,
+        name: 'Moto Care SADDLE STAY WITH PLATE FOR HONDA HNESS CB 350',
+        price: 2400,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1569-1773491513_69b555390348c_HEG1AWw6f.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1569-1773491513_69b555390348c_HEG1AWw6f.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1569-1773491519_69b5553fa4c89_rZsp1TegK.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1569-1773491528_69b5554810397_DGcpWMLni7.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1569-1773491535_69b5554f517f9_o20Xi3ry7.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1570,
+        name: 'Moto Care METAL VISOR FOR HONDA HNESS CB 350',
+        price: 1040,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1570-1739430451_67ad9a33854e9_crFqDWeIM3.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1570-1739430451_67ad9a33854e9_crFqDWeIM3.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1570-1739430472_67ad9a484698b_Kdkp_Rrmn.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1570-1739430511_67ad9a6f2a6b1_kim65FgMo.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1570-1739430541_67ad9a8d428c4_Y_soewMTjO.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1571,
+        name: 'Moto Care POLYCARBONATE VISOR FOR HONDA HNESS CB 350',
+        price: 2240,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1571-1737633868_6792304c3870b_nG2ctrfd0.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1571-1737633868_6792304c3870b_nG2ctrfd0.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1571-1737633882_6792305a8de61_CjiuDtmp8t.jpg',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1571-1737633890_679230629dca7_jljv5QhUD.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1571-1737633898_6792306a1c59d_U3VEBQ5AVK.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1572,
+        name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR HONDA HNESS CB 350',
+        price: 3840,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1572-1714060572_662a7d1cda8dc_CnDSKbinE.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1572-1714060572_662a7d1cda8dc_CnDSKbinE.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1572-1714060585_662a7d2987f98_jnSSX6N5O.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1572-1714060598_662a7d3684540_PWLelRGy-E.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1572-1714060613_662a7d4563183_WuHUSBJBSJ.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1573,
+        name: 'Moto Care SUM GUARD FOR HONDA HNESS CB 350',
+        price: 1600,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1573-1708252788_65d1de741a1c9_gs_TTpD5L.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1573-1708252788_65d1de741a1c9_gs_TTpD5L.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1573-1708252793_65d1de7951d18_82n4w0lim.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1573-1708252804_65d1de84a5e4e_UmFkHJS1a.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1573-1708252810_65d1de8aae70b_3d-WinUHNF.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1574,
+        name: 'Moto Care SADDLE STAY FOR HONDA H NESS CB 350',
+        price: 1680,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1574-1708252082_65d1dbb28984a_10bH6hF8u.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1574-1708252082_65d1dbb28984a_10bH6hF8u.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1574-1708252087_65d1dbb747025_oTp_z1SRk.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1574-1708252092_65d1dbbceaf83_IfPO71Or1.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1574-1708252101_65d1dbc50edd0_yr17_fLdO.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1575,
+        name: 'Moto Care HEADLIGHT GRILL WITH GLASS FOR HONDA H NESS CB 350',
+        price: 1360,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1575-1708245340_65d1c15c3821c_i7_4vT609.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1575-1708245340_65d1c15c3821c_i7_4vT609.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1575-1708245345_65d1c16144202_ZdfeX6--UB.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1575-1708245349_65d1c165ce151_lZ82vAs5C.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1575-1708245355_65d1c16b97a44_VoiSMQVxW.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1576,
+        name: 'Moto Care HANDLE BAR RISER FOR HONDA H NESS CB 350',
+        price: 1680,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1576-1708244825_65d1bf59118fb_FEPSASCXGH.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1576-1708244825_65d1bf59118fb_FEPSASCXGH.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1576-1708244830_65d1bf5e22760_6B06lJlvJ.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1576-1708244835_65d1bf63e71c3_sr8DabqqP.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1577,
+        name: 'Moto Care CALIBER GUARD FOR HONDA H NESS CB 350',
+        price: 480,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1577-1708244566_65d1be560153c_YSi0NvHtL.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1577-1708244566_65d1be560153c_YSi0NvHtL.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1577-1708244571_65d1be5bd774d_DTHnbnLjkE.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1577-1708244577_65d1be61c1539_KjmeVqdLX6.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1578,
+        name: 'Moto Care FOOTREST FOR HONDA HNESS CB 350',
+        price: 1920,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1578-1773491436_69b554ecc0932_5u_zay793.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1578-1773491436_69b554ecc0932_5u_zay793.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1578-1773491445_69b554f5df3a5_g6aPg0FpD.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1578-1773491451_69b554fb96182_iEur3ccza.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1578-1773491462_69b55506ab1fc_PPEyOQkcu.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1579,
+        name: 'Moto Care CNC CARRIER PLATE WITH BACKREST FOR HONDA HNESS CB 350',
+        price: 3920,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1579-1773491266_69b5544216b24_MqRNPdIM2.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1579-1773491266_69b5544216b24_MqRNPdIM2.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1580,
+        name: 'Moto Care CNC CARRIER PLATE FOR HNESS CB 350',
+        price: 2560,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1580-1773491366_69b554a6b018a_qyOrugdbo.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1580-1773491366_69b554a6b018a_qyOrugdbo.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1580-1773491373_69b554ad18f25_w4c9n60T9.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1580-1773491377_69b554b1c4fbd_44o91HVIuJ.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1581,
+        name: 'Moto Care HEADLIGHT GRILL WITHOUT GLASS FOR HONDA HNESS CB 350',
+        price: 1200,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1581-1708252613_65d1ddc5a86be_qUDWsCDt6.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1581-1708252613_65d1ddc5a86be_qUDWsCDt6.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1581-1708252624_65d1ddd014681_KqF0opStO.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1582,
+        name: 'Moto Care 4 SLIDER CRASH GUARD FOR HONDA HNESS CB 350',
+        price: 4160,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1582-1708241253_65d1b16531597_LOA61in23.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1582-1708241253_65d1b16531597_LOA61in23.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1582-1708241258_65d1b16a95322_k7BY4udLf.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1582-1708241264_65d1b170da39c_TS0PgBwc78.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1582-1708241271_65d1b1774e871_kXCg0eDVwo.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 1583,
+        name: 'Moto Care HEADLIGHT GRILL FOR HONDA CB200X',
+        price: 1600,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1583-1755584483_68a417e3bec3d_DiCYFnBL9R.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1583-1755584483_68a417e3bec3d_DiCYFnBL9R.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1583-1755584531_68a41813ad62d_v-eB3Isfv.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1583-1755584539_68a4181bd61fc_D0MpvbEZK.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1583-1755584547_68a4182332d96_vz-XJFFPF.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1584,
+        name: 'Moto Care RESERVOIR OIL CAP FOR HONDA CB200X',
+        price: 400,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1584-1747037939_6821aef35cd3d_fpbAIib1H.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1584-1747037939_6821aef35cd3d_fpbAIib1H.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1584-1747037947_6821aefb25783_bzFLviHzyT.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1584-1747037954_6821af02083a6_gpAFRvlLxa.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1584-1747037962_6821af0a5ec95_BYocVhi2l.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1585,
+        name: 'Moto Care DISC OIL CAP FOR HONDA CB200X',
+        price: 200,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1585-1743226672_67e78730a563d_gxRqKeNuv.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1585-1743226672_67e78730a563d_gxRqKeNuv.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1585-1743226680_67e78738dce92_Q3OEf5NVEC.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1585-1743226689_67e787412d5cc_LG4Ewunyvk.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1586,
+        name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR HONDA CB 200X',
+        price: 5600,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1586-1740040640_67b6e9c063e83_ozVnFPzD-.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1586-1740040640_67b6e9c063e83_ozVnFPzD-.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1586-1740040695_67b6e9f76415b_fFCuPms3P.jpeg',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1586-1740040704_67b6ea00a1748_M4q6Y8bpY.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1586-1740040712_67b6ea0870a07_BG1Kg5WBI.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1587,
+        name: 'Moto Care SADDLE STAY WITH PLATE FOR HONDA CB 200X',
+        price: 2400,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1587-1740040052_67b6e77482591_6kuxvp2yZ.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1587-1740040052_67b6e77482591_6kuxvp2yZ.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1587-1740040059_67b6e77b04fd0_4nJynfBNjp.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1587-1740040068_67b6e78419c2f_cSkihqY44L.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1587-1740040076_67b6e78c509d3_hMUmk7KA-.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1588,
+        name: 'Moto Care POLYCARBONATE VISOR FOR HONDA CB 200X',
+        price: 2080,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1588-1740039469_67b6e52d64ebf_w9HmgR2Sc.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1588-1740039469_67b6e52d64ebf_w9HmgR2Sc.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1588-1740039500_67b6e54c97ed4_9QinspcUA.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1588-1740039508_67b6e55424c32_xD-m_iFta.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1588-1740039517_67b6e55d7735a_OhDxsYL4U.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1589,
+        name: 'Moto Care GPS MOUNT FOR HONDA CB 200X',
+        price: 1360,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1589-1711449915_6602a73b91045_n6HuT1MHN.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1589-1711449915_6602a73b91045_n6HuT1MHN.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1589-1711449949_6602a75d2da74_VngthvsRQ.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1589-1711449956_6602a764f3119_-SsqZMbEq.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1589-1711449964_6602a76cd2dba_7WT_PuhLA.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1590,
+        name: 'Moto Care BACKREST FOR HONDA CB 200X',
+        price: 2160,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1590-1709974378_65ec236a66a9f_i9B3h5mL6.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1590-1709974378_65ec236a66a9f_i9B3h5mL6.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1591,
+        name: 'Moto Care UPPER LOWER CRASH GUARD FOR HONDA CB 200X',
+        price: 9600,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1591-1709971160_65ec16d8de087_PAzJl9JZ0.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1591-1709971160_65ec16d8de087_PAzJl9JZ0.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1591-1709971168_65ec16e0e8882_-6QToAgpdV.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1591-1709971177_65ec16e93298e_18atvvTdz.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1591-1709971185_65ec16f19cf7b_NYlF5xHqk.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1592,
+        name: 'Moto Care SADDLE STAY FOR HONDA CB 200X',
+        price: 1680,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1592-1709970983_65ec162754b55_nkIW9s9rX.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1592-1709970983_65ec162754b55_nkIW9s9rX.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1592-1709970992_65ec163005820_AXCy1QECQ.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1592-1709970999_65ec16379d00a_mjiYky6lDc.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1592-1709971008_65ec164038997_bbguq2kxF.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1593,
+        name: 'Moto Care 4 SLIDER CRASH GUARD FOR HONDA HNESS CB 350',
+        price: 4160,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1582-1708241253_65d1b16531597_LOA61in23.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1582-1708241253_65d1b16531597_LOA61in23.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1582-1708241258_65d1b16a95322_k7BY4udLf.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1582-1708241264_65d1b170da39c_TS0PgBwc78.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1582-1708241271_65d1b1774e871_kXCg0eDVwo.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1594,
+        name: 'Moto Care PIPE CARRIER WITH BACKREST FOR HONDA CB 200X',
+        price: 2960,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1594-1709970744_65ec1538408ad_tOL1EUEsU.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1594-1709970744_65ec1538408ad_tOL1EUEsU.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1594-1709970754_65ec154239533_UF-r8ZvSxF.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1594-1709970763_65ec154b6716f_w_F29RbEs.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1595,
+        name: 'Moto Care PIPE CARRIER FOR HONDA CB 200X',
+        price: 1920,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1595-1709970580_65ec1494170fd_IY1TQyVHn.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1595-1709970580_65ec1494170fd_IY1TQyVHn.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1595-1709970589_65ec149d85832_k4PjF58fR.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1595-1709970613_65ec14b572fb8_IwjnJR3EH.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1596,
+        name: 'Moto Care CNC CARRIER PLATE WITH BACKREST FOR HONDA CB 200X',
+        price: 3600,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1596-1709970258_65ec13527b0e6_lp_TlZb_RU.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1596-1709970258_65ec13527b0e6_lp_TlZb_RU.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1596-1709970267_65ec135b61fd3_kWZKxjtgcC.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1596-1709970275_65ec13638f095_FqI6LvDlA.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1596-1709970294_65ec1376154ce_kB9jnSZ3k.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1597,
+        name: 'Moto Care CNC CARRIER PLATE FOR HONDA CB 200X',
+        price: 2560,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1597-1709970046_65ec127e31f55_QpdxxmkvzZ.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1597-1709970046_65ec127e31f55_QpdxxmkvzZ.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1597-1709970059_65ec128bcb562_n42GGBJ5F.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1597-1709970071_65ec1297aab10_ogH9MMILB.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1597-1709970081_65ec12a11c03f_mw_hr0VeO.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 1598,
+        name: 'Moto Care PIPE CARRIER WITH ALUMINIUM PLATE WITH BACKREST FOR HONDA CB350',
+        price: 3920,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1598-1773581158_69b6b36610ef3_toMgOUjEM.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1598-1773581158_69b6b36610ef3_toMgOUjEM.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1598-1773581166_69b6b36ec44e5_OKh4tmAOj6.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1598-1773581172_69b6b374bb243_2cw7wTS7Aa.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1598-1773581178_69b6b37a7249a_nyjrtxhSM.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1599,
+        name: 'Moto Care PIPE CARRIER WITH ALUMINIUM PLATE FOR HONDA CB350',
+        price: 2880,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1599-1773490734_69b5522e025ec_XULBdrsikp.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1599-1773490734_69b5522e025ec_XULBdrsikp.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1599-1773490739_69b55233f3aea_MLY1RNwWx.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1599-1773490745_69b552393b207_hlikiuvHc.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1599-1773490750_69b5523e279eb_pLbqEYQEb.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1600,
+        name: 'Moto Care HEADLIGHT GRILL FOR HONDA CB350',
+        price: 1200,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1600-1773490659_69b551e32a5bf_YKy0hr1k_.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1600-1773490659_69b551e32a5bf_YKy0hr1k_.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1600-1773490664_69b551e8db5c9_-v7XtODB5C.jpg',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1600-1773490673_69b551f16d0ae_iGvEhdqiS.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1600-1773490678_69b551f68ef50_c32XGZA6Y.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1601,
+        name: 'Moto Care SINGLE FOOTREST FOR HONDA CB350',
+        price: 880,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1601-1773490576_69b55190c781f_-UN_vYHM3.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1601-1773490576_69b55190c781f_-UN_vYHM3.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1601-1773490584_69b55198869a2_umPDcdCKL.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1601-1773490589_69b5519d8d2fd_JkdSf3BAt.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1601-1773490597_69b551a58a86d_u9toxQ_-_4.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1602,
+        name: 'Moto Care PIPE CARRIER WITH BACKREST FOR HONDA CB350',
+        price: 3600,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1602-1773490504_69b55148c0ca3_scW2f92B2.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1602-1773490504_69b55148c0ca3_scW2f92B2.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1602-1773490512_69b551503af70_Bwv2d-n4x.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1602-1773490518_69b55156c7d2e_E6UObO4z6.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1602-1773490525_69b5515d09c1e_6bRwiLBhe.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1603,
+        name: 'Moto Care PIPE CARRIER FOR HONDA CB350',
+        price: 2560,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1603-1773490421_69b550f5da5ac_G4qNoeZ2AL.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1603-1773490421_69b550f5da5ac_G4qNoeZ2AL.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1603-1773490431_69b550ff5b8d9_cmuMpipwD.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1603-1773490438_69b551062c76a_SPbGtY9Id.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1603-1773490445_69b5510d753af_TkptwkngG.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1604,
+        name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR HONDA CB350',
+        price: 3840,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1604-1735465439_677119df9d6c1_rMbCiW4vX.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1604-1735465439_677119df9d6c1_rMbCiW4vX.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1604-1735465446_677119e63c8f9_ss4RKNXxO.jpg',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1604-1735465454_677119eedca0b_eiofeL4sW.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1604-1735465464_677119f84f90a_boBMzj6gy.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 1605,
+        name: 'Moto Care SADDLE STAY WITH PLATE FOR HONDA CB350',
+        price: 2880,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1605-1773490343_69b550a73a51d_yG5vCar-h.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1605-1773490343_69b550a73a51d_yG5vCar-h.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1605-1773490349_69b550ad9d981_WS3RqSMcS.jpg',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1605-1773490356_69b550b47b9dd_3b6WsYa6A.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1506-1605/product-1605-1773490363_69b550bba790f_y9WS5s_UQC.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HONDA'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic', 
+            'Compatibility': 'HONDA',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 1606,
+        name: 'Moto Care RALLY TOWER TOURING WINDSHIELD WITH CLAMP KIT FOR HERO XPULSE 200 4V',
+        price: 15200,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1606-1765277037_6937fd6db8582_XfU69l1Qh.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1606-1765277037_6937fd6db8582_XfU69l1Qh.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1606-1765277049_6937fd795ffbb_7DWRmRlRb.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1606-1765277058_6937fd8241bd4__6pQvliKb.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1606-1765277065_6937fd899ea04_Zk_2K6yci.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1607,
+        name: 'Moto Care FOG LIGHT CLAMP FOR HERO XPULSE',
+        price: 288,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1607-1739881309_67b47b5d747d8_sj-BlspYdg.jpg',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1607-1739881309_67b47b5d747d8_sj-BlspYdg.jpg'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1608,
+        name: 'Moto Care HANDLE WITHOUT PLATE FOR HERO XPULSE',
+        price: 800,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1608-1739881194_67b47aea632e2_3SbIC_67v.jpg',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1608-1739881194_67b47aea632e2_3SbIC_67v.jpg',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1608-1739881201_67b47af198e97_8lEyKSfPY.jpg'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1609,
+        name: 'Moto Care METAL VISOR FOR HERO XPULSE',
+        price: 640,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1609-1739432197_67ada105353cf_O10wkoESG.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1609-1739432197_67ada105353cf_O10wkoESG.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1609-1739432205_67ada10d7b741_cVvZww5sB.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1609-1739432328_67ada1882166c_huQhp0Svh.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1610,
+        name: 'Moto Care CRASH GAURD WITH DUAL SLIDERS (RED) FOR HERO XPULSE',
+        price: 4480,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1610-1717995855_6666894f12f84_reMSYDqAG.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1610-1717995855_6666894f12f84_reMSYDqAG.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1610-1717995869_6666895de7fdc_r0fY39hLcF.jpg',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1610-1717995880_66668968e47ee_391h0rqwd.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1610-1717995890_66668972e8e73_NZZD45fDP.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1611,
+        name: 'Moto Care HANDLE WITH PLATE FOR HERO XPULSE',
+        price: 1040,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1611-1717995589_666688451cbe4_B2_E7oDyY.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1611-1717995589_666688451cbe4_B2_E7oDyY.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1611-1717995602_66668852c76ef_ZQevrl3KdF.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1611-1717995612_6666885c6cb5f_x9Npbj4s7w.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1611-1717995623_666688675448a_Rnj2qydWE.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1612,
+        name: 'Moto Care HEADLIGHT GRILL FOR HERO XPULSE',
+        price: 1200,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1612-1714311761_662e52516908e_2IrWhElQ_p.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1612-1714311761_662e52516908e_2IrWhElQ_p.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1612-1714311769_662e5259874b9_W5U8au9D5.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1612-1714311779_662e52633228d_-1FgBGJYQ.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1612-1714311787_662e526bb9cf6_XzPBAZpMq.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1613,
+        name: 'Moto Care TAIL TIDY FOR HERO XPULSE',
+        price: 1880,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1613-1708261748_65d20174d8d55_9eG-hyduN.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1613-1708261748_65d20174d8d55_9eG-hyduN.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1613-1708261754_65d2017a17bb3_WcoWGj0gU.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1613-1708261759_65d2017f56c9f_qPDu5M3Wx.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1614,
+        name: 'Moto Care SINGLE FOOTREST FOR HERO XPULSE',
+        price: 1040,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1614-1708261499_65d2007bba351_2YzMWoDLU.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1614-1708261499_65d2007bba351_2YzMWoDLU.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1614-1708261509_65d20085bece0_RnNLiGXlx.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1614-1708261514_65d2008ac0481_Iajj_mZE9.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1615,
+        name: 'Moto Care SIDE STAND EXTENDER FOR HERO XPULSE',
+        price: 400,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1615-1708261245_65d1ff7d43d78_tWv5Fjyk0.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1615-1708261245_65d1ff7d43d78_tWv5Fjyk0.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1615-1708261283_65d1ffa3479c7_kbM4sCF6n.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1615-1708261289_65d1ffa96f656_GQeURWMkZ.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1615-1708261327_65d1ffcf4d855_iVrT0y2-d.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1616,
+        name: 'Moto Care SADDLE STAY WITHOUT PLATE FOR HERO XPULSE',
+        price: 1840,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1616-1708261012_65d1fe94a274e_s-3tMJjgM.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1616-1708261012_65d1fe94a274e_s-3tMJjgM.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1616-1708261017_65d1fe99aec1e_gkraNW1k4P.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1616-1708261022_65d1fe9eeb72b_9Isb7QXya.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1616-1708261027_65d1fea3f2a66_bq5KJJUIe.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1617,
+        name: 'Moto Care SADDLE STAY WITH PLATE FOR HERO XPULSE',
+        price: 2400,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1617-1708260822_65d1fdd6ccba1_IRfzOOW53.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1617-1708260822_65d1fdd6ccba1_IRfzOOW53.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1617-1708260828_65d1fddc1574f_rySeqU3qm.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1617-1708260838_65d1fde6eedb3_7ReiON30m.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1617-1708260843_65d1fdeb8ee56_pLo52pYb4.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1618,
+        name: 'Moto Care RESERVOIR OIL CAP FOR HERO XPULSE',
+        price: 400,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1618-1708260571_65d1fcdb9d76e_6yCOCvTz7T.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1618-1708260571_65d1fcdb9d76e_6yCOCvTz7T.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1618-1708260577_65d1fce14819e_oorW5w2BN.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1618-1708260587_65d1fceb86308_F0xMVjLNO.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1618-1708260592_65d1fcf0aaad6_9si83MPPBf.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1619,
+        name: 'Moto Care RADIATOR GUARD FOR HERO XPULSE',
+        price: 400,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1619-1708260386_65d1fc22be40d_tWrcDR-vx.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1619-1708260386_65d1fc22be40d_tWrcDR-vx.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1619-1708260402_65d1fc32aae19_Ap-l0mcvD.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1619-1708260414_65d1fc3e8a31a_yzkFr2000M.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1619-1708260435_65d1fc5385d2b_Xpw0e67NZ.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1620,
+        name: 'Moto Care PIPE CARRIER WITH BACKREST FOR HERO XPULSE',
+        price: 2960,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1620-1708260115_65d1fb13ad1f9_P21bNGN2Z.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1620-1708260115_65d1fb13ad1f9_P21bNGN2Z.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1620-1708260123_65d1fb1b7218e_h-rfxImjB.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1621,
+        name: 'Moto Care PIPE CARRIER FOR HERO XPULSE',
+        price: 1920,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1621-1708259989_65d1fa952bda6_2k09l5vmM.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1621-1708259989_65d1fa952bda6_2k09l5vmM.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1621-1708259995_65d1fa9b3eb7b_aS76Y5qEs.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1621-1708260001_65d1faa19e5da_gjpnmJzQU.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1621-1708260007_65d1faa79b9e1_hYQv2x71s.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1622,
+        name: 'Moto Care GPS MOUNT FOR HERO XPULSE',
+        price: 880,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1622-1708259767_65d1f9b7d83dc_7adp7YijX.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1622-1708259767_65d1f9b7d83dc_7adp7YijX.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1622-1708259772_65d1f9bc4bf6b_CAJKmB-MR.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1622-1708259776_65d1f9c0cccdb_pHkDBne2r.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1623,
+        name: 'Moto Care CRASH GAURD WITH DUAL SLIDERS AND NAME FOR HERO XPULSE',
+        price: 4160,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1623-1708259612_65d1f91c7e342_1nvGz7tux.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1623-1708259612_65d1f91c7e342_1nvGz7tux.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1623-1708259621_65d1f925bda44_eB9CEf2YU.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1623-1708259627_65d1f92ba0452_jVcujlYBs.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1623-1708259636_65d1f93499df7_zs7EYE0MD.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1624,
+        name: 'Moto Care CNC CARRIER PLATE FOR HERO XPULSE',
+        price: 960,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1624-1708259454_65d1f87e45dcd_0LSDOKcXes.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1624-1708259454_65d1f87e45dcd_0LSDOKcXes.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1624-1708259459_65d1f8836cd7a_fQ8NGTO0U.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1624-1708259463_65d1f887caed1_IPMaGEKuyA.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1624-1708259469_65d1f88d7924d_LEGSmGmQ1.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1625,
+        name: 'Moto Care HANDLE BAR RISER FOR HERO XPULSE',
+        price: 1200,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1625-1708261588_65d200d458189_xrbk6UZZG.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1625-1708261588_65d200d458189_xrbk6UZZG.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1625-1708261593_65d200d9107dd_is5QsV7Bd.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1625-1708261597_65d200ddc758a_duWZMrRmL.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1625-1708261608_65d200e8ea53b_LugQitVfp.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1626,
+        name: 'Moto Care CRASH GAURD WITH DUAL SLIDERS FOR HERO XPULSE',
+        price: 4480,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1626-1708258417_65d1f471ed168_gYeHDIeSv.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1626-1708258417_65d1f471ed168_gYeHDIeSv.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1626-1708258423_65d1f4773e906_FRCLtb-feU.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1626-1708258429_65d1f47d1aa7b_3dmxY1txc.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1626-1708258433_65d1f481920f0_AXE8VO84R.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 1627,
+        name: 'Moto Care SADDLE STAY WITH PLATE FOR HERO MAVRICK 440',
+        price: 2400,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1627-1739879660_67b474ec74862_wWMq7HJ8e.jpg',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1627-1739879660_67b474ec74862_wWMq7HJ8e.jpg',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1627-1739879670_67b474f6a0b54_a4acJBSDAc.jpg',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1627-1739879679_67b474ffbc7e8_SESVg_zzh.jpg',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1627-1739879690_67b4750a70d0c_sP2c5y9fU.jpg'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1628,
+        name: 'Moto Care PIPE CARRIER WITH BACKREST FOR HERO MAVRICK',
+        price: 3600,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1628-1717814187_6663c3abbc192_VcBN5W7N6.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1628-1717814187_6663c3abbc192_VcBN5W7N6.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1628-1717814198_6663c3b67e3db_6u6o60v98.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1628-1717814209_6663c3c1a27dc_6mjdCTdlXL.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1628-1717814220_6663c3cc95726_NRxsvgEIBm.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1629,
+        name: 'Moto Care PIPE CARRIER FOR HERO MAVRICK 440',
+        price: 2560,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1629-1717813974_6663c2d64eaca_9aoT68EI4.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1629-1717813974_6663c2d64eaca_9aoT68EI4.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1629-1717813987_6663c2e3eaec4_kuvZviGGyc.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1629-1717813998_6663c2ee7281e_dLHMOQZCdv.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1629-1717814010_6663c2fa4cf1e_LWK2K71zm.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1630,
+        name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR MAVRICK 440',
+        price: 4160,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1630-1717813800_6663c2286df44_1oe4vi4KC.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1630-1717813800_6663c2286df44_1oe4vi4KC.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1630-1717813811_6663c2332bb5b_7wBfl5DnZ.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1630-1717813822_6663c23e25fd5_C3XXXBic-q.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1630-1717813835_6663c24b54a23_HQVPXjxIE.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1631,
+        name: 'Moto Care CARRIER WITH BACKREST FOR HERO XTREME 125 R',
+        price: 3600,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1631-1725029443_66d1dc431bfdc_VIjEXrnBHM.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1631-1725029443_66d1dc431bfdc_VIjEXrnBHM.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1631-1725029456_66d1dc506aa3c_VcOJ1kyW2.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1631-1725029463_66d1dc577fb8e_uc0bezG6D.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1631-1725029473_66d1dc61d65a4_eqzgZzLB0L.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1632,
+        name: 'Moto Care CARRIER WITH PLATE FOR HERO XTREME 125 R',
+        price: 2560,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1632-1725029230_66d1db6ecd838_q67evdzJ3.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1632-1725029230_66d1db6ecd838_q67evdzJ3.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1632-1725029238_66d1db7661803_YsMiqYTkJ.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1632-1725029246_66d1db7eb6280_DQ0sy5umB.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1632-1725029253_66d1db85f2097_b-fDWwW5Xc.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1633,
+        name: 'Moto Care SADDLE STAY FOR HERO XTREME 125 R',
+        price: 2400,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1633-1725028988_66d1da7cbb2c8_xDvAxCpz1.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1633-1725028988_66d1da7cbb2c8_xDvAxCpz1.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1633-1725028998_66d1da86199fb_517gPqia_.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1633-1725029004_66d1da8cca6e3_gqaaqN-O7o.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1633-1725029012_66d1da94d8e77_k6gIBrJip.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1634,
+        name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR HERO XTREME 125 R',
+        price: 4160,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1634-1720102780_6686af7c2d916_5sXnFtOzS.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1634-1720102780_6686af7c2d916_5sXnFtOzS.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1634-1720102788_6686af8492794_xMBBCUEPf.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1634-1720102798_6686af8e7ffe5_qhLFvf90rg.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1634-1720102808_6686af98c138b_jtzPWzQmF.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1635,
+        name: 'Moto Care TYPE 2 - TYRE HUGGER FOR XPULSE 210',
+        price: 1600,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1635-1769168374_69735df609c31_SW2DtxxU3j.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1635-1769168374_69735df609c31_SW2DtxxU3j.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1635-1769168381_69735dfd94a08_C8aFhl-zge.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1635-1769168390_69735e0611d8c_TudgPApzu.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1635-1769168400_69735e1031432_0hmIbE6TH.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1636,
+        name: 'Moto Care MOTOCARE MANTIS RALLY TOWER TOURING WINDSHIELD WITH CLAMP KIT FOR HERO XPULSE 210',
+        price: 15200,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1636-1765277083_6937fd9bee4ac_yHDJZJizY.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1636-1765277083_6937fd9bee4ac_yHDJZJizY.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1636-1765277151_6937fddf99c23_rEIbD3orc.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1636-1765277161_6937fde98e6cd_DZHsoatQf.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1636-1765277169_6937fdf1a61b7_GsRTMxmyBc.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1637,
+        name: 'Moto Care FOG LIGHT CLAMP FOR HERO XPULSE 210',
+        price: 1040,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1637-1765031483_69343e3b0acfd_VeU1fEyi3q.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1637-1765031483_69343e3b0acfd_VeU1fEyi3q.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1637-1765031490_69343e42006a9_kKHXSTd9z.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1637-1765031523_69343e6364b61_iPBcGSW3hV.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1637-1765031538_69343e720e2b1_YBgCP5_hs.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1638,
+        name: 'Moto Care CALIBER GUARD (BLACK) FOR HERO XPULSE 210',
+        price: 480,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1638-1763130616_69173cf814e8b_bRj70TEaj.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1638-1763130616_69173cf814e8b_bRj70TEaj.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1638-1763130625_69173d01800bb_70BIrYAGtk.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1638-1763130631_69173d07846b5_zrtLqosmV.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1639,
+        name: 'Moto Care FRONT MUD FLAP FOR HERO XPULSE 210',
+        price: 160,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1639-1756798253_68b69d2d58b99_KahFJgCuW7.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1639-1756798253_68b69d2d58b99_KahFJgCuW7.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1639-1756798505_68b69e298fac1_FbmeWyyeJ.jpeg',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1639-1756798516_68b69e34d2af6_WNKTUTuDZ.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1640,
+        name: 'Moto Care SADDLE STAY (RED) FOR HERO XPULSE 210',
+        price: 2400,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1640-1756465533_68b1897d29181_DFh76iV62.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1640-1756465533_68b1897d29181_DFh76iV62.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1640-1756465785_68b18a794ebdf_S0VLeAL_B.jpg',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1640-1756465793_68b18a81d9ad3_XvBClIosqz.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1640-1756465802_68b18a8a9774c_1pgNE_v3h.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1641,
+        name: 'Moto Care PIPE CARRIER (BLACK) FOR HERO XPULSE 210',
+        price: 2560,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1641-1756465258_68b1886ae4ebb_TcGDlDtua8.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1641-1756465258_68b1886ae4ebb_TcGDlDtua8.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1641-1756465270_68b188769f416_S6kGpwpv6.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1641-1756465276_68b1887cd7409_MrKImeZiO.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1641-1756465282_68b18882c492f_JXXze2hZrM.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+{
+        id: 1642,
+        name: 'Moto Care GPS MOUNT ( BLACK) FOR HERO XPULSE 210',
+        price: 960,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1642-1754379831_6891b637883fd_ZrCGHz9mnl.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1642-1754379831_6891b637883fd_ZrCGHz9mnl.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1642-1754379965_6891b6bd8ce67_f8Df2nsq6.JPG',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1642-1754379975_6891b6c758309_9eaFE6wPR.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1642-1754379980_6891b6cc91f01_JvvnT3ILH.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 1643,
+        name: 'Moto Care SIDE STAND EXTENDER FOR FOR HERO XPULSE 210',
+        price: 720,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1643-1754296121_68906f39cb64a_mRVT0RUht.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1643-1754296121_68906f39cb64a_mRVT0RUht.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1643-1754298657_68907921c1b03_uZ_uQnNFM.jpg',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1643-1754298694_6890794616d22_ihLgxbDLB.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1643-1754298701_6890794d74de5_WR0KWSeOH.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1644,
+        name: 'Moto Care PIPE CARRIER WITH BACKREST ( RED & BLACK) FOR HERO XPULSE 210',
+        price: 3600,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1644-1754028841_688c5b293f262_OVeX6P_09w.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1644-1754028841_688c5b293f262_OVeX6P_09w.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1644-1754028850_688c5b3267304_LgIvr4euI.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1644-1754028856_688c5b38d8e74_Log7noEx6.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1644-1754028863_688c5b3fd6196_eNJkG50Fc.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1645,
+        name: 'Moto Care PIPE CARRIER ( RED & BLACK) FOR HERO XPULSE 210',
+        price: 2560,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1645-1754028695_688c5a9775c60_mNxHH_eAN.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1645-1754028695_688c5a9775c60_mNxHH_eAN.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1645-1754028702_688c5a9e95af9_naZe0bdUY.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1645-1754028709_688c5aa59d385_QoSZQvZJ0.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1645-1754028715_688c5aab6869e_k1K_CJ_GF.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1646,
+        name: 'Moto Care GPS MOUNT ( BLACK) FOR HERO XPULSE 210',
+        price: 5200,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1642-1754379831_6891b637883fd_ZrCGHz9mnl.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1642-1754379831_6891b637883fd_ZrCGHz9mnl.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1642-1754379965_6891b6bd8ce67_f8Df2nsq6.JPG',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1642-1754379975_6891b6c758309_9eaFE6wPR.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1642-1754379980_6891b6cc91f01_JvvnT3ILH.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1647,
+        name: 'Moto Care UPPER LOWER CRASH GUARD (WHITE) FOR HERO XPULSE 210',
+        price: 5200,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1647-1753598847_6885cb7f79320_4in6xTyp3.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1647-1753598847_6885cb7f79320_4in6xTyp3.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1647-1753598855_6885cb87ab9c1_mzh4Ngav5M.jpg',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1647-1753598863_6885cb8f10996_bG9rCQsMKW.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1647-1753598870_6885cb9608b68_ptCc1VD9W.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1648,
+        name: 'Moto Care PIPE CARRIER FOR HERO XPULSE 210',
+        price:2560,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1648-1753598572_6885ca6c0fbd0_udSmH1QGUD.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1648-1753598572_6885ca6c0fbd0_udSmH1QGUD.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1648-1753598581_6885ca75ae4b3_sBMILTlX0.JPG',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1648-1753598593_6885ca819c502_4hIxaq9wl.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1648-1753598599_6885ca8799713_HDKKD9aRMO.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1649,
+        name: 'Moto Care PIPE CARRIER WITH BACKREST FOR HERO XPULSE 210',
+        price: 3600,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1649-1753598399_6885c9bf57694_0PWlch66q.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1649-1753598399_6885c9bf57694_0PWlch66q.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1649-1753598422_6885c9d6cc982_xdSmZ1TXm1.JPG',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1649-1753598435_6885c9e32115f_NcVSuYXC1.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1649-1753598442_6885c9eac61bc_h_o0dGL9Ig.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1650,
+        name: 'Moto Care UPPER LOWER CRASH GUARD BLACK FOR HERO XPULSE 210',
+        price: 5200,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1650-1753096094_687e1f9ec8ebb_vpoWK622q.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1650-1753096094_687e1f9ec8ebb_vpoWK622q.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1650-1753096104_687e1fa85f703_unfnN4gOW.jpg',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1650-1753096116_687e1fb408276_c61JJLk9W.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1650-1753096124_687e1fbcf37ad_3S1BJCk1N.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1651,
+        name: 'Moto Care CHAIN SPROCK GUARD FOR HERO XPULSE 210',
+        price: 480,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1651-1753078045_687dd91d5d49d_8FLCWgdCD.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1651-1753078045_687dd91d5d49d_8FLCWgdCD.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1651-1753078205_687dd9bd9215b_8J3MkcZqId.JPG',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1651-1753078216_687dd9c8aa3b7_niBr9L-_7.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1651-1753078222_687dd9cedde33_e733_tHks.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1652,
+        name: 'Moto Care SADDLE STAY WITH SILVER/BLACK PLATE FOR HERO XPULSE 210',
+        price: 2400,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1652-1753077797_687dd8255e5c7_msERip-bD.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1652-1753077797_687dd8255e5c7_msERip-bD.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1652-1753077852_687dd85c8192d_Z65R9dOBR.JPG',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1652-1753077863_687dd8676d797_UZOCrIxHW.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1652-1753077871_687dd86f51c18_ggJscsVuW.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1653,
+        name: 'Moto Care UPPER LOWER CRASH GUARD RED FOR HERO XPULSE 210',
+        price: 5200,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1653-1753077561_687dd73955e71_btya3CbLK.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1653-1753077561_687dd73955e71_btya3CbLK.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1653-1753077588_687dd754486c3_Wtps60AjV.JPG',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1653-1753077597_687dd75d1825c_HgcJs8X-O.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1653-1753077605_687dd76502789_gh5h6WhRXe.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1654,
+        name: 'Moto Care CHAIN GUARD FOR HERO XPULSE 210',
+        price: 960,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1654-1752821407_6879ee9f802cd_mpG2UHyVQ.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1654-1752821407_6879ee9f802cd_mpG2UHyVQ.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1654-1752821428_6879eeb4ac4c4_E5jjyt79T.JPG',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1654-1752821445_6879eec506afc_M96TFMvpR.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1654-1752821462_6879eed67bd7a_e87Pbs-h3.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1655,
+        name: 'Moto Care GPS MOUNT FOR HERO XPULSE 210',
+        price: 960,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1655-1752820891_6879ec9b051a8_oS1hvcfj0.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1655-1752820891_6879ec9b051a8_oS1hvcfj0.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1655-1752821013_6879ed150bb33_4uWfrr5gb.JPG',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1655-1752821049_6879ed39cfca7_jhgiNDXPiy.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1655-1752821062_6879ed466af65_WFPPfxubc.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1656,
+        name: 'Moto Care SUM GUARD FOR HERO XPULSE 210',
+        price: 1600,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1656-1752301879_68720137dc0c6_S2fTAFSx2.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1656-1752301879_68720137dc0c6_S2fTAFSx2.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1656-1752302020_687201c49e3b4_VOlo6Mepo.JPG',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1656-1752302030_687201ce5b16c_WTKy2hzUU.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1656-1752302050_687201e2997f2_vG1gIQFOT.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1657,
+        name: 'Moto Care CALIBER GUARD (SILVER) FOR HERO XPULSE 210',
+        price: 480,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1657-1752301431_6871ff770a5f7_hiV0WFU7Eu.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1657-1752301431_6871ff770a5f7_hiV0WFU7Eu.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1657-1752301467_6871ff9b1512c_XfbIBBM1o.JPG',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1657-1752301478_6871ffa6b4a09_leK6Qp4s6.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1657-1752301539_6871ffe356b71_XxQZhA5ED.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1658,
+        name: 'Moto Care DISC OIL CAP FOR HERO XPULSE 210',
+        price: 200,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1658-1752300713_6871fca9ab8a1_072NFw4Ez.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1658-1752300713_6871fca9ab8a1_072NFw4Ez.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1658-1752300824_6871fd1858d8a_6Etev86Nf.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1658-1752300892_6871fd5c0fd22_a7vH2jqBK.JPG',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1658-1752300898_6871fd62b8269_0hg_k-9WS.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1659,
+        name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR HERO XPULSE 210 (RED)',
+        price: 4640,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1659-1749646262_68497bb64fd3a_T62svnHUZ.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1659-1749646262_68497bb64fd3a_T62svnHUZ.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1659-1752301122_6871fe4207114_vLw0Z-MU9.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1659-1752301128_6871fe48b182f_4BaubAwuG.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1659-1752301134_6871fe4ec6ab4_qhLapJe--.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1660,
+        name: 'Moto Care HANDLE RISER FOR HERO XPULSE 210',
+        price: 880,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1660-1746523816_6819d6a821385_5jbMx9OSt.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1660-1746523816_6819d6a821385_5jbMx9OSt.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1660-1746523848_6819d6c87f445_lKf6XG2G9.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1660-1746523856_6819d6d0c220d_skXaar4DR.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1660-1746523863_6819d6d7ab963_TTBo_t9K_.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1661,
+        name: 'Moto Care FOOTREST FOR HERO XPULSE 210',
+        price: 1280,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1661-1745738265_680dda1978195_UX5QC2wVU8.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1661-1745738265_680dda1978195_UX5QC2wVU8.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1661-1745738276_680dda241a0ff_vRko8EYZt.jpg',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1661-1745738284_680dda2ce8e2b_x7eb13joS.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1661-1745738291_680dda336bdf2_HxIRrObap.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1662,
+        name: 'Moto Care RADIATOR GUARD FOR HERO XPULSE 210',
+        price: 880,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1662-1745734102_680dc9d67ed7f_jHBdZYQxj.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1662-1745734102_680dc9d67ed7f_jHBdZYQxj.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1662-1745734123_680dc9eb65303_uGI_k3amR.jpg',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1662-1745734153_680dca097816c_RsINQTm8A.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1662-1745734163_680dca13dcb6d_80hStVQLz.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1663,
+        name: 'Moto Care TYRE HUGGER FOR HERO XPULSE 210',
+        price: 1600,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1663-1745733899_680dc90bb7537_mK9SVDgch.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1663-1745733899_680dc90bb7537_mK9SVDgch.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1663-1745733945_680dc93975249_IAbMl29g8.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1663-1745733952_680dc940c0b99_qHhQBXb02.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1663-1745733959_680dc947a3d1d_HpQiz7y_1.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1664,
+        name: 'Moto Care HEADLIGHT GRILL FOR HERO XPULSE 210',
+        price: 1040,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1664-1745733679_680dc82f96326_EbSfD595Q.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1664-1745733679_680dc82f96326_EbSfD595Q.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1664-1745733740_680dc86c3356f_yPR-0zC34.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1664-1745733752_680dc878140ca_NXm_bOEts.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1664-1745733762_680dc88218c2f_8DsVdkqls5.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1665,
+        name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR HERO XPULSE 210',
+        price: 4480,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1665-1745067609_68039e5947d3c_0yNHuvR9A6.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1665-1745067609_68039e5947d3c_0yNHuvR9A6.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1665-1745067617_68039e6167ff1_xZlpS1B4y.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1665-1745067625_68039e695a300_z0YENcDz5.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1665-1745067635_68039e736af7b_JUXDeTmVU.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1666,
+        name: 'Moto Care SADDLE STAY WITH PLATE FOR HERO XPULSE 210',
+        price: 2400,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1666-1745067380_68039d74174eb_4JIPk2xsp.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1666-1745067380_68039d74174eb_4JIPk2xsp.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1666-1745067431_68039da765e79_KCz_5Bd66C.jpeg',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1666-1745067440_68039db07cd8a_oK6Qo_-fL.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1666-1745067449_68039db9d3272_acy1Ou19y.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1667,
+        name: 'Moto Care CNC CARRIER WITH PLATE FOR HERO XPULSE 210',
+        price: 1440,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1667-1745048769_680354c125cd9_rl14tNIuk.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1667-1745048769_680354c125cd9_rl14tNIuk.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1667-1745048828_680354fc52160_fyQf455ok.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1667-1745048837_680355059be6d_DShnfSmu_l.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1667-1745048845_6803550d564d2__jY-BFUoi.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1668,
+        name: 'Moto Care CNC CARRIER WITH BACKREST FOR HERO XPULSE 210',
+        price: 2480,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1668-1745048462_6803538e6050d_z7JBTyOHA.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1668-1745048462_6803538e6050d_z7JBTyOHA.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1668-1745048469_680353952bf67_kfyTWZ2Ufg.jpg',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1668-1745048477_6803539d8347a_Lx9xG2Fg_.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1668-1745048604_6803541c71c6f_5qxoLvcbA.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 1669,
+        name: 'Moto Care POLYCARBONATE VISOR FOR HERO XTREME 250R',
+        price: 2080,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1669-1774354436_69c280047f793_iCQZ_uB_j.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1669-1774354436_69c280047f793_iCQZ_uB_j.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1669-1774354559_69c2807f15df5_sychs4zj6.JPG',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1669-1774354443_69c2800bf3ace_lYrBcJD4C.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1669-1774354451_69c28013779ae_wbk-nzSDvh.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1670,
+        name: 'Moto Care NUMBER PLATE HOLDER FOR HERO XTREME 250R',
+        price: 1120,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1670-1767364623_6957d80f7ed01_OOwTCpgpt.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1670-1767364623_6957d80f7ed01_OOwTCpgpt.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1670-1767364631_6957d8174350d_fa-M-D27Y.JPG',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1670-1767364639_6957d81f13a61_Ie3sNH8M0.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1670-1767364645_6957d8259a553_N1YaF5BeS.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1671,
+        name: 'Moto Care RADIATOR GUARD FOR HERO XTREME 250R',
+        price: 1040,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1671-1767017400_69528bb8ac5f6_0PKsS1uvn.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1671-1767017400_69528bb8ac5f6_0PKsS1uvn.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1671-1767017409_69528bc102cc5_KL6225Pe6.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1671-1767017417_69528bc967118_UJkKsuZnb.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1671-1767017427_69528bd3e8e73_kK2DiIOJN7.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1672,
+        name: 'Moto Care FOOTREST FOR HERO XTREME 250R',
+        price: 1280,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1672-1767017075_69528a7399e35_OnDOY23Vf.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1672-1767017075_69528a7399e35_OnDOY23Vf.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1672-1767017111_69528a9771f8f_An2gz7hZu.JPG',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1672-1767017121_69528aa1d20ee_4MDHV56fP.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1672-1767017128_69528aa8e384f_-vBZItghi.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1673,
+        name: 'Moto Care 4 SLIDER CRASH GUARD FOR HERO XTREME 250R',
+        price: 4640,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1673-1766746798_694e6aae046cf_hgqtwyijf.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1673-1766746798_694e6aae046cf_hgqtwyijf.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1673-1766746910_694e6b1ec5f24_lFWyYCak9P.JPG',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1673-1766746918_694e6b267a1e8_PZET1C3EC.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1673-1766746925_694e6b2d87e92_KuMmv27h_.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1674,
+        name: 'Moto Care CNC CARRIER WITH BACKREST FOR HERO XTREME 250R',
+        price: 3600,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1674-1766746530_694e69a230982_HoTwoz3OI.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1674-1766746530_694e69a230982_HoTwoz3OI.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1674-1766746537_694e69a9d130b_K-qarNuMq.JPG',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1674-1766746544_694e69b02f948_2YJmcH7Tp.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1674-1766746550_694e69b647c7e_seYDZDFsfL.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1675,
+        name: 'Moto Care CNC CARRIER WITH PLATE FOR HERO XTREME 250R',
+        price: 2560,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1675-1766746377_694e69092ef17_zC3fyjeJ-.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1675-1766746377_694e69092ef17_zC3fyjeJ-.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1675-1766746393_694e69193fed9_UZz1qH7Dw.jpeg',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1675-1766746399_694e691f3b306_RnD66q5mM.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1675-1766746407_694e692728405_kpXC8X70CV.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1676,
+        name: 'Moto Care SADDLE STAY WITH PLATE FOR HERO XTREME 250R',
+        price: 2400,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1676-1766745599_694e65ff63e5f_YAvI0IXaMy.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1676-1766745599_694e65ff63e5f_YAvI0IXaMy.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1676-1766745624_694e6618490f7_EJkiIoZmC.jpeg',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1676-1766745631_694e661fee1f4_iLOTb3U-M.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1676-1766745640_694e662803233_mO0Pm25HZ.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1677,
+        name: 'Moto Care RESERVOIR OIL CAP FOR HERO XTREME 250R',
+        price: 400,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1677-1766745269_694e64b500f65_Xk2iuH5nf.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1677-1766745269_694e64b500f65_Xk2iuH5nf.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1677-1766745275_694e64bb13f84_uB9oqiVVq.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1677-1766745284_694e64c4a6fde_tDi5kIwo68.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1677-1766745290_694e64cac15a9_lzJOGxeXEt.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1678,
+        name: 'Moto Care DISC OIL CAP FOR HERO XTREME 250R',
+        price: 200,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1678-1766744861_694e631d33f89_nW4FRHGrp.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1678-1766744861_694e631d33f89_nW4FRHGrp.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1678-1766744908_694e634ca0f48_xK2r7W8aLt.jpeg',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1678-1766744917_694e6355ce450_MbV8L4kVm.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1678-1766744932_694e63640d58c_i8tJwekC2.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['HERO'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'HERO',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 1679,
+        name: 'Moto Care PIPE CARRIER WITH BACKREST FOR TVS RONIN (2024/2025 MODEL)',
+        price: 3920,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1679-1754725461_6896fc55516ad_EBcKSELWUF.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1679-1754725461_6896fc55516ad_EBcKSELWUF.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1679-1754725469_6896fc5da9ddd_MteoGMigB.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1679-1754725476_6896fc6410553_WvOnBbK6N.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1679-1754725483_6896fc6b08ccc_jAEEYwMF6.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },
+     {
+        id: 1680,
+        name: 'Moto Care PIPE CARRIER FOR TVS RONIN (2024/2025 MODEL)',
+        price: 2880,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1680-1754725297_6896fbb16bb51_dRDdbszMQ.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1680-1754725297_6896fbb16bb51_dRDdbszMQ.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1680-1754725309_6896fbbd08d4d_uVp5kpTsQa.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1680-1754725315_6896fbc3eb8dc_qLzcX43Qf.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1680-1754725321_6896fbc9a8d22_zKs9Mh7Vb.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1681,
+        name: 'Moto Care POLYCARBONATE VISOR FOR TVS RONIN',
+        price: 2240,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1681-1750744593_685a3e1196ee6_uTfCyDc2p.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1681-1750744593_685a3e1196ee6_uTfCyDc2p.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1681-1750744618_685a3e2a11d14_7vGneREFb.jpg',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1681-1750744643_685a3e432e3e4_-KewOtmlw.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1681-1750744604_685a3e1c22be6_YorbI70tW.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1682,
+        name: 'Moto Care DISC OIL CAP FOR TVS RONIN',
+        price: 200,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1682-1709366374_65e2dc661a182_quUXU7-Jd.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1682-1709366374_65e2dc661a182_quUXU7-Jd.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1682-1709366386_65e2dc7272ceb_KBnzo4S-Cu.jpg'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1683,
+        name: 'Moto Care VISOR FOR TVS RONIN',
+        price: 960,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1683-1709365870_65e2da6eca820_nXi73R4rDG.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1683-1709365870_65e2da6eca820_nXi73R4rDG.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1683-1709365896_65e2da88b86d9_pL8_CbNfM.jpg'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1684,
+        name: 'Moto Care SADDLE STAY WITH PLATE FOR TVS RONIN',
+        price: 2400,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1684-1709363420_65e2d0dc446cc_HYWETu2Oi.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1684-1709363420_65e2d0dc446cc_HYWETu2Oi.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1684-1709363430_65e2d0e60e926_S527fJPJ7E.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1684-1709363439_65e2d0ef9203a_5jW8QLwzj.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1684-1709363444_65e2d0f4d23b3_na0AfPXOf.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1685,
+        name: 'Moto Care RADIATOR GUARD FOR TVS RONIN',
+        price: 560,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1685-1706963476_65be3214040f9_Lt6ESPiPA.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1685-1706963476_65be3214040f9_Lt6ESPiPA.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1685-1706963483_65be321bccc61_pkVw7v6ba.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1685-1706963490_65be3222ec03f_RXMR2Fkgn.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1685-1706963497_65be3229ddb7e_J32fjbP0E.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1686,
+        name: 'Moto Care FOG LIGHT CLAMP FOR TVS RONIN',
+        price: 1040,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1686-1706963222_65be3116ed17f_MdK10tcsE.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1686-1706963222_65be3116ed17f_MdK10tcsE.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1686-1706963228_65be311c812a4_5w_LEjjZTe.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1686-1706963233_65be3121e03f4_oFKgPX_tU.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1686-1706963240_65be312854bdd_8JkHjvyuiY.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    }, {
+        id: 1687,
+        name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR TVS RONIN',
+        price: 3840,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1687-1706962513_65be2e51576b6_AXvLFrHPe.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1687-1706962513_65be2e51576b6_AXvLFrHPe.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1687-1706962521_65be2e59ca724__8WQpQfBs.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1687-1706962531_65be2e63956b0_K2MDic1KL.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1687-1706962539_65be2e6bcd551_e8P4Nmfi7h.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },
+     {
+        id: 1688,
+        name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR TVS RAIDER',
+        price: 4160,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1688-1706871864_65bccc38aacdb_nGwNUjeCV.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1688-1706871864_65bccc38aacdb_nGwNUjeCV.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1688-1706871872_65bccc4071a8b_Z4GtPp_LWN.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1688-1706871879_65bccc47369d4_7bO9sTQ2s.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1688-1706871886_65bccc4e21d2d_F1xo8RJlT.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 1689,
+        name: 'Moto Care DISC OIL CAP FOR TVS APACHE RTR 310',
+        price: 200,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1689-1717765283_666304a39d985_WJ4YGsSPE.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1689-1717765283_666304a39d985_WJ4YGsSPE.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1689-1717765292_666304ac738f2_3MCwiVx3K.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1689-1717765305_666304b97e041_3ccxIvs3N.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1689-1717765313_666304c1625a7_H4uj995sr.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1690,
+        name: 'Moto Care FORK SLIDERS ( SET OF 2 ) FOR TVS APACHE RTR 310',
+        price: 2240,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1690-1711556544_660447c0b4e04_SqFzyhg3_.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1690-1711556544_660447c0b4e04_SqFzyhg3_.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1691,
+        name: 'Moto Care SADDLE STAY FOR TVS APACHE RTR 310',
+        price: 2400,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1691-1711297824_66005520b7226_aRaQmq_Tv.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1691-1711297824_66005520b7226_aRaQmq_Tv.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1692,
+        name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR TVS RAIDER',
+        price: 2080,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1688-1706871864_65bccc38aacdb_nGwNUjeCV.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1688-1706871864_65bccc38aacdb_nGwNUjeCV.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1688-1706871872_65bccc4071a8b_Z4GtPp_LWN.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1688-1706871879_65bccc47369d4_7bO9sTQ2s.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1688-1706871886_65bccc4e21d2d_F1xo8RJlT.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1693,
+        name: 'Moto Care RADIATOR GUARD FOR TVS APACHE RTR 310',
+        price: 1040,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1693-1707029049_65bf32390de91_7uYTLe08m.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1693-1707029049_65bf32390de91_7uYTLe08m.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1693-1707029058_65bf3242f31e9_oBScyhBke.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1693-1707029068_65bf324c72224_mKuqSIff1.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1693-1707029076_65bf3254127ca_bRkMKgMKI.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1694,
+        name: 'Moto Care NUMBER PLATE HOLDER FOR TVS APACHE RTR 310',
+        price: 1120,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1694-1707028740_65bf3104a2369_A7Hi0PI04.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1694-1707028740_65bf3104a2369_A7Hi0PI04.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1694-1707028747_65bf310b2de53_cf3kA3Fnj.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1694-1707028752_65bf311079c0c__3-ZJTgMO.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1694-1707028758_65bf311623e04_pEPBfwQ4Q.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1695,
+        name: 'Moto Care GPS MOUNT FOR TVS APACHE RTR 310',
+        price: 880,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1695-1707028492_65bf300c4d87f_2fyWy9p08.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1695-1707028492_65bf300c4d87f_2fyWy9p08.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1695-1707028498_65bf30128dcc1_j_JnkUZGV.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1695-1707028503_65bf3017d89c4_MOtJhlSFn.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1696,
+        name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR TVS APACHE RTR 310',
+        price: 4160,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1696-1707028249_65bf2f1902412_ANmS2vVpB9.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1696-1707028249_65bf2f1902412_ANmS2vVpB9.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1696-1707028255_65bf2f1f88a12_no3RDNL9Q.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1696-1707028260_65bf2f24f1860_daNwPlPqO.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1696-1707028266_65bf2f2abd3ed_tsbHSKdHY.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1697,
+        name: 'Moto Care CNC CARRIER PLATE WITH BACKREST FOR TVS APACHE RTR 310',
+        price: 3600,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1697-1707027131_65bf2abbb5ed5_EYvGyB-97.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1697-1707027131_65bf2abbb5ed5_EYvGyB-97.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1697-1707027138_65bf2ac29ef44_INQ7VD3Pzu.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1697-1707027146_65bf2aca32de7_5tJpnxp4k.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1697-1707027154_65bf2ad21fd36_J6_wYeNGe.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1698,
+        name: 'Moto Care CNC CARRIER PLATE FOR TVS APACHE RTR 310',
+        price: 2560,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1698-1707026944_65bf2a009a8bf_ilEb2Uzzk.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1698-1707026944_65bf2a009a8bf_ilEb2Uzzk.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1698-1707026952_65bf2a08c508c_GKaqthAu3G.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1698-1707026961_65bf2a111c83d_fbCbyGEky.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1698-1707026968_65bf2a1814dbb_Ak88Xm3FLj.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 1699,
+        name: 'Moto Care PIPE CARRIER WITH BACKREST FOR TVS APACHE RTR 200',
+        price: 3120,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1699-1714033428_662a131496931_uUriyfAW7l.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1699-1714033428_662a131496931_uUriyfAW7l.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1699-1714033435_662a131bb4501_lRA2BLi4N.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1699-1714033442_662a132293a84_6717dp9LY.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1699-1714033448_662a1328bf8d1_8HHnF1bCsx.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1700,
+        name: 'Moto Care PIPE CARRIER FOR TVS APACHE RTR 200',
+        price: 2080,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1700-1714032902_662a1106ec421_o9h9yBP2QO.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1700-1714032902_662a1106ec421_o9h9yBP2QO.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1700-1714032959_662a113f03899_wiKU87nUr.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1700-1714032972_662a114c0d319_I51dzoea-.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1700-1714032979_662a1153e371d_a6k5qrNf2.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1701,
+        name: 'Moto Care PLATE CARRIER WITH BACKREST FOR TVS APACHE RTR 200',
+        price: 3600,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1701-1714032742_662a106625141_bMafY2VLL.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1701-1714032742_662a106625141_bMafY2VLL.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1701-1714032749_662a106dd3a49_pFUGbBQvv.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1701-1714032762_662a107a282ea_e8aE3RE9I.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1701-1714032770_662a1082629ed_FuuUUe91E.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1702,
+        name: 'Moto Care PLATE CARRIER FOR TVS APACHE RTR 200',
+        price: 2560,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1702-1714032594_662a0fd257bc6_jJcZzzilol.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1702-1714032594_662a0fd257bc6_jJcZzzilol.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1702-1714032601_662a0fd9cf045_D_Db-gJzU.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1702-1714032611_662a0fe350d07_DkDzgXce6m.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1702-1714032618_662a0feacb52e_ahQA50IDth.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1703,
+        name: 'Moto Care SADDLE STAY FOR TVS APACHE RTR 200',
+        price: 2400,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1703-1714032372_662a0ef4e3dbb_rJ0sK9a8cF.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1703-1714032372_662a0ef4e3dbb_rJ0sK9a8cF.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1703-1714032379_662a0efb6228a_3B4Yh_te9.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1703-1714032388_662a0f044acb2_beSE8h-SJ.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1703-1714032394_662a0f0a6a8d6_5R7NkTm_i.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1704,
+        name: 'Moto Care TYPE 1 - 4 SLIDER CRASH GUARD FOR TVS APACHE RTR 200',
+        price: 4480,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1704-1714031432_662a0b4894137_1abFNxqHm.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1704-1714031432_662a0b4894137_1abFNxqHm.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1704-1714031439_662a0b4fb90a4_YT8HUYJymL.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1704-1714031446_662a0b5618dea_E-Oj65HN5.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1704-1714031452_662a0b5cf1fc5_1DCrCT2uT.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1705,
+        name: 'Moto Care TYPE 2 - 4 SLIDER CRASH GUARD FOR TVS APACHE RTR 200',
+        price: 3840,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1705-1713605238_66238a769a8c9_IQbkDDxEa.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1705-1713605238_66238a769a8c9_IQbkDDxEa.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1705-1713605244_66238a7cb90c3_WW-SvLJa4.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1705-1713605252_66238a842b03d_hpI3g3oz_.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1606-1705/product-1705-1713605258_66238a8a990ad_z6oudH5pP.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 1706,
+        name: 'Moto Care SADDLE STAY WITH PLATE FOR TVS APACHE RTR 160',
+        price: 2400,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1706-1759838566_68e501669f014_qcNFOhL2so.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1706-1759838566_68e501669f014_qcNFOhL2so.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1706-1759838573_68e5016d2433d_0g0d2WyWl.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1706-1759838578_68e501729d313_xr-wJoLrn.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1706-1759838586_68e5017a111ce_T1G7nKMYW.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1707,
+        name: 'Moto Care 4 SLIDER CRASH GUARD FOR TVS APACHE RTR 160',
+        price: 3840,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1707-1714034894_662a18ced2f8c_DVRw1pzOJ.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1707-1714034894_662a18ced2f8c_DVRw1pzOJ.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1707-1714034902_662a18d63b305_bFS3b9Bs1.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1707-1714034913_662a18e168255_Vg0TlUY-v.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1707-1714034922_662a18ea56e93_rhZJ-SgRB.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1708,
+        name: 'Moto Care PIPE CARRIER FOR TVS APACHE RTR 160',
+        price: 1760,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1708-1714034793_662a186922b88_FkIOnoMoV.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1708-1714034793_662a186922b88_FkIOnoMoV.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1708-1714034800_662a1870786ba_d2IBUhIGL.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1708-1714034807_662a1877e5e7b_tevzL6XIw.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1708-1714034814_662a187ed4ebe_Dv3X6PPDl.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1709,
+        name: 'Moto Care PIPE CARRIER WITH BACKREST FOR TVS APACHE RTR 160',
+        price: 2800,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1709-1714034392_662a16d808705_sJ9ELeXU1.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1709-1714034392_662a16d808705_sJ9ELeXU1.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1709-1714034403_662a16e376591_oGVI-U7DK.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1709-1714034410_662a16ea88a45_zDdutiKyJ.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1709-1714034417_662a16f1becb5_bKc5uoq7p.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1710,
+        name: 'Moto Care SADDLE STAY FOR TVS APACHE RTR 160',
+        price: 1680,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1710-1714034224_662a163033502_RmWDwe6dNy.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1710-1714034224_662a163033502_RmWDwe6dNy.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1710-1714034231_662a163788329_eh216_OSg.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1710-1714034247_662a1647552f6_JFLWOqRAa.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1710-1714034253_662a164d6a089_VNkujP1as.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },
+    {
+        id: 1711,
+        name: 'Moto Care UPPER LOWER CRASH GUARD (RED) FOR TVS APACHE RTX 300',
+        price: 5600,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1711-1775916838_69da572607b40_EJCCuaCJb.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1711-1775916838_69da572607b40_EJCCuaCJb.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1711-1775916847_69da572f06687_f_agbs52C.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1711-1775916854_69da57361ae28_gRCYRelhE.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1711-1775916863_69da573f30720_zNwJjgDyZ.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1712,
+        name: 'Moto Care UPPER LOWER CRASH GUARD (WHITE) FOR TVS APACHE RTX 300',
+        price: 5600,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1712-1775916726_69da56b628996_C-E0aAsrP.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1712-1775916726_69da56b628996_C-E0aAsrP.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1712-1775916734_69da56bef3b79_v9uEgPSo8.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1712-1775916742_69da56c641a23_-NUtA2TEX.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1712-1775916748_69da56cc2beea_BNw1CQONz.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1713,
+        name: 'Moto Care SUM GUARD FOR TVS APACHE RTX 300',
+        price: 1600,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1713-1775916438_69da5596e0b5d_9UKBs8Phk.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1713-1775916438_69da5596e0b5d_9UKBs8Phk.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1713-1775916446_69da559eabfc9_Ee2Mg0kFK.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1713-1775916452_69da55a46fd0b_JxUsUKzm_.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1713-1775916460_69da55ac0b19d_CtvSzM7jk.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1714,
+        name: 'Moto Care CHAIN GUARD FOR TVS APACHE RTX 300',
+        price: 1040,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1714-1775915957_69da53b54d4cf_iti-V9HQt.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1714-1775915957_69da53b54d4cf_iti-V9HQt.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1714-1775915963_69da53bbee63d_3f_qmvSyB.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1714-1775915970_69da53c2b8868_sE_Qf8xis.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1714-1775915976_69da53c834835_8PX3Iw0RP.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1715,
+        name: 'Moto Care PIPE CARRIER FOR TVS APACHE RTX 300',
+        price: 3040,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1715-1774354937_69c281f94a79c_Edhjd78m2.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1715-1774354937_69c281f94a79c_Edhjd78m2.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1715-1774354945_69c2820189fc1_5e4yjqJUSC.jpg',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1715-1774354954_69c2820a17392_1XG8Djk5F.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1715-1774354962_69c2821230e34_bcnWMZw-3.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1716,
+        name: 'Moto Care PIPE CARRIER WITH BACKREST FOR TVS APACHE RTX 300',
+        price: 4080,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1716-1774354806_69c28176d6e6a_df3z8JZwN.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1716-1774354806_69c28176d6e6a_df3z8JZwN.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1716-1774354815_69c2817fa2f76_wYrJr_zcz.jpg',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1716-1774354824_69c281888e715_ZBa3reGVJ.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1716-1774354831_69c2818f8ccf4_subg8D2S7.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1717,
+        name: 'Moto Care GPS MOUNT FOR TVS APACHE RTX 300',
+        price: 1360,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1717-1772786624_69aa93c0c7b1f_g8kfaZVCr.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1717-1772786624_69aa93c0c7b1f_g8kfaZVCr.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1717-1772786734_69aa942e83a5b_EuELpQZaK.jpg',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1717-1772786747_69aa943b7529d_ZPVZ1NyLg.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1717-1772786753_69aa9441d5d94_gOZ5fCufB.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1718,
+        name: 'Moto Care RADIATOR GUARD FOR TVS APACHE RTX 300',
+        price: 1280,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1718-1772786477_69aa932daa80b_XFsHUKRGX.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1718-1772786477_69aa932daa80b_XFsHUKRGX.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1718-1772786514_69aa93523301d_gq7Jf0ajV.jpg',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1718-1772786522_69aa935a4f985_5512HLO6f.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1718-1772786528_69aa9360a3cc6_E60IgaoN7.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1719,
+        name: 'Moto Care STAND EXTENDER FOR TVS APACHE RTX 300',
+        price: 560,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1719-1772786359_69aa92b74c97a_xDeGZsiD5L.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1719-1772786359_69aa92b74c97a_xDeGZsiD5L.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1719-1772786367_69aa92bfef47c_ztwKd-p-S.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1719-1772786373_69aa92c5c8604_TAMWIo9Ta.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1719-1772786382_69aa92ce9b75c_Msn3Igz9L.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1720,
+        name: 'Moto Care UPPER LOWER CRASH GUARD FOR TVS APACHE RTX 300',
+        price: 5600,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1720-1771414341_6995a345ae545_jy_FzhoAY.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1720-1771414341_6995a345ae545_jy_FzhoAY.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1720-1771414401_6995a3810bea9_Df-07xR6G.jpg',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1720-1771414413_6995a38da3968_BVcRWZZpv.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1720-1771414422_6995a3964f659_rze9E9aUS.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },{
+        id: 1721,
+        name: 'Moto Care SADDLE STAY WITH PLATE FOR TVS APACHE RTX 300',
+        price: 3200,
+        discount: 0,
+        image: 'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1721-1771413436_69959fbcc31cb_HEsmTJ4YO.png',
+        galleryImages: [
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1721-1771413436_69959fbcc31cb_HEsmTJ4YO.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1721-1771413673_6995a0a9bb421_8xLDSvVaMk.jpg',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1721-1771413686_6995a0b6e8a68_q5ndDdPmi.png',
+            'https://ik.imagekit.io/zcuzede8x/products/1706-1729/product-1721-1771413695_6995a0bfa3bcf_3FoYBp19c.png'
+        ],
+        category: 'Performance Parts',
+        subcategory: '',
+        brand: 'Moto Care',
+        rating: 5,
+        reviews: 234,
+        isNew: true,
+        bikes: ['TVS'],
+        description: 'Improve Performance with Moto Care Parts',
+        specifications: {
+            'Material': 'Hard Plastic',
+            'Sound': 'okay',
+            'Compatibility': 'TVS',
+            'Warranty': '1 year'
+        }
+    },
 {
         id: 1722,
         name: 'Moto Care CNC CARRIER WITH BACKREST FOR TVS APACHE RTX 300',
