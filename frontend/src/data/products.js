@@ -2421,8 +2421,7 @@ const catalogProducts = [
         image: 'https://ik.imagekit.io/75x3dyvaw/product%2091-100/product/product94_wdp6f9.png',
         galleryImages: [
             'https://ik.imagekit.io/75x3dyvaw/product%2091-100/gallery/galleryp941_xkecll.png',
-            'https://ik.imagekit.io/75x3dyvaw/product%2091-100/gallery/galleryp942_ylfo8j.png',
-            'MISSING_galleryp943'  // ⚠️ Not in your paste
+            'https://ik.imagekit.io/75x3dyvaw/product%2091-100/gallery/galleryp942_ylfo8j.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -2473,7 +2472,6 @@ const catalogProducts = [
         image: 'https://ik.imagekit.io/75x3dyvaw/product%2091-100/product/pro96_im37lu.jpg',
         galleryImages: [
             'https://ik.imagekit.io/75x3dyvaw/product%2091-100/gallery/galleryp961_d1rz2c.png',
-            'MISSING_galleryp962',  // ⚠️ Not in your paste
             'https://ik.imagekit.io/75x3dyvaw/product%2091-100/gallery/galleryp963_idti5g.png'
         ],
         category: 'Touring',
@@ -7846,11 +7844,10 @@ const catalogProducts = [
         name: 'MODERN TECH HERO Dynamic Crash Guard / XPULSE',
         price: 4600,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776071392/correction_67497fa1-0318-4362-bcf2-4d4ba8659632_ar3igw.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/308/product308_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776071392/correction_67497fa1-0318-4362-bcf2-4d4ba8659632_ar3igw.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776071392/correction_67497fa1-0318-4362-bcf2-4d4ba8659632_ar3igw.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776071392/correction_67497fa1-0318-4362-bcf2-4d4ba8659632_ar3igw.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/308/product308_main.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/308/product308_main.jpg'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -8272,11 +8269,10 @@ const catalogProducts = [
         name: 'vesrah Royal Enfield Hunter 350 - Vesrah Brake pads (Ceramic)',
         price: 3395,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436014/REMeteorHunter350Breakpads_dffef7cd-a614-426f-9a6e-83b31a929088_oyd7bt.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/325/product325_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436014/REMeteorHunter350Breakpads_dffef7cd-a614-426f-9a6e-83b31a929088_oyd7bt.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436014/REMeteorHunter350Breakpads_dffef7cd-a614-426f-9a6e-83b31a929088_oyd7bt.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436014/REMeteorHunter350Breakpads_dffef7cd-a614-426f-9a6e-83b31a929088_oyd7bt.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/325/product325_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/325/product325_gallery2.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Brake Pads',
@@ -8322,11 +8318,10 @@ const catalogProducts = [
         name: 'vesrah Royal Enfield Himalayan / Himalayan Scram Vesrah Brake pads (Ceramic)',
         price: 3395,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436181/Untitled-design-2-1-30_yx6bom.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/327/product327_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436181/Untitled-design-2-1-30_yx6bom.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436181/Untitled-design-2-1-30_yx6bom.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436181/Untitled-design-2-1-30_yx6bom.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/327/product327_main.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/327/product327_main.png'
         ],
         category: 'Performance Parts',
         subcategory: 'Brake Pads',
@@ -8447,11 +8442,10 @@ const catalogProducts = [
         name: 'vesrah KTM RC 390 Vesrah brake pad (Ceramic)',
         price: 3395,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436473/KTM-Duke-brake-pad-Vesrah-Ceramic_ksp8uw.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/332/product332_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436473/KTM-Duke-brake-pad-Vesrah-Ceramic_ksp8uw.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436473/KTM-Duke-brake-pad-Vesrah-Ceramic_ksp8uw.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436473/KTM-Duke-brake-pad-Vesrah-Ceramic_ksp8uw.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/332/product332_main.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/332/product332_main.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Brake Pads',
@@ -8472,11 +8466,10 @@ const catalogProducts = [
         name: 'vesrah KTM Duke125/duke 250 Brake Pads (Ceramic)',
         price: 3395,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436397/vesrah-ceramic-ktm-rc-disc-pad_b4twsq.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/333/product333_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436397/vesrah-ceramic-ktm-rc-disc-pad_b4twsq.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436397/vesrah-ceramic-ktm-rc-disc-pad_b4twsq.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436397/vesrah-ceramic-ktm-rc-disc-pad_b4twsq.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/333/product333_main.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/333/product333_main.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Brake Pads',
@@ -8647,11 +8640,10 @@ const catalogProducts = [
         name: 'vesrah aprilia SR 125 Vesrah Brake Pad Front and Rear',
         price: 3935,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788437016/Screenshot_2026-09-03_173316_tdyz3w.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/341/product341_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788437016/Screenshot_2026-09-03_173316_tdyz3w.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788437016/Screenshot_2026-09-03_173316_tdyz3w.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788437016/Screenshot_2026-09-03_173316_tdyz3w.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/341/product341_main.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/341/product341_main.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Brake Pads',
@@ -8722,11 +8714,10 @@ const catalogProducts = [
         name: 'vesrah Honda highness CB350/ CB 350 RS Vesrah BRAKE PADS (Ceramic)',
         price: 3935,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436181/Untitled-design-2-1-30_yx6bom.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/344/product344_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436181/Untitled-design-2-1-30_yx6bom.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436181/Untitled-design-2-1-30_yx6bom.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788436181/Untitled-design-2-1-30_yx6bom.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/344/product344_main.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/344/product344_main.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Brake Pads',
@@ -8845,11 +8836,10 @@ const catalogProducts = [
         name: 'vesrah Triumph Speed 400 Vesrah Brake pads (Ceramic)',
         price: 3935,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788437469/Screenshot_2026-09-03_174048_menqd8.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/349/product349_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788437469/Screenshot_2026-09-03_174048_menqd8.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788437469/Screenshot_2026-09-03_174048_menqd8.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788437469/Screenshot_2026-09-03_174048_menqd8.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/349/product349_main.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/349/product349_main.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Brake Pads',
@@ -8870,11 +8860,10 @@ const catalogProducts = [
         name: 'vesrah Kawasaki Z900 Front brake pad (Ceramic)',
         price: 3935,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788437536/Screenshot_2026-09-03_174200_hqetkv.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/350/product350_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788437536/Screenshot_2026-09-03_174200_hqetkv.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788437536/Screenshot_2026-09-03_174200_hqetkv.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788437536/Screenshot_2026-09-03_174200_hqetkv.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/350/product350_main.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/350/product350_main.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Brake Pads',
@@ -9120,11 +9109,10 @@ const catalogProducts = [
         name: 'BOBO BM16 Anti-Vibration Metallic Bike Phone Holder (with Fast 15W Wireless Charger) - Mobile Holder',
         price: 7999,
         discount: 12,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434585/418prO72eYL._SY300_SX300_QL70_FMwebp__vsga5i.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/360/product360_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434585/418prO72eYL._SY300_SX300_QL70_FMwebp__vsga5i.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434585/418prO72eYL._SY300_SX300_QL70_FMwebp__vsga5i.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434585/418prO72eYL._SY300_SX300_QL70_FMwebp__vsga5i.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/360/product360_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/360/product360_gallery2.jpg'
         ],
         category: 'Lighting',
         subcategory: 'Electricals',
@@ -9637,11 +9625,12 @@ const catalogProducts = [
         name: 'LGP BLUETOOTH BT-12 WIRELESS MOTORCYCLE HELMET HEADSET WITH MIC',
         price: 2299,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435006/41QwQCH3p3L._SY300_SX300_QL70_FMwebp__ji4f05.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/381/product381_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435006/41QwQCH3p3L._SY300_SX300_QL70_FMwebp__ji4f05.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435006/41QwQCH3p3L._SY300_SX300_QL70_FMwebp__ji4f05.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435006/41QwQCH3p3L._SY300_SX300_QL70_FMwebp__ji4f05.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/381/product381_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/381/product381_gallery2.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/381/product381_gallery3.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/381/product381_gallery4.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'BLUETOOTH & Intercom',
@@ -9686,11 +9675,10 @@ const catalogProducts = [
         name: 'LGP IND ASSY D124',
         price: 350,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435177/Screenshot_2026-09-03_170235_yobsxv.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/383/product383_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435177/Screenshot_2026-09-03_170235_yobsxv.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435177/Screenshot_2026-09-03_170235_yobsxv.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435177/Screenshot_2026-09-03_170235_yobsxv.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/383/product383_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/383/product383_gallery2.jpg'
         ],
         category: 'Lighting',
         subcategory: 'Indicators',
@@ -15774,11 +15762,10 @@ const catalogProducts = [
         name: 'Axor Apex Marvel Spider Man Edition Full-Face Helmet With Spoiler',
         price: 6500,
         discount: 3,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998253/axor_caafbk.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/625/product625_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998252/axo_vc1lfc.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998253/axor1_p6o8ep.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998253/helmets_ysj2yy.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/625/product625_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/625/product625_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -15800,11 +15787,10 @@ const catalogProducts = [
         name: 'Axor Apex Scratch Helmet With Spoiler',
         price: 5498,
         discount: 2,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1785997912/19_900x_j0dvkl.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/626/product626_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785997912/23_d27de4ce-63b6-496e-a064-39d3f99bb57f_900x_ltap7v.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785997912/20_ca3857db-ec54-4db5-9167-79415799d30c_900x_uoluwp.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785997913/25_cc465ee7-da20-446b-a4a6-48fbfe84a616_900x_dtiatz.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/626/product626_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/626/product626_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -15826,11 +15812,10 @@ const catalogProducts = [
         name: 'Axor X Altor Apex Venomous Smart Bluetooth Helmet',
         price: 7910,
         discount: 3,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998481/141_900x_h4vtlj.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/627/product627_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998482/142_900x_jpsb8u.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998483/144_900x_dqnjur.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998480/72_900x_cbwdmw.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/627/product627_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/627/product627_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -15851,11 +15836,10 @@ const catalogProducts = [
         name: 'Axor Brutale Corsa Dual Spoiler Helmet',
         price: 7991,
         discount: 3,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998670/64_900x_h9o5oh.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/628/product628_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998671/66_900x_keeunk.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998671/68_900x_tgzw2v.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998672/71_900x_upk89o.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/628/product628_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/628/product628_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -15876,11 +15860,10 @@ const catalogProducts = [
         name: 'Axor Apex Ascetic Helmet',
         price: 5498,
         discount: 3,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998860/127_c_d6h0tz.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/629/product629_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998862/129_b_nnyw7x.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998863/131_2_zgb6jj.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785998864/135_8_rydbdc.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/629/product629_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/629/product629_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -15901,11 +15884,10 @@ const catalogProducts = [
         name: 'Axor xBhp Bionic Helmet',
         price: 6500,
         discount: 3,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999006/APEX_XBHP_BIONIC_WEB-3_900x_kcx54s.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/630/product630_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999007/APEXXBHPBIONICWEB-7_900x_ckju73.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999009/APEXXBHPBIONICWEB-8_900x_nlviqy.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999010/APEXXBHPBIONICWEB-9_900x_ky3dmk.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/630/product630_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/630/product630_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -15926,11 +15908,10 @@ const catalogProducts = [
         name: 'Axor Brutale Kryptic Dual Spoiler Helmet',
         price: 7991,
         discount: 3,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999146/46_900x_elsfei.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/631/product631_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999147/47_900x_oqxzqd.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999148/50_900x_zl6ua7.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999149/53_900x_yp0ynz.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/631/product631_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/631/product631_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -15951,11 +15932,10 @@ const catalogProducts = [
         name: 'Axor Brutale Surges Dual Spoiler Helmet',
         price: 7991,
         discount: 3,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999317/130_900x_nzwlqu.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/632/product632_main_K7FtkJHmid.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999317/132_900x_wnvqmg.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999319/134_900x_qupjch.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999319/136_900x_p66chz.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/632/product632_gallery1_SXu8_ryUt.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/632/product632_gallery2_ZSnNlTDgc.png'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -15976,11 +15956,10 @@ const catalogProducts = [
         name: 'AxorX-Cross Dual Visor Gambling Helmet',
         price: 7406,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999511/X_CROSS_GAMBLING_BLACK_BLUE_2_900x_dzkqzs.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/633/product633_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999512/XCROSSGAMBLINGBLACKBLUE_3_900x_xt2noj.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999513/XCROSSGAMBLINGBLACKBLUE_8_900x_mnmhur.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999514/XCROSSGAMBLINGBLACKBLUE_9_900x_yu6rjj.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/633/product633_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/633/product633_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16001,11 +15980,10 @@ const catalogProducts = [
         name: 'Axor Brutale Solid Colors Dual Spoiler Helmet',
         price: 7991,
         discount: 3,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999656/11_11d102cc-ac9b-49a6-b000-8e2cc2a94428_900x_j7y2tg.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/634/product634_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999657/13_fb5db30f-3d06-46c3-957a-6a94df7278e9_900x_bk3zsi.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999659/16_aecb2991-7865-4f8b-b051-b28ba0995c4d_900x_wethf8.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999659/19_9a02b9a1-1f46-401d-b7ce-72c791d585d5_900x_ukld25.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/634/product634_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/634/product634_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16026,11 +16004,10 @@ const catalogProducts = [
         name: 'Axor Apex Infinity Helmet',
         price: 5498,
         discount: 4,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999786/AXORINFINITY2_900x_nvfhf6.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/635/product635_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999788/AXORINFINITY3_900x_y9duvq.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999788/AXORINFINITY4_900x_m5oygl.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999789/AXORINFINITY6_900x_fmaoin.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/635/product635_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/635/product635_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16051,11 +16028,10 @@ const catalogProducts = [
         name: 'Axor X Altor Apex Smart Bluetooth Helmet',
         price: 7910,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999950/170_b4f790a2-cce5-458f-b467-0c6224753569_900x_apg0co.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/636/product636_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999949/169_900x_vumbpm.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999953/172_f65c12a3-487b-4de6-b4f0-13cdd7f2ae42_900x_zwd4gr.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1785999955/ALTOR_1-6_900x_m9nqwh.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/636/product636_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/636/product636_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16077,11 +16053,10 @@ const catalogProducts = [
         name: 'Axor Hunter DC Superman Helmet',
         price: 3770,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000222/1_1ee7e1be-f970-4925-ba87-da10985359cc_900x_rx6gvq.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/637/product637_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000223/2_453c2bde-c157-49b1-a273-a51a6fab493e_900x_wmmny9.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000225/4_a98c6044-ea39-430f-b54c-79407fedd281_900x_wypl1w.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000226/5_e24243c5-006f-4a36-bee5-b56a1dbeab9b_900x_ynvmxk.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/637/product637_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/637/product637_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16103,11 +16078,10 @@ const catalogProducts = [
         name: 'Axor Street Marvel Captain America Helmet',
         price: 6500,
         discount: 4,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000372/StreetCaptainAmericaBlue10802_900x_oegumd.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/638/product638_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000374/StreetCaptainAmericaBlue10803_900x_wyhaow.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000375/StreetCaptainAmericaBlue10806_900x_weknav.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000377/StreetCaptainAmericaBlue10809_900x_pgqtdw.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/638/product638_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/638/product638_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16129,11 +16103,10 @@ const catalogProducts = [
         name: 'Axor Saber Sasuke Helmet',
         price: 4670,
         discount: 3,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000542/SasukeWeb3_900x_wkyxk3.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/639/product639_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000541/SasukeWeb2_900x_rexwx6.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000544/SasukeWeb7_900x_uzj7rd.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000546/SasukeWeb9_900x_bha30q.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/639/product639_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/639/product639_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16155,11 +16128,10 @@ const catalogProducts = [
         name: 'Axor Saber Spark Helmet',
         price: 4220,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000717/BLACK_RED_3_c6c6ac71-4455-423c-ac7d-fe13e50a0fb3_900x_j7hknh.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/640/product640_main_PJ7smRz0G.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000718/BLACK_RED_4_be3ee861-ec48-4754-899f-f27bfab8c04e_900x_qkelci.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000720/BLACK_RED_6_b739da03-8694-4020-a661-2fc5de094b3c_900x_hssr1p.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000721/BLACK_RED_8_5ac9ff76-0f8a-4c45-9073-e3736e4c76f7_900x_mhdjpv.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/640/product640_gallery1_1pvikLia2.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/640/product640_gallery2_LYfrdbA21.png'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16181,11 +16153,10 @@ const catalogProducts = [
         name: 'Axor Saber Shadow Helmet',
         price: 4220,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000873/BLACKMBLUE3_900x_d495jx.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/641/product641_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000875/BLACKMBLUE6_900x_rmldtm.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786000877/BLACKMBLUE9_900x_gju1xh.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001060/BLACKMBLUE1_900x_lxxckz.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/641/product641_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/641/product641_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16207,11 +16178,10 @@ const catalogProducts = [
         name: 'Axor Hunter Shark Helmet',
         price: 3905,
         discount: 4,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001174/BLUE_WHITE_3_900x_gi9mpv.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/642/product642_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001172/BLUE_WHITE_1_900x_nodo0k.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001177/BLUE_WHITE_5_900x_lary8i.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001178/BLUE_WHITE_9_900x_ema7du.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/642/product642_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/642/product642_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16233,11 +16203,10 @@ const catalogProducts = [
         name: 'Axor Apex Marvel Black Panther Helmet',
         price: 6500,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001344/BLACK_GOLD_3_900x_og0ogg.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/643/product643_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001333/BLACK_GOLD_2_900x_igmy4m.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001345/BLACK_GOLD_8_900x_spd7uk.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001347/BLACK_GOLD_9_900x_xrx7k9.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/643/product643_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/643/product643_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16259,11 +16228,10 @@ const catalogProducts = [
         name: 'Axor X-Cross Dual Visor Speedometer Helmet',
         price: 7406,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001541/WHITE_GREY_2_900x_yz5jxk.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/644/product644_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001544/WHITE_GREY_3_900x_h44x1p.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001546/WHITE_GREY_9_900x_dd4zec.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001539/WHITE_GREY_1_900x_gcpatd.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/644/product644_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/644/product644_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16285,11 +16253,10 @@ const catalogProducts = [
         name: 'Axor X-Cross Dual Visor Flagstaff Helmet',
         price: 7406,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001671/NEON_YELLOW_BLACK_2_900x_jfkg1k.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/645/product645_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001673/NEON_YELLOW_BLACK_3_900x_qdtsp5.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001675/NEON_YELLOW_BLACK_8_900x_upn5vf.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001678/NEON_YELLOW_BLACK_9_900x_nazhsd.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/645/product645_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/645/product645_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16311,11 +16278,10 @@ const catalogProducts = [
         name: 'Axor X-Cross Dual Visor Orbit Helmet',
         price: 7406,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001885/RED_BLACK_2_be218ed5-bffe-4048-8e47-b105c57caeec_900x_rm0bfu.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/646/product646_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001888/RED_BLACK_6_b55e7ffc-58f1-4cb8-9e26-42c715e5c648_900x_kv0xiy.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001883/RED_BLACK_1_7f9bea4a-ee6e-4eed-b2ca-9c642d75c15a_900x_dzytba.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786001890/RED_BLACK_9_db4ed4f8-2e1a-4906-8009-230e19d9fb26_900x_his6zy.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/646/product646_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/646/product646_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16337,11 +16303,10 @@ const catalogProducts = [
         name: 'Axor Apex Prism Helmet',
         price: 5498,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002048/PRISMWHITERED3_900x_l6qvag.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/647/product647_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002050/PRISMWHITERED6_900x_nvcyv7.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002052/PRISMWHITERED8_900x_yoo26u.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002055/PRISMWHITERED9_900x_hrcus8.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/647/product647_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/647/product647_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16363,11 +16328,10 @@ const catalogProducts = [
         name: 'Axor Hunter Spear Helmet',
         price: 3905,
         discount: 4,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002222/RED_BLACK_3_900x_cn3ovy.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/648/product648_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002220/RED_BLACK_1_900x_nfvzkl.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002241/RED_BLACK_9_900x_bj69f2.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002238/RED_BLACK_5_900x_tpvwfq.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/648/product648_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/648/product648_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16389,11 +16353,9 @@ const catalogProducts = [
         name: 'Axor Apex Gloss Carbon Small Checks Helmet',
         price: 13193,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002389/New_Carbon_Green_3_900x_ny5o9q.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/649/product649_main_zllLAPdsw.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002391/New_Carbon_Green_9_900x_v9tfh9.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002393/New_Carbon_Green6_900x_jehweh.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002386/New_Carbon_Green_1_900x_w6dcjg.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/649/product649_gallery1_YriGxfl7w.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16415,11 +16377,10 @@ const catalogProducts = [
         name: 'Axor Hunter Cornet Helmet',
         price: 3905,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002571/Hunter_VISION_2_yekqvk.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/650/product650_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002569/Hunter_SPOILER_2_vavead.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002569/Hunter_SPOILER_2_vavead.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002571/Hunter_VISION_2_yekqvk.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/650/product650_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/650/product650_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16441,11 +16402,10 @@ const catalogProducts = [
         name: 'AxorHunter Turbo Helmet',
         price: 3905,
         discount: 3,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002720/WHITERED_3_ecb84f10-6ce4-460b-9120-11a74cb03305_900x_y3ytio.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/651/product651_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002723/WHITERED_7_065b77bb-11a3-414a-8248-9cd4a6ac634e_900x_xe0gcj.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002717/WHITERED_1_066a7eea-edd5-4ca2-9409-8209fcc149a6_900x_wj9yzj.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002725/WHITERED_9_827b0b8e-4071-4683-ad92-012b6482d96f_900x_soq6n6.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/651/product651_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/651/product651_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16467,11 +16427,10 @@ const catalogProducts = [
         name: 'Axor Hunter Solid Colors Helmet',
         price: 3905,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002862/Black_3_edbc848a-41f0-4fae-9b7e-8b41ff8a8fd3_900x_omydto.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/652/product652_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002867/Black_8_31f33ff0-377b-47aa-bf01-6387295d3f52_900x_oiwoip.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002864/Black_5_8eec9a4c-9597-46e4-b464-11bf493efd54_900x_rhhsf3.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786002869/Black_9_9c961131-3b0a-4da4-8f77-55602e523251_900x_cffsga.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/652/product652_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/652/product652_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16493,11 +16452,10 @@ const catalogProducts = [
         name: 'Axor Saber X-Sport Helmet',
         price: 4220,
         discount: 4,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786003025/BLACK_NEON_YELLOW_3_900x_bzyuxj.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/653/product653_main_bOxvPD_jc.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786003022/BLACK_NEON_YELLOW_2_900x_evyjfq.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786003019/BLACK_NEON_YELLOW_1_900x_xdckvz.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786003027/BLACK_NEON_YELLOW_4_900x_x3khhy.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/653/product653_gallery1__LnBW5LFqx.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/653/product653_gallery2_1BRDCcEjY.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16519,11 +16477,10 @@ const catalogProducts = [
         name: 'Axor Saber Naruto Helmet',
         price: 4670,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786003249/BLACK_ORANGE_3_90a52c97-a617-4465-93d0-9f2e3bcf0552_900x_1_ksfdoc.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/654/product654_main_kUdA0VZp-z.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786003229/BLACKORANGE_8_eacd95fe-47f0-4969-a2a9-d27f6b7dea9c_900x_ffiarc.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786003226/BLACKORANGE_6_ec439ec1-011a-48ac-bfa6-4de134d91879_900x_vlcreb.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786003223/BLACKORANGE_1_2196d818-ee71-404e-8815-da9c582340d0_900x_auduer.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/654/product654_gallery1_2BZT08FwL.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/654/product654_gallery2_nVAfGBfFo.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16545,11 +16502,10 @@ const catalogProducts = [
         name: 'Axor Saber Single Colors Helmet',
         price: 4220,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786003894/SaberBlack_3_900x_mb7hrb.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/655/product655_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786003890/SaberBlack_2_900x_nwv8cv.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786003887/SaberBlack_1_900x_oiddmf.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786003899/SaberBlack_7_900x_mmsvzb.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/655/product655_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/655/product655_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16571,11 +16527,10 @@ const catalogProducts = [
         name: 'Axor Apex Marvel Deadpool Helmet',
         price: 6500,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004063/REDBLACK_3_be791107-e02b-4cf5-9cf6-9f4b8668f695_900x_hshylw.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/656/product656_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004060/REDBLACK_2_8267343c-bc2e-47e0-9dff-8cc76588e19f_900x_nw2fqi.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004099/REDBLACK_5_8b689e93-b9ae-4dd0-bea5-25e5c6938f02_900x_daivqk.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004057/REDBLACK_1_5395d0a0-7797-4208-a2c4-b28046337c8a_900x_vnifrb.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/656/product656_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/656/product656_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16597,11 +16552,10 @@ const catalogProducts = [
         name: 'Axor Apex Streak Helmet',
         price: 5498,
         discount: 4,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004199/BLACKBLUEBLACK_3_900x_brgpch.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/657/product657_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004234/BLACKBLUEBLACK_6_900x_kcui5u.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004238/BLACKBLUEBLACK_9_900x_qtq2wi.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004197/BLACKBLUEBLACK_1_900x_elceve.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/657/product657_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/657/product657_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16624,11 +16578,10 @@ const catalogProducts = [
         name: 'Axor Apex Dynamo Helmet',
         price: 5498,
         discount: 4,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004387/BLACKNEONYELLOW3_2f55324d-020f-47e0-bf16-b9401fb3ecdf_900x_v5rbtn.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/658/product658_main_ZNZ6iRjGf.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004391/BLACKNEONYELLOW7_8743c8c9-150f-443c-83a3-ac3a3f5938fc_900x_e4pgub.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004346/BLACKNEONYELLOW2_3d4c936c-903a-43ed-bbbb-9a735a7bf6f8_900x_jadza0.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004394/BLACKNEONYELLOW9_36b5a485-2a32-4aef-89ca-6997f1cd04bb_900x_q17bl8.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/658/product658_gallery1_8aIzaG5Au.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/658/product658_gallery2_aG3KGMB7n.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16650,11 +16603,10 @@ const catalogProducts = [
         name: 'Axor X-cross X1 Dual Visor Helmet',
         price: 7406,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004536/WHITERED2_900x_dirhck.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/659/product659_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004539/WHITERED4_900x_c7wmda.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004542/WHITERED9_900x_ighunh.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004517/WHITERED1_900x_hn6ppz.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/659/product659_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/659/product659_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16676,11 +16628,10 @@ const catalogProducts = [
         name: 'Axor Apex Trance Helmet',
         price: 5498,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004744/Trance_3_900x_na1j7t.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/660/product660_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004770/BLACKRED6copy_ae5fc984-5b24-4235-81cf-1844b63f82d7_900x_fnru3p.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004746/Trance_9_900x_bdkeau.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004740/Trance_1_900x_nehjk8.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/660/product660_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/660/product660_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16702,11 +16653,10 @@ const catalogProducts = [
         name: 'AxorApex Gloss Carbon Helmet',
         price: 13193,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004911/CarbonFibre_3_900x_bxxhjg.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/661/product661_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004914/CarbonFibre_4_900x_kofswx.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004908/CarbonFibre_1_900x_bjtbp5.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786004908/CarbonFibre_1_900x_bjtbp5.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/661/product661_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/661/product661_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16727,11 +16677,10 @@ const catalogProducts = [
         name: 'Axor Apex Forged Carbon Helmet',
         price: 13193,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005058/ForgedCarbon_3_900x_hejm01.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/662/product662_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005061/ForgedCarbon_7_900x_m3lhnd.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005071/ForgedCarbon_9_900x_puawyx.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005064/ForgedCarbon_8_900x_d4s37i.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/662/product662_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/662/product662_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16752,11 +16701,10 @@ const catalogProducts = [
         name: 'Axor X-Cross Flash Dual Visor Helmet',
         price: 7406,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005192/NeonYellowRed_10_900x_slknrn.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/663/product663_main_jo_JbJ1PM.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005195/NeonYellowRed_11_900x_nicm4e.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005199/NeonYellowRed_16_900x_vz5zoj.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005202/NeonYellowRed_17_900x_evhvyg.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/663/product663_gallery1_F79bthl3i.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/663/product663_gallery2_WPY3zxhLr.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16777,11 +16725,10 @@ const catalogProducts = [
         name: 'Axor Apex Marvel Venom Helmet',
         price: 6500,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005402/BlackRed_3_3d0a99c7-100f-4091-98a1-19f80924818d_900x_hbnb2q.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/664/product664_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005399/BlackRed_2_90dab69c-a3ee-4c7c-a33a-5aeb8d40aaba_900x_wscquw.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005405/BlackRed_8_ef5c2925-f751-4946-ac46-27c48b1e09c0_900x_eqzdee.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005386/BlackRed_1_12cdc599-8204-4ee0-b013-bfe53b20f16b_900x_xe1qpw.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/664/product664_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/664/product664_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16802,11 +16749,10 @@ const catalogProducts = [
         name: 'Axor X-Cross Dual Visor Helmet',
         price: 7406,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005470/BlackOrange_2_900x_muzxpz.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/665/product665_main_0ulRQ7l2P.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005473/BlackOrange_3_900x_orhliz.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005477/BlackOrange_9_900x_woh8c1.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005467/BlackOrange_1_900x_l2axac.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/665/product665_gallery1_HDqPs6-5P.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/665/product665_gallery2_0Rro1q1EU_.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16827,11 +16773,10 @@ const catalogProducts = [
         name: 'Axor Street DC Batman Helmet',
         price: 6500,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005616/DullAnthraciteBlack_3_900x_kqwch8.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/666/product666_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005609/DullAnthraciteBlack_2_900x_aavz1d.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005620/DullAnthraciteBlack_7_900x_fizdhm.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005623/DullAnthraciteBlack_9_900x_dxbfkk.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/666/product666_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/666/product666_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16852,11 +16797,10 @@ const catalogProducts = [
         name: 'Axor Apex DC Joker Helmet',
         price: 6500,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005757/Jokers_3_900x_jahj4y.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/667/product667_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005754/Jokers_2_900x_wzswjo.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005764/Jokers_9_900x_zjgrmx.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005761/Jokers_4_26ccd119-dc61-47ab-8602-0b46821bdb86_900x_uiu2c2.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/667/product667_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/667/product667_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16877,11 +16821,10 @@ const catalogProducts = [
         name: 'Axor xBhp Speed of Thought Helmet',
         price: 6500,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005911/xbhb_3_900x_mhkzev.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/668/product668_main_2jmNCPW-fN.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005908/xbhb_2_900x_safa4n.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005985/xbhb_6_900x_bnsc1h.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786005988/xbhb_9_900x_zengat.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/668/product668_gallery1_J1KCLHrfiz.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/668/product668_gallery2_zDojAnBEFC.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16902,11 +16845,10 @@ const catalogProducts = [
         name: 'Axor Street Solid Black Helmet',
         price: 5498,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006059/Streetblack_3_900x_hjxikl.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/669/product669_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006056/Streetblack_2_caeb5a54-6ea3-4eb2-ade1-25aca6d3ebd4_900x_jyed9e.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006052/Streetblack_1_dd9544ff-39fb-4824-9b86-12d7c063ed3c_900x_gi44re.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006049/Streetblack_1_900x_crnlga.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/669/product669_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/669/product669_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16927,11 +16869,10 @@ const catalogProducts = [
         name: 'Axor X-cross X1 Helmet',
         price: 5498,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006236/X1WHITERED_2_900x_yakxcx.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/670/product670_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006240/X1WHITERED_3_900x_bah5r0.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006244/X1WHITERED_9_900x_abzyio.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006233/X1WHITERED_1_900x_ugttmh.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/670/product670_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/670/product670_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16953,11 +16894,10 @@ const catalogProducts = [
         name: 'Axor Retro Moto-X Helmet',
         price: 5498,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006397/RetroMotoXAthenaGrey_2_900x_kpcflj.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/671/product671_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006393/RetroMotoXAthenaGrey_1_900x_hvryvb.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006401/RetroMotoXAthenaGrey_6_900x_scclpu.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006408/RetroMotoXAthenaGrey_9_900x_iqsd5m.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/671/product671_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/671/product671_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -16979,11 +16919,10 @@ const catalogProducts = [
         name: 'Axor Apex Turbine Helmet',
         price: 5498,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006515/TurbineBlackBlue_3_900x_p6ds14.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/672/product672_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006519/TurbineBlackBlue_7_900x_zdafdz.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006523/TurbineBlackBlue_9_900x_xtfhwb.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006511/TurbineBlackBlue_2_900x_calw5j.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/672/product672_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/672/product672_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17004,11 +16943,10 @@ const catalogProducts = [
         name: 'Axor Apex Vivid Helmet',
         price: 5498,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006754/DULLBLACKNEONYELLOW3_900x_bhiu8s.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/673/product673_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006754/DULLBLACKNEONYELLOW6_900x_xxkdat.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006754/DULLBLACKNEONYELLOW9_900x_ursaa9.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006753/DULLBLACKNEONYELLOW2_900x_mpf4za.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/673/product673_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/673/product673_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17029,11 +16967,10 @@ const catalogProducts = [
         name: 'Axor Apex Venomous Helmet',
         price: 5498,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006871/VENOMOUSDULLBLACKGREY_3_900x_t9koa4.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/674/product674_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006871/VENOMOUSDULLBLACKGREY_7_900x_f5jgaf.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006871/VENOMOUSDULLBLACKGREY_1_900x_w4esgf.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786006871/VENOMOUSDULLBLACKGREY_9_900x_wstnir.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/674/product674_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/674/product674_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17054,11 +16991,10 @@ const catalogProducts = [
         name: 'Axor Apex Seadevil helmet',
         price: 5498,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007023/SeaDevilBlackGold_3_900x_lm4dhp.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/675/product675_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007023/SeaDevilBlackGold_7_900x_r9ap7e.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007023/SeaDevilBlackGold_9_900x_cndckv.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007022/SeaDevilBlackGold_1_900x_caiwi2.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/675/product675_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/675/product675_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17079,11 +17015,10 @@ const catalogProducts = [
         name: 'Axor Apex Hunter Helmet',
         price: 5498,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007133/NEONBLUE_3_900x_bweg43.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/676/product676_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007133/NEONBLUE_6_900x_ympyoi.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007133/NEONBLUE_1_900x_uaudok.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007134/NEONBLUE_9_900x_bna00f.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/676/product676_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/676/product676_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17104,11 +17039,10 @@ const catalogProducts = [
         name: 'Axor Apex Hex-2 Helmet',
         price: 5498,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007285/CoolGreyRed3_900x_xzuyye.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/677/product677_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007257/CoolGreyRed2_900x_-_Copy_yfn5mv.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007256/CoolGreyRed_3_900x_-_Copy_ldmh3u.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007255/CoolGreyRed_2_900x_-_Copy_p3akx8.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/677/product677_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/677/product677_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17129,11 +17063,10 @@ const catalogProducts = [
         name: 'Axor Apex Solid Color Helmet',
         price: 5498,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007434/HEX_BLUE_3_900x_jx1hgx.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/678/product678_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007434/HEX_BLUE_6_900x_ovulcs.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007433/HEX_BLUE_1_900x_sykv3w.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786007435/HEX_BLUE_9_900x_wgtcym.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/678/product678_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/678/product678_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17154,11 +17087,11 @@ const catalogProducts = [
         name: 'SMK Typhoon Uni GL200 Gloss Black XL',
         price: 4950,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786012979/HEL68501_as55pb.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/679/product679_main_rdlCXeRDl.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786012979/img_6698-jpeg-600x600_smvvpb.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786012979/img_6706-jpeg-600x600_cyv6nu.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786012980/img_6697-1-jpeg-scaled_cotx4w.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/679/product679_main_rdlCXeRDl.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/679/product679_main_rdlCXeRDl.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/679/product679_main_rdlCXeRDl.webp'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17180,11 +17113,10 @@ const catalogProducts = [
         name: 'SMK Typhoon Unicolor MA200 Matt Black',
         price: 5200,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013186/HEL71321_txmwez.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/680/product680_main_zmdDWavtb.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013186/29272-750_10000664860_b-1-3-600_twsmsc.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013186/HEL71321_txmwez.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013186/HEL71321_txmwez.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/680/product680_gallery1_GOCKtIC-w.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/680/product680_gallery2_HHezxrNAr.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17205,11 +17137,9 @@ const catalogProducts = [
         name: 'SMK Stellar Sports Stage GL262 Black Grey',
         price: 4400,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013311/HEL102301_1c0a6c5e-fe5b-4c06-b1f2-8cbd8e2f1817_zkiycf.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/681/product681_main_STHE6ypLF.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013311/HEL102301_1c0a6c5e-fe5b-4c06-b1f2-8cbd8e2f1817_zkiycf.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013311/HEL102301_1c0a6c5e-fe5b-4c06-b1f2-8cbd8e2f1817_zkiycf.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013311/HEL102301_1c0a6c5e-fe5b-4c06-b1f2-8cbd8e2f1817_zkiycf.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/681/product681_main_STHE6ypLF.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17230,11 +17160,10 @@ const catalogProducts = [
         name: 'SMK Retro Seven GL130 White Red',
         price: 6400,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013435/HEL23588SMKRETROSEVENGL130WHTREDL_eki3et.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/682/product682_main_8erxT7c8M.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013435/HEL23588SMKRETROSEVENGL130WHTREDL_eki3et.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013435/HEL23588SMKRETROSEVENGL130WHTREDL_eki3et.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013435/HEL23588SMKRETROSEVENGL130WHTREDL_eki3et.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/682/product682_main_8erxT7c8M.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/682/product682_gallery_extra1_2TSJBuSDk.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17255,11 +17184,9 @@ const catalogProducts = [
         name: 'SMK STELLAR SPORTS S01 STAGE MA262 MAT BLK GREY',
         price: 4400,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013580/51XMSS1x8VL._AC__jbtfkk.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/683/product683_main_VLfrRu2je.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013580/51XMSS1x8VL._AC__jbtfkk.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013580/51XMSS1x8VL._AC__jbtfkk.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013580/51XMSS1x8VL._AC__jbtfkk.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/683/product683_main_VLfrRu2je.png'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17280,11 +17207,11 @@ const catalogProducts = [
         name: 'SMK Stellar Flight GL256 Black Blue Grey',
         price: 4400,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013723/HEL22851SMKSTELLARFLIGHTGL256BLKBLUGRYXL2_nhcod6.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/684/product684_main_s7co58yiUT.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013723/HEL22851SMKSTELLARFLIGHTGL256BLKBLUGRYXL2_nhcod6.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013723/OIP_o6rufu.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013723/OIP_o6rufu.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/684/product684_main_s7co58yiUT.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/684/product684_main_s7co58yiUT.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/684/product684_main_s7co58yiUT.webp'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17305,11 +17232,9 @@ const catalogProducts = [
         name: 'SMK Agnar Tektron MA263 Matt Black Grey Red',
         price: 5900,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013843/HEL22799SMKAGNARTEKTRONMATTBLKGREYREDMA263M2_r3fs65.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/685/product685_main_4Au6CnUQj.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013843/HEL22799SMKAGNARTEKTRONMATTBLKGREYREDMA263M2_r3fs65.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013843/HEL22799SMKAGNARTEKTRONMATTBLKGREYREDMA263M2_r3fs65.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013842/AGNAR-TEKTRON-MA-263-2_xwy5bk.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/685/product685_gallery1_RkAzfAMWL.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17380,11 +17305,11 @@ const catalogProducts = [
         name: 'SMK Stellar Sports Flight GL266 Full Face Helmet Gloss Black Grey Grey',
         price: 4400,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014096/HEL22804SMKSTELLARSPORTSS01FLIGHTGL266BLKGRYGRYL1_g2c1ry.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/688/product688_main_XPtiMkdF8.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014096/HEL22804SMKSTELLARSPORTSS01FLIGHTGL266BLKGRYGRYL2_qul0qp.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014105/HEL22804SMKSTELLARSPORTSS01FLIGHTGL266BLKGRYGRYL3_uj4cns.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014096/HEL22804SMKSTELLARSPORTSS01FLIGHTGL266BLKGRYGRYL1_g2c1ry.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/688/product688_main_XPtiMkdF8.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/688/product688_main_XPtiMkdF8.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/688/product688_main_XPtiMkdF8.webp'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17405,11 +17330,11 @@ const catalogProducts = [
         name: 'SMK Agnar Tektron GL265 Black Grey Blue',
         price: 5900,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014215/1_wkmpv8.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/689/product689_main_l3dUysAm3.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014216/2_rlobkk.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014215/1_wkmpv8.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014216/2_rlobkk.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/689/product689_main_l3dUysAm3.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/689/product689_gallery_extra1_ryQTVk5k6.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/689/product689_gallery_extra2_EzKbQdu_L.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17431,11 +17356,11 @@ const catalogProducts = [
         name: 'SMK Agnar Unicolour MA600 Nardo Grey',
         price: 5600,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014380/29272-750_10000664860_b-1-3-600_ga0kpm.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/690/product690_main_1RlMt6qx0.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014382/HEL22823SMKAGNARUNICOLORMA600NARDOGRYXL1_f6c7lj.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014383/HEL22823SMKAGNARUNICOLORMA600NARDOGRYXL2_qoin3k.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014383/HEL22823SMKAGNARUNICOLORMA600NARDOGRYXL2_qoin3k.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/690/product690_main_1RlMt6qx0.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/690/product690_main_1RlMt6qx0.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/690/product690_main_1RlMt6qx0.webp'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17456,11 +17381,10 @@ const catalogProducts = [
         name: 'SMK Agnar Unicolour GL300 Wine Red',
         price: 5600,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014492/HEL22809SMKAGNARUNICOLORGL300WINEREDM1_vg8d2i.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/691/product691_main_wpMaBywde.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014494/HEL22809SMKAGNARUNICOLORGL300WINEREDM2_vjflzj.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014496/HEL22809SMKAGNARUNICOLORGL300WINEREDM3_muylzj.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014494/HEL22809SMKAGNARUNICOLORGL300WINEREDM2_vjflzj.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/691/product691_main_wpMaBywde.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/691/product691_gallery_extra1_ZrTcbVvUD.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17481,11 +17405,9 @@ const catalogProducts = [
         name: 'SMK STELLAR SPORTS SOI UNICOLOUR GL200 GLOSS BLACK',
         price: 4100,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014590/HEL132541_n75icf.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/692/product692_main_DHqzjysEz.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014590/HEL132541_n75icf.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014590/HEL132541_n75icf.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014590/HEL132541_n75icf.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/692/product692_main_DHqzjysEz.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17506,11 +17428,9 @@ const catalogProducts = [
         name: 'SMK Titan Panther MA215 Full Face Helmet Matt Black White Blue',
         price: 9000,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014678/HEL22889SMKTITANPANTHERMA215MATTBLKWHTBLUL_fcxrps.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/693/product693_main_NlkUUog5q.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014678/HEL22889SMKTITANPANTHERMA215MATTBLKWHTBLUL_fcxrps.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014678/HEL22889SMKTITANPANTHERMA215MATTBLKWHTBLUL_fcxrps.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014678/HEL22889SMKTITANPANTHERMA215MATTBLKWHTBLUL_fcxrps.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/693/product693_main_NlkUUog5q.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17531,11 +17451,11 @@ const catalogProducts = [
         name: 'SMK Gullwing Sonic GL652 Flip-Up Modular Helmet Grey Blue Black XL',
         price: 6650,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014787/HEL22893SMKGULLWINGS01SONICGL652GRYBLUBLKXL1_fgyrr1.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/694/product694_main_EUsXzvi5U4.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014789/HEL22893SMKGULLWINGS01SONICGL652GRYBLUBLKXL2_lgx0u0.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014787/HEL22893SMKGULLWINGS01SONICGL652GRYBLUBLKXL1_fgyrr1.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014789/HEL22893SMKGULLWINGS01SONICGL652GRYBLUBLKXL2_lgx0u0.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/694/product694_main_EUsXzvi5U4.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/694/product694_main_EUsXzvi5U4.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/694/product694_main_EUsXzvi5U4.webp'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17556,11 +17476,11 @@ const catalogProducts = [
         name: 'SMK Agnar Cyborg MA266 Full Face Helmet Matt Black Grey Multi Colour Variants',
         price: 6700,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014891/HEL24574SMKAGNARCYBORGMA266MATTBLACKGREYGREYS_rwldcq.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/695/product695_main_8zJmnrEsm.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014897/HEL24574SMKAGNARCYBORGMA266MATTBLACKGREYGREYS_2_pcoap3.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014899/HEL24574SMKAGNARCYBORGMA266MATTBLACKGREYGREYS_3_gmrbgv.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786014891/HEL24574SMKAGNARCYBORGMA266MATTBLACKGREYGREYS_rwldcq.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/695/product695_main_8zJmnrEsm.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/695/product695_gallery_extra1_U2tCQGhoH.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/695/product695_gallery_extra2_WSKtkBcHj.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17581,11 +17501,9 @@ const catalogProducts = [
         name: 'SMK Retro Inferno MA558 Blue Green',
         price: 6000,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015015/HEL23579SMKRETROINFERNOMA558BLUEGRNM2_jz2mmt.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/696/product696_main_Syamsq8xp.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015012/HEL23579SMKRETROINFERNOMA558BLUEGRNM1_wv44gx.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015017/HEL23579SMKRETROINFERNOMA558BLUEGRNM3_xwhyz1.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015015/HEL23579SMKRETROINFERNOMA558BLUEGRNM2_jz2mmt.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/696/product696_main_Syamsq8xp.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17606,11 +17524,11 @@ const catalogProducts = [
         name: 'SMK Agnar Cyborg GL265 Full Face Helmet with Multi Colour Variants',
         price: 5900,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015172/HEL24591SMKAGNARCYBORGGL263BLACKGREYREDS4_t5ibjo.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/697/product697_main_sjb5VfkmS.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015161/HEL24589_SMK_AGNAR_CYBORG_GL265_BLACK_GREY_BLUE_XL_qkc3ka.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015159/HEL24582_SMK_AGNAR_CYBORG_GL266_BLACK_GREY_GREY_S_4_mbglpx.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015174/HEL24595_SMK_AGNAR_CYBORG_GL237_BLACK_RED_GOLD_S_4_dvwi4z.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/697/product697_main_sjb5VfkmS.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/697/product697_main_sjb5VfkmS.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/697/product697_main_sjb5VfkmS.webp'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17631,11 +17549,9 @@ const catalogProducts = [
         name: 'SMK Allterra S01 Tribou GL527 Blue Black Orange',
         price: 5900,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015407/HEL23541SMKALLTERRAS01TRIBOUGL527BLUEBLKORGM_ipqxqr.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/698/product698_main_kj3b1vEGM.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015407/HEL23541SMKALLTERRAS01TRIBOUGL527BLUEBLKORGM_ipqxqr.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015407/HEL23541SMKALLTERRAS01TRIBOUGL527BLUEBLKORGM_ipqxqr.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015407/HEL23541SMKALLTERRAS01TRIBOUGL527BLUEBLKORGM_ipqxqr.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/698/product698_main_kj3b1vEGM.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17656,11 +17572,11 @@ const catalogProducts = [
         name: 'SMK Stellar Sport Stage MA262 Matte Black Grey',
         price: 4400,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015514/4_suzfvy.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/699/product699_main_dAAKdynwC.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015517/5_rxhz6l.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015518/6_krjpyr.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015514/4_suzfvy.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/699/product699_main_dAAKdynwC.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/699/product699_main_dAAKdynwC.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/699/product699_main_dAAKdynwC.webp'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17706,11 +17622,9 @@ const catalogProducts = [
         name: 'SMK Retro Seven MA260 Black Grey',
         price: 6000,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015689/HEL23567SMKRETROSEVENMA260BLKGREYXL_msranz.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/701/product701_main_kRlgHqWXB.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015689/HEL23567SMKRETROSEVENMA260BLKGREYXL_msranz.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015689/HEL23567SMKRETROSEVENMA260BLKGREYXL_msranz.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015689/HEL23567SMKRETROSEVENMA260BLKGREYXL_msranz.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/701/product701_main_kRlgHqWXB.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17732,11 +17646,9 @@ const catalogProducts = [
         name: 'SMK Stellar K-Power MA267 Matt Black Grey Orange',
         price: 4400,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015817/HEL17792SMKSTELLARKPOWERMA267MATBLKGRYORGS_gdrzed.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/702/product702_main_YHpjdc8ss.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015817/HEL17792SMKSTELLARKPOWERMA267MATBLKGRYORGS_gdrzed.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015817/HEL17792SMKSTELLARKPOWERMA267MATBLKGRYORGS_gdrzed.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015817/HEL17792SMKSTELLARKPOWERMA267MATBLKGRYORGS_gdrzed.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/702/product702_main_YHpjdc8ss.png'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17757,11 +17669,11 @@ const catalogProducts = [
         name: 'SMK Typhoon Sports Tour GL585 Blue Green',
         price: 5250,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015899/22_gaave4.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/703/product703_main_Oj3a9OHYVz.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015900/33_cnzebz.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015898/11_lhyvl1.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015899/22_gaave4.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/703/product703_main_Oj3a9OHYVz.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/703/product703_main_Oj3a9OHYVz.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/703/product703_main_Oj3a9OHYVz.webp'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17782,11 +17694,9 @@ const catalogProducts = [
         name: 'SMK Stellar Sports K-Power GL267 Gloss Black Grey Orange',
         price: 4400,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015974/12_kg0pcn.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/704/product704_main_c3f3fV5bCs.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015974/12_kg0pcn.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015974/12_kg0pcn.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786015974/12_kg0pcn.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/704/product704_gallery1_15fibLjME.png'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17807,11 +17717,11 @@ const catalogProducts = [
         name: 'SMK Gullwing S01 Sonic GL266 Black Grey',
         price: 6650,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016058/34_npmyyh.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/705/product705_main_jlAPF6-zo.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016058/21_h2paoe.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016058/23_bzzost.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016058/34_npmyyh.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/705/product705_main_jlAPF6-zo.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/705/product705_main_jlAPF6-zo.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/705/product705_main_jlAPF6-zo.webp'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17832,11 +17742,11 @@ const catalogProducts = [
         name: 'SMK Gullwing Navigator GL263 Gloss Black Grey Red',
         price: 6650,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016181/HEL16628SMKGULLWINGNAVIGATORGL263GLSBLKGRYREDL_gcditu.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/706/product706_main_tSWUZfB_E.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016181/HEL16628SMKGULLWINGNAVIGATORGL263GLSBLKGRYREDL_gcditu.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016181/HEL16628SMKGULLWINGNAVIGATORGL263GLSBLKGRYREDL_gcditu.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016181/HEL16628SMKGULLWINGNAVIGATORGL263GLSBLKGRYREDL_gcditu.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/706/product706_main_tSWUZfB_E.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/706/product706_main_tSWUZfB_E.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/706/product706_main_tSWUZfB_E.webp'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17857,11 +17767,11 @@ const catalogProducts = [
         name: 'SMK Stellar Sports S01 Adox MA266 Matt Black Grey',
         price: 4400,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016284/HEL21485SMKSTELLARSPORTSS01ADOXMA266MATTBLKGREYGREYS_poxojq.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/707/product707_main_L3uNbG1Sb.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016284/HEL21485SMKSTELLARSPORTSS01ADOXMA266MATTBLKGREYGREYS_poxojq.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016284/HEL21485SMKSTELLARSPORTSS01ADOXMA266MATTBLKGREYGREYS_poxojq.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016284/HEL21485SMKSTELLARSPORTSS01ADOXMA266MATTBLKGREYGREYS_poxojq.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/707/product707_main_L3uNbG1Sb.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/707/product707_main_L3uNbG1Sb.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/707/product707_main_L3uNbG1Sb.webp'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17882,11 +17792,9 @@ const catalogProducts = [
         name: 'SMK Typhoon Azonix GL263 Gloss Black Grey Red Full Face Helmet',
         price: 5250,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016364/122_a49mu0.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/708/product708_main_5ZPBP5231.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016366/124_udxjra.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016365/123_hcmngc.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016364/122_a49mu0.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/708/product708_gallery1_rZ9UAoaWIh.png'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17907,11 +17815,9 @@ const catalogProducts = [
         name: 'SMK Typhoon S01 Sparko GL236 Black Red Grey',
         price: 5250,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016364/122_a49mu0.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/709/product709_main_b3O6XHK9B.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016366/124_udxjra.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016365/123_hcmngc.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016364/122_a49mu0.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/709/product709_gallery1_zq6e95847.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17932,11 +17838,9 @@ const catalogProducts = [
         name: 'SMK Stellar Sports S01 K-Power GL267 Gloss Black Grey Orange',
         price: 4400,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016553/111_yeih8s.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/710/product710_main_DyVtFtC7Z.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016553/111_yeih8s.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016553/111_yeih8s.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016553/111_yeih8s.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/710/product710_gallery1_hoyez_eRM.png'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17957,11 +17861,9 @@ const catalogProducts = [
         name: 'SMK Agnar Tektron GL263 Black Grey Red',
         price: 6700,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013843/HEL22799SMKAGNARTEKTRONMATTBLKGREYREDMA263M2_r3fs65.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/711/product711_main_dljjsUaGI.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016642/222_r6rknc.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016642/222_r6rknc.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786013843/HEL22799SMKAGNARTEKTRONMATTBLKGREYREDMA263M2_r3fs65.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/711/product711_gallery1_h9j0oAOlT.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -17982,11 +17884,9 @@ const catalogProducts = [
         name: 'SMK Gullwing Unicolour GL200 Gloss Black',
         price: 6150,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016745/333_dqrf0y.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/712/product712_gallery1_2BplcAbuX.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016747/555_b8lofg.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016746/444_ftkhd8.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016745/333_dqrf0y.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/712/product712_gallery2_C03HNBKJH.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -18007,11 +17907,9 @@ const catalogProducts = [
         name: 'SMK Typhoon Style GL236 Full Face Helmet Gloss Black Red Grey',
         price: 5150,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016825/666_kjzuv3.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/713/product713_main_WZ6mgqatN.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016825/666_kjzuv3.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016825/666_kjzuv3.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016825/666_kjzuv3.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/713/product713_main_WZ6mgqatN.png'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -18032,11 +17930,11 @@ const catalogProducts = [
         name: 'SMK Allterra Unicolour White GL120 Adventure Full Face Helmet',
         price: 5900,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016959/HEL207392_jmnz9g.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/714/product714_main_NO1Ohz55c.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016960/HEL207394_cu9ril.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016959/HEL207393_zkdy7j.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786016959/HEL207392_jmnz9g.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/714/product714_main_NO1Ohz55c.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/714/product714_main_NO1Ohz55c.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/714/product714_main_NO1Ohz55c.webp'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -18110,11 +18008,9 @@ const catalogProducts = [
         name: 'SMK Gullwing Solid Unicolour GL200 Gloss Black',
         price: 6350,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017207/1111_jpad08.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/717/product717_gallery1_smBHsWKuX.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017208/2222_wystow.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017209/3333_pl48b2.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017207/1111_jpad08.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/717/product717_gallery1_smBHsWKuX.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -18136,11 +18032,11 @@ const catalogProducts = [
         name: 'SMK Allterra S01 Unicolour MA260 Matt Black Grey Adventure Full Face Helmet - L',
         price: 5900,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017316/5555_vz4kdq.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/718/product718_main_e8UjgXVNnP.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017317/6666_c7obqm.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017318/7777_g3vtho.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017317/6666_c7obqm.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/718/product718_main_e8UjgXVNnP.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/718/product718_main_e8UjgXVNnP.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/718/product718_main_e8UjgXVNnP.webp'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -18162,11 +18058,10 @@ const catalogProducts = [
         name: 'SMK Stellar Sports Adox MA266 Full Face Helmet Matt Black Grey Grey',
         price: 4400,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017415/aaa_mueklu.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/719/product719_main_HZAbD0VOG.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017416/bbb_jpllvy.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017415/aaa_mueklu.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017416/bbb_jpllvy.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/719/product719_gallery1_LolFPg8kw.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/719/product719_gallery2_abNi_8W4s.png'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -18188,11 +18083,9 @@ const catalogProducts = [
         name: 'SMK Gullwing GL200 Flip-Up Modular Helmet Gloss Black XL Size',
         price: 6350,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017490/q_sxlwbs.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/720/product720_gallery1_haXSVScK_.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017490/q_sxlwbs.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017490/q_sxlwbs.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017490/q_sxlwbs.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/720/product720_gallery1_haXSVScK_.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -18214,11 +18107,9 @@ const catalogProducts = [
         name: 'SMK GTJ Escape MA257 Open Face Helmet Matt Black Blue Orange XL',
         price: 3800,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017557/z_bemp9e.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/721/product721_main_BeTMblfoq.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017557/z_bemp9e.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017557/z_bemp9e.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017557/z_bemp9e.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/721/product721_gallery1_luP216EMd.png'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -18240,11 +18131,11 @@ const catalogProducts = [
         name: 'SMK GTJ Unicolor MA600 Open Face Helmet Matt Nardo Grey M Size',
         price: 3500,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017624/s_rbzutl.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/722/product722_main_8BC7ejTS2.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017624/s_rbzutl.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017624/s_rbzutl.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786017624/s_rbzutl.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/722/product722_main_8BC7ejTS2.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/722/product722_main_8BC7ejTS2.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/722/product722_main_8BC7ejTS2.webp'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -18266,11 +18157,9 @@ const catalogProducts = [
         name: 'SMK Terrain Motorcycle Goggles with Clear Lens + Extra Grey Mirror Lens',
         price: 1500,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018017/w_u9lyl2.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/723/product723_main_EwNxFRa7l5.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018016/e_e4ebbm.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018017/w_u9lyl2.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018016/e_e4ebbm.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/723/product723_main_EwNxFRa7l5.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -18292,11 +18181,9 @@ const catalogProducts = [
         name: 'SMK Stellar Helmet Visor Mechanism Assembly',
         price: 95,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018116/x_th5sid.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/724/product724_main_d5o6EnxR4.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018116/x_th5sid.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018116/x_th5sid.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018116/x_th5sid.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/724/product724_main_d5o6EnxR4.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -18318,11 +18205,9 @@ const catalogProducts = [
         name: 'SMK Stellar Helmet Rear Spoiler',
         price: 135,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018224/c_g751hn.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/725/product725_gallery1_jZpwCzI19t.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018224/c_g751hn.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018224/c_g751hn.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018224/c_g751hn.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/725/product725_gallery1_jZpwCzI19t.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -18343,11 +18228,9 @@ const catalogProducts = [
         name: 'Visor Pro Aftermarket MT V12 Red Smoke / BLU Smoke / BLU Clear / RED Clear',
         price: 1390,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018318/aa_l2kshk.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/726/product726_main_kaO9oiaBW.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018320/ss_m8juby.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018318/aa_l2kshk.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018322/zz_lljgkn.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/726/product726_main_kaO9oiaBW.png'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -18368,11 +18251,9 @@ const catalogProducts = [
         name: 'SMK Helmet Visor Stellar Pinlock Clear Replacement Shield',
         price: 600,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018437/aaaa_dzovdx.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/727/product727_main_WV5ipEcgZ.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018437/aaaa_dzovdx.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018437/aaaa_dzovdx.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018437/aaaa_dzovdx.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/727/product727_main_WV5ipEcgZ.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -18418,11 +18299,9 @@ const catalogProducts = [
         name: 'SMK Typhoon Outer Visor Night Vision Yellow Pinlock 30 Ready',
         price: 450,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018608/qq_oymymq.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/729/product729_main_-lpV4cF31W.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018609/ww_acd2d3.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018608/qq_oymymq.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018609/ww_acd2d3.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/729/product729_main_-lpV4cF31W.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -18443,11 +18322,11 @@ const catalogProducts = [
         name: 'SMK Twister Glide Mirror Outer Visor – Replacement Helmet Shield',
         price: 500,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018700/qqq_auifko.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/730/product730_main_PS_5_eYf7.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018700/qqq_auifko.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018700/qqq_auifko.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786018700/qqq_auifko.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/730/product730_main_PS_5_eYf7.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/730/product730_main_PS_5_eYf7.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/601-700/730/product730_main_PS_5_eYf7.webp'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -18469,11 +18348,11 @@ const catalogProducts = [
         name: 'Cramster Raida Explorer Boots | Black',
         price: 5999,
         discount: 20,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020257/Cramster_Flux_Boots_Black_01_veaalv.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/731/product731_main_IJk6n6jW1.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020258/Cramster_Flux_Boots_Black_03_uwym2q.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020258/Cramster_Flux_Boots_Black_12_pv5xo7.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020258/Cramster_Flux_Boots_Black_03_uwym2q.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/731/product731_gallery1_XXjCKMn3w.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/731/product731_gallery2_Ab7mPk2yB.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/731/product731_gallery3_A5ZOyUD3l.png'
         ],
         category: 'Riding Gear',
         subcategory: 'Boots',
@@ -18496,11 +18375,11 @@ const catalogProducts = [
         name: 'Cramster VELOCITY MOTORCYCLE JEANS',
         price: 5299,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020449/Cramster_Velocity_Denim_Jeans_01_ogowwl.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/732/product732_main_MVdgL9dz6.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020449/Cramster_Velocity_Denim_Jeans_02_smg2hi.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020449/Cramster_Velocity_Denim_Jeans_06_creol2.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020450/Cramster_Velocity_Denim_Jeans_08_fff19e.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/732/product732_gallery1_Di4g1hdcV.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/732/product732_gallery2_gliAfkm2i.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/732/product732_gallery3_gaH4IWuP8.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Pants',
@@ -18522,11 +18401,11 @@ const catalogProducts = [
         name: 'Cramster OASIS HYDRATION BACKPACK',
         price: 2799,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020738/Cramster_Oasis_Hydration_Bag_11_New_tqm3vc.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/733/product733_main_aP-X_hm-ze.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020738/Cramster_Oasis_HydrationBag_02_jd3idu.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020739/Cramster_Oasis_HydrationBag_05_lpyxmj.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020738/Cramster_Oasis_Hydration_Bag_01_New_3_nblvld.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/733/product733_gallery1_8X1TQ1ixT.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/733/product733_gallery2_szImi9OPV.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/733/product733_gallery3_OXApQ1H17.jpg'
         ],
         category: 'Touring',
         subcategory: 'Saddle Bags',
@@ -18548,11 +18427,11 @@ const catalogProducts = [
         name: 'Cramster BEETLE 2 TANK BAG 9L',
         price: 1999,
         discount: 20,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020934/Cramster_Beetle_Tank_Bag_001_wbpkx1.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/734/product734_main_IGP01dJ10.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020934/Cramster_Beetle_Tank_Bag_002_mtpl9h.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020935/Cramster_Beetle_Tank_Bag_003_vjntbm.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786020935/Cramster_Beetle_Tank_Bag_005_gfznax.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/734/product734_gallery1_WPpj-7UTo.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/734/product734_gallery2_rst57nKBl.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/734/product734_gallery3_HjOaES_cU.jpg'
         ],
         category: 'Touring',
         subcategory: 'Tank Bags',
@@ -18574,11 +18453,11 @@ const catalogProducts = [
         name: 'Cramster TURTLE 2 TANK BAG 24L',
         price: 2999,
         discount: 20,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021087/Cramster_Turtle_Tank_Bag_001_svbpwg.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/735/product735_main_HOloVZ291.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021088/Cramster_Turtle_Tank_Bag_008_c31kxt.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021088/Cramster_Turtle_Tank_Bag_003_hcwgpk.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021088/CramsterTurtaltankbag_04_uszjjg.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/735/product735_gallery1_kPfJCzROs.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/735/product735_gallery2_UNYkvz8x0.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/735/product735_gallery3_FUtbt4wjZ.jpg'
         ],
         category: 'Touring',
         subcategory: 'Tank Bags',
@@ -18600,11 +18479,11 @@ const catalogProducts = [
         name: 'Cramster K2K GLOVES',
         price: 4999,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021284/Cramster_K2K_Gloves_Black_Grey_01_ysmo9h.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/736/product736_main_EbZ26vaWH.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021284/Cramster_K2K_Gloves_Black_Grey_02_zghrj4.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021285/Cramster_K2K_Gloves_Black_Grey_03_o5bbus.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021285/Cramster_K2K_Gloves_Black_Grey_04_cjvvug.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/736/product736_gallery1_U5XhuxSmz.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/736/product736_gallery2_5f6Nba81G.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/736/product736_gallery3_oap9ZkuzW.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Gloves',
@@ -18625,11 +18504,11 @@ const catalogProducts = [
         name: 'Cramster FLUX WP GLOVES',
         price: 2299,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021392/Cramster_Flux_WP_Gloves_Black_01_kdajgq.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/737/product737_main_qKCYsk2V7.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021393/Cramster_Flux_WP_Gloves_Black_02_pn5krg.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021393/Cramster_Flux_WP_Gloves_Black_03_vkmnpf.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021394/Cramster_Flux_WP_Gloves_Black_04_hqx2mk.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/737/product737_gallery1_4vWqrTzz3H.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/737/product737_gallery2_CeWYz4Rccd.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/737/product737_gallery3_M8kxgyi1_.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Gloves',
@@ -18649,11 +18528,11 @@ const catalogProducts = [
         name: 'Cramster FLUX GLOVES',
         price: 1899,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021506/Flux-SP-Gloves-Black-White-Cramster_13_jwfam3.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/738/product738_main_sdgoj1ZaY.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021505/Flux-SP-Gloves-Black-Red-Cramster_3_sxeuv1.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021504/Flux-SP-Gloves-Black-Red-Cramster_2_mnpqhp.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021503/Flux-SP-Gloves-Black-Red-Cramster_ntoedr.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/738/product738_gallery1__RosOmeGz.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/738/product738_gallery2_iXbHRINQO.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/738/product738_gallery3_jTnEiIof8.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Gloves',
@@ -18674,11 +18553,11 @@ const catalogProducts = [
         name: 'Cramster BREEZER SP GLOVES',
         price: 2949,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021636/Cramster_Breezer_SP_Gloves_Black_White_acmd9b.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/739/product739_main_Mu7BwOo-W.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021636/CramsterBreezerGlovesBlackWhite02_ehgiu4.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021637/CramsterBreezerGlovesBlackWhite03_fdx1j6.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021637/CramsterBreezerGlovesBlackWhite04_msdr7o.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/739/product739_gallery1_ts_ERcX7G.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/739/product739_gallery2_8agSNu8lT.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/739/product739_gallery3_dcdctkWQI.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Gloves',
@@ -18699,11 +18578,11 @@ const catalogProducts = [
         name: 'Cramster RAGE BIONIC KNEE GUARDS',
         price: 3099,
         discount: 8,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021771/Cramstar_Rage_Bionic_Knee_Guards_Black_01_im5rhg.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/740/product740_main_1WIif9B-G.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021772/Cramstar_Rage_Bionic_Knee_Guards_Black_2_482104eb-b693-4983-a33a-3c860f866c01_c0rext.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021773/Cramstar_Rage_Bionic_Knee_Guards_Black_3_xwxzd9.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021774/Cramstar_Rage_Bionic_Knee_Guards_Black_4_keznwe.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/740/product740_gallery1_tcyXLDZnM.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/740/product740_gallery2_TJKgQ2Ur_.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/740/product740_gallery3_jPM9nxlmT.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Knee Guards',
@@ -18724,11 +18603,11 @@ const catalogProducts = [
         name: 'Cramster RAGE BIONIC ELBOW GUARDS',
         price: 2499,
         discount: 8,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021912/Cramstar_Rage_Bionic_Knee_Guards_Black_01_de3nsx.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/741/product741_main_j_lGJvZ43.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021912/Cramstar_Rage_Bionic_Knee_Guards_Black_2_482104eb-b693-4983-a33a-3c860f866c01_eewvdu.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021913/Cramstar_Rage_Bionic_Knee_Guards_Black_3_sybb8g.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786021914/Cramstar_Rage_Bionic_Knee_Guards_Black_4_lgkilg.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/741/product741_gallery1_3A1D4QDcq.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/741/product741_gallery2_zqijcyW-q.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/741/product741_gallery3_o99tVZuKgi.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Knee Guards',
@@ -18750,11 +18629,11 @@ const catalogProducts = [
         name: 'Cramster VIPER JACKET',
         price: 4799,
         discount: 15,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022083/Cramster_Viper_jscket_003_stn0hg.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/742/product742_main_dG8nv1-vUJ.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022084/Cramster_Viper_jscket_004_sny7d7.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022086/Cramster_ViperJacket_001_080f537c-117e-47b3-b8a4-45073d0229ce_uyqyvz.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022087/Cramster_Viperjscket_002_0b78068a-6e2e-423b-9092-25e012325f07_gekfpw.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/742/product742_gallery1_MyAMCLGqI.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/742/product742_gallery2_RRcZdwdkj.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/742/product742_gallery3_6nI7jhcQF.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Jackets',
@@ -18776,11 +18655,9 @@ const catalogProducts = [
         name: 'Cramster BREEZER JACKET',
         price: 3799,
         discount: 15,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022204/CramsterBrezzerJacket_001_2_cii1aa.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/743/product743_main_I-lfvXL3_.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022205/CramsterBrezzerJacket_002_1_luvdba.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022204/CramsterBrezzerJacket_001_2_cii1aa.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022205/CramsterBrezzerJacket_002_1_luvdba.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/743/product743_gallery1_CtS7O4_lO.png'
         ],
         category: 'Riding Gear',
         subcategory: 'Jackets',
@@ -18802,11 +18679,9 @@ const catalogProducts = [
         name: 'Cramster HYPERFLEX BALACLAVA',
         price: 199,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022396/Cramster_balaclava_front_s4fzrj.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/744/product744_main_u2vwVJxIj.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022396/Cramster_balaclava_back_ownj73.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022396/Cramster_balaclava_front_s4fzrj.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022396/Cramster_balaclava_back_ownj73.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/744/product744_gallery1_dbW_0QgwjP.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -18827,11 +18702,11 @@ const catalogProducts = [
         name: 'Cramster HYPERFLEX 2 BASE LAYER - LOWER',
         price: 999,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022899/Cramster_Performace_BASE_LAYER_lower_001_1_eygowt.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/745/product745_main_IeKcxg4Xq.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022902/Cramster_Performace_BASE_LAYER_lower_003_xgduz3.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022899/Cramster_Performace_BASE_LAYER_lower_001_1_eygowt.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786022900/Cramster_Performace_BASE_LAYER_lower_002_1_sak5x4.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/745/product745_gallery1_wkgV2ITBe.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/745/product745_gallery2_t5e6D1ivV.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/745/product745_gallery3_sYzMSK4Rk2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Pants',
@@ -18853,11 +18728,11 @@ const catalogProducts = [
         name: 'Cramster HYPERFLEX 2 BASE LAYER - UPPER',
         price: 999,
         discount: 15,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786023038/Cramster_HyperFlex_Base_layer_Upper_02_efdum8.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/746/product746_main_qlhVFYf00.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786023040/Cramster_HyperFlex_Base_layer_Upper_04_uls1fg.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786023038/Cramster_HyperFlex_Base_layer_Upper_02_efdum8.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786023042/Cramster_HyperFlex_Base_layer_Upper_05_bie08j.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/746/product746_gallery1_3MaW2URl2.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/746/product746_gallery2_lfPHD9lJl.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/746/product746_gallery3_YXLQpUxg77.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Jackets',
@@ -18879,11 +18754,11 @@ const catalogProducts = [
         name: 'Axor Enzo Riding Gloves',
         price: 4706,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084094/70_4570016c-23b1-418f-85d7-b967e1d4cb57_900x_y6jdgb.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/747/product747_main_Ub2BRIx2a.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084094/71_db53eec4-52ca-4fdd-b74b-5d3ce0945005_900x_iofdnk.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084095/72_7dfc475e-f703-4cd4-b421-0246a1ca9827_900x_qcrxwo.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084094/71_db53eec4-52ca-4fdd-b74b-5d3ce0945005_900x_iofdnk.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/747/product747_gallery1_8mJ5brNfW.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/747/product747_gallery2_lWE72CzH2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/747/product747_gallery3_12JWJsi9Q.png'
         ],
         category: 'Riding Gear',
         subcategory: 'Gloves',
@@ -18904,11 +18779,11 @@ const catalogProducts = [
         name: 'Axor Viper Riding Gloves',
         price: 2996,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084232/76_5de4c067-1575-4042-a621-4927cc49ffcc_900x_rg6gqf.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/748/product748_main_wBdm67L3E.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084232/77_9651f44d-df51-4a67-b5c2-6e1fa7688aed_900x_xbnjdx.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084232/78_6cacc53d-47cd-46a9-b6a7-e3e8a75c2a7c_900x_u1x5ed.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084233/79_0ca33ee5-0799-49a3-8267-4611aafcee40_900x_yha0yw.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/748/product748_gallery1_KBF4uRnXs.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/748/product748_gallery2_U0DdDwBNH.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/748/product748_gallery3_GEWQkj3TP.png'
         ],
         category: 'Riding Gear',
         subcategory: 'Gloves',
@@ -18928,11 +18803,11 @@ const catalogProducts = [
         name: 'Axor Airstream Riding Gloves',
         price: 1646,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084333/88_32ba55f0-61f5-4567-a3a8-e9ecfcac6592_900x_f51mfl.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/749/product749_main_8X-jwVMqC.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084334/89_7d50afb3-5239-4902-9bf3-3cf9e3476c17_900x_a5rski.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084333/88_32ba55f0-61f5-4567-a3a8-e9ecfcac6592_900x_f51mfl.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084334/90_790abd28-f5f4-4b29-85d1-d3a1219c1170_900x_ykuyxu.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/749/product749_gallery1_sK9fmBHib.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/749/product749_gallery2_jYGpVopkm.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/749/product749_gallery3_3bkP1Yq7t.png'
         ],
         category: 'Riding Gear',
         subcategory: 'Gloves',
@@ -18952,11 +18827,11 @@ const catalogProducts = [
         name: 'Axor Sela Waterproof Riding Gloves',
         price: 2843,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084439/119_9c806d2e-0db9-449a-babc-44c13d7a1ff5_900x_khftlb.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/750/product750_main_OeD6W0frN3.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084441/120_e00a1aa5-a970-4a1f-b5ab-b8b85bf0a8a3_900x_ibood3.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084441/121_5e251278-5224-4874-8a05-6802f9978d95_900x_ezfypq.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084442/122_1727c93b-1b6f-4834-a2ee-8abca20a3cdb_900x_wohqog.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/750/product750_gallery1_6AvbcUqzD.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/750/product750_gallery2_1Dw0-6Z6r.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/750/product750_gallery3_ecIjiEOxr.png'
         ],
         category: 'Riding Gear',
         subcategory: 'Gloves',
@@ -18976,11 +18851,10 @@ const catalogProducts = [
         name: 'Axor Lycan Riding Gloves',
         price: 3878,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084545/123_4cf0d25d-32cb-4a88-bfe6-10fd88601ea1_900x_colyfl.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/product751_main_QN408C3U6d.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084545/124_4f50367a-91d5-4167-b941-216831f5640b_900x_xzl1ny.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084546/125_5a8e3d07-ae23-40e7-84d8-47810eab5c03_900x_olkyy5.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084546/126_a3d188b9-cfe3-44fd-b413-ea9d74bef406_900x_dl0rtp.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/product751_gallery1_cj7xPnLKgT.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/product751_gallery2_wM61auAOf.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Gloves',
@@ -19001,11 +18875,11 @@ const catalogProducts = [
         name: 'Axor Nimbuz Jacket',
         price: 6821,
         discount: 15,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084697/BlackGrey_2_379e2546-b70b-4974-bf4d-d88f3bc5617a_900x_ekyou8.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/752/product752_main_UqB8Xc42O.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084696/BlackGrey_1_048ad273-03e8-4327-b78f-f635e5f1ecf0_900x_ggwgqt.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084698/BlackGrey_3_92115d28-6a8e-4180-a5c4-caa8db6e5276_900x_wh6ny8.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084699/BlackGrey_4_fde12d47-fb1b-4521-8e6d-90be0be1cc53_900x_rhdwip.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/752/product752_gallery1_ghjQfRdMB.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/752/product752_gallery2_RSTKsQ26i.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/752/product752_gallery3_5tGR2682j.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Jackets',
@@ -19027,11 +18901,11 @@ const catalogProducts = [
         name: 'Axor Diva Womens Jacket',
         price: 5912,
         discount: 15,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084836/DivaBlackRed2_900x_jhphhb.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/753/product753_main_L74jLkQYaP.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084837/DivaBlackRed3_900x_z9kv9e.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084835/DivaBlackRed1_900x_i0fglj.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084837/DivaBlackRed4_900x_bikpsx.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/753/product753_gallery1_MN29KtwNy.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/753/product753_gallery2_4Mn-N_Ifl.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/753/product753_gallery3_iss_ItuZS.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Jackets',
@@ -19052,11 +18926,11 @@ const catalogProducts = [
         name: 'Axor Inverno Black Thermal Jacket',
         price: 1799,
         discount: 15,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084931/Inverno2_900x_gy3soa.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/product754_main_3_zGVFRbfL.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084930/Inverno1_900x_uvobso.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084932/Inverno3_900x_tvc5sa.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786084933/Inverno4_900x_oymkod.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/product754_gallery1_fFip1mUX86.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/product754_gallery2_AP3R_-WPaV.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/product754_gallery3_hAEBhZwUB.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Jackets',
@@ -19077,11 +18951,10 @@ const catalogProducts = [
         name: 'Axor Falcon Jacket',
         price: 8990,
         discount: 15,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085036/OffWhite_2_900x_rnljvb.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/product755_main_WFlvvnZJT.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085035/OffWhite_1_900x_o3bkll.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085036/OffWhite_2_900x_rnljvb.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085037/OffWhite_3_900x_-_Copy_gzu1cz.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/product755_gallery1_IkkyMa_vFr.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/product755_gallery2__ZR-wjrzqU.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Jackets',
@@ -19102,11 +18975,10 @@ const catalogProducts = [
         name: 'Axor Cruise 2 Jacket',
         price: 5912,
         discount: 15,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085142/Cruise2RedBlack2_900x_wcgk3y.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/756/product756_main_XQ83NqH0gy.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085141/Cruise2RedBlack1_900x_p6lzgd.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085145/Red4_900x_a1tq0d.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085143/Cruise2RedBlack3_900x_c1w7hd.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/756/product756_gallery1_rQllvWHnR.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/756/product756_gallery2_nd1N-VDOg.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Jackets',
@@ -19127,11 +18999,9 @@ const catalogProducts = [
         name: 'Axor Flow Jacket',
         price: 4958,
         discount: 15,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085240/NeonGreen_2_900x_j8spjn.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/product757_main_ya1MUuyVt.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085239/NeonGreen_1_900x_crjplq.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085240/NeonGreen_2_900x_j8spjn.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085241/NeonGreen_3_900x_p9ck7l.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/product757_gallery1_aopu4fJPY.png'
         ],
         category: 'Riding Gear',
         subcategory: 'Jackets',
@@ -19153,11 +19023,11 @@ const catalogProducts = [
         name: 'Axor Racer Tec Riding Boots',
         price: 14300,
         discount: 20,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085444/3_e9430044-d124-4164-bfd3-d91ec50d3603_900x_ufpqvs.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/758/product758_main_7mpmCq687.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085446/4_c4956d6b-6333-4438-8c91-98a5da7ae635_900x_fmnmm9.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085447/7_5125e37f-2445-4b24-af53-5bcb3d04b570_900x_jft4bm.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085449/8_84a05e5b-99d5-4e08-8d9e-2bcae35b6d76_900x_uydzer.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/758/product758_gallery1_UClCrygbC.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/758/product758_gallery2_c8GqJ69nE.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/758/product758_gallery3_TcwmOesHqG.png'
         ],
         category: 'Riding Gear',
         subcategory: 'Boots',
@@ -19180,11 +19050,11 @@ const catalogProducts = [
         name: 'Axor Touring Rambler Riding Boots',
         price: 10700,
         discount: 20,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085586/15_ce2575cb-cd5c-4995-8316-b0aefbd2e0d9_900x_zo1quf.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/759/product759_main_kNL_LLjnc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085587/17_6a1726ea-8645-455c-b7f8-7e867908c676_900x_ntd8r7.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085589/18_23389ff2-ad50-4c7b-af94-cfa525f1cf3f_900x_oaa6wi.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085590/20_9332fdf8-cec9-4eaa-9893-7ca72e289e85_900x_fj1hsu.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/759/product759_gallery1_mREtEit0a.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/759/product759_gallery2_iEpE-S7C8.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/759/product759_gallery3_D-BJorh4zH.png'
         ],
         category: 'Riding Gear',
         subcategory: 'Boots',
@@ -19206,11 +19076,11 @@ const catalogProducts = [
         name: 'Axor Slipstream PRO Riding Boots',
         price: 9710,
         discount: 20,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085717/33_533eefc4-d907-45b8-9a3b-56e8e3ddefcd_900x_k0br0p.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/760/product760_main_FRl5AtCXD.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085719/35_e3e42efd-41c3-4469-b418-31c3aeea96db_900x_pk8vj6.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085721/37_ae2325c7-db71-475f-a44b-3b5fff88692b_900x_qikpwf.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085723/38_d1908fc0-3031-4b95-9be1-4496bb9bd1fd_900x_n6m8xz.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/760/product760_gallery1_JQ0a4yPMW.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/760/product760_gallery2_9uVEekLln.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/760/product760_gallery3_T20-OFqLBt.png'
         ],
         category: 'Riding Gear',
         subcategory: 'Boots',
@@ -19232,11 +19102,11 @@ const catalogProducts = [
         name: 'Axor Urbano Black Riding Boots',
         price: 5300,
         discount: 20,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085872/46_e2592bb0-c31a-4d8a-be2d-27198ddddadf_900x_mnnfw5.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/product761_main_GfFhVO430.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085872/46_e2592bb0-c31a-4d8a-be2d-27198ddddadf_900x_mnnfw5.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085874/49_f12603cb-1b48-4f90-a801-6130135f2157_900x_vk1rsd.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085876/50_8c569485-bbdd-4019-99b4-58652efccaef_900x_yhhezj.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/product761_gallery1_pR10lTjcy.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/product761_gallery2_sGkLDxp3-.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/product761_gallery3_pr-3TFwmi.png'
         ],
         category: 'Riding Gear',
         subcategory: 'Boots',
@@ -19258,11 +19128,10 @@ const catalogProducts = [
         name: 'Axor Slicks Riding Boots',
         price: 7730,
         discount: 20,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085992/57_8142d451-b1d5-4080-be5a-c4ec79cebbe8_900x_s3ooin.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/product762_main_X3UrBrU7E.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085994/59_06a439c7-9fd1-4637-b9e8-45680b241804_900x_cjveze.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085995/61_6431b498-1be0-47ed-9b0e-f5182016202d_900x_tquasl.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786085997/62_cc3ee77d-b00c-47b1-b712-584bda5a4279_900x_xdxt8k.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/product762_gallery1_duh5dG9DBt.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/product762_gallery2_JT8cSAeYU7.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Boots',
@@ -19284,11 +19153,10 @@ const catalogProducts = [
         name: 'Axor Kaza Riding Boots',
         price: 10700,
         discount: 20,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086108/63_40388ddf-15e5-4aff-bca1-d7ec25d0ad6a_900x_xow7bg.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/product763_main_4RZxPzFf-f.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086110/64_94f209a5-6cd5-4b07-8f7c-88134cc34a37_900x_ldcnxz.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086112/67_89940cfb-9945-4938-b226-f7147f839323_900x_oznpho.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086113/68_378cd6ad-16ea-4156-8c94-fea0f3fdc5db_900x_rj7gpi.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/product763_gallery1_Dk3x4fe-K.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/product763_gallery2_aDA7yGJ7l.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Boots',
@@ -19311,11 +19179,11 @@ const catalogProducts = [
         name: 'Axor Shield Protective Body Armor Jacket',
         price: 4571,
         discount: 15,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086347/ShieldRed2_900x_lreivz.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/764/product764_main_yuUSQyAUO.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086345/ShieldRed1_900x_uh7bar.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086349/ShieldRed3_900x_yt45mb.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086351/ShieldRed4_900x_rbnuaw.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/764/product764_gallery1_DTLAXkcTY.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/764/product764_gallery2_dF_n8BSgMr.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/764/product764_gallery3_LHRa3MnO_.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Jackets',
@@ -19337,11 +19205,11 @@ const catalogProducts = [
         name: 'Axor Wez Leather Mask',
         price: 998,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086497/WEZLEATHERMASKBROWN_1_900x_affhzs.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/765/product765_main_fE0HqBGvX.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086494/WEZLEATHERMASKBROWN_1_2_900x_aqi4uw.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086497/WEZLEATHERMASKBROWN_1_900x_affhzs.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086494/WEZLEATHERMASKBROWN_1_2_900x_aqi4uw.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/765/product765_gallery1_Y10pzsF1q.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/765/product765_gallery2_8vvsSLZu4.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/765/product765_gallery3_DhMD-u5H4y.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Masks',
@@ -19362,11 +19230,11 @@ const catalogProducts = [
         name: 'Axor Delta Riding Pant Black and Red',
         price: 7478,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086745/DELTAPANTBLACKREDWEB1080x1080Jpeg-1_900x_lpluyv.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/766/product766_main_OQJczgrI-.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086746/DELTAPANTBLACKREDWEB1080x1080Jpeg-2_900x_tw6xcq.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086747/DELTAPANTBLACKREDWEB1080x1080Jpeg-3_900x_ckbqjz.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086750/DELTAPANTBLACKREDWEB1080x1080Jpeg-4_900x_rhct1z.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/766/product766_gallery1_6-OS4wN_3-.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/766/product766_gallery2_ZIKxhaWoM.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/766/product766_gallery3_71yvJ53rrj.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Pants',
@@ -19389,11 +19257,11 @@ const catalogProducts = [
         name: 'Axor Delta Riding Pant Black and Neon Yellow',
         price: 7478,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086851/DELTA_PANT_BLACK_NEON_YELLOW_WEB_1080x1080_Jpeg-1_900x_hrsxjl.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/767/product767_main_S2IUIqgjx.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086852/DELTA_PANT_BLACK_NEON_YELLOW_WEB_1080x1080_Jpeg-2_900x_rbtwsx.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086854/DELTA_PANT_BLACK_NEON_YELLOW_WEB_1080x1080_Jpeg-3_900x_ssa4rs.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786086874/DELTA_PANT_BLACK_NEON_YELLOW_WEB_1080x1080_Jpeg-4_900x_y0du1b.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/767/product767_gallery1_aa2lSZKxk.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/767/product767_gallery2_VASED6xfn.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/767/product767_gallery3_dK41vxFvc.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Pants',
@@ -19414,11 +19282,11 @@ const catalogProducts = [
         name: 'Axor Torq Riding Pant Grey Black ',
         price: 6533,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087074/TORQGreyBlack_1_900x_bfpbdi.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/768/product768_main_CweNVBJ0C.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087098/TORQGreyBlack_2_900x_vo6ued.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087100/TORQGreyBlack_3_900x_yljo8e.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087102/TORQGreyBlack_4_900x_owxppx.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/768/product768_gallery1_lwiufYi-V.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/768/product768_gallery2_DAtbnGIyP.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/768/product768_gallery3_hd9eOMDMm.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Pants',
@@ -19440,11 +19308,11 @@ const catalogProducts = [
         name: 'Axor Torq Riding Pant Black',
         price: 6533,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087116/TORQBlack_1_900x_ivdoyu.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/769/product769_main_RvF4ZgxH3.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087118/TORQBlack_2_900x_uawhes.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087125/TORQBlack_3_900x_mrvspt.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087127/TORQBlack_4_900x_bhuska.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/769/product769_gallery1_KYrekTu90X.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/769/product769_gallery2_-x_sBWAxq.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/769/product769_gallery3_oYp-e4PJ8.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Pants',
@@ -19466,11 +19334,11 @@ const catalogProducts = [
         name: 'AXOR OASIS HYDERATION BAG WITH BLADER Black Blue',
         price: 3320,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087465/AXOROASIS_HYDERATIONBAGWITHBLADER_-1Blue_900x_pjg0vy.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/770/product770_main_p3C-jYgZU.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087467/AXOROASIS_HYDERATIONBAGWITHBLADER_-2Blue_900x_c6dhts.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087474/AXOROASIS_HYDERATIONBAGWITHBLADER_-4Blue_900x_gz5nuq.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087483/HYDERATION_BAG_WITH_BLADER1_900x_zoijss.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/770/product770_gallery1_vGGrFeQwt.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/770/product770_gallery2_2qf7H4yMi.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/770/product770_gallery3_K5xfjY71m.png'
         ],
         category: 'Touring',
         subcategory: 'Saddle Bags',
@@ -19492,11 +19360,11 @@ const catalogProducts = [
         name: 'AXOR OASIS HYDERATION BAG WITH BLADER Black Red',
         price: 3320,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087466/AXOROASIS_HYDERATIONBAGWITHBLADER_-1Red_900x_yf2ips.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/771/product771_main_sKw6AftSs.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087473/AXOROASIS_HYDERATIONBAGWITHBLADER_-2Red_900x_lm53ep.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087481/AXOROASIS_HYDERATIONBAGWITHBLADER_-4Red_900x_mlczkt.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087489/HYDERATIONBAGWITHBLADER_900x_rjrewq.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/771/product771_gallery1_o8DksDgsO.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/771/product771_gallery2_YUOoirggc.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/771/product771_gallery3_Nz6VcqbBM.png'
         ],
         category: 'Touring',
         subcategory: 'Saddle Bags',
@@ -19518,11 +19386,11 @@ const catalogProducts = [
         name: 'Axor Tail Bag-40 LTS',
         price: 6200,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087695/TAILBAG_1_900x_tssdki.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/772/product772_main_DKWeClMrf.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087716/tailbag_2_6a506da6-31cd-45ab-b441-7ef75bc8e18c_900x_jvz0be.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087693/tailbag_1_8a10ada7-ca5d-409a-a35c-17ac3df70d39_900x_hhjxpk.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087717/TAILBAG_2_900x_iqrh3d.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/772/product772_gallery1_R501aYYVc.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/772/product772_gallery2_U6OMswNp8C.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/772/product772_gallery3_tHbbgk4-c.jpg'
         ],
         category: 'Touring',
         subcategory: 'Saddle Bags',
@@ -19543,11 +19411,11 @@ const catalogProducts = [
         name: 'Axor Tail Bag-25 LTS',
         price: 5498,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087948/1_xjnmyw.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/773/product773_main_WgxOYORt9.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087949/3_ceccex.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087949/4_yeoim4.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786087949/2_v9qnmn.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/773/product773_gallery1_E2fZDpOm0.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/773/product773_gallery2_oVPfUjGkw.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/773/product773_gallery3_ABR20D5QD.jpg'
         ],
         category: 'Touring',
         subcategory: 'Saddle Bags',
@@ -19569,11 +19437,10 @@ const catalogProducts = [
         name: 'Axor Tank Bag AXTB-2 (20 LTS)',
         price: 3860,
         discount: 20,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088080/tankaxtb-2_1_900x_xge7dv.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/product774_main_a2XClhMPdP.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088081/tankaxtb-2_3_900x_arq9vf.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088081/tankaxtb-2_4_900x_cbjay0.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088081/TANKBAGAXTB-2_1_900x_hrjqxo.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/product774_gallery1_vC1ZISmoY.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/product774_gallery2_-oUtA2tAv.jpg'
         ],
         category: 'Touring',
         subcategory: 'Tank Bags',
@@ -19594,11 +19461,10 @@ const catalogProducts = [
         name: 'Axor Tank Bag AXTB-1 (15 LTS)',
         price: 3554,
         discount: 20,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088200/TANKBAGAXTB-1_1_900x_gxyc99.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/product775_main_KfrReeKO_.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088199/tankaxtb-1_5_900x_c4eqgt.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088199/tankaxtb-1_3_900x_kirpmv.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786088199/tankaxtb-1_2_900x_jab13p.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/product775_gallery1_Z_RyxYDGR.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/product775_gallery2_3GMzkUTY3t.jpg'
         ],
         category: 'Touring',
         subcategory: 'Tank Bags',
@@ -19698,11 +19564,9 @@ const catalogProducts = [
         name: 'RK TECH ALUMINIUM RADIATOR FOR Aprilia RS 457',
         price: 4699,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786089457/V7408296-1763540261308_eeqnly.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/779/product779_main_sai_Mbliw.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786089457/V7408296-1763540261308_eeqnly.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786089457/V7408296-1763540261308_eeqnly.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786089457/V7408296-1763540261308_eeqnly.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/779/product779_main_sai_Mbliw.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -19724,11 +19588,9 @@ const catalogProducts = [
         name: 'RK TECH Aprilia Tuono 457 Tail Tidy',
         price: 1800,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786089548/SKU-0087_0-1751462657506_xjfujh.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/780/product780_main_XzOsh8Q2U.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786089548/SKU-0087_0-1751462657506_xjfujh.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786089548/SKU-0087_0-1751462657506_xjfujh.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786089548/SKU-0087_0-1751462657506_xjfujh.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/780/product780_main_XzOsh8Q2U.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -19750,11 +19612,9 @@ const catalogProducts = [
         name: 'RK TECH Combo Kit 4 For APRILIA TUONO 457',
         price: 14499,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786089957/C4-1749040272562_zsnda9.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/781/product781_main_9xcJDu_B6a.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786089957/C4-1749040272562_zsnda9.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786089957/C4-1749040272562_zsnda9.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786089957/C4-1749040272562_zsnda9.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/781/product781_main_9xcJDu_B6a.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -19776,11 +19636,9 @@ const catalogProducts = [
         name: 'RK TECH Combo Kit 3 For APRILIA TUONO 457',
         price: 16999,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090056/COMBO3-1749040353855_ihcybc.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/782/product782_main_a91tLCyMg.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090056/COMBO3-1749040353855_ihcybc.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090056/COMBO3-1749040353855_ihcybc.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090056/COMBO3-1749040353855_ihcybc.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/782/product782_main_a91tLCyMg.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -19801,11 +19659,9 @@ const catalogProducts = [
         name: 'RK TECH Frame Sliders for APRILIA TUONO 457',
         price: 7700,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090118/FS1-1749040389281_qsrwzk.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/783/product783_main_rY054h-Lh.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090119/FS2-1749040390159_fuuxok.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090118/FS1-1749040389281_qsrwzk.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090119/FS2-1749040390159_fuuxok.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/783/product783_gallery1_oSwNS6h8b.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -19826,11 +19682,9 @@ const catalogProducts = [
         name: 'RK TECH MASTER CYLINDER GUARD FOR APRILIA TUONO 457',
         price: 750,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090193/MCGUARD-1749030591291_webzdt.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/784/product784_main_EDV7HyI4nn.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090193/MCGUARD-1749030591291_webzdt.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090193/MCGUARD-1749030591291_webzdt.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090193/MCGUARD-1749030591291_webzdt.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/784/product784_main_EDV7HyI4nn.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -19852,11 +19706,9 @@ const catalogProducts = [
         name: 'RK TECH FRONT FORK PROTECTOR FOR APRILIA TUONO 457',
         price: 2799,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090268/F1-1749030416652_dnyjcs.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/785/product785_main_5TKtF0I4cI.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090268/F1-1749030416652_dnyjcs.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090268/F1-1749030416652_dnyjcs.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090268/F1-1749030416652_dnyjcs.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/785/product785_main_5TKtF0I4cI.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -19878,11 +19730,9 @@ const catalogProducts = [
         name: 'RK TECH REAR AXLE PROTECTORS FOR APRILIA TUONO 457',
         price: 2799,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090358/F2-1749029829796_iirhdz.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/786/product786_main_ZvmBWg_Ol.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090358/F2-1749029829796_iirhdz.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090358/F2-1749029829796_iirhdz.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090358/F2-1749029829796_iirhdz.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/786/product786_main_ZvmBWg_Ol.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -19904,11 +19754,9 @@ const catalogProducts = [
         name: 'RK TECH ALUMINIUM RADIATOR FOR TUONO 457',
         price: 4699,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090431/RGAL1-1749029631876_tek1ba.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/787/product787_main_8tG6kAt3x.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090431/RGAL1-1749029631876_tek1ba.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090431/RGAL1-1749029631876_tek1ba.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090431/RGAL1-1749029631876_tek1ba.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/787/product787_main_8tG6kAt3x.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -19930,11 +19778,9 @@ const catalogProducts = [
         name: 'RKTECH MS RADIATOR GUARD FOR APRILIA TUONO 457',
         price: 2300,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090506/RGMS1-1749030073871_m497n5.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/788/product788_main_HCTpQDQwC.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090506/RGMS1-1749030073871_m497n5.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090506/RGMS1-1749030073871_m497n5.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090506/RGMS1-1749030073871_m497n5.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/788/product788_main_HCTpQDQwC.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -19956,11 +19802,9 @@ const catalogProducts = [
         name: 'RK TECH SWING ARM SPOOL FOR APRILIA TUONO 457',
         price: 1200,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090648/SPOOLS3-1749028817247_sqc6bs.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/789/product789_main_wnT_kNkk6.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090648/SPOOLS3-1749028817247_sqc6bs.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090648/SPOOLS3-1749028817247_sqc6bs.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090648/SPOOLS3-1749028817247_sqc6bs.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/789/product789_main_wnT_kNkk6.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -19982,11 +19826,9 @@ const catalogProducts = [
         name: 'RK TECH Combo Kit 4 For APRILIA RS 457',
         price: 14499,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090763/SKU-0017_0-1782151055752_imm80o.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/790/product790_main_PfoqX33Rc.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090763/SKU-0017_0-1782151055752_imm80o.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090763/SKU-0017_0-1782151055752_imm80o.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090763/SKU-0017_0-1782151055752_imm80o.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/790/product790_main_PfoqX33Rc.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -20008,11 +19850,9 @@ const catalogProducts = [
         name: 'RKTECH Combo Kit 3 For APRILIA RS 457',
         price: 16999,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090842/1_pohoxy.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/791/product791_main_Z2YXKnjlH.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090842/1_pohoxy.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090842/1_pohoxy.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090842/1_pohoxy.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/791/product791_main_Z2YXKnjlH.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -20034,11 +19874,9 @@ const catalogProducts = [
         name: 'RK TECH Combo Kit 2 For APRILIA RS457',
         price: 11999,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090926/WhatsAppImage2024-09-28at124656_18df8543-1727509146168_gogxy4.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/792/product792_main_ku4SL1-keP.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090926/WhatsAppImage2024-09-28at124656_18df8543-1727509146168_gogxy4.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090926/WhatsAppImage2024-09-28at124656_18df8543-1727509146168_gogxy4.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786090926/WhatsAppImage2024-09-28at124656_18df8543-1727509146168_gogxy4.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/792/product792_main_ku4SL1-keP.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -20086,11 +19924,9 @@ const catalogProducts = [
         name: 'RK TECH Master Cylinder Guard SS for APRILIA RS 457',
         price: 750,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091079/WhatsAppImage2024-12-06at70629AM-1733449148950_snhcev.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/794/product794_main_93SKFzwrn.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091079/WhatsAppImage2024-12-06at70629AM-1733449148950_snhcev.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091079/WhatsAppImage2024-12-06at70629AM-1733449148950_snhcev.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091079/WhatsAppImage2024-12-06at70629AM-1733449148950_snhcev.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/794/product794_main_93SKFzwrn.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -20112,11 +19948,9 @@ const catalogProducts = [
         name: 'RK TECH MS Radiator Guard for APRILIA RS 457',
         price: 2300,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091154/V7408296-1726726784380_qmoveq.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/795/product795_main_EkuiLG_1V.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091155/V7408318-1726726785691_btas2b.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091154/V7408296-1726726784380_qmoveq.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091155/V7408318-1726726785691_btas2b.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/795/product795_gallery1_9-NfSq9U1.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -20138,11 +19972,9 @@ const catalogProducts = [
         name: 'RK TECH Swing Arm Spools for APRILIA RS 457',
         price: 1200,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091248/V7408281-1726726430707_abze3i.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/796/product796_main_wHEYqHe7e.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091253/V7408293-1726726432074_nhttmq.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091248/V7408281-1726726430707_abze3i.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091253/V7408293-1726726432074_nhttmq.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/796/product796_gallery1_TXakwsQaYE.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -20164,11 +19996,9 @@ const catalogProducts = [
         name: 'RK TECH Rear Axle Protector for APRILIA RS 457',
         price: 2799,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091330/2_z6la5k.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/797/product797_main_6mrGm-IfW.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091331/3_utbdyb.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091330/2_z6la5k.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091331/3_utbdyb.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/797/product797_gallery1_ZdAgNTy-yC.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -20190,11 +20020,9 @@ const catalogProducts = [
         name: 'RK TECH Front Fork Protector for APRILIA RS 457',
         price: 2799,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091444/11_csmkcq.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/798/product798_main_8DA4eP9xO.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091446/222_oqshfq.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091444/11_csmkcq.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091446/222_oqshfq.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/798/product798_gallery1_-Fnk6mcBI.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -20216,11 +20044,9 @@ const catalogProducts = [
         name: 'RK TECH Rear Axle Protector for APRILIA RS 457',
         price: 7700,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091605/V7408263-1726675247203-1726725725632_adjuyn.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/799/product799_main_BMzoQ28Diz.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091577/V7408266-1726725849574_mmztjt.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091605/V7408263-1726675247203-1726725725632_adjuyn.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786091577/V7408266-1726725849574_mmztjt.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/701-800/799/product799_gallery1_WLvSqMvUD.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -22563,11 +22389,9 @@ const catalogProducts = [
         name: 'RK TECH YAMAHA R3 2022+ (NO CUT) FRAME SLIDERS',
         price: 6999,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092068/DSC089081-1749189148771_wnhejx.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/900/product900_main_TN4MUdClE.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092070/up3-1747293520206_qni2ai.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092068/DSC089081-1749189148771_wnhejx.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092094/up4-1747293521159_fggziz.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/900/product900_gallery1_LsDaOdbXg.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -22589,11 +22413,9 @@ const catalogProducts = [
         name: 'RK TECH Front Fork Protector for YAMAHA R3',
         price: 2799,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092294/shop-1741241595964_ugrdtr.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/901/product901_main_eLNLtsEofa.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092294/shop-1741241595964_ugrdtr.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092294/shop-1741241595964_ugrdtr.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092294/shop-1741241595964_ugrdtr.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/901/product901_main_eLNLtsEofa.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -22615,11 +22437,9 @@ const catalogProducts = [
         name: 'RK TECH Swing Arm Spools for YAMAHA R3',
         price: 1200,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092378/shop2-1741242026879_vwcxt9.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/902/product902_main_mmghW32af.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092378/shop2-1741242026879_vwcxt9.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092378/shop2-1741242026879_vwcxt9.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092378/shop2-1741242026879_vwcxt9.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/902/product902_main_mmghW32af.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -22641,11 +22461,9 @@ const catalogProducts = [
         name: 'RK TECH Rear Axle Protector for YAMAHA R3',
         price: 2999,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092470/1_e8gr8l.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/903/product903_main_WX68FicG3.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092470/1_e8gr8l.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092470/1_e8gr8l.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092470/1_e8gr8l.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/903/product903_main_WX68FicG3.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -22667,11 +22485,9 @@ const catalogProducts = [
         name: 'RK TECH MS Radiator Guard for YAMAHA R3',
         price: 1799,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092582/r3radg-1749204425815_uy43zj.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/904/product904_main_q0bcaRDQw-.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092585/SKU-0060_0-1741239433186_ppxghh.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092582/r3radg-1749204425815_uy43zj.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092585/SKU-0060_0-1741239433186_ppxghh.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/904/product904_gallery1_xA7Ngcafc.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -22693,11 +22509,9 @@ const catalogProducts = [
         name: 'RK TECH Aluminium Radiator Guard for YAMAHA R3',
         price: 2999,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092671/11_x0vi2p.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/905/product905_main_t9fuWHhmP.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092673/111_vnnrot.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092671/11_x0vi2p.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092673/111_vnnrot.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/905/product905_gallery1_VSgD0C7nO.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -22719,11 +22533,9 @@ const catalogProducts = [
         name: 'RK TECH Triumph Street Triple 765 RS Front Number Plate Holder',
         price: 1499,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092810/SKU-0086_0-1750588469544_tgdcce.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/906/product906_main_N_UqF_5Xm.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092810/SKU-0086_0-1750588469544_tgdcce.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092810/SKU-0086_0-1750588469544_tgdcce.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092810/SKU-0086_0-1750588469544_tgdcce.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/906/product906_main_N_UqF_5Xm.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -22745,11 +22557,9 @@ const catalogProducts = [
         name: 'RK TECH Swing Arm Spools For TRIUMPH STREET TRIPLE 765 RS',
         price: 1799,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092957/IMG_7766-1752834548568_rgix4d.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/907/product907_main_5dhNyK6te.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092961/shop2-1741242026879_qldzq7.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092967/shop-1741241595964_vaylll.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786092970/WhatsAppImage2024-12-06at32323AM1-1733442531706_cgwimq.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/907/product907_gallery1_gujuB8gbV.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -22771,11 +22581,9 @@ const catalogProducts = [
         name: 'RK TECH Tail Tidy For TRIUMPH STREET TRIPLE 765 RS ALUMINIUM',
         price: 4500,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093050/1_rietad.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/908/product908_main_ajQ3urkM3.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093061/2_ogf8pv.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093063/3_o1ysyx.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093066/4_vkbn7s.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/908/product908_gallery1_5BEmwXoyB.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -22797,11 +22605,9 @@ const catalogProducts = [
         name: 'RK TECH Rear Axle Protector For TRIUMPH STREET TRIPLE 765 RS',
         price: 2999,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093158/5_usdha9.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/909/product909_main_Xn9Ryll8Z.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093160/6_fw7gpq.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093162/7_h3i2z5.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093170/8_fjzzhf.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/909/product909_gallery1_c_ehfTHgZ.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -22823,11 +22629,9 @@ const catalogProducts = [
         name: 'RK TECH Front Fork Protector For TRIUMPH STREET TRIPLE 765 RS',
         price: 2999,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093264/12_fzqd9a.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/910/product910_main_pdq-gjpplu.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093266/13_wun75i.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093269/14_rjmtqm.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093275/15_njdlmf.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/910/product910_gallery1_XLIxByxUx.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -22849,11 +22653,9 @@ const catalogProducts = [
         name: 'RK TECH Radiator Guard For TRIUMPH STREET TRIPLE 765 RS',
         price: 6499,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093380/22_yt5ybv.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/911/product911_main_cwtI4aGyD.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093382/23_nz506t.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093385/24_bx4fhk.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786093387/25_dvbrkx.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/911/product911_gallery1_yl0LHl2pw.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -22875,11 +22677,9 @@ const catalogProducts = [
         name: 'RK TECH Radiator Guard (Type-2) For KTM 390 ADVENTURE',
         price: 2199,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096391/WhatsAppImage2024-12-06at33540AM-1733438372894_z3zxf4.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/912/product912_main_2Le538ZGQ.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096391/WhatsAppImage2024-12-06at33540AM-1733438372894_z3zxf4.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096391/WhatsAppImage2024-12-06at33540AM-1733438372894_z3zxf4.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096391/WhatsAppImage2024-12-06at33540AM-1733438372894_z3zxf4.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/912/product912_main_2Le538ZGQ.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -22901,11 +22701,9 @@ const catalogProducts = [
         name: 'RK TECH Radiator Guard (Type-1) For KTM 390 ADVENTURE',
         price: 1799,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096519/22-1733438326908_duduyz.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/913/product913_main_xY7tB_dXC.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096519/22-1733438326908_duduyz.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096519/22-1733438326908_duduyz.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096519/22-1733438326908_duduyz.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/913/product913_main_xY7tB_dXC.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -22927,11 +22725,9 @@ const catalogProducts = [
         name: 'RK TECH Swing Arm Spools for DUCATI',
         price: 1799,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096678/SKU-0048_0-1741235870762_p6gyex.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/914/product914_main_I5eHYlPAL.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096678/SKU-0048_0-1741235870762_p6gyex.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096678/SKU-0048_0-1741235870762_p6gyex.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096678/SKU-0048_0-1741235870762_p6gyex.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/914/product914_main_I5eHYlPAL.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -22953,11 +22749,9 @@ const catalogProducts = [
         name: 'RK TECH Radiator Guard & Oil Cooler Guard For DUCATI 959 PANIGALE',
         price: 12999,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096780/WhatsAppImage2024-12-06at71159AM1-1733449580594_gtk8ua.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/915/product915_main_G1wY7QQ7v.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096780/WhatsAppImage2024-12-06at71159AM1-1733449580594_gtk8ua.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096780/WhatsAppImage2024-12-06at71159AM1-1733449580594_gtk8ua.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096780/WhatsAppImage2024-12-06at71159AM1-1733449580594_gtk8ua.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/915/product915_main_G1wY7QQ7v.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -22979,11 +22773,9 @@ const catalogProducts = [
         name: 'RK TECH Combo Kit 3 for HONDA CBR 650R E-CLUTCH (2025)',
         price: 34999,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096980/CAT3-1761405216084_efriz8.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/916/product916_main_uQKnkbyCBl.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096981/FRAMESLIDERS3-1761405218073_c8wvrx.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096982/RADIATORGUARDALUMINIUM-1761405216639_wtfh2d.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786096982/swinngarmspools2-1761405217152_jui4kz.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/916/product916_gallery1_8glMk9GQh.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -23005,11 +22797,9 @@ const catalogProducts = [
         name: 'RK TECH Swing Arm Spools for HONDA CBR 650R E-CLUTCH (2025)',
         price: 7999,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097096/swingarmspools1-1761404450243_dc8mz2.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/917/product917_main_o5bZV4337.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097097/swinngarmspools2-1761404450771_ss8v9p.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097096/swingarmspools1-1761404450243_dc8mz2.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097097/swinngarmspools2-1761404450771_ss8v9p.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/917/product917_gallery1_2bYqV85cV.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -23031,11 +22821,9 @@ const catalogProducts = [
         name: 'RK TECH Front Fork Protector for HONDA CBR 650R E-CLUTCH (2025)',
         price: 5999,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097174/FRONTFORK-1761404153566_gsbe7t.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/918/product918_main_dS1L-hPVM.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097174/FRONTFORK-1761404153566_gsbe7t.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097174/FRONTFORK-1761404153566_gsbe7t.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097174/FRONTFORK-1761404153566_gsbe7t.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/918/product918_main_dS1L-hPVM.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -23057,11 +22845,9 @@ const catalogProducts = [
         name: 'RK TECH Frame Sliders for HONDA CBR 650R E-Clutch 2025',
         price: 18499,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097245/FRAMESLIDERS3-1761403960266_fz5d68.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/919/product919_main_y7SrBfavd-.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097245/FRAMESLIDERS-1761403960880_o7zmoe.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097245/FRAMESLIDERS3-1761403960266_fz5d68.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097245/FRAMESLIDERS-1761403960880_o7zmoe.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/919/product919_gallery1_RbV63DHoQG.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -23083,11 +22869,9 @@ const catalogProducts = [
         name: 'RK TECH Aluminium Radiator Guard for HONDA CBR 650R E-CLUTCH (2025)',
         price: 6499,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097316/RADIATORGUARDALUMINIUM-1761404865129_ddzrqo.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/920/product920_main_idGU6FvEOL.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097316/RADIATORGUARDALUMINIUM-1761404865129_ddzrqo.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097316/RADIATORGUARDALUMINIUM-1761404865129_ddzrqo.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097316/RADIATORGUARDALUMINIUM-1761404865129_ddzrqo.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/920/product920_gallery1_yiKxCgmXX.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -23109,11 +22893,9 @@ const catalogProducts = [
         name: 'RK TECH Radiator Guard & Oil Cooler Guard For BMW S 1000 RR',
         price: 13999,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097440/WhatsAppImage2024-12-06at15820AM1-1733448324134_krktqq.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/921/product921_main_nFW3K6jEm.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097437/WhatsAppImage2024-12-06at15819AM-1733448329661_bwdmhw.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097441/WhatsAppImage2024-12-06at15820AM-1733448332778_ccwtof.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097437/WhatsAppImage2024-12-06at15819AM-1733448329661_bwdmhw.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/921/product921_gallery1_gTRMQDU_T.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -23135,11 +22917,9 @@ const catalogProducts = [
         name: 'RK TECH Radiator Guard For BMW G310 GS',
         price: 1799,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097551/WhatsAppImage2024-12-06at63749AM-1733447970571-1733448095172_sbu6me.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/922/product922_main_giLozSzRY.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097549/WhatsAppImage2024-12-06at63748AM-1733447972221-1733448097003_vhyfat.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097548/WhatsAppImage2024-12-06at63748AM-1733447972221_re7bo6.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097550/WhatsAppImage2024-12-06at63749AM-1733447970571_qmyxqn.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/922/product922_gallery1_GzKlF3U0z.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -23161,11 +22941,9 @@ const catalogProducts = [
         name: 'RK TECH Radiator Guard For BMW G310 R',
         price: 1499,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097715/1_copeus.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/923/product923_main_62kUWhupB.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097715/1_copeus.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097715/1_copeus.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786097715/1_copeus.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/923/product923_main_62kUWhupB.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -23239,11 +23017,9 @@ const catalogProducts = [
         name: 'RK TECH Front Fork Protector For KAWASAKI NINJA ZX-6R 2024+',
         price: 3499,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098065/1_rmp1ez.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/926/product926_main_4joyRCYu8.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098065/1_rmp1ez.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098065/1_rmp1ez.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098065/1_rmp1ez.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/926/product926_main_4joyRCYu8.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -23265,11 +23041,9 @@ const catalogProducts = [
         name: 'RK TECH Aluminium Radiator Guard for KAWASAKI NINJA ZX-6R 2024+',
         price: 6499,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098217/RG0001-1745742924327_zwinvr.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/927/product927_main_sEFDMv_We.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098220/RG0002-1745742924997_idqxu1.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098217/RG0001-1745742924327_zwinvr.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098220/RG0002-1745742924997_idqxu1.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/927/product927_gallery1_s2jdlv82-.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -23291,11 +23065,9 @@ const catalogProducts = [
         name: 'RK TECH Frame Sliders for KAWASAKI NINJA ZX-6R 2024+',
         price: 8999,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098338/DSC089001-1749106897768_iiaacf.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/928/product928_main_zXwVRUsoP.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098341/DSC089011-1749106898378_npuoh0.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098338/DSC089001-1749106897768_iiaacf.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098343/FS0003-1745742830290_jqdml1.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/928/product928_gallery1_-di4kxvYz.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -23317,11 +23089,9 @@ const catalogProducts = [
         name: 'RK TECH Rear Axle Protector for KAWASAKI NINJA ZX-6R 2024+',
         price: 3499,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098447/2_efb455.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/929/product929_main_2OwQXg0yY.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098449/3_wwfw3k.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098447/2_efb455.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098449/3_wwfw3k.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/929/product929_gallery1_xtgn6Ja7U.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -23343,11 +23113,9 @@ const catalogProducts = [
         name: 'RK TECH Exhaust Sliders for KAWASAKI NINJA ZX-6R 2024+',
         price: 2499,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098517/SKU-0052_0-1740131948545-1745742439526_cr4mpw.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/930/product930_main_eBGzzhNi5.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098517/SKU-0052_0-1740131948545-1745742439526_cr4mpw.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098517/SKU-0052_0-1740131948545-1745742439526_cr4mpw.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098517/SKU-0052_0-1740131948545-1745742439526_cr4mpw.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/930/product930_main_eBGzzhNi5.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -23369,11 +23137,9 @@ const catalogProducts = [
         name: 'RK TECH Swing Arm Spools for KAWASAKI NINJA ZX-6R 2024+',
         price: 1599,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098587/SWINGARMSPOOLS0001-1745742188622_h5zast.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/931/product931_main_QRQDpSvFA.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098587/SWINGARMSPOOLS0001-1745742188622_h5zast.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098587/SWINGARMSPOOLS0001-1745742188622_h5zast.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098587/SWINGARMSPOOLS0001-1745742188622_h5zast.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/931/product931_main_QRQDpSvFA.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -23395,11 +23161,9 @@ const catalogProducts = [
         name: 'RK TECH Combo Kit 3 For KAWASAKI NINJA ZX-6R 2024+',
         price: 22999,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098648/SKU-0065_0-1745736947280_hih2xb.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/932/product932_main_wI_fJ0Zaju.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098648/SKU-0065_0-1745736947280_hih2xb.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098648/SKU-0065_0-1745736947280_hih2xb.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098648/SKU-0065_0-1745736947280_hih2xb.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/932/product932_main_wI_fJ0Zaju.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -23421,11 +23185,9 @@ const catalogProducts = [
         name: 'RK TECH Exhaust Sliders for KAWASAKI NINJA 300',
         price: 2499,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098725/11_vksou0.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/933/product933_main_HbAzB0Og3.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098725/11_vksou0.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098725/11_vksou0.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098725/11_vksou0.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/933/product933_main_HbAzB0Og3.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -23447,11 +23209,9 @@ const catalogProducts = [
         name: 'RK TECH Inline Pipe Protector for KAWASAKI NINJA 300',
         price: 2999,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098804/22_lhnt9p.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/934/product934_main_EXZMA6P1Y.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098804/22_lhnt9p.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098804/22_lhnt9p.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098804/22_lhnt9p.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/934/product934_main_EXZMA6P1Y.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -23473,11 +23233,9 @@ const catalogProducts = [
         name: 'RK TECH MS Radiator Guard for KAWASAKI NINJA 300',
         price: 2299,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098877/111_ovv5fb.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/935/product935_main_uTODm_69G.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098877/111_ovv5fb.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098877/111_ovv5fb.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098877/111_ovv5fb.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/935/product935_main_uTODm_69G.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -23499,11 +23257,9 @@ const catalogProducts = [
         name: 'RK TECH Aluminium Radiator Guard for KAWASAKI NINJA 300',
         price: 2799,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098980/222_fiqzox.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/936/product936_main_eoMrCH58k.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098980/222_fiqzox.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098980/222_fiqzox.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098980/222_fiqzox.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/901-1000/936/product936_main_eoMrCH58k.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -23551,11 +23307,9 @@ const catalogProducts = [
         name: 'RK TECH Swing Arm Spools For KAWASAKI NINJA ZX-10R (2021+)',
         price: 1999,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099103/44_wckatj.webp',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/938-950/product938_rktech_swingarm_zx10r.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099103/44_wckatj.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099103/44_wckatj.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099103/44_wckatj.webp'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/938-950/product938_rktech_swingarm_zx10r.webp'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -23577,11 +23331,9 @@ const catalogProducts = [
         name: 'RK TECH Swing Arm Spools For KAWASAKI NINJA ZX-10R',
         price: 1499,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099164/555_mqwzts.webp',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/938-950/product938_rktech_swingarm_zx10r.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099164/555_mqwzts.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099164/555_mqwzts.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099164/555_mqwzts.webp'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/938-950/product938_rktech_swingarm_zx10r.webp'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -23603,11 +23355,9 @@ const catalogProducts = [
         name: 'RK TECH Radiator Guard For KAWASAKI NINJA ZX-10R',
         price: 7999,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099224/WhatsAppImage2024-12-06at32327AM-1733440669821_bu1enl.webp',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/938-950/product940_rktech_radiator_guard_zx10r.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099224/WhatsAppImage2024-12-06at32327AM-1733440669821_bu1enl.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099224/WhatsAppImage2024-12-06at32327AM-1733440669821_bu1enl.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099224/WhatsAppImage2024-12-06at32327AM-1733440669821_bu1enl.webp'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/938-950/product940_rktech_radiator_guard_zx10r.webp'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -23629,11 +23379,9 @@ const catalogProducts = [
         name: 'RK TECH Front Fork Protector For KAWASAKI NINJA ZX-6R 2024+',
         price: 3499,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098065/1_rmp1ez.webp',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/938-950/product941_rktech_fork_protector_zx6r.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098065/1_rmp1ez.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098065/1_rmp1ez.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786098065/1_rmp1ez.webp'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/938-950/product941_rktech_fork_protector_zx6r.webp'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -23655,11 +23403,11 @@ const catalogProducts = [
         name: 'RK TECH UNI PADDOCK STAND - CROCODILE BLACK',
         price: 2999,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099511/ddgd-1766613802427_nxvjkg.webp',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/938-950/product942_rktech_paddock_black_main.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099514/WhatsAppImage2025-12-25at304-1766613803458_mimxdp.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099511/ddgd-1766613802427_nxvjkg.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099512/po-1766613803003_nimb0b.webp'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/938-950/product942_rktech_paddock_black_main.webp',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/938-950/product942_rktech_paddock_black_2.webp',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/938-950/product942_rktech_paddock_black_3.webp'
         ],
         category: 'Performance Parts',
         subcategory: 'PADDOCK STAND',
@@ -23703,11 +23451,12 @@ const catalogProducts = [
         name: 'RK TECH UNI PADDOCK STAND - COSMIC RED',
         price: 2999,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786103407/shop3-1755210163319-1766615196116_agfmkz.webp',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/938-950/product944_rktech_paddock_red_main.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786103407/WhatsApp_Image_2025-08-08_at_115903_AM__1_-removebg-preview-1755210521318-1766612323813_lttwuo.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786103407/WhatsAppImage2025-12-25at35414AM-1766615196643_xzfobw.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786103407/WhatsAppImage2025-12-25at35413AM-1766615197112_vl7lhs.webp'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/938-950/product944_rktech_paddock_red_main.webp',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/938-950/product944_rktech_paddock_red_2.webp',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/938-950/product944_rktech_paddock_red_3.webp',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/938-950/product944_rktech_paddock_red_4.webp'
         ],
         category: 'Performance Parts',
         subcategory: 'PADDOCK STAND',
@@ -23751,11 +23500,9 @@ const catalogProducts = [
         name: 'NGK Iridium Spark Plug Kit Dominar 400 (Left)',
         price: 865,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786102085/Screenshot_2026-08-07_164228_kj1quv.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/938-950/product950_ngk_cpr8eaix9.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786102085/Screenshot_2026-08-07_164228_kj1quv.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786102085/Screenshot_2026-08-07_164228_kj1quv.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786102085/Screenshot_2026-08-07_164228_kj1quv.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/938-950/product950_ngk_cpr8eaix9.png'
         ],
         category: 'Performance Parts',
         subcategory: 'Spark Plug',
@@ -23779,11 +23526,9 @@ const catalogProducts = [
         name: 'NGK Iridium Spark Plug Kit Dominar 400 (Center)',
         price: 515,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786102085/Screenshot_2026-08-07_164228_kj1quv.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/938-950/product949_ngk_lkar8ai9.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786102085/Screenshot_2026-08-07_164228_kj1quv.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786102085/Screenshot_2026-08-07_164228_kj1quv.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786102085/Screenshot_2026-08-07_164228_kj1quv.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/938-950/product949_ngk_lkar8ai9.png'
         ],
         category: 'Performance Parts',
         subcategory: 'Spark Plug',
@@ -23806,11 +23551,9 @@ const catalogProducts = [
         name: 'NGK Iridium Spark Plug Kit Dominar 400 (Right)',
         price: 865,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786102085/Screenshot_2026-08-07_164228_kj1quv.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/938-950/product950_ngk_cpr8eaix9.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786102085/Screenshot_2026-08-07_164228_kj1quv.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786102085/Screenshot_2026-08-07_164228_kj1quv.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786102085/Screenshot_2026-08-07_164228_kj1quv.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/938-950/product950_ngk_cpr8eaix9.png'
         ],
         category: 'Performance Parts',
         subcategory: 'Spark Plug',
@@ -23835,11 +23578,9 @@ const catalogProducts = [
         name: 'NGK Laser Iridium Spark Plug Premium - LKAR8AI-9',
         price: 515,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104195/Screenshot_2026-08-07_173231_canuqc.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/938-950/product949_ngk_lkar8ai9.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104195/Screenshot_2026-08-07_173231_canuqc.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104195/Screenshot_2026-08-07_173231_canuqc.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104195/Screenshot_2026-08-07_173231_canuqc.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/938-950/product949_ngk_lkar8ai9.png'
         ],
         category: 'Performance Parts',
         subcategory: 'Spark Plug',
@@ -23866,11 +23607,9 @@ const catalogProducts = [
         name: 'NGK Iridium Spark Plug - CPR8EAIX-9',
         price: 865,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104504/Screenshot_2026-08-07_173749_hcpyzg.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/938-950/product950_ngk_cpr8eaix9.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104504/Screenshot_2026-08-07_173749_hcpyzg.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104504/Screenshot_2026-08-07_173749_hcpyzg.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104504/Screenshot_2026-08-07_173749_hcpyzg.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/938-950/product950_ngk_cpr8eaix9.png'
         ],
         category: 'Performance Parts',
         subcategory: 'Spark Plug',
@@ -24280,11 +24019,13 @@ const catalogProducts = [
         name: 'K&N Air Filter for Honda CBR150 - HA-1502',
         price: 5790,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786106889/q_na3xhq.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/965/product965_kn_1_Gc_X2k9QUI.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786106889/q_na3xhq.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786106889/q_na3xhq.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786106889/q_na3xhq.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/965/product965_kn_1_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/965/product965_kn_2_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/965/product965_kn_3_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/965/product965_kn_4_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/965/product965_kn_5_Gc_X2k9QUI.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Air Filter',
@@ -24307,11 +24048,13 @@ const catalogProducts = [
         name: 'K&N Air Filter for Kawasaki Ninja ZX-10R (2016-2018) - KA-1016',
         price: 7490,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107003/z_fas8mq.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/966/product966_kn_1_Gc_X2k9QUI.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107003/z_fas8mq.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107003/z_fas8mq.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107003/z_fas8mq.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/966/product966_kn_1_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/966/product966_kn_2_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/966/product966_kn_3_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/966/product966_kn_4_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/966/product966_kn_5_Gc_X2k9QUI.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Air Filter',
@@ -24333,11 +24076,13 @@ const catalogProducts = [
         name: 'K&N Oil Filter for BMW R1200, R1200RT, R1200GS - KN-164',
         price: 1790,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107112/x_qupgnv.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/967/product967_kn_1_Zz9faT1BQg.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107112/x_qupgnv.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107112/x_qupgnv.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107112/x_qupgnv.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/967/product967_kn_1_Zz9faT1BQg.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/967/product967_kn_2_Zz9faT1BQg.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/967/product967_kn_3_Zz9faT1BQg.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/967/product967_kn_4_Zz9faT1BQg.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/967/product967_kn_5_Zz9faT1BQg.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Oil Filter',
@@ -24360,11 +24105,12 @@ const catalogProducts = [
         name: 'K&N Air Filter for Bajaj Dominar / RS200 (BA-3717)',
         price: 6790,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107197/c_dtw9pu.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/968/product968_kn_1_Gc_X2k9QUI.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107197/c_dtw9pu.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107197/c_dtw9pu.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107197/c_dtw9pu.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/968/product968_kn_1_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/968/product968_kn_2_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/968/product968_kn_3_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/968/product968_kn_4_Gc_X2k9QUI.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Air Filter',
@@ -24387,11 +24133,13 @@ const catalogProducts = [
         name: 'K&N Air Filter for Harley Davidson Street 750 - HD-4915',
         price: 8590,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107313/w_yve8jp.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/969/product969_kn_1_Gc_X2k9QUI.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107313/w_yve8jp.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107313/w_yve8jp.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107313/w_yve8jp.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/969/product969_kn_1_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/969/product969_kn_2_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/969/product969_kn_3_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/969/product969_kn_4_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/969/product969_kn_5_Gc_X2k9QUI.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Air Filter',
@@ -24414,11 +24162,12 @@ const catalogProducts = [
         name: 'K&N Oil Filter for Harley Davidson - KN-171B',
         price: 1690,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107392/e_gjwj21.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/970/product970_kn_1_Gc_X2k9QUI.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107392/e_gjwj21.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107392/e_gjwj21.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107392/e_gjwj21.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/970/product970_kn_1_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/970/product970_kn_2_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/970/product970_kn_3_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/970/product970_kn_4_Gc_X2k9QUI.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Oil Filter',
@@ -24441,11 +24190,13 @@ const catalogProducts = [
         name: 'K&N Air Filter for Harley Davidson Sportster/Iron 883 - HD-8834',
         price: 6790,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107489/s_upsdoh.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/971/product971_kn_1_Gc_X2k9QUI.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107489/s_upsdoh.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107489/s_upsdoh.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107489/s_upsdoh.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/971/product971_kn_1_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/971/product971_kn_2_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/971/product971_kn_3_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/971/product971_kn_4_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/971/product971_kn_5_Gc_X2k9QUI.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Air Filter',
@@ -24495,11 +24246,13 @@ const catalogProducts = [
         name: 'K&N Air Filter for Kawasaki Ninja ZX-6R (2018 Onwards) - KA-6009',
         price: 7690,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107003/z_fas8mq.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/973/product973_kn_1_Gc_X2k9QUI.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107003/z_fas8mq.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107003/z_fas8mq.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107003/z_fas8mq.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/973/product973_kn_1_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/973/product973_kn_2_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/973/product973_kn_3_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/973/product973_kn_4_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/973/product973_kn_5_Gc_X2k9QUI.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Air Filter',
@@ -24522,11 +24275,13 @@ const catalogProducts = [
         name: 'K&N Air Filter BM-3117 for BMW G310R / G310GS',
         price: 5090,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107783/v_klanj0.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/974/product974_kn_1_Gc_X2k9QUI.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107783/v_klanj0.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107783/v_klanj0.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107783/v_klanj0.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/974/product974_kn_1_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/974/product974_kn_2_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/974/product974_kn_3_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/974/product974_kn_4_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/974/product974_kn_5_Gc_X2k9QUI.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Air Filter',
@@ -24550,11 +24305,13 @@ const catalogProducts = [
         name: 'K&N Air Filter for RE Classic / Thunderbird - RO-5010',
         price: 6790,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107914/f_ooritt.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/975/product975_kn_1_Gc_X2k9QUI.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107914/f_ooritt.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107914/f_ooritt.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107914/f_ooritt.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/975/product975_kn_1_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/975/product975_kn_2_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/975/product975_kn_3_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/975/product975_kn_4_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/975/product975_kn_5_Gc_X2k9QUI.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Air Filter',
@@ -24582,11 +24339,13 @@ const catalogProducts = [
         name: 'K&N Air Filter for Kawasaki Ninja 250/300 - KA-2508',
         price: 7590,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108008/r_eonc3g.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/976/product976_kn_1_Gc_X2k9QUI.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108008/r_eonc3g.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108008/r_eonc3g.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108008/r_eonc3g.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/976/product976_kn_1_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/976/product976_kn_2_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/976/product976_kn_3_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/976/product976_kn_4_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/976/product976_kn_5_Gc_X2k9QUI.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Air Filter',
@@ -24609,11 +24368,13 @@ const catalogProducts = [
         name: 'K&N Air Filter KA-1003 for Kawasaki Z1000, Z750, Z800',
         price: 6490,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108098/t_a6evlq.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/977/product977_kn_1_Gc_X2k9QUI.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108098/t_a6evlq.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108098/t_a6evlq.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108098/t_a6evlq.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/977/product977_kn_1_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/977/product977_kn_2_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/977/product977_kn_3_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/977/product977_kn_4_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/977/product977_kn_5_Gc_X2k9QUI.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Air Filter',
@@ -24640,11 +24401,13 @@ const catalogProducts = [
         name: 'K&N Air Filter KT-1211 for KTM Duke 200/390',
         price: 6790,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108194/y_cyq0cy.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/978/product978_kn_1_Gc_X2k9QUI.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108194/y_cyq0cy.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108194/y_cyq0cy.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108194/y_cyq0cy.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/978/product978_kn_1_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/978/product978_kn_2_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/978/product978_kn_3_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/978/product978_kn_4_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/978/product978_kn_5_Gc_X2k9QUI.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Air Filter',
@@ -24697,11 +24460,10 @@ const catalogProducts = [
         name: 'K&N Air Filter for Royal Enfield Continental GT 535 - YA-6608',
         price: 7290,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108375/yu_p9mcbi.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/980/product980_kn_1_Gc_X2k9QUI.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108375/yu_p9mcbi.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108375/yu_p9mcbi.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108375/yu_p9mcbi.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/980/product980_kn_1_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/980/product980_kn_2_Gc_X2k9QUI.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Air Filter',
@@ -24724,11 +24486,13 @@ const catalogProducts = [
         name: 'K&N Engine Oil Filter for Suzuki V-Strom 650 XT, GSX-S750, GSX-S1000, Hayabusa, Intruder - KN-138',
         price: 1690,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108460/u_x8j1sr.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/981/product981_kn_1_Zz9faT1BQg.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108460/u_x8j1sr.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108460/u_x8j1sr.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108460/u_x8j1sr.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/981/product981_kn_1_Zz9faT1BQg.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/981/product981_kn_2_Zz9faT1BQg.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/981/product981_kn_3_Zz9faT1BQg.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/981/product981_kn_4_Zz9faT1BQg.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/981/product981_kn_5_Zz9faT1BQg.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Oil Filter',
@@ -24757,11 +24521,13 @@ const catalogProducts = [
         name: 'K&N Engine Oil Filter for Suzuki V-Strom 650 XT, GSX-S750, GSX-S1000, Hayabusa, Intruder - KN-138',
         price: 5490,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108556/h_iidmai.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/981/product981_kn_1_Zz9faT1BQg.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108556/h_iidmai.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108556/h_iidmai.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108556/h_iidmai.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/981/product981_kn_1_Zz9faT1BQg.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/981/product981_kn_2_Zz9faT1BQg.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/981/product981_kn_3_Zz9faT1BQg.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/981/product981_kn_4_Zz9faT1BQg.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/981/product981_kn_5_Zz9faT1BQg.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Oil Filter',
@@ -24790,11 +24556,12 @@ const catalogProducts = [
         name: 'K&N Air Filter KT-1217 for KTM Duke 250/Duke 390/Husqvarna Vitpilen 250/Svartpilen 250',
         price: 6790,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108194/y_cyq0cy.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/983/product983_kn_1_Gc_X2k9QUI.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108194/y_cyq0cy.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108194/y_cyq0cy.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108194/y_cyq0cy.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/983/product983_kn_1_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/983/product983_kn_2_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/983/product983_kn_3_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/983/product983_kn_4_Gc_X2k9QUI.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Air Filter',
@@ -24822,11 +24589,12 @@ const catalogProducts = [
         name: 'K&N Air Filter for Royal Enfield Himalayan (BS4 & BS6) - RO-4118',
         price: 8590,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108806/o_iqblee.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/984/product984_kn_1_Gc_X2k9QUI.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108806/o_iqblee.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108806/o_iqblee.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786108806/o_iqblee.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/984/product984_kn_1_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/984/product984_kn_2_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/984/product984_kn_3_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/984/product984_kn_4_Gc_X2k9QUI.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Air Filter',
@@ -24852,11 +24620,9 @@ const catalogProducts = [
         name: 'K&N Air Filter for Royal Enfield Electra/Standard/C350 - E-0900',
         price: 5990,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107914/f_ooritt.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/985/product985_kn_1_TM4MjQ4ODY.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107914/f_ooritt.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107914/f_ooritt.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786107914/f_ooritt.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/985/product985_kn_1_TM4MjQ4ODY.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Air Filter',
@@ -24885,11 +24651,10 @@ const catalogProducts = [
         name: 'K&N Air Filter Universal Cone Type for Apache/Avenger - RC-1060',
         price: 4490,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786109010/i_imyxes.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/986/product986_kn_1_Gc_X2k9QUI.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786109010/i_imyxes.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786109010/i_imyxes.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786109010/i_imyxes.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/986/product986_kn_1_Gc_X2k9QUI.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/986/product986_kn_2_Gc_X2k9QUI.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Air Filter',
@@ -24946,11 +24711,15 @@ const catalogProducts = [
         name: 'Moto Care TYPE 2 - TYRE HUGGER FOR TRIUMPH SPEED 400',
         price: 1600,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521426/1759753538_68e3b54251c25_izp6xi.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1010/product1010_gallery1_1MWMyNS5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521426/1759753633_68e3b5a17a468_tf5k9a.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521426/1759753621_68e3b5957c877_ckizpr.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521426/1759753613_68e3b58d47d53_vcvg43.jpg'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1010/product1010_gallery1_1MWMyNS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1010/product1010_gallery2_0N2Q1My5KUEc.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1010/product1010_gallery3_3Yzg3Ny5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1010/product1010_gallery4_3YTQ2OC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1010/product1010_gallery5_hMTk0Ny5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1010/product1010_gallery6_iYmIyMS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1010/product1010_gallery7_wZDZiNS5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -24972,11 +24741,14 @@ const catalogProducts = [
         name: 'Moto Care SUM GUARD (SILVER) FOR TRIUMPH SPEED 400',
         price: 1120,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521638/1754027439_688c55af86a49_jiwk5t.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1012/product1012_gallery1_5M2NjNi5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521637/1754027423_688c559f31858_uukojh.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521637/1754027432_688c55a80f7c4_fejkh5.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521636/1754027415_688c559793cc6_wkgviv.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1012/product1012_gallery1_5M2NjNi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1012/product1012_gallery2_zMTg1OC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1012/product1012_gallery3_wZjdjNC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1012/product1012_gallery4_4NmE0OS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1012/product1012_gallery5_zYmUwMi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1012/product1012_gallery6_xYjA0Yy5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -24997,11 +24769,14 @@ const catalogProducts = [
         name: 'Moto Care POLYCARBONATE VISOR FOR TRIUMPH SPEED 400',
         price: 2240,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521822/1_tcnjuv.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1007/product1007_gallery1_0MDJjYy5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521822/2_eg5l6x.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521823/3_paf6na.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521823/4_h5rg27.jpg'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1007/product1007_gallery1_0MDJjYy5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1007/product1007_gallery2_NzgxMy5qcGVn.jpeg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1007/product1007_gallery3_1NWFjZi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1007/product1007_gallery4_kYTFmYS5qcGc.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1007/product1007_gallery5_MjQ1OS5qcGVn.jpeg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1007/product1007_gallery6_jNTJlYS5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25022,11 +24797,10 @@ const catalogProducts = [
         name: 'Moto Care CNC CARRIER PLATE WITH BACKREST FOR TRIUMPH SPEED 400',
         price: 3600,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521971/Q_rto1au.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1022/product1022_gallery1_4MzQzNS5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521972/W_mmhev9.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521971/Q_rto1au.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786521972/W_mmhev9.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1022/product1022_gallery1_4MzQzNS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1022/product1022_gallery2_5YWJjMy5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25047,11 +24821,16 @@ const catalogProducts = [
         name: 'Moto Care GPS MOUNT FOR TRIUMPH SPEED 400',
         price: 880,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522076/AA_q7bxjt.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1005/product1005_gallery1_iZDg1NS5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522076/A_d5mdhw.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522077/AAA_u0vep3.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522078/AAAA_yiybi0.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1005/product1005_gallery1_iZDg1NS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1005/product1005_gallery2_wZDU4NS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1005/product1005_gallery3_2ZTdkYi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1005/product1005_gallery4_5OWM2NS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1005/product1005_gallery5_0ZDJlYy5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1005/product1005_gallery6_5ODgxYy5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1005/product1005_gallery7_5YTIwYi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1005/product1005_gallery8_0ZDFkYi5qcGc.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25072,11 +24851,11 @@ const catalogProducts = [
         name: 'Moto Care CNC STAND EXTENDER FOR TRIUMPH SPEED 400',
         price: 1360,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522196/Z_uagesc.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1013/product1013_gallery1_kYWRmNS5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522196/ZZ_ntlpqy.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522196/Z_uagesc.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522197/ZZZ_ni5djk.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1013/product1013_gallery1_kYWRmNS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1013/product1013_gallery2_jOTgxZS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1013/product1013_gallery3_1OTkyMS5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25097,11 +24876,14 @@ const catalogProducts = [
         name: 'Moto Care VISOR FOR TRIUMPH SPEED 400',
         price: 960,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522301/QQ_o4rcmt.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1007/product1007_gallery1_0MDJjYy5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522302/QQQ_lp3ana.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522303/QQQQ_ykq9yt.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522302/QQQ_lp3ana.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1007/product1007_gallery1_0MDJjYy5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1007/product1007_gallery2_NzgxMy5qcGVn.jpeg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1007/product1007_gallery3_1NWFjZi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1007/product1007_gallery4_kYTFmYS5qcGc.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1007/product1007_gallery5_MjQ1OS5qcGVn.jpeg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1007/product1007_gallery6_jNTJlYS5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25122,11 +24904,10 @@ const catalogProducts = [
         name: 'Moto Care PIPE CARRIER WITH BACKREST FOR TRIUMPH SPEED 400',
         price: 3600,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522414/WW_urausr.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1023/product1023_gallery1_1YzkxZS5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522414/WWW_pfxnzj.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522414/WW_urausr.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522414/WWW_pfxnzj.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1023/product1023_gallery1_1YzkxZS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1023/product1023_gallery2_3NmIwZS5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25147,11 +24928,15 @@ const catalogProducts = [
         name: 'Moto Care TYPE 2 - TYRE HUGGER FOR TRIUMPH SPEED 400',
         price: 1920,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522726/SS_nfdgvi.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1010/product1010_gallery1_1MWMyNS5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522726/SSS_ylbshm.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522726/SS_nfdgvi.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522726/S_ndhwka.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1010/product1010_gallery1_1MWMyNS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1010/product1010_gallery2_0N2Q1My5KUEc.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1010/product1010_gallery3_3Yzg3Ny5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1010/product1010_gallery4_3YTQ2OC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1010/product1010_gallery5_hMTk0Ny5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1010/product1010_gallery6_iYmIyMS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1010/product1010_gallery7_wZDZiNS5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25172,11 +24957,15 @@ const catalogProducts = [
         name: 'Moto Care TYRE HUGGER FOR TRIUMPH SPEED 400',
         price: 1600,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523046/C_wfpx5k.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1010/product1010_gallery1_1MWMyNS5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523046/CC_gxzaow.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523046/CCC_cxpjg3.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523047/CCCC_kvowa8.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1010/product1010_gallery1_1MWMyNS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1010/product1010_gallery2_0N2Q1My5KUEc.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1010/product1010_gallery3_3Yzg3Ny5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1010/product1010_gallery4_3YTQ2OC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1010/product1010_gallery5_hMTk0Ny5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1010/product1010_gallery6_iYmIyMS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1010/product1010_gallery7_wZDZiNS5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25197,11 +24986,14 @@ const catalogProducts = [
         name: 'Moto Care TAIL TIDY FOR TRIUMPH SPEED 400',
         price: 880,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523046/C_wfpx5k.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1010/product1010_gallery1_lNDI3Yi5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523046/CC_gxzaow.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523046/CCC_cxpjg3.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523047/CCCC_kvowa8.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1010/product1010_gallery1_lNDI3Yi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1010/product1010_gallery2_1MjBmNS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1010/product1010_gallery3_wYmZjNC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1010/product1010_gallery4_iZDFmNS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1010/product1010_gallery5_4MDkzYy5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1010/product1010_gallery6_4NmM1Yy5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25222,11 +25014,10 @@ const catalogProducts = [
         name: 'Moto Care BACKREST FOR TRIUMPH SPEED 400',
         price: 1920,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522726/SS_nfdgvi.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1022/product1022_gallery1_4MzQzNS5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522726/SS_nfdgvi.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522726/SSS_ylbshm.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786522726/SS_nfdgvi.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1022/product1022_gallery1_4MzQzNS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1022/product1022_gallery2_5YWJjMy5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25247,11 +25038,14 @@ const catalogProducts = [
         name: 'Moto Care SUM GUARD FOR TRIUMPH SPEED 400',
         price: 1120,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523674/v_hsz4tp.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1012/product1012_gallery1_5M2NjNi5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523675/vv_odlcyx.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523675/vvv_drwkys.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523675/vvvv_n7vkid.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1012/product1012_gallery1_5M2NjNi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1012/product1012_gallery2_zMTg1OC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1012/product1012_gallery3_wZjdjNC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1012/product1012_gallery4_4NmE0OS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1012/product1012_gallery5_zYmUwMi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1012/product1012_gallery6_xYjA0Yy5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25272,11 +25066,11 @@ const catalogProducts = [
         name: 'Moto Care STAND EXTENDER FOR TRIUMPH SPEED 400',
         price: 560,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523795/d_pbkixn.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1013/product1013_gallery1_kYWRmNS5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523795/dd_prnsm1.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523796/ddd_ezookg.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523795/dd_prnsm1.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1013/product1013_gallery1_kYWRmNS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1013/product1013_gallery2_jOTgxZS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1013/product1013_gallery3_1OTkyMS5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25297,11 +25091,12 @@ const catalogProducts = [
         name: 'Moto Care SADDLE STAY FOR TRIUMPH SPEED 400',
         price: 2400,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523928/b_hpsp54.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1014/product1014_gallery1_3NWY5ZC5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523928/bb_fvhvhj.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523929/bbb_byodsf.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523929/bbbb_xmliwk.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1014/product1014_gallery1_3NWY5ZC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1014/product1014_gallery2_0NjMzZi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1014/product1014_gallery3_4Mjg2MC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1014/product1014_gallery4_zMjE2MS5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25322,11 +25117,12 @@ const catalogProducts = [
         name: 'Moto Care RESERVOIR OIL CAP FOR TRIUMPH SPEED 400',
         price: 320,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524083/g_hi3ffg.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1015/product1015_gallery1_kNGUyYy5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524084/gg_bxvk8s.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524084/ggg_s2s1xv.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524085/gggg_dae26u.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1015/product1015_gallery1_kNGUyYy5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1015/product1015_gallery2_4ODU3MS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1015/product1015_gallery3_iYzAzZi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1015/product1015_gallery4_3N2NiOS5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25347,11 +25143,13 @@ const catalogProducts = [
         name: 'Moto Care RADIATOR GUARD FOR TRIUMPH SPEED 400',
         price: 1200,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524226/n_covqau.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1016/product1016_gallery1_0NTZmNy5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524226/nn_argrhl.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524227/nnn_xd24oy.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524228/nnnn_cmpm6q.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1016/product1016_gallery1_0NTZmNy5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1016/product1016_gallery2_2N2I2Zi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1016/product1016_gallery3_1ZjZmMy5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1016/product1016_gallery4_kOGRhNC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1016/product1016_gallery5_zYzc2NC5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25372,11 +25170,12 @@ const catalogProducts = [
         name: 'Moto Care NUMBER PLATE FRAME FOR TRIUMPH SPEED 400',
         price: 400,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524392/h_ihmrpt.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1017/product1017_gallery1_kZmZhMC5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524393/hh_jljrlh.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524394/hhh_aiuv51.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524394/hhhh_ards1k.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1017/product1017_gallery1_kZmZhMC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1017/product1017_gallery2_lZWMyNi5KUEc.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1017/product1017_gallery3_jYzAxNi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1017/product1017_gallery4_jYTZmNy5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25397,11 +25196,12 @@ const catalogProducts = [
         name: 'Moto Care HEADLIGHT GRILL FOR TRIUMPH SPEED 400',
         price: 1040,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524535/j_yng4y9.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1018/product1018_gallery1_xZWUwOC5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524536/jj_tv7tgz.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524536/jjj_re56we.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524537/jjjj_tfa5eo.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1018/product1018_gallery1_xZWUwOC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1018/product1018_gallery2_lZWM0MC5KUEc.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1018/product1018_gallery3_5NWIzMC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1018/product1018_gallery4_wOTg2Yi5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25423,11 +25223,13 @@ const catalogProducts = [
         name: 'Moto Care FOOTREST FOR TRIUMPH SPEED 400',
         price: 880,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524709/m_rlokfd.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1019/product1019_gallery1_0ZmM4Ni5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524710/mm_mrhj1e.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524710/mmm_furqhm.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524711/mmmm_rkgtpn.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1019/product1019_gallery1_0ZmM4Ni5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1019/product1019_gallery2_3ZTgwNi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1019/product1019_gallery3_yM2MzYi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1019/product1019_gallery4_hNDE2Ni5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1019/product1019_gallery5_hZmVjMS5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25448,11 +25250,13 @@ const catalogProducts = [
         name: 'Moto Care FOG LIGHT CLAMP FOR TRIUMPH SPEED 400',
         price: 520,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524855/k_yfzndi.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1020/product1020_gallery1_0YmIxMC5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524856/kk_voog9j.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524855/k_yfzndi.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524856/kkk_irb1dq.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1020/product1020_gallery1_0YmIxMC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1020/product1020_gallery2_wOTNhZC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1020/product1020_gallery3_xZjk5Ny5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1020/product1020_gallery4_1ZjhhYi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1020/product1020_gallery5_xN2JiNS5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25473,11 +25277,12 @@ const catalogProducts = [
         name: 'Moto Care DISC OIL CAP FOR TRIUMPH SPEED 400',
         price: 200,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524973/e_rgep9h.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1021/product1021_gallery1_kZWU5Yy5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524974/ee_nmo12k.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524975/eee_lxim4c.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524977/eeee_yqdkku.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1021/product1021_gallery1_kZWU5Yy5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1021/product1021_gallery2_0NjZhNi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1021/product1021_gallery3_kZTkyZi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1021/product1021_gallery4_yZGEzYi5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25498,11 +25303,10 @@ const catalogProducts = [
         name: 'Moto Care CNC PLATE CARRIER FOR TRIUMPH SPEED 400',
         price: 2560,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525121/r_gh65pr.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1022/product1022_gallery1_4MzQzNS5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525122/rr_heds7f.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525123/rrr_kf0vxm.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525124/rrrr_nqf5fa.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1022/product1022_gallery1_4MzQzNS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1022/product1022_gallery2_5YWJjMy5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25523,11 +25327,10 @@ const catalogProducts = [
         name: 'Moto Care PIPE CARRIER FOR TRIUMPH SPEED 400',
         price: 2560,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525262/t_mjzydq.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1023/product1023_gallery1_1YzkxZS5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525263/tt_qnn4hn.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525264/ttt_ck8np8.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525266/tttt_j3vrjb.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1023/product1023_gallery1_1YzkxZS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1023/product1023_gallery2_3NmIwZS5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25548,11 +25351,13 @@ const catalogProducts = [
         name: 'Moto Care 4 SLIDER CRASH GUARD FOR TRIUMPH SPEED 400',
         price: 4160,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525425/y_h9ked7.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1025/product1025_gallery1_5YjY1Yi5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525427/yy_bwjwfj.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525429/yyy_ouwlha.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525431/yyyy_q7a8jl.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1025/product1025_gallery1_5YjY1Yi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1025/product1025_gallery2_2OWE1MS5qcGc.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1025/product1025_gallery3_yMjYxYi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1025/product1025_gallery4_xZTJiOC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1025/product1025_gallery5_4NzE4Ny5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25573,11 +25378,13 @@ const catalogProducts = [
         name: 'Moto Care 2 SLIDER CRASH GUARD FOR TRIUMPH SPEED 400',
         price: 4160,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525544/uu_f8nlj7.jpg',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1025/product1025_gallery1_5YjY1Yi5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525543/u_gzsmcr.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525546/uuu_tutxg3.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786525547/uuuu_s41myw.jpg'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1025/product1025_gallery1_5YjY1Yi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1025/product1025_gallery2_2OWE1MS5qcGc.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1025/product1025_gallery3_yMjYxYi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1025/product1025_gallery4_xZTJiOC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1025/product1025_gallery5_4NzE4Ny5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25598,11 +25405,13 @@ const catalogProducts = [
         name: 'Moto Care 4 SLIDER CRASH GUARD FOR TRIUMPH SCRAMBLER 400X',
         price: 4160,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527425/1764932687_6932bc4f28987_tlpfum.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1027/product1027_gallery1_yODk4Ny5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527425/1764932708_6932bc644cbb8_rmd9qp.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527425/1764932696_6932bc589f937_ih2lzq.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527425/1764932727_6932bc7714f1d_ukulkd.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1027/product1027_gallery1_yODk4Ny5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1027/product1027_gallery2_5ZjkzNy5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1027/product1027_gallery3_0Y2JiOC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1027/product1027_gallery4_1YmM2ZS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1027/product1027_gallery5_xNGYxZC5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25623,11 +25432,13 @@ const catalogProducts = [
         name: 'Moto Care 2 SLIDER CRASH GUARD FOR TRIUMPH SCRAMBLER 400X',
         price: 4160,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527715/a_ixwg8j.jpg',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1027/product1027_gallery1_yODk4Ny5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527715/aa_vpqj50.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527716/aaa_qt7xis.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527716/aaaa_yes9gv.jpg'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1027/product1027_gallery1_yODk4Ny5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1027/product1027_gallery2_5ZjkzNy5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1027/product1027_gallery3_0Y2JiOC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1027/product1027_gallery4_1YmM2ZS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1027/product1027_gallery5_xNGYxZC5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25648,11 +25459,10 @@ const catalogProducts = [
         name: 'Moto Care PIPE CARRIER WITH BACKREST FOR TRIUMPH SCRAMBLER 400X',
         price: 3600,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528396/b_gjpwez.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1032/product1032_gallery1_4ZGI1NC5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528397/bb_yfhi9p.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528396/b_gjpwez.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528397/bb_yfhi9p.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1032/product1032_gallery1_4ZGI1NC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1032/product1032_gallery2_kMmI3Yy5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25673,11 +25483,10 @@ const catalogProducts = [
         name: 'Moto Care CNC CARRIER PLATE WITH BACKREST FOR TRIUMPH SCRAMBLER 400X',
         price: 3600,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528918/aa_ulvtjx.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1031/product1031_gallery1_hNTcyZi5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528918/a_xj8zkv.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528918/aa_ulvtjx.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528918/a_xj8zkv.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1031/product1031_gallery1_hNTcyZi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1031/product1031_gallery2_2OGRlZi5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25698,11 +25507,10 @@ const catalogProducts = [
         name: 'Moto Care PIPE CARRIER FOR TRIUMPH SCRAMBLER 400X',
         price: 2560,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786530928/q_y6qsui.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1032/product1032_gallery1_4ZGI1NC5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786530928/qq_smrex1.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786530928/qqq_fs4m84.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786530929/qqqq_psd12h.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1032/product1032_gallery1_4ZGI1NC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1032/product1032_gallery2_kMmI3Yy5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25723,11 +25531,10 @@ const catalogProducts = [
         name: 'Moto Care CNC PLATE CARRIER FOR TRIUMPH SCRAMBLER 400X',
         price: 2560,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531020/z_vlqbbm.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1031/product1031_gallery1_hNTcyZi5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531021/zz_ktyg6i.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531022/zzz_l1vplh.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531023/zzzz_x6r614.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1031/product1031_gallery1_hNTcyZi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1031/product1031_gallery2_2OGRlZi5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25748,11 +25555,10 @@ const catalogProducts = [
         name: 'Moto Care BACKREST FOR TRIUMPH SCRAMBLER 400X',
         price: 1920,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531134/w_tlk5iv.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1032/product1032_gallery1_4ZGI1NC5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531136/ww_kcwf2a.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531136/www_rbr6cn.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531134/w_tlk5iv.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1032/product1032_gallery1_4ZGI1NC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1032/product1032_gallery2_kMmI3Yy5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25773,11 +25579,12 @@ const catalogProducts = [
         name: 'Moto Care SADDLE STAY FOR TRIUMPH SCRAMBLER 400X',
         price: 2400,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531226/e_c7hm1e.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1033/product1033_gallery1_xOTRlZC5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531227/ee_dagtxg.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531228/eee_r8fqge.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531229/eeee_ww3saq.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1033/product1033_gallery1_xOTRlZC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1033/product1033_gallery2_2YmFjMi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1033/product1033_gallery3_1NDJiZC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1033/product1033_gallery4_2ZjMyZC5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25798,11 +25605,13 @@ const catalogProducts = [
         name: 'Moto Care  TYRE HUGGER FOR TRIUMPH SCRAMBLER 400X',
         price: 1600,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531328/s_qzhkyt.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1034/product1034_gallery1_jZDFhNC5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531329/ss_spgkne.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531330/sss_gnwdjk.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531331/ssss_qnnnlq.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1034/product1034_gallery1_jZDFhNC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1034/product1034_gallery2_hNDgyZC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1034/product1034_gallery3_zNjFiNy5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1034/product1034_gallery4_xODA3NS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1034/product1034_gallery5_5MGYwMC5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25823,11 +25632,13 @@ const catalogProducts = [
         name: 'Moto Care  POLYCARBONATE VISOR FOR TRIUMPH SCRAMBLER 400X',
         price: 2240,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531423/x_gocm4c.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1039/product1039_gallery1_hNTFlMy5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531426/xxx_coor5y.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531423/x_gocm4c.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531426/xxx_coor5y.jpg'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1039/product1039_gallery1_hNTFlMy5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1039/product1039_gallery2_lNmI2Yi5qcGc.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1039/product1039_gallery3_ZGY0My5qcGVn.jpeg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1039/product1039_gallery4_2ZTk4Ny5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1039/product1039_gallery5_lNWQ4Zi5qcGc.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25849,11 +25660,13 @@ const catalogProducts = [
         name: 'Moto Care  RADIATOR GUARD FOR `TRIUMPH SCRAMBLER 400X',
         price: 1200,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524227/nnn_xd24oy.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1036/product1036_gallery1_5NWI5MS5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524226/nn_argrhl.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524227/nnn_xd24oy.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524226/n_covqau.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1036/product1036_gallery1_5NWI5MS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1036/product1036_gallery2_5MzhlYy5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1036/product1036_gallery3_2NDIwZC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1036/product1036_gallery4_3YjkyYi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1036/product1036_gallery5_5YTg5ZC5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25875,11 +25688,13 @@ const catalogProducts = [
         name: 'Moto Care  SUM GUARD FOR TRIUMPH SCRAMBLER 400X',
         price: 1120,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531643/c_wybqgg.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1037/product1037_gallery1_yMmEzNi5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531645/cc_zodidt.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531647/ccc_l6qsc3.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531648/cccc_i6gwku.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1037/product1037_gallery1_yMmEzNi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1037/product1037_gallery2_xNDVkYy5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1037/product1037_gallery3_wZWE4NC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1037/product1037_gallery4_wYTY1ZC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1037/product1037_gallery5_hNWQ3MS5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25901,11 +25716,12 @@ const catalogProducts = [
         name: 'Moto Care  HEADLIGHT GRILL FOR TRIUMPH SCRAMBLER 400X',
         price: 1040,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524535/j_yng4y9.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1038/product1038_gallery1_5YzBiNS5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524536/jj_tv7tgz.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524536/jjj_re56we.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524537/jjjj_tfa5eo.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1038/product1038_gallery1_5YzBiNS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1038/product1038_gallery2_xMzFjZi5qcGc.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1038/product1038_gallery3_yMWY5OC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1038/product1038_gallery4_jNWY1Ny5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25927,11 +25743,13 @@ const catalogProducts = [
         name: 'Moto Care  VISOR FOR TRIUMPH SCRAMBLER 400X',
         price: 960,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531808/v_vp2738.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1039/product1039_gallery1_hNTFlMy5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531808/v_vp2738.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531808/v_vp2738.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531808/v_vp2738.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1039/product1039_gallery1_hNTFlMy5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1039/product1039_gallery2_lNmI2Yi5qcGc.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1039/product1039_gallery3_ZGY0My5qcGVn.jpeg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1039/product1039_gallery4_2ZTk4Ny5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1039/product1039_gallery5_lNWQ4Zi5qcGc.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25953,11 +25771,14 @@ const catalogProducts = [
         name: 'Moto Care  TAIL TIDY FOR TRIUMPH SCRAMBLER 400X',
         price: 880,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531899/r_qen5dq.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1040/product1040_gallery1_yYzI5OC5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531900/rrr_hqb2u6.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531900/rrrr_tyfcpe.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531900/rr_xxfu7t.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1040/product1040_gallery1_yYzI5OC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1040/product1040_gallery2_zOTFlNS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1040/product1040_gallery3_4N2E0OC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1040/product1040_gallery4_5MzIzZi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1040/product1040_gallery5_wZWMxYi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1040/product1040_gallery6_wNzEzMC5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -25979,11 +25800,13 @@ const catalogProducts = [
         name: 'Moto Care  FOOTREST FOR TRIUMPH SCRAMBLER 400X',
         price: 880,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531991/d_kax0ll.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1041/product1041_gallery1_jNjQ3Ni5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531991/ddd_lhyzfr.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531991/dd_fkklu9.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531991/dddd_mf4adz.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1041/product1041_gallery1_jNjQ3Ni5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1041/product1041_gallery2_hMjk0YS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1041/product1041_gallery3_yMzA4Yy5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1041/product1041_gallery4_kMzAyZi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1041/product1041_gallery5_0OThmMS5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26005,11 +25828,13 @@ const catalogProducts = [
         name: 'Moto Care  GPS MOUNT FOR TRIUMPH SCRAMBLER 400X',
         price: 880,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532077/f_gc2mxi.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1042/product1042_gallery1_5MTA0Ny5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532077/ff_njzmsz.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532077/f_gc2mxi.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532077/ff_njzmsz.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1042/product1042_gallery1_5MTA0Ny5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1042/product1042_gallery2_xN2M4NC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1042/product1042_gallery3_1Y2E5Yy5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1042/product1042_gallery4_hNGNhMy5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1042/product1042_gallery5_yZDJkMy5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26031,11 +25856,11 @@ const catalogProducts = [
         name: 'Moto Care  CNC STAND EXTENDER FOR TRIUMPH SCRAMBLER 400X',
         price: 1360,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532157/g_xrshfr.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1044/product1044_gallery1_yOTU3MS5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532159/ggg_ukvpzj.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532157/g_xrshfr.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532159/ggg_ukvpzj.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1044/product1044_gallery1_yOTU3MS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1044/product1044_gallery2_5N2U0YS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1044/product1044_gallery3_4YTAxNy5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26057,11 +25882,11 @@ const catalogProducts = [
         name: 'Moto Care  STAND EXTENDER FOR TRIUMPH SCRAMBLER 400X',
         price: 560,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523795/dd_prnsm1.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1044/product1044_gallery1_yOTU3MS5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523795/d_pbkixn.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523795/dd_prnsm1.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523796/ddd_ezookg.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1044/product1044_gallery1_yOTU3MS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1044/product1044_gallery2_5N2U0YS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1044/product1044_gallery3_4YTAxNy5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26083,11 +25908,13 @@ const catalogProducts = [
         name: 'Moto Care  FOG LIGHT CLAMP FOR TRIUMPH SCRAMBLER 400X',
         price: 520,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532290/h_xndu6s.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1045/product1045_gallery1_yNGM3ZS5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532291/hh_n5sg66.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532292/hhh_y6drp6.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532290/h_xndu6s.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1045/product1045_gallery1_yNGM3ZS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1045/product1045_gallery2_3NzY5Zi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1045/product1045_gallery3_wMjNkNy5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1045/product1045_gallery4_mMTA0Yi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1045/product1045_gallery5_wNjk3MS5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26109,11 +25936,12 @@ const catalogProducts = [
         name: 'Moto Care  NUMBER PLATE FRAME FOR TRIUMPH SCRAMBLER 400X',
         price: 400,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532385/j_vjgguv.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1046/product1046_gallery1_xMzY3Ni5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532386/jj_tfrwu9.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532385/j_vjgguv.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532386/jj_tfrwu9.jpg'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1046/product1046_gallery1_xMzY3Ni5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1046/product1046_gallery2_xNDlhNy5qcGc.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1046/product1046_gallery3_iZWM3My5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1046/product1046_gallery4_xYWI1Yy5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26135,11 +25963,12 @@ const catalogProducts = [
         name: 'Moto Care  RESERVOIR OIL CAP FOR TRIUMPH SCRAMBLER 400X',
         price: 320,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532512/k_zaoqgi.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1047/product1047_gallery1_2MDYyZC5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532513/kk_sy1awi.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532513/kkk_epoaso.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532514/kkkk_wdf1fb.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1047/product1047_gallery1_2MDYyZC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1047/product1047_gallery2_hMjEzNi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1047/product1047_gallery3_lODYxMy5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1047/product1047_gallery4_kMDE1Mi5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26161,11 +25990,12 @@ const catalogProducts = [
         name: 'Moto Care  DISC OIL CAP FOR TRIUMPH SCRAMBLER 400X',
         price: 200,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532611/n_ieotmi.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1048/product1048_gallery1_0MjY3Yy5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532611/n_ieotmi.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532611/n_ieotmi.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532611/n_ieotmi.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1048/product1048_gallery1_0MjY3Yy5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1048/product1048_gallery2_5NTA0YS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1048/product1048_gallery3_yODYwZi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1048/product1048_gallery4_yYTU5MC5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26187,11 +26017,13 @@ const catalogProducts = [
         name: 'Moto Care  4 SLIDER CRASH GUARD FOR TRIUMPH SPEED T4',
         price: 4160,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527425/1764932687_6932bc4f28987_tlpfum.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1050/product1050_gallery1_kZGZjYy5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527425/1764932708_6932bc644cbb8_rmd9qp.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527425/1764932696_6932bc589f937_ih2lzq.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527425/1764932727_6932bc7714f1d_ukulkd.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1050/product1050_gallery1_kZGZjYy5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1050/product1050_gallery2_xNjU0YS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1050/product1050_gallery3_hZmNlYy5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1050/product1050_gallery4_1NDUxMy5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1050/product1050_gallery5_xNmFiNi5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26213,11 +26045,13 @@ const catalogProducts = [
         name: 'Moto Care  2 SLIDER CRASH GUARD FOR TRIUMPH SPEED T4',
         price: 4160,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527715/a_ixwg8j.jpg',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1050/product1050_gallery1_kZGZjYy5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527715/aa_vpqj50.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527716/aaa_qt7xis.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786527716/aaaa_yes9gv.jpg'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1050/product1050_gallery1_kZGZjYy5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1050/product1050_gallery2_xNjU0YS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1050/product1050_gallery3_hZmNlYy5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1050/product1050_gallery4_1NDUxMy5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1050/product1050_gallery5_xNmFiNi5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26239,11 +26073,10 @@ const catalogProducts = [
         name: 'Moto Care  PIPE CARRIER WITH BACKREST FOR TRIUMPH SPEED T4',
         price: 3600,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528396/b_gjpwez.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1053/product1053_gallery1_jODYzYi5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528397/bb_yfhi9p.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528396/b_gjpwez.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528397/bb_yfhi9p.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1053/product1053_gallery1_jODYzYi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1053/product1053_gallery2_3NTBkMS5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26265,11 +26098,10 @@ const catalogProducts = [
         name: 'Moto Care  CNC CARRIER PLATE WITH BACKREST FOR TRIUMPH SPEED T4',
         price: 3600,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528918/a_xj8zkv.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1054/product1054_gallery1_0ZTJjMi5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528918/aa_ulvtjx.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528918/a_xj8zkv.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786528918/aa_ulvtjx.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1054/product1054_gallery1_0ZTJjMi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1054/product1054_gallery2_yMmJkNS5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26291,11 +26123,10 @@ const catalogProducts = [
         name: 'Moto Care PIPE CARRIER FOR TRIUMPH SPEED T4',
         price: 2560,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786530928/q_y6qsui.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1053/product1053_gallery1_jODYzYi5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786530928/qqq_fs4m84.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786530928/qq_smrex1.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786530929/qqqq_psd12h.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1053/product1053_gallery1_jODYzYi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1053/product1053_gallery2_3NTBkMS5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26317,11 +26148,10 @@ const catalogProducts = [
         name: 'Moto Care  CNC PLATE CARRIER FOR TRIUMPH SPEED T4',
         price: 2560,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531020/z_vlqbbm.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1054/product1054_gallery1_0ZTJjMi5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531021/zz_ktyg6i.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531023/zzzz_x6r614.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531022/zzz_l1vplh.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1054/product1054_gallery1_0ZTJjMi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1054/product1054_gallery2_yMmJkNS5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26343,11 +26173,10 @@ const catalogProducts = [
         name: 'Moto Care  BACKREST FOR TRIUMPH SPEED T4',
         price: 1920,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531134/w_tlk5iv.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1053/product1053_gallery1_jODYzYi5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531136/ww_kcwf2a.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531136/www_rbr6cn.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531136/ww_kcwf2a.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1053/product1053_gallery1_jODYzYi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1053/product1053_gallery2_3NTBkMS5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26369,11 +26198,12 @@ const catalogProducts = [
         name: 'Moto Care  SADDLE STAY FOR TRIUMPH SPEED T4',
         price: 2400,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531226/e_c7hm1e.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1056/product1056_gallery1_2N2ZmYS5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531227/ee_dagtxg.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531228/eee_r8fqge.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531229/eeee_ww3saq.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1056/product1056_gallery1_2N2ZmYS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1056/product1056_gallery2_jNWQzYi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1056/product1056_gallery3_1YWYzNi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1056/product1056_gallery4_jZGRkZi5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26395,11 +26225,13 @@ const catalogProducts = [
         name: 'Moto Care  TYRE HUGGER FOR TRIUMPH SPEED T4',
         price: 1600,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531328/s_qzhkyt.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1057/product1057_gallery1_4MTZlMS5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531328/s_qzhkyt.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531330/sss_gnwdjk.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531331/ssss_qnnnlq.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1057/product1057_gallery1_4MTZlMS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1057/product1057_gallery2_wOTZkYS5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1057/product1057_gallery3_1Mzg4OC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1057/product1057_gallery4_3M2UxYy5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1057/product1057_gallery5_hNDc5Zi5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26421,11 +26253,13 @@ const catalogProducts = [
         name: 'Moto Care  POLYCARBONATE VISOR FOR TRIUMPH SPEED T4',
         price: 2240,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531423/x_gocm4c.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1058/product1058_gallery1_5Nzk0OC5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531425/xx_vxixnr.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531423/x_gocm4c.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531426/xxx_coor5y.jpg'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1058/product1058_gallery1_5Nzk0OC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1058/product1058_gallery2_lMjU4MS5qcGc.jpg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1058/product1058_gallery3_YWNmMy5qcGVn.jpeg',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1058/product1058_gallery4_lZTM1ZC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1058/product1058_gallery5_2MjgwOC5qcGc.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26447,11 +26281,13 @@ const catalogProducts = [
         name: 'Moto Care  RADIATOR GUARD FOR TRIUMPH SPEED T4',
         price: 1200,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524226/n_covqau.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1059/product1059_gallery1_jOWIxNy5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524226/nn_argrhl.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524228/nnnn_cmpm6q.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524227/nnn_xd24oy.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1059/product1059_gallery1_jOWIxNy5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1059/product1059_gallery2_iNTZmMi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1059/product1059_gallery3_2NjY5Mi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1059/product1059_gallery4_zZWQ2Yi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1059/product1059_gallery5_jM2IwYi5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26473,11 +26309,13 @@ const catalogProducts = [
         name: 'Moto Care  SUM GUARD FOR TRIUMPH SPEED T4',
         price: 1120,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531643/c_wybqgg.png',
+        image: 'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1060/product1060_gallery1_2NWQ5OC5wbmc.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531645/cc_zodidt.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531647/ccc_l6qsc3.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531648/cccc_i6gwku.png'
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1060/product1060_gallery1_2NWQ5OC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1060/product1060_gallery2_wNGIwOC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1060/product1060_gallery3_jODdjOC5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1060/product1060_gallery4_jMzJmNi5wbmc.png',
+            'https://ik.imagekit.io/dn7dxkj70/product-images/batch-5/1060/product1060_gallery5_4NmUxOC5wbmc.png'
         ],
         category: 'Performance Parts',
         subcategory: '',

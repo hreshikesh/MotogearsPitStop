@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 
-const ProductImageGallery = ({ images, onImageClick, productName }) => {
+const ProductImageGallery = ({ images, onImageClick, onImageFallback, productName, fallbackImage }) => {
   if (!images || images.length === 0) return null;
 
   return (
@@ -9,6 +9,7 @@ const ProductImageGallery = ({ images, onImageClick, productName }) => {
       {images.map((img, idx) => (
         <motion.div
           key={idx}
+          data-gallery-item
           whileHover={{ scale: 1.04 }}
           whileTap={{ scale: 0.97 }}
           onClick={() => onImageClick(idx)}
@@ -17,6 +18,16 @@ const ProductImageGallery = ({ images, onImageClick, productName }) => {
           <img
             src={img}
             alt={`${productName} view ${idx + 1}`}
+            onError={(event) => {
+              const image = event.currentTarget;
+              if (fallbackImage && image.src !== fallbackImage && image.dataset.fallbackUsed !== '1') {
+                image.dataset.fallbackUsed = '1';
+                onImageFallback?.(idx, fallbackImage);
+                image.src = fallbackImage;
+                return;
+              }
+              image.closest('[data-gallery-item]')?.setAttribute('hidden', '');
+            }}
             className="w-full h-full object-cover"
           />
         </motion.div>

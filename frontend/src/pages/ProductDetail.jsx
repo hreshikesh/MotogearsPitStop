@@ -37,6 +37,7 @@ const ProductDetail = () => {
   const [quantity, setQuantity] = useState(1);
   const [lightboxOpen, setLightboxOpen] = useState(false);
   const [lightboxIndex, setLightboxIndex] = useState(0);
+  const [galleryImageFallbacks, setGalleryImageFallbacks] = useState({});
   
   const addToCart = useCartStore(state => state.addToCart);
   const { isInWishlist, addToWishlist, removeFromWishlist } = useWishlistStore();
@@ -91,7 +92,9 @@ const ProductDetail = () => {
 
   const inWishlist = isInWishlist(product.id);
   const productImage = getProductImage(product);
-  const galleryImages = getProductGalleryImages(product);
+  const galleryImages = getProductGalleryImages(product).map((image, index) =>
+    galleryImageFallbacks[`${product.id}:${index}`] || image
+  );
   const relatedProducts = products
     .filter(p => p.category === product.category && p.id !== product.id)
     .slice(0, 4);
@@ -247,7 +250,12 @@ const ProductDetail = () => {
                 <ProductImageGallery 
                   images={galleryImages} 
                   onImageClick={openLightbox} 
+                  onImageFallback={(index, fallback) => setGalleryImageFallbacks((previous) => ({
+                    ...previous,
+                    [`${product.id}:${index}`]: fallback,
+                  }))}
                   productName={product.name}
+                  fallbackImage={productImage}
                 />
               )}
             </div>
