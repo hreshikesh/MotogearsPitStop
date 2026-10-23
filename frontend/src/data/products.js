@@ -788,11 +788,11 @@ const catalogProducts = [
         name: 'Studds Shifter D2 Helmet',
         price: 1999,
         discount: 30,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588377/product31_nt9zpr_hvmrxm.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/31/product31_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588603/galleryp311_h2ref8_gxwu3j.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588603/galleryp312_uah3bk_q8fty3.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588603/galleryp313_gjdenr_uvfsll.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/31/product31_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/31/product31_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/31/product31_gallery3.png'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -814,11 +814,11 @@ const catalogProducts = [
         name: 'Royal Enfield Chain Lube 500ml',
         price: 599,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588377/product32_cq4x0s_poylx6.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/32/product32_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588604/galleryp321_fy381r_iuxvxp.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588604/galleryp322_u26yna_amaa1r.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588606/galleryp323_yxgaz7_vnyjkf.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/32/product32_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/32/product32_gallery2.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/32/product32_gallery3.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Lubricants',
@@ -840,11 +840,11 @@ const catalogProducts = [
         name: 'MOTO CARE UPPER LOWER CRASH GUARD FOR BMW F850 GS',
         price: 15999,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588378/product33_fwzrlj_mptvlc.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/33/product33_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588607/galleryp331_zkso3c_uxevmh.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588608/galleryp332_dord2y_p4a1at.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588608/galleryp333_iidfeg_c6b6ws.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/33/product33_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/33/product33_gallery2.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/33/product33_gallery3.jpg'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -866,11 +866,11 @@ const catalogProducts = [
         name: 'Raida Tourer Riding Jacket (Grey)',
         price: 4999,
         discount: 20,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588378/product34_hfyp39_hrggwn.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/34/product34_main.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588610/galleryp343_rdzcrw_hrby2p.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588609/galleryp342_dn3lh7_teagao.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588610/galleryp343_rdzcrw_hrby2p.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/34/product34_gallery1.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/34/product34_gallery2.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/34/product34_gallery3.webp'
         ],
         category: 'Riding Gear',
         subcategory: 'Jackets',
@@ -892,11 +892,11 @@ const catalogProducts = [
         name: 'MOTO TORQUE KTM ADVENTURE 390 - Fog Light Mount',
         price: 4999,
         discount: 15,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588378/product35_znhupr_fvqls1.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product35_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588611/galleryp351_vq2om7_rfk6es.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588612/galleryp352_eej90y_a1oq6j.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588612/galleryp353_izttwp_xnhihb.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product35_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product35_gallery2.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product35_gallery3.jpg'
         ],
         category: 'Lighting',
         subcategory: 'Fog Lamps',
@@ -918,11 +918,11 @@ const catalogProducts = [
         name: 'Rynox ADVENTO PRO PANTS',
         price: 7950,
         discount: 25,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588379/product36_uinyeg_brovq3.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/36/product36_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588613/galleryp361_vtllo0_tnagto.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588615/galleryp362_gbgxyz_dbwkhq.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588616/galleryp363_kbwfms_dqbent.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/36/product36_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/36/product36_gallery2.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/36/product36_gallery3.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Rain Gear',
@@ -944,11 +944,9 @@ const catalogProducts = [
         name: 'Universal Bike Horn, 12V Loud Sound',
         price: 599,
         discount: 20,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588378/product36_nyw4ql_m2mlpo.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/37/product37_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588616/galleryp371_tl7skq_blr7oe.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588616/galleryp372_yidvxk_kplfpp.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588617/galleryp373_uknh5i_akehst.jpg'
+
         ],
         category: 'Lighting',
         subcategory: 'Electricals',
@@ -970,11 +968,10 @@ const catalogProducts = [
         name: 'Royal Enfield HIMALAYAN 450 - ENGINE GUARD (ALUMINIUM)',
         price: 2800,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588381/product38_nhxh1a_yks985.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/38/product38_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588619/galleryp381_jdmn7j_e5xmnd.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588619/galleryp382_lsjpmf_runtsx.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588620/galleryp383_wu87sk_dlzgj3.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/38/product38_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/38/product38_gallery2.jpg'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Protection',
@@ -996,11 +993,11 @@ const catalogProducts = [
         name: 'LGP 3 digit Anti Theft Helmet Lock Portable',
         price: 499,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588381/product39_fxmn2c_ta781y.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/39/product39_main.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588620/galleryp391_qrspam_vimla7.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588622/galleryp392_m6sh4t_elzups.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588622/galleryp393_teg6bu_lg5j0f.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/39/product39_gallery1.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/39/product39_gallery2.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/39/product39_gallery3.webp'
         ],
         category: 'Bike Accessories',
         subcategory: 'Locks',
@@ -1022,11 +1019,11 @@ const catalogProducts = [
         name: 'Raida Tourer Motorcycle Boots | Grey',
         price: 3999,
         discount: 25,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588382/product40_ynnja2_b9iohu.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/40/product40_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588624/galleryp401_psodib_lttgon.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588624/galleryp402_snsnur_rijsao.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790588625/galleryp403_wj03ji_waulji.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/40/product40_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/40/product40_gallery2.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/40/product40_gallery3.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Boots',
@@ -1048,11 +1045,11 @@ const catalogProducts = [
         name: 'Barkbusters Carbon Fiber Guards',
         price: 16999,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589035/product41_vee3n3_o3yip2.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/41/product41_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589237/galleryp411_wfmzly_evszso.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589239/galleryp412_abnbgh_jp1h1d.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589240/galleryp413_ouwpyn_vlcutl.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/41/product41_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/41/product41_gallery2.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/41/product41_gallery3.jpg'
         ],
         category: 'Bike Accessories',
         subcategory: 'Handguards',
@@ -1074,11 +1071,10 @@ const catalogProducts = [
         name: 'KTM Duke Bar End Mirrors',
         price: 1299,
         discount: 15,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589036/product42_imwab4_vkkswv.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/42/product42_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589242/galleryp421_i6j25k_mzwgzg.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589243/galleryp422_e1wxti_vxamn0.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589245/galleryp423_u2qz5k_xa0wzl.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/42/product42_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/42/product42_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Mirrors',
@@ -1100,11 +1096,11 @@ const catalogProducts = [
         name: 'Rynox Stealth Evo Pants Grey',
         price: 8999,
         discount: 20,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589038/product43_qku1ah_cwcjus.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/43/product43_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589246/galleryp431_tscuor_g4v1kj.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589248/galleryp432_wq2blm_lhao0f.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589249/galleryp433_s2dkk0_y77u1h.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/43/product43_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/43/product43_gallery2.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/43/product43_gallery3.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Pants',
@@ -1126,11 +1122,11 @@ const catalogProducts = [
         name: 'TAIL TIDY BLACK FOR TRIUMPH SPEED 400 X',
         price: 1499,
         discount: 30,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589040/product44_uf4imo_muoawq.png',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/44/product44_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589251/galleryp441_e9evq5_h25aqx.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589253/galleryp442_ntojdc_bo4kzr.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589254/galleryp443_jfeonn_o8ndrv.png'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/44/product44_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/44/product44_gallery2.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/44/product44_gallery3.jpg'
         ],
         category: 'Bike Accessories',
         subcategory: 'Tail Tidy',
@@ -1152,11 +1148,11 @@ const catalogProducts = [
         name: 'Royal Enfield Touring Dual Seat For Royal Enfield Interceptor 650 ',
         price: 4699,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589039/product45_thvifj_nfgg9n.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/45/product45_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589257/galleryp451_uduaaq_rhgagq.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589257/galleryp452_te62ao_zksngz.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589259/galleryp453_x9bpju_vctolq.png'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/45/product45_gallery1.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/45/product45_gallery2.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/45/product45_gallery3.webp'
         ],
         category: 'Bike Accessories',
         subcategory: 'Seats',
@@ -1178,11 +1174,11 @@ const catalogProducts = [
         name: 'Pro Taper Sport Bike handle Grip',
         price: 299,
         discount: 25,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589041/product46_pplwf3_tr3god.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/46/product46_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589258/galleryp461_seyrzf_g3kj4x.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589260/galleryp462_ex5c3u_itvtvs.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589261/galleryp463_bry5e8_jibfy3.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/46/product46_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/46/product46_gallery2.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/46/product46_gallery3.jpg'
         ],
         category: 'Bike Accessories',
         subcategory: 'Grips',
@@ -1204,11 +1200,11 @@ const catalogProducts = [
         name: 'Raida Drift Evo Motorcycle Gloves',
         price: 5999,
         discount: 20,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589042/product47_vudv5w_aqf86k.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/47/product47_main.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589263/galleryp471_zag8ee_smrdby.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589264/galleryp472_ffrnrq_nzaxru.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589266/galleryp473_cbvyyv_dxfhin.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/47/product47_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/47/product47_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/47/product47_gallery3.png'
         ],
         category: 'Riding Gear',
         subcategory: 'Gloves',
@@ -1230,9 +1226,10 @@ const catalogProducts = [
         name: 'Reise Motorrad Riding Socks',
         price: 4999,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589043/product48_st4qz3_nuze6t.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/48/product48_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589267/galleryp481_bbnqnu_yxzo6e.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/48/product48_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/48/product48_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Accessories',
@@ -1254,11 +1251,11 @@ const catalogProducts = [
         name: 'MOTO CARE KTM DUKE CRASH GUARD WITH DUAL SLIDERS FOR 250/390 BS6',
         price: 4699,
         discount: 15,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589045/product49_sz3zo6_ej9qet.png',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/49/product49_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589269/galleryp491_immlhd_omhhye.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589271/galleryp492_ddfesg_r3pckw.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589272/galleryp493_w60oeg_xb55fz.png'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/49/product49_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/49/product49_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/49/product49_gallery3.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Protection',
@@ -1306,11 +1303,11 @@ const catalogProducts = [
         name: 'MOTO CARE TYPE 2 - TYRE HUGGER FOR DUKE 250/390 BS6',
         price: 1699,
         discount: 15,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589642/product51_gf2mld_kplng2.png',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/51/product51_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589830/galleryp511_rjq7bv_fupuac.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589832/galleryp512_oa0xae_qr0ni5.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589834/galleryp513_kyqj0r_uvnxsx.png'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/51/product51_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/51/product51_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/51/product51_gallery3.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Protection',
@@ -1332,11 +1329,10 @@ const catalogProducts = [
         name: 'MOTO CARE POLYCARBONATE VISOR FOR KTM DUKE 250/390 BS6',
         price: 1799,
         discount: 15,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589643/product52_j6kraf_devwvc.png',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/52/product52_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589836/galleryp521_jyhxb9_bkzmsq.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589837/galleryp522_ixpeo7_ljrjny.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589839/galleryp523_qvzqgx_mumeo4.png'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/52/product52_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/52/product52_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Wind Deflectors',
@@ -1358,11 +1354,11 @@ const catalogProducts = [
         name: 'MOTO CARE TYRE HUGGER FOR DUKE 250/390 BS6',
         price: 1699,
         discount: 15,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589644/product53_a1mtqk_ocqrq0.png',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/53/product53_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589841/galleryp531_jpx9hv_oijyy4.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589843/galleryp532_z1kt2u_lkybbb.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589845/galleryp534_urwjez_pvwu4j.png'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/53/product53_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/53/product53_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/53/product53_gallery3.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Protection',
@@ -1384,11 +1380,11 @@ const catalogProducts = [
         name: 'MOTO CARE NUMBER PLATE HOLDER FOR DUKE 250/390 BS6',
         price: 1199,
         discount: 15,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589646/product54_cho2g2_ev1k7a.png',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/54/product54_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589846/galleryp541_o2jasw_odszok.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589848/galleryp542_dt5ktu_skaupp.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589850/galleryp543_o4vtrq_tya4im.png'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/54/product54_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/54/product54_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/54/product54_gallery3.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Protection',
@@ -1410,11 +1406,11 @@ const catalogProducts = [
         name: 'MOTO CARE CNC CARRIER PLATE FOR DUKE 250/390 BS6',
         price: 2599,
         discount: 15,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589640/product_55_qagvnu_xdxusn.png',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/55/product55_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589851/galleryp551_liwxxj_pkkmlj.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589853/galleryp552_oyjxvq_i6uv62.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589854/galleryp553_ug7g7i_p0qnxm.png'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/55/product55_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/55/product55_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/55/product55_gallery3.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -1436,11 +1432,11 @@ const catalogProducts = [
         name: 'MOTO CARE CNC CARRIER PLATE AND BACKREST FOR DUKE 250/390 BS6',
         price: 3599,
         discount: 15,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589647/product56_gx3zqv_sqjtzr.png',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/56/product56_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589856/galleryp561_thdch7_amhcmu.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589858/galleryp562_fjhsep_bcsklg.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589859/galleryp563_qbgdb7_muwokc.png'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/56/product56_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/56/product56_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/56/product56_gallery3.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -1462,11 +1458,11 @@ const catalogProducts = [
         name: 'MOTO CARE PIPE CARRIER FOR DUKE 250/390 BS6',
         price: 2560,
         discount: 15,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589649/product57_nc6jer_jp3kal.png',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/57/product57_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589861/galleryp571_hxakyd_t6wlma.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589862/galleryp572_gc0kmt_dwbkyd.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589864/galleryp573_mzlxub_fmxkfz.png'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/57/product57_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/57/product57_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/57/product57_gallery3.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -1488,11 +1484,11 @@ const catalogProducts = [
         name: 'MOTO CARE 4 SLIDER CRASH GUARD FOR DUKE 250/390 BS6',
         price: 4640,
         discount: 15,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589651/product58_q7u5db_f3j1vt.png',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/58/product58_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589866/galleryp581_zgg1sd_s2reek.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589867/galleryp582_b5ztsq_bdrptt.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589869/galleryp583_mhl6on_yjfqm5.png'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/58/product58_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/58/product58_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/58/product58_gallery3.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Protection',
@@ -1514,11 +1510,11 @@ const catalogProducts = [
         name: 'MOTO CARE CRASH GUARD WITH DUAL SLIDERS FOR DUKE 250/390 BS6',
         price: 4640,
         discount: 15,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589652/product59_qxr9wt_qupove.png',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/59/product59_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589870/galleryp590_yydmcb_syxqe6.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589872/galleryp592_y8dxfe_fwp9va.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589874/galleryp593_gbvp9t_nbxb4h.png'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/59/product59_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/59/product59_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/59/product59_gallery3.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Protection',
@@ -1540,11 +1536,9 @@ const catalogProducts = [
         name: 'MOTO CARE UPPER LOWER CRASH GUARD ( ORANGE ) FOR ADVENTURE',
         price: 8000,
         discount: 15,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589654/product60_qieuen_e3xmhb.png',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/60/product60_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589875/galleryp601_rsboyi_qlbnfz.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589877/galleryp602_nmlz1v_xna4d3.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790589879/galleryp603_wcdkgl_woeh6g.png'
+
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Protection',
@@ -1566,11 +1560,11 @@ const catalogProducts = [
         name: 'MOTO CARE UPPER LOWER CRASH GUARD FOR ADVENTURE',
         price: 7200,
         discount: 5,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590816/product61_xgcoyh_dyke2h.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/61/product61_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590960/galleryp611_cozchl_rqycks.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590963/galleryp612_bgqo02_crnibj.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590965/galleryp613_oak27w_rlcyuq.png'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/61/product61_gallery1.jpeg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/61/product61_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/61/product61_gallery3.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Protection',
@@ -1592,11 +1586,11 @@ const catalogProducts = [
         name: 'MOTO CARE CRASH GUARD WITH DUAL SLIDERS FOR ADVENTURE 250/390',
         price: 5120,
         discount: 15,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590818/product62_blkzsr_nolnca.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/62/product62_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590967/galleryp621_vj89ww_yllhhw.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590969/galleryp622_jz49dc_tu02we.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590971/galleryp623_kaqt4h_iyfbj6.png'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/62/product62_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/62/product62_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/62/product62_gallery3.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Protection',
@@ -1618,11 +1612,11 @@ const catalogProducts = [
         name: 'MOTO CARE CNC SADDLE STAY FOR KTM ADVENTURE',
         price: 2400,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590819/product63_mhjjyg_gkev5g.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/63/product63_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590973/galleryp631_vd2igc_zcbcgw.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590975/galleryp632_c7omdb_j32zbx.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590977/galleryp633_m6wb8m_vgbjw2.png'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/63/product63_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/63/product63_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/63/product63_gallery3.png'
         ],
         category: 'Touring',
         subcategory: 'Saddle Bags',
@@ -1644,11 +1638,10 @@ const catalogProducts = [
         name: 'MOTO CARE SADDLE STAY FOR ADVENTURE',
         price: 2400,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590821/product64_r6vvmu_ym30zz.png',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/64/product64_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590979/galleryp641_xypg4m_loyixc.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590981/galleryp642_vp6ybr_ez3w2c.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590983/galleryp643_yehmvt_wt6v2u.png'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/64/product64_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/64/product64_gallery2.png'
         ],
         category: 'Touring',
         subcategory: 'Saddle Bags',
@@ -1670,11 +1663,11 @@ const catalogProducts = [
         name: 'MOTO CARE CNC CARRIER PLATE FOR KTM ADVENTURE',
         price: 2560,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590823/product65_szsy4y_sudqeh.png',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/65/product65_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590985/galleryp651_vesdhx_afaorf.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590987/galleryp652_qpj4gf_qpzlnh.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590989/galleryp653_mmmzsv_bfea8c.png'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/65/product65_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/65/product65_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/65/product65_gallery3.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -1696,11 +1689,11 @@ const catalogProducts = [
         name: 'MOTO CARE POLYCARBONATE VISOR FOR KTM ADVENTURE',
         price: 2240,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590815/galleryp66_ustfoy_h69cyh.png',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/66/product66_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590991/galleryp661_pconvr_eamp3f.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590993/galleryp662_yh4hln_zczqg7.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590994/galleryp663_hiqv5z_rflhwg.png'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/66/product66_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/66/product66_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/66/product66_gallery3.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Wind Deflectors',
@@ -1722,11 +1715,11 @@ const catalogProducts = [
         name: 'MOTO CARE HEADLIGHT GRILL FOR ADVENTURE',
         price: 1600,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590825/product67_femonp_godrur.png',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/67/product67_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590996/galleryp671_zrenh5_v8p0ks.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590998/galleryp672_kk4ieq_kbblao.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591000/galleryp673_xan4vx_zjdvfe.png'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/67/product67_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/67/product67_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/67/product67_gallery3.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Wind Deflectors',
@@ -1748,11 +1741,11 @@ const catalogProducts = [
         name: 'MOTO CARE GPS MOUNT FOR ADVENTURE',
         price: 880,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590827/product68_jwdd8d_fhnxyt.png',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/68/product68_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591002/galleryp681_msdtnt_qw0k3l.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591004/galleryp682_bp4xl7_kieier.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591007/galleryp683_benq33_utmfkb.png'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/68/product68_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/68/product68_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/68/product68_gallery3.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -1774,11 +1767,11 @@ const catalogProducts = [
         name: 'MOTO CARE FOG LIGHT CLAMP FOR ADVENTURE',
         price: 560,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590829/product69_mosmye_tlhaz7.png',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/69/product69_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591009/galleryp691_ppdajp_dnhfkv.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591011/galleryp692_j6ltwo_a4fjxn.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591013/galleryp693_zygzy9_virslw.png'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/69/product69_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/69/product69_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/69/product69_gallery3.png'
         ],
         category: 'Lighting',
         subcategory: 'Fog Lamps',
@@ -1800,11 +1793,9 @@ const catalogProducts = [
         name: 'MOTO CARE SUM GUARD FOR ADVENTURE 390',
         price: 3200,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1790590830/product70_ziomwr_hllwyu.png',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/70/product70_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591015/galleryp701_jp2mye_fv8v2b.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591017/galleryp703_f3haaa_kpr54u.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1790591019/galleryp6702_azezbu_mqwqto.png'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/1-100/70/product70_gallery1.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -2843,11 +2834,11 @@ const catalogProducts = [
         name: 'MOTO CARE HEADLIGHT GRILL FOR 2025 KTM ADVENTURE 250/390',
         price: 1440,
         discount: 10,
-        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784091179/pro110_mphfuv.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/110/product110_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784091231/galleryp1103_nskjdr.png',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784091231/galleryp1102_qaj3jh.png',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784091232/galleryp1101_zsmav1.pngs'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/110/product110_gallery1.JPG',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/110/product110_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/110/product110_gallery3.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -3623,11 +3614,10 @@ const catalogProducts = [
         name: 'MOTO CARE Royal Enfield SUM GUARD (WITH LOGO) FOR HUNTER 350',
         price: 1120,
         discount: 10,
-        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784094235/pro150_qrlkth.png',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/140/product140_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784094258/gallery1503_hjnfd3.png',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784094259/gallery1502_azqud0.png',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784094260/gallery1501_bqbomb.pngs'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/140/product140_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/140/product140_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -4065,11 +4055,11 @@ const catalogProducts = [
         name: 'MOTO CARE Royal Enfield CNC CARRIER WITH PLATE (WITH BIKE LOGO) FOR SUPER METEOR 650',
         price: 2560,
         discount: 10,
-        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784201439/pro157_ymdgd9.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/157/product157_main.JPG',
         galleryImages: [
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784201470/gp1573_wz1etp.jpg',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784201470/gp1572_rchwpr.jpg',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784201471/gp1571_kxdbck.jpgs'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/157/product157_gallery1.JPG',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/157/product157_gallery2.JPG',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/157/product157_gallery3.JPG'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -4091,11 +4081,11 @@ const catalogProducts = [
         name: 'MOTO CARE Royal Enfield SUM GUARD FOR SUPER METEOR 650',
         price: 2240,
         discount: 10,
-        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784201439/pro158_b5nrrm.png',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/158/product158_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784201468/gp1583_caszls.png',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784201469/gp1582_ilehvl.png',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784201469/gp1581_nq2i8y.pngs'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/158/product158_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/158/product158_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/158/product158_gallery3.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -4117,11 +4107,11 @@ const catalogProducts = [
         name: 'MOTO CARE Royal Enfield PIPE CARRIER WITH BACKREST FOR SUPER METEOR 650',
         price: 3920,
         discount: 10,
-        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784201439/pro159_caq4zx.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/159/product159_main.JPG',
         galleryImages: [
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784201467/gp1593_pc4edy.jpg',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784201467/gp1592_b8ljcu.jpg',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784201468/gp1591_i1g76l.jpgs'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/159/product159_gallery1.JPG',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/159/product159_gallery2.JPG',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/159/product159_gallery3.JPG'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -4415,10 +4405,10 @@ const catalogProducts = [
         name: 'MOTO CARE Royal Enfield SADDLE STAY WITH PLATE WITH FOOTREST FOR HIMALAYAN 450',
         price: 3840,
         discount: 10,
-        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203796/pro172_iouzzy.png',
-        galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203851/pg1723_tccfqo.png',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203852/pg1722_suko4u.png',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203854/pg1721_gcmhko.pngs'],
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/172/product172_main.png',
+        galleryImages: [
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/172/product172_gallery1.png'
+        ],
         category: 'Touring',
         subcategory: 'Saddle bags',
         brand: 'Royal Enfield',
@@ -4439,10 +4429,11 @@ const catalogProducts = [
         name: 'MOTO CARE Royal Enfield SUM GUARD FOR HIMALAYAN 450',
         price: 2560,
         discount: 10,
-        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203795/pro173_ubu7yn.jpg',
-        galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203846/pg1733_fanxkw.png',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203847/pg1732_qrdobi.jpg',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203849/pg1731_b44esb.pngs'],
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/173/product173_main.png',
+        galleryImages: [
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/173/product173_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/173/product173_gallery2.png'
+        ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
         brand: 'Royal Enfield',
@@ -4463,10 +4454,12 @@ const catalogProducts = [
         name: 'MOTO CARE Royal Enfield CRASH GUARD WITH DUAL SLIDERS FOR HIMALAYAN 450',
         price: 4160,
         discount: 10,
-        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203793/pro174_z9n1ub.png',
-        galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203841/pg1743_vsqity.png',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203843/pg1742_vynse7.png',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203844/pg1741_bmtsti.pngs'],
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/174/product174_main.png',
+        galleryImages: [
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/174/product174_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/174/product174_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/174/product174_gallery3.png'
+        ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
         brand: 'Royal Enfield',
@@ -4487,10 +4480,11 @@ const catalogProducts = [
         name: 'MOTO CARE Royal Enfield RADIATOR GUARD FOR HIMALAYAN 450',
         price: 1120,
         discount: 10,
-        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203792/p175_x4c75v.jpg',
-        galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203837/pg1753_cf4rgo.jpg'
-            , 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203838/pg1752_xkehi7.jpg',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203840/pg1751_yyhwnh.jpgs'],
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/175/product175_main.JPG',
+        galleryImages: [
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/175/product175_gallery1.JPG',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/175/product175_gallery2.jpg'
+        ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
         brand: 'Royal Enfield',
@@ -4511,10 +4505,12 @@ const catalogProducts = [
         name: 'MOTO CARE Royal Enfield TYPE 2 - TYRE HUGGER FOR GUERRILLA 450',
         price: 1600,
         discount: 10,
-        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203791/p176_ylqwwp.jpg',
-        galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203832/pg1763_aeqtyo.png',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203834/pg1762_vniqjr.png',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203835/pg1761_qp74cn.pngs'],
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/176/product176_main.png',
+        galleryImages: [
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/176/product176_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/176/product176_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/176/product176_gallery3.png'
+        ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
         brand: 'Royal Enfield',
@@ -4583,10 +4579,12 @@ const catalogProducts = [
         name: 'MOTO CARE Royal Enfield SADDLE STAY FOR GUERRILLA 450',
         price: 2880,
         discount: 10,
-        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203787/p179_blklb4.jpg',
-        galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203818/pg1793_p2pyyz.png',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203820/pg1792_rpcdyh.png',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203821/pg1791_tdqov9.pngs'],
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/179/product179_main.png',
+        galleryImages: [
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/179/product179_gallery1.JPG',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/179/product179_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/179/product179_gallery3.png'
+        ],
         category: 'Touring',
         subcategory: 'Racks',
         brand: 'Royal Enfield',
@@ -4607,10 +4605,12 @@ const catalogProducts = [
         name: 'MOTO CARE Royal Enfield CARRIER WITH BACKREST FOR GUERRILLA 450',
         price: 3600,
         discount: 10,
-        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203786/p180_tqanvm.jpg',
-        galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203814/pg1803_po99vo.png',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203815/pg1802_wpfxaj.png',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784203817/pg1801_ea8egf.pngs'],
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/180/product180_main.png',
+        galleryImages: [
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/180/product180_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/180/product180_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/180/product180_gallery3.png'
+        ],
         category: 'Touring',
         subcategory: 'Racks',
         brand: 'Royal Enfield',
@@ -4823,10 +4823,11 @@ const catalogProducts = [
         name: 'MOTO CARE Royal Enfield FORK SLIDERS FOR BEAR 650',
         price: 1120,
         discount: 10,
-        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205068/p189_dlbmae.png',
-        galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205129/pg1893_lgv5s8.png'
-            , 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205131/pg1892_ths7s1.png',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784205132/pg1891_tjrztf.pngs'],
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/189/product189_main.png',
+        galleryImages: [
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/189/product189_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/189/product189_gallery2.png'
+        ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
         brand: 'Royal Enfield',
@@ -5039,10 +5040,11 @@ const catalogProducts = [
         name: 'MOTO CARE Royal Enfield PIPE BACKREST FOR CLASSIC 650',
         price: 2240,
         discount: 10,
-        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206025/p198_cb9bdf.png',
-        galleryImages: ['https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206058/pg1983_tcxi7l.png',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206060/pg1982_mwzqbs.png',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784206061/pg1981_ufwblx.pngs'],
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/198/product198_main.png',
+        galleryImages: [
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/198/product198_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/101-200/198/product198_gallery2.png'
+        ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
         brand: 'Royal Enfield',
@@ -5371,11 +5373,11 @@ const catalogProducts = [
         name: 'MOTO CARE CRASH GUARD WITH DUAL SLIDERS FOR G310R',
         price: 5440,
         discount: 10,
-        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784264509/p211_f4zsuz.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/210/product210_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784264542/gp2113_g2j5wl.png',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784264543/gp2112_moyc1z.png',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784264543/gp2111_j5uvji.pngs'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/210/product210_gallery1.jpeg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/210/product210_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/210/product210_gallery3.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -5449,11 +5451,11 @@ const catalogProducts = [
         name: 'MOTO CARE HEADLIGHT GRILL FOR BMW G310R',
         price: 1200,
         discount: 10,
-        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784265974/p213_bem2nt.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/213/product213_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784266021/pg2133_bqwoxw.png',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784266022/pg2132_holdgl.png',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784266024/pg2131_lrswpa.pngs'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/213/product213_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/213/product213_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/213/product213_gallery3.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -5501,11 +5503,10 @@ const catalogProducts = [
         name: 'MOTO CARE SUM GUARD FOR BMW G310R',
         price: 2400,
         discount: 10,
-        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784265972/p215_yvnat2.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/215/product215_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784266014/pg2153_iwx2dc.png',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784266015/pg2152_y8qf9v.png',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784266016/pg2151_zxqr3f.pngs'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/215/product215_gallery1.jpeg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/215/product215_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -5553,11 +5554,11 @@ const catalogProducts = [
         name: 'MODERN TECH Head Light Grill / BMW GS 310',
         price: 1300,
         discount: 10,
-        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784265968/p217_r3owqh.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/217/product217_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784266007/pg2173_ooyu13.webp',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784266008/pg2172_bpq8t1.webp',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784266009/pg2171_m2xclo.webps'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/217/product217_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/217/product217_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/217/product217_gallery3.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -5579,11 +5580,10 @@ const catalogProducts = [
         name: 'MODERN TECH Radiator Grill / BMW GS 310',
         price: 480,
         discount: 10,
-        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784265967/p218_opjki0.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/218/product218_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784266003/pg2183_u3o5lk.webp',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784266005/pg2182_d6gdmm.webp',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784266006/pg2181_nlv6ay.webps'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/218/product218_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/218/product218_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -5605,11 +5605,10 @@ const catalogProducts = [
         name: 'MODERN TECH Tyre Guard Wth Tail Tidy / BMW GS 310',
         price: 2000,
         discount: 10,
-        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784265967/p219_treikj.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/219/product219_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784266000/pg2193_hw0a8u.webp',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784266001/pg2192_iqgohn.webp',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784266002/pg2191_y6q08d.webps'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/219/product219_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/219/product219_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -5631,11 +5630,11 @@ const catalogProducts = [
         name: 'MODERN TECH Saddle Stay - Black / BMW GS 310',
         price: 480,
         discount: 10,
-        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784265966/p220_zpampb.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/220/product220_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784265997/pg2202_axgpwo.webp',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784265998/pg2201_dt7emr.webp',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784265999/p220_wojxm4.webps'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/220/product220_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/220/product220_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/220/product220_gallery3.png'
         ],
         category: 'Touring',
         subcategory: 'Saddle bags',
@@ -5762,11 +5761,11 @@ const catalogProducts = [
         name: 'MODERN TECH Side Stand Base - BMW GS 310',
         price: 600,
         discount: 10,
-        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784268941/p125_xitjdk.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/225/product225_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784268982/p1253_zfhiew.webp',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784268982/p1252_ajtgvn.webp',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784268983/p1251_cbgxbp.webps'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/225/product225_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/225/product225_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/225/product225_gallery3.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -5788,11 +5787,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield 2 Part Bash Plate GT650',
         price: 3300,
         discount: 10,
-        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784268941/p126_kfrcpe.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/226/product226_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784268980/p1263_hhvi3e.webp',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784268981/p1262_hts7q1.webp',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784268981/p1261_nuz20s.webps'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/226/product226_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/226/product226_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -5866,11 +5864,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield 3 In 1 Carrier With Top Rack for RE interceptor 650',
         price: 5800,
         discount: 10,
-        image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784268940/p129_kqazvp.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/229/product229_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784268975/p1293_nzwibs.webp',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784268976/p1292_lfuj8y.webp',
-            'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784268977/p1291_tgjyyw.webps'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/229/product229_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/229/product229_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -5920,10 +5917,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Afterburn Performance Slip-On Exhaust for RE Interceptor 650',
         price: 13000,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775799713/WhatsAppImage2025-12-15at13.37.05_d84dd9d4-Photoroom_n3z1ss.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/231/product231_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775799714/WhatsAppImage2025-12-15at13.37.09_29635503-Photoroom_imisdr.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775799716/WhatsAppImage2025-12-15at13.37.10_ca4d1e85-Photoroom_ud68b2.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/231/product231_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/231/product231_gallery2.png'
         ],
         category: 'Performance Parts',
         subcategory: 'Exhaust',
@@ -5945,11 +5942,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Back Rest for RE Hunter 350',
         price: 2500,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775799899/moderntech_-_732_ozf8xs.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/232/product232_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775799898/moderntech_-_730_ornarg.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775799897/moderntech_-_723_qxj6up.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775799895/moderntech_-_727_dmc3vr.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/232/product232_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/232/product232_gallery2.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -5971,11 +5967,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Back Rest for RE Interceptor 650',
         price: 2200,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775800009/1_8b341ff5-9f7e-47de-a186-b7ad7ced5248_klcrqp.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/233/product233_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775800010/3_410d66ee-85f9-4475-afef-92b232d0f261_fwv9hx.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775800012/4_b6ba0f9a-996c-415e-9925-312c6ffff39e_gr08kh.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775800010/2_2f65dde1-64ce-4ecc-bb2a-195ee36721bf_gstiqo.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/233/product233_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/233/product233_gallery2.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -5997,10 +5992,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Back Rest/ Super Meteor 650',
         price: 3500,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775800124/5_e307ba11-0677-4e5d-bfb5-498cb8eee46a_ijisdw.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/234/product234_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775800127/7_e39ced79-4844-4b65-9255-fa6f20543efe_n8rqdd.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775800128/8_7149d284-48c5-48a0-87af-032d2b9d0c25_knvfde.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/234/product234_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/234/product234_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -6022,11 +6017,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield ABash Plate / Super Meteor 650',
         price: 2800,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775800253/1_d03e52b8-72ad-437c-a51f-eba95ac0eff3_wqd0ew.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/235/product235_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775800254/3_29cd2ce5-2ffc-450e-809c-396b0ac54a90_zxrmhq.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775800256/4_22b101ad-3413-4e4d-aa13-15942f79ebf8_l1mqjb.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775800257/2_e29030cb-8183-40b2-bad6-8a279e4f45dc_atdwuj.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/235/product235_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/235/product235_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -6048,11 +6042,11 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Bash Plate / Classic 350',
         price: 2500,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775800363/3_63c93382-42ae-4fb8-a1d7-23290e83bcd9_uyb7il.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/236/product236_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775800364/2_e29030cb-8183-40b2-bad6-8a279e4f45dc_brkrtm.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775800382/4_22b101ad-3413-4e4d-aa13-15942f79ebf8_esmiej.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775800384/3_29cd2ce5-2ffc-450e-809c-396b0ac54a90_x2uttp.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/236/product236_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/236/product236_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/236/product236_gallery3.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -6074,11 +6068,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Bash Plate Aluminium for Himalayan 450',
         price: 3700,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775800505/WhatsApp_Image_2025-07-07_at_12.50.49_PM_1_x3jnei.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/237/product237_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775800507/IMG-20250621-WA0020_88bb048a-8ef0-4049-b3cc-9c7d05a150bf_u68fph.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775800503/25_dbf6a9a8-e3dd-44a1-bee5-25ff5812780e_nevuvj.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775800502/13_e76e5eb6-f274-4cf3-ba8b-1f98b4a8f0a5_r3l22h.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/237/product237_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/237/product237_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -6100,11 +6093,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Brake and Gear Foldable Lever Aluminium for Himalayan 450 (Black)',
         price: 8500,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775800800/COMBO_swfh9a.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/238/product238_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775800803/WhatsApp_Image_2025-12-10_at_16.53.19_fb20f537-Photoroom_esekly.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775800803/WhatsApp_Image_2025-12-10_at_16.53.19_fb20f537-Photoroom_esekly.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775800803/WhatsApp_Image_2025-12-10_at_16.53.19_fb20f537-Photoroom_esekly.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/238/product238_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/238/product238_gallery2.jpg'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -6126,11 +6118,9 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Combo Kit - Matt White for RE Himalayan 411',
         price: 2560,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775800898/23_549e2a0b-4481-42d0-9a51-f90e3bb026a1_l6hwzc.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/239/product239_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775800898/23_549e2a0b-4481-42d0-9a51-f90e3bb026a1_l6hwzc.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775800898/23_549e2a0b-4481-42d0-9a51-f90e3bb026a1_l6hwzc.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775800898/23_549e2a0b-4481-42d0-9a51-f90e3bb026a1_l6hwzc.webp'
+
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -6152,11 +6142,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Crash Guard / Super Meteor 650',
         price: 3300,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775801064/1_59e173d9-9efb-4eee-a3b5-767c0f1e0b74_rsvwkl.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/240/product240_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775801066/2_707a9568-5f5b-4023-9ae5-9c91ad0ac6e4_nd65pz.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775801068/4_7412d1be-c577-4339-9729-c5011597ea2c_c7kcu6.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775801070/5_f901b449-d420-4849-9c53-7b93fe963639_bahmqv.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/240/product240_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/240/product240_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -6178,11 +6167,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Crash Guard With Slider - Meteor 350',
         price: 3200,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775801280/1_8b4a67e8-3f5f-489e-9669-5d853814d115_qu7bz2.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/241/product241_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775801282/2_dc93fc94-9994-4301-b8fe-a5f3e1c1942d_thpbml.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775801284/3_7b282034-1240-4fb8-a9a3-abf09d82b893_euw3dc.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775801286/4_255f517e-6e3f-4ee6-9398-e9a6f358d78c_u9fefs.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/241/product241_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/241/product241_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -6204,11 +6192,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Crash Guard With Slider for Himalayan 450',
         price: 8500,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775801425/IMG-20250621-WA0014_sen8zn.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/242/product242_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775801427/IMG-20250621-WA0030_a2f7ff2d-8411-4675-97c8-678cbbbabe25_zukxct.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775801429/IMG-20250621-WA0044_isipyj.webpp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775801423/black_1_hdip8l.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/242/product242_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/242/product242_gallery2.jpg'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -6230,11 +6217,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Crash Guard With Slider for RE Interceptor 650',
         price: 4500,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775801524/WhatsAppImage2025-12-11at16.19.01_49ee026c-Photoroom_x6cgjz.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/243/product243_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775801522/WhatsAppImage2025-12-11at16.19.00_fbd8b4cd-Photoroom_jazqgp.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775801524/WhatsAppImage2025-12-11at16.19.01_49ee026c-Photoroom_x6cgjz.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775801526/WhatsAppImage2025-12-11at16.21.10_47b8b6ed-Photoroom_cz9vsw.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/243/product243_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/243/product243_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -6256,11 +6242,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Disk Caliper Black Guard for RE Himalayan 411',
         price: 460,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775801803/moderntech_-_922_lwnu6a.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/244/product244_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775801806/moderntech_-_924_sxwi0o.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775801808/moderntech_-_923_n80rjb.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775801815/moderntech_-_925_vmzaew.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/244/product244_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/244/product244_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -6282,11 +6267,9 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Dynamic Foot Peg Combo',
         price: 38500,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775802178/1_3db8c895-8b1e-4ec5-8b03-475702f10710_tmgr3r.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/245/product245_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775802179/2_57a82bb2-02a7-4097-a025-8dac9d8f902d_s5nl1o.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775802178/1_3db8c895-8b1e-4ec5-8b03-475702f10710_tmgr3r.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775802179/2_57a82bb2-02a7-4097-a025-8dac9d8f902d_s5nl1o.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/245/product245_gallery1.png'
         ],
         category: 'Performance Parts',
         subcategory: 'Crash Guards',
@@ -6308,11 +6291,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Extended Rear Carrier for RE Interceptor 650',
         price: 8500,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775802340/6_c0f2c530-eac6-4c84-88d6-cc68857047e9_ggkamu.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/246/product246_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775802338/5_37ee9b29-d601-4fb6-9d30-af1b177bac0a_qeuojt.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775802336/2_b53d102c-eafd-4c7d-9438-8feec39241e7_kck8no.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775802334/1_bf1a6e08-9a5e-467a-b509-36caec780b69_y4fcu1.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/246/product246_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/246/product246_gallery2.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -6334,11 +6316,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield GPS Mount Aluminium Rod for Himalayan 450',
         price: 1150,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775802514/Read_Below_This_is_Paid_PromotionWhen_adding_accessories_to_your_bike_it_s_crucial_to_prioritize_utility_without_overloading._I_ve_recently_installed_a_few_key_accessories_from_Modern_ze31kc.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/247/product247_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775802524/WhatsApp_Image_2025-07-07_at_1.03.53_PM_httpxx.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775802511/1_75a013a3-0ac4-4ea6-b150-b1465df08e85_ehdbwp.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775802524/WhatsApp_Image_2025-07-07_at_1.03.53_PM_httpxx.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/247/product247_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/247/product247_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -6360,11 +6341,11 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Handle Bar Riser ( Middle Riser) for Himalayan 450',
         price: 2200,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775802649/125_egysqp.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/248/product248_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775802651/126_rppbhj.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775802653/128_rlzrpg.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775802655/135_giv2ep.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/248/product248_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/248/product248_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/248/product248_gallery3.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -6386,11 +6367,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Brake and Gear Foldable Lever Aluminium for Himalayan 450 (Black)',
         price: 8500,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775800800/COMBO_swfh9a.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/249/product249_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775800803/WhatsApp_Image_2025-12-10_at_16.53.19_fb20f537-Photoroom_esekly.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775800803/WhatsApp_Image_2025-12-10_at_16.53.19_fb20f537-Photoroom_esekly.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775800803/WhatsApp_Image_2025-12-10_at_16.53.19_fb20f537-Photoroom_esekly.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/249/product249_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/249/product249_gallery2.jpg'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -6412,11 +6392,11 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Handlebar Riser With Mobile Mount Combo Black for Himalayan 450',
         price: 8500,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775803053/WhatsApp_Image_2025-07-02_at_4.32.43_PM_xwypwu.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/250/product250_main.webp',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775803055/WhatsApp_Image_2025-07-02_at_4.32.43_PM_2_yazr1n.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775803047/IMG-20250621-WA0012_95f84cd7-3217-458c-bc46-b5b53a290fcd_ckgezr.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775803051/Royal_Enfield_Himalayan_450_just_got_an_upgrade_Watch_how_the_Himalayan_450_is_equipped_with_top-tier_Modern_Tech_accessories_transforming_it_into_the_ultimate_touring_machine_Ready_f_7f8df623-88e0-45b1-8646-02fbcdbed775_v0ndju.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/250/product250_gallery1.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/250/product250_gallery2.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/250/product250_gallery3.webp'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -6438,11 +6418,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Head Light black grill for himalayan 411',
         price: 1150,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775803233/moderntech_-_897_psoi0h.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/251/product251_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775803235/moderntech_-_900_sq6oxm.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775803231/moderntech_-_896_ujemts.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775803237/moderntech_-_902_udmuwi.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/251/product251_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/251/product251_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -6464,11 +6443,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Head Light Grill - Meteor 350',
         price: 950,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775803501/5_5f0b7aa2-32a9-45c8-b6f9-656157aef78a_no6mhk.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/252/product252_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775803510/6_398ba4cb-b3cf-481b-82cd-3d6d954eaa97_dsnuxh.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775803512/7_6724a1f7-dd00-45c6-b3bd-3705c05880d1_xzcui0.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775803498/3_3495a766-df5f-4dce-9c26-453d3211e9ea_u94bf8.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/252/product252_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/252/product252_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -6490,11 +6468,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Head Jerry Can Mount for Himalayan 450',
         price: 1300,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775803654/WhatsApp_Image_2025-07-07_at_12.46.35_PM_fwrekj.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/253/product253_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775803651/5_6d35a810-eb6e-46c1-80a1-d7187d03ce45_n0sn1x.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775803649/3_0a8355fc-0c51-4998-a3d6-bac90b5c52b6_tu5xw7.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775803648/2_dbecbd11-2a7c-4a77-935b-21dd8233f68b_sow3d3.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/253/product253_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/253/product253_gallery2.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -6542,11 +6519,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Master Cylinder Guard - Black Falcon for RE Himalayan 411',
         price: 1150,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775807192/moderntech_-_909_ezwb58.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/255/product255_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775807194/moderntech_-_912_f4evkw.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775807197/moderntech_-_910_hd5vdi.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775807199/moderntech_-_911_mqszde.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/255/product255_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/255/product255_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -6568,11 +6544,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Master Cylinder Guard - Aluminium for Himalayan 450',
         price: 550,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775807374/IMG-20250621-WA0018_kcqreg.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/256/product256_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775807367/55_c2ca439c-711a-44f7-acbc-38a37e6eb6d4_fmsiye.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775807374/WhatsApp_Image_2025-07-07_at_12.50.48_PM_8_xchnkc.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775807365/53_494a086c-984d-4e04-b938-3c83a5389f30_dja96m.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/256/product256_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/256/product256_gallery2.jpg'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -6594,11 +6569,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Metal Visor for RE Hunter 350',
         price: 1150,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775808933/moderntech_-_648_gl5hlv.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/257/product257_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775808930/moderntech_-_645_mhmhdb.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775808930/moderntech_-_645_mhmhdb.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775808929/moderntech_-_644_ovvrfz.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/257/product257_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/257/product257_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -6620,11 +6594,9 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Original Mount With Mobile Holder (Gold)/ Himalayan 450.',
         price: 3350,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775809022/01_55e6c91b-e9dc-4bb1-ba3a-13a13c71eb41_qwh2fa.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/258/product258_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775809022/01_55e6c91b-e9dc-4bb1-ba3a-13a13c71eb41_qwh2fa.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775809022/01_55e6c91b-e9dc-4bb1-ba3a-13a13c71eb41_qwh2fa.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775809022/01_55e6c91b-e9dc-4bb1-ba3a-13a13c71eb41_qwh2fa.webp'
+
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -6646,11 +6618,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Radiator black Grill for RE Himalayan 411',
         price: 1150,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775809103/moderntech_-_980_eeaots.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/259/product259_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775809106/moderntech_-_981_q5pxgn.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775809108/moderntech_-_982_zjhvmc.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775809111/moderntech_-_983_phhrvg.webpp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/259/product259_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/259/product259_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -6672,11 +6643,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Radiator Grill Aluminium for Himalayan 450 (Silver & Black)',
         price: 2000,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775809215/WhatsApp_Image_2025-07-02_at_2.38.04_PM_p1svyh.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/260/product260_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775809218/Himalayan_450_radiator_grill_na5gxc.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775809215/WhatsApp_Image_2025-07-02_at_2.38.04_PM_p1svyh.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775809218/Himalayan_450_radiator_grill_na5gxc.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/260/product260_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/260/product260_gallery2.jpg'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -6698,11 +6668,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Rear Brake Black Fluid Cap for RE Hunter 350',
         price: 360,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776054644/moderntech_-_623_kwkuig.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/261/product261_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776054644/moderntech_-_625_gnr41b.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776054643/moderntech_-_621_chsa4w.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776054643/moderntech_-_621_chsa4w.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/261/product261_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/261/product261_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -6724,11 +6693,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Rear Brake Fluid Cap Aluminium for Himalayan 450',
         price: 360,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776054811/WhatsApp_Image_2025-08-22_at_10.36.26_AM_1_i3xqrz.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/262/product262_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776054810/WhatsApp_Image_2025-07-07_at_12.50.48_PM_6_kxu7vd.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776054811/WhatsApp_Image_2025-08-22_at_10.36.27_AM_1_cqy95t.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776054810/02_05da2187-10d9-40d5-b6f1-dbfbd5571cf1_cklpvs.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/262/product262_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/262/product262_gallery2.jpg'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -6750,11 +6718,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Royal Enfield Guerrilla 450 Aluminium Bash Plate',
         price: 3700,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776054919/01_54f9a8d3-c75a-444e-b908-3fd0ebf9b336_fhcbsh.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/263/product263_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776054920/02_3dbf2064-c3b6-449f-80ff-455bf7657859_rjfxyj.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776054921/03_a11221d4-98f2-4957-b7eb-a167d548fccb_fjpoiq.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776054921/25_dbf6a9a8-e3dd-44a1-bee5-25ff5812780e_nz9jlw.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/263/product263_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/263/product263_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -6776,11 +6743,11 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Guerrilla 450 Carrier with Backrest',
         price: 3800,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776055017/05_hzotro.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/264/product264_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776055016/06_uvxdcj.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776055016/08_osl0p9.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776055015/4_2d52ff56-6445-4eb1-bf55-3cd1e0c07212_kyyklr.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/264/product264_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/264/product264_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/264/product264_gallery3.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -6802,11 +6769,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Guerrilla 450 Crash Guard',
         price: 5590,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776055131/07_62db852e-8b3b-452e-958f-27e8d15b018d_oedqi0.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/265/product265_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776055133/10_37ba979e-3ec2-4ce8-b0ee-1089b2ef4f4b_miee0b.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776055132/08_36303a3d-ef8d-47d0-818d-4c4e4155d7e5_qlavva.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776055130/3_b3c306b2-0587-47f1-bc85-e884a11bac02_umjiol.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/265/product265_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/265/product265_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -6828,11 +6794,11 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Guerrilla 450 Handle Bar Riser With Mobile Mount Combo',
         price: 5760,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776055631/WhatsApp_Image_2025-07-02_at_4.32.43_PM_1_f677f0bb-01ae-4bd1-92c4-8b6e716a60e6_lkng9w.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/266/product266_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776055631/03_dd583571-e51a-4bc8-b41b-4c333dd1cb7c_giew0g.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776055632/01_e795fdca-38b3-4987-918c-e45302d7f137_crovnx.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776055632/86_dc3lu2.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/266/product266_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/266/product266_gallery2.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/266/product266_gallery3.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -6854,11 +6820,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Royal Enfield Guerrilla 450 Saddle Stay',
         price: 3700,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776058393/02_f1afa119-5f76-46fd-8d0b-f3ab85501f15_vetubt.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/267/product267_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776058393/01_751807e2-c31c-4af1-9e31-fe2cbfc32305_uucbng.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776058393/03_5b4fdcd3-0007-47fe-ad8f-a545726aaf01_ihgp2v.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776058393/11_ee75aaf7-510c-47df-86ba-c01dea8a0008_sci3ex.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/267/product267_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/267/product267_gallery2.png'
         ],
         category: 'Touring',
         subcategory: 'Saddle Bags',
@@ -6906,11 +6871,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Side Stand Base made with Mild Steel for RE Hunter 350',
         price: 600,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776059720/moderntech_-_677_sbzdlc.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/269/product269_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776059719/moderntech_-_679_o3vlo2.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776059718/moderntech_-_680_ragd9o.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776059717/moderntech_-_683_kk3rh5.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/269/product269_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/269/product269_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -6932,11 +6896,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Side Stand Boot Black for Himalayan 450',
         price: 3800,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776059851/Royal_Enfield_Himalayan_450_just_got_an_upgrade_Watch_how_the_Himalayan_450_is_equipped_with_top-tier_Modern_Tech_accessories_transforming_it_into_the_ultimate_touring_machine_Ready_f_quv14s.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/270/product270_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776059852/7_7806a70a-2835-49ab-a7a7-1b5228351a85_my0aln.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776059854/WhatsApp_Image_2025-07-02_at_11.02.57_AM_2_quge5k.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776059850/6_57e29db3-ac5e-441a-ba9e-538feb193f35_ibxeob.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/270/product270_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/270/product270_gallery2.jpg'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -6958,11 +6921,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Side Stand Boot Black for Himalayan 450',
         price: 3800,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776059851/Royal_Enfield_Himalayan_450_just_got_an_upgrade_Watch_how_the_Himalayan_450_is_equipped_with_top-tier_Modern_Tech_accessories_transforming_it_into_the_ultimate_touring_machine_Ready_f_quv14s.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/271/product271_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776059852/7_7806a70a-2835-49ab-a7a7-1b5228351a85_my0aln.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776059854/WhatsApp_Image_2025-07-02_at_11.02.57_AM_2_quge5k.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776059850/6_57e29db3-ac5e-441a-ba9e-538feb193f35_ibxeob.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/271/product271_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/271/product271_gallery2.jpg'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -6984,11 +6946,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Solo Carrier for RE Classic 350 Reborn',
         price: 3800,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776059983/moderntech_-_582_fl3hgz.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/272/product272_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776059983/moderntech_-_581_aq40tp.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776059981/moderntech_-_583_crub10.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776059981/moderntech_-_580_zswkgy.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/272/product272_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/272/product272_gallery2.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -7010,11 +6971,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Tail Taidy - Meteor 350',
         price: 950,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776060128/12_583daff0-9c9d-4fa8-b111-0422952aa35c_kpxekf.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/273/product273_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776060115/11_18d79165-4c43-40d0-943d-63ddc9deed69_wiknco.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776060113/5_5da4fcb2-80a5-49dc-902c-2d000e7c04c5_feyjnd.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776060112/6_7657dcaa-f5d6-4796-a7d1-e553583e2e96_l0usqy.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/273/product273_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/273/product273_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Tail Tidy',
@@ -7036,11 +6996,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Tyre Hugger for Royal Enfield Guerrilla 450',
         price: 2000,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776061064/WhatsApp_Image_2025-08-18_at_10.09.20_AM_1_o1fwrl.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/274/product274_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776061065/WhatsApp_Image_2025-08-18_at_10.09.21_AM_cebc9a5f-6411-4f09-bc14-f070946c3178_y0qobk.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776061064/WhatsApp_Image_2025-08-18_at_10.09.20_AM_1_o1fwrl.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776061065/WhatsApp_Image_2025-08-18_at_10.09.21_AM_cebc9a5f-6411-4f09-bc14-f070946c3178_y0qobk.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/274/product274_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/274/product274_gallery2.jpg'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -7062,11 +7021,10 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Tyre Hugger for Himalayan 450',
         price: 2000,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776061410/WhatsAppImage2025-08-22at10.19.10AM_1_x4vuuy.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/275/product275_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776061408/WhatsAppImage2025-08-22at10.19.07AM_oflah3.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776061409/WhatsAppImage2025-08-22at10.19.10AM_n9xqjq.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776061408/WhatsAppImage2025-08-22at10.19.12AM_dezfox.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/275/product275_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/275/product275_gallery2.jpg'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -7088,11 +7046,10 @@ const catalogProducts = [
         name: 'MODERN TECH KTM Bash Plate Aluminium - KTM ADV 390',
         price: 5000,
         discount: 5,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776063125/5_e30efcc7-2f19-471b-9008-2b596c70f297_sh6tzm.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/276/product276_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776063126/7_7db6194f-2de6-46f0-aeea-470c188ec7b3_mfjses.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776063123/6_9ba4dea3-607f-4a60-b8c1-4d12cfc98e7a_vsk9jy.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776063123/4_ecb4b5dc-3dca-45ef-8938-e7ca4c1c0516_mrbrss.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/276/product276_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/276/product276_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Protection',
@@ -7114,11 +7071,10 @@ const catalogProducts = [
         name: 'MODERN TECH KTM Top Rack with Back Rest / KTM 390 ADV',
         price: 3200,
         discount: 5,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1774982827/1706878810_65bce75a2a6e2_yqyem0.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/277/product277_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1774982826/1706878801_65bce751e0a0d_hgk9xk.png',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1774982824/1706878837_65bce7752af8a_kgarox.png',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1774982825/1706878843_65bce77bb849c_helgvg.png'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/277/product277_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/277/product277_gallery2.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -7140,11 +7096,10 @@ const catalogProducts = [
         name: 'MODERN TECH Saddle Stay for KTM 390 ADV',
         price: 3200,
         discount: 5,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776063524/1_14a1a432-e5c4-4b3e-ab55-faa4e2926b6a_jbfa4o.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/278/product278_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776063523/2_3501f862-e327-44aa-96f7-2b0f6cba946a_mlh5nn.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776063521/4_3e226d8e-275c-43c4-b19a-06dd1b21c4cb_wjs9zx.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776063520/3_23623a5d-0f2b-492b-8ad5-24f3e8fd8a72_s9jghe.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/278/product278_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/278/product278_gallery2.png'
         ],
         category: 'Touring',
         subcategory: 'Saddle Bags',
@@ -7166,11 +7121,10 @@ const catalogProducts = [
         name: 'MODERN TECH KTM Handle Bar Riser / KTM ADV 390',
         price: 2800,
         discount: 5,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776063738/3_cda4464a-bb8d-499e-ae9e-a6b8aa8c463c_tull4q.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/279/product279_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776063737/5_93cfa465-ca27-4d2e-9fca-03c564fea74f_t3rzmp.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776063736/4_2cb5319f-0aad-4092-84ca-4aae9f3e4dc3_vmfneg.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776063734/6_07d8c2f6-bc3a-41e2-9368-c3784da0c3a2_lqhdoc.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/279/product279_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/279/product279_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Handguard',
@@ -7192,11 +7146,10 @@ const catalogProducts = [
         name: 'MODERN TECH KTM GPS Mount / KTM ADV 390',
         price: 1050,
         discount: 5,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776063925/6_155c537e-175f-4b06-b469-f877d3d2c67e_xunrds.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/280/product280_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776063927/2_50de6fc1-1bcc-4241-8fc7-c5fe19e6dbeb_sz27dg.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776063929/10_0caadfc6-c612-4c29-81ef-de537a553bae_ooybft.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776063930/8_0223f945-09e2-4696-b077-c2d2aab1c36d_oxp0bs.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/280/product280_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/280/product280_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: '',
@@ -7218,11 +7171,10 @@ const catalogProducts = [
         name: 'MODERN TECH Saddle Stay / KTM DUKE -250-390',
         price: 3400,
         discount: 5,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776064086/2_9164135e-c00f-4a01-8ae2-195fa2747d1a_xttaaj.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/281/product281_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776064087/3_fea0b760-fd05-49b1-8fbd-9a293d1ef98c_js1oas.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776064089/5_df0fd60b-7553-45a0-81b9-2bb4271477e9_ivm5sd.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776064090/7_6ec86e3a-6680-416f-a2e7-92c52832beb2_zuns71.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/281/product281_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/281/product281_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -7244,11 +7196,10 @@ const catalogProducts = [
         name: 'MODERN TECH KTM Dynamic Crash Guard / KTM - ADV 390',
         price: 7000,
         discount: 5,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776064193/1_6273bd9d-5ac7-40db-8020-1b44bce19d27_kfewnu.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/282/product282_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776064194/4_d1562bcb-bbba-4a11-84e9-05bf26313d28_lpm8jh.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776064191/3_047e7a23-d7dc-4ac5-bbc6-9d131474ff34_zmtvus.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776064190/2_f3433473-a373-4d61-a402-bffdcb23cb0d_hqtcau.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/282/product282_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/282/product282_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -7270,11 +7221,10 @@ const catalogProducts = [
         name: 'MODERN TECH KTM Premium Rear Carrier With Back Rest / KTM DUKE 200-250-390',
         price: 3800,
         discount: 5,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776064312/5_6821985f-5783-4eb9-9508-e5ac5aa75471_lwie6y.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/283/product283_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776064314/9_e7114fd8-ec7c-4965-ba14-37501a06ead3_iflcgm.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776064315/7_fe624eb0-5333-4e96-a07a-df4888fb63e9_spdadn.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776064317/8_13ba4ebf-b071-44fd-acbe-bf3f2662783b_jwzve8.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/283/product283_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/283/product283_gallery2.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -7296,11 +7246,10 @@ const catalogProducts = [
         name: 'MODERN TECH KTM Head Light Grill - KTM ADV390',
         price: 1200,
         discount: 5,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776064412/1_8019b8b4-6d8b-4507-af7e-79a9669cab65_nblnj6.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/284/product284_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776064414/2_7fbddf7b-fc10-4596-83ac-6fe42938134b_l2fwoa.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776064417/3_0e6b7bd8-0432-41cb-ab89-806002a4f64c_yfhper.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776064416/4_4965d209-6633-48f4-bfda-68509d0f1606_gfqksk.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/284/product284_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/284/product284_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Protection',
@@ -7322,11 +7271,10 @@ const catalogProducts = [
         name: 'MODERN TECH KTM Top Rack With Back Rest / KTM DUKE 200-250-390',
         price: 3200,
         discount: 5,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776064494/3_394e1a61-ec97-4fe0-96d7-18de229931fb_nqqyin.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/285/product285_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776064496/2_a50acbad-f1fb-4988-a64a-f9eb894960de_hb388e.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776064497/4_906d9e9a-b593-4a82-b66b-c6205e90e6f6_fnsevt.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776064493/4_af92a33c-70ba-4c8f-8ef5-40c4a8d7311a_kyynwf.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/285/product285_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/285/product285_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Racks',
@@ -7348,11 +7296,10 @@ const catalogProducts = [
         name: 'MODERN TECH YAMAHA Top Rack With Back Rest - YAMAHA FZ - X',
         price: 3200,
         discount: 5,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776065038/6_3e602d06-0fff-4039-972a-d1b3471f0d32_j8h36j.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/286/product286_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776065034/4_ae13a45a-14e2-4feb-aa2f-19f5ff983e0f_o0c2u2.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776065036/5_199a3949-be2d-4d41-a2fe-e34526336547_pk15yz.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776065033/3_e48e4ca5-0220-4342-9596-faa9549880a9_attrzb.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/286/product286_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/286/product286_gallery2.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -7374,11 +7321,10 @@ const catalogProducts = [
         name: 'MODERN TECH YAMAHA Top Rack With Back Rest - YAMAHA FZ',
         price: 3000,
         discount: 5,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776066790/6_4b887bfe-25c2-485d-a1f6-6ab293258796_cexmng.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/287/product287_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776065034/4_ae13a45a-14e2-4feb-aa2f-19f5ff983e0f_o0c2u2.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776065036/5_199a3949-be2d-4d41-a2fe-e34526336547_pk15yz.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776065033/3_e48e4ca5-0220-4342-9596-faa9549880a9_attrzb.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/287/product287_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/287/product287_gallery2.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -7400,11 +7346,10 @@ const catalogProducts = [
         name: 'MODERN TECH Crash Guard With Sliders - Yamaha FZ - X',
         price: 4600,
         discount: 5,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776066874/2_dba41c19-77b4-479b-a5bd-96c65120205b_cbjpes.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/288/product288_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776066874/2_dba41c19-77b4-479b-a5bd-96c65120205b_cbjpes.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776066878/4_a3ed7cda-0161-4c70-9ce4-4bc3791bedbf_gv5dyp.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776066871/1_0e3ac3c4-7625-40bc-9e10-9cace49f2dc7_k6jllt.webpp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/288/product288_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/288/product288_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -7426,11 +7371,10 @@ const catalogProducts = [
         name: 'MODERN TECH YAMAHA Yamaha Mt-15 / Rear Carrier Plate',
         price: 1300,
         discount: 5,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776066982/7_471b9c61-cb4b-47e3-a8a6-342f185a10d4_znlzgp.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/289/product289_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776066980/6_b770b94d-a2a8-47b2-94f8-3ed62f13f28e_ia4ald.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776066978/3_53a74a76-5d21-40c7-b285-ddfa26b0dc48_xwfgku.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776066972/1_429bb8e2-7433-47a9-a758-d61ac76c2ecc_oodhci.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/289/product289_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/289/product289_gallery2.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -7452,11 +7396,10 @@ const catalogProducts = [
         name: 'MODERN TECH YAMAHA Metal Visor / Yamaha - MT 15.',
         price: 950,
         discount: 5,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776067111/4_3a50fb89-c871-44dd-9c95-9da524305fc2_kcl2em.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/290/product290_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776067115/5_19096932-46c4-45fa-9af8-c56424486566_efnaqw.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776067117/6_290c67ef-973f-4be4-9088-69ee1912069f_xwb3tc.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776067122/7_12f3cca1-6cf8-4a7d-84fe-d49b39c1ca1d_efl6pc.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/290/product290_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/290/product290_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Wind Deflectors',
@@ -7478,11 +7421,10 @@ const catalogProducts = [
         name: 'MODERN TECH Crash Guard With Sliders - Yamaha FZ',
         price: 4600,
         discount: 5,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776067279/3_d422e87a-e32f-47de-ad9d-367175d9ad08_xnws1p.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/291/product291_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776067281/6_ae752b54-aba2-4484-9706-a6735c41aa67_a02xqw.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776067283/7_fd68bb61-e8cd-4e4f-8b7d-32ac4dddbc33_krqrum.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776067281/6_ae752b54-aba2-4484-9706-a6735c41aa67_a02xqw.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/291/product291_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/291/product291_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -7504,11 +7446,10 @@ const catalogProducts = [
         name: 'MODERN TECH Crash Guard / Yamaha MT-15',
         price: 4200,
         discount: 5,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776067376/5_7987fde2-74d0-4067-9a25-92b289161d7d_quktrj.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/292/product292_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776067374/4_0af2117b-130f-429b-9c89-6daf9588803f_htgfwq.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776067370/1_82836666-be33-4f8a-9e81-bda116ce7671_l9tnmn.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776067372/2_5a9e7991-9b26-443d-a3b0-e7d3bc8365d9_xxpris.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/292/product292_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/292/product292_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -7530,11 +7471,10 @@ const catalogProducts = [
         name: 'MODERN TECH Foot Rest / Yamaha MT-15',
         price: 1200,
         discount: 5,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776067486/2_01c25ccd-8fb1-4f26-82de-8846e0cef6f1_o4epab.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/293/product293_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776067488/7_f874aecc-0547-4b74-b09b-e7ce5af881d8_hryv5m.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776067490/3_5cfd6587-70e2-4958-9e37-9678d05dc8af_wwrjfl.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776067492/5_1fa4f7c4-5c02-4c02-9f05-2f611142818a_vmmf3i.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/293/product293_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/293/product293_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: '',
@@ -7556,11 +7496,10 @@ const catalogProducts = [
         name: 'MODERN TECH Honda Premium Carrier With Back Rest - HNESS CB 350',
         price: 3500,
         discount: 5,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776068172/6_08b6a99f-850e-4e00-869e-b7b59eacd934_pq1uml.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/294/product294_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776068170/5_b4477b41-bd2d-4e49-b247-a003914b0a3a_q8miey.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776068169/3_b8e024a8-a185-433b-ad21-df7cabc3027b_qdxydz.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776068172/6_08b6a99f-850e-4e00-869e-b7b59eacd934_pq1uml.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/294/product294_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/294/product294_gallery2.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -7582,11 +7521,10 @@ const catalogProducts = [
         name: 'MODERN TECH Honda Top Rack With Back Rest - HNESS CB 350',
         price: 3200,
         discount: 5,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776068267/4_cfdccb97-f3de-42dd-8885-c19bac0b091e_svryan.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/295/product295_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776068265/3_1a19f112-e15a-4215-97ed-47f9c702d003_cr38br.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776068263/2_28a0e288-5360-4b0b-adb0-ec684b4a48c2_fm0b6y.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776068267/4_cfdccb97-f3de-42dd-8885-c19bac0b091e_svryan.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/295/product295_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/295/product295_gallery2.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -7608,11 +7546,10 @@ const catalogProducts = [
         name: 'MODERN TECH Honda Metal Visor',
         price: 1100,
         discount: 5,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776068429/6_fa789657-4bef-4945-810f-c1572c947232_utzirg.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/296/product296_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776068427/8_c0c946b0-8c0f-4eda-855c-f9493f81631d_hhhmyi.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776068425/7_ad70ccd1-4f83-48d8-b372-1098ce8b54d4_gid3jw.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776068423/5_50c3325d-55d9-465c-aca2-64103e93f5a7_mt1gc4.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/296/product296_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/296/product296_gallery2.png'
         ],
         category: 'Bike accessories',
         subcategory: 'Wind Deflectors',
@@ -7634,11 +7571,10 @@ const catalogProducts = [
         name: 'MODERN TECH Honda Rear Carrier With Saddle Stay',
         price: 4600,
         discount: 5,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776068549/7_0857c69f-b573-4707-b748-22f63dc32e4a_zuze34.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/297/product297_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776068547/6_08b6a99f-850e-4e00-869e-b7b59eacd934_c07stk.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776068544/5_b4477b41-bd2d-4e49-b247-a003914b0a3a_ccwqov.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776068542/4_10ca8383-fca3-4160-9272-0ec7b2cd6fad_fdq0tm.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/297/product297_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/297/product297_gallery2.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -7660,11 +7596,10 @@ const catalogProducts = [
         name: 'MODERN TECH Honda Dynamic Crash Guard for CB 350',
         price: 4900,
         discount: 5,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776068729/2_5a5993b0-05f4-4632-b5aa-2b0050236048_yjdbo9.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/298/product298_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776068726/3_9c3388d9-3611-4a50-960b-35bfd3b23a7e_xruuaz.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776068724/5_5f6d06dd-cbbd-4d3b-a5aa-49f91a2b11d1_ogbrca.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776068721/4_8ae0e015-2ac9-4ed3-a71d-ec914915aa4c_dfhtza.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/298/product298_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/298/product298_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Gurads',
@@ -7686,11 +7621,10 @@ const catalogProducts = [
         name: 'MODERN TECH Honda 2 Part Bash Plate / Honda Hyness 350 - Cb Rs 350',
         price: 2700,
         discount: 5,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776068930/3_d3cc88c1-3ca4-4639-bad0-eabeece6d90e_ic8qnx.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/299/product299_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776068933/5_d4ac0941-ebdc-436a-b594-221073ab8d87_w7mjd2.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776068935/4_84b31c26-654c-4dd3-8d9c-c3953d57bdc0_isoz2b.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776068938/6_8a3745d0-a290-43af-9746-ac0232e983e8_yexhdy.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/299/product299_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/299/product299_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -7712,11 +7646,10 @@ const catalogProducts = [
         name: 'MODERN TECH Honda Head Light Grill / Hyness 350- RS 350',
         price: 950,
         discount: 5,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776069057/4_c28553ff-d749-40a0-bd83-2d6f22162f33_errfvx.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/300/product300_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776069058/6_08082387-478b-4540-a313-c531fce2c87c_avpxiu.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776069054/2_ea2b752e-f701-4400-a7ce-28bf8a02ecc4_lcf9co.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776069051/3_d4d8ff2c-d674-445e-9ad9-6aa97c905b87_qvdgfh.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/300/product300_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/300/product300_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Protection',
@@ -7738,11 +7671,10 @@ const catalogProducts = [
         name: 'MODERN TECH HERO Saddle Stay / XPULSE 210',
         price: 3200,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776069741/IMG-20250612-WA0026_xycf1u.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/301/product301_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776069738/IMG-20250612-WA0018_cts3ja.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776069735/IMG-20250426-WA0055_ov0hmt.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776069733/IMG-20250426-WA0037_ellh3s.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/301/product301_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/301/product301_gallery2.png'
         ],
         category: 'Touring',
         subcategory: 'Saddle Bags',
@@ -7764,11 +7696,10 @@ const catalogProducts = [
         name: 'MODERN TECH HERO Tail Tidy / XPULSE',
         price: 850,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776069873/1_69b52682-c990-4a3e-aba7-9a7054042108_ypcm7h.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/302/product302_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776069875/2_d0533974-d405-4982-8508-083070cc9824_c7deuh.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776069873/1_69b52682-c990-4a3e-aba7-9a7054042108_ypcm7h.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776069885/4_9a53befb-6ab5-4dcd-9e84-b71edf142034_phkirz.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/302/product302_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/302/product302_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Tail Tidy',
@@ -7790,11 +7721,10 @@ const catalogProducts = [
         name: 'MODERN TECH HERO Top Rack With Back Rest - XPULSE 200',
         price: 2400,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776070005/12_f9f5902f-760e-4538-9d9b-fb6c1f69a6d7_jnrsi9.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/303/product303_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776070002/11_e2a94770-948b-45ea-9607-88ddce3b0c7c_ttcvrd.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776069996/10_fd986050-74ac-4ee4-844e-be9ea9973d16_cqmiun.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776069999/9_1c658ebc-ed05-4101-9e65-d7e4fa0d9c0e_wqyeqp.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/303/product303_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/303/product303_gallery2.png'
         ],
         category: 'Touring',
         subcategory: 'Racks',
@@ -7816,11 +7746,10 @@ const catalogProducts = [
         name: 'MODERN TECH Saddle Stay / XPULSE',
         price: 2900,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776070128/2_d7a9294c-ef09-437a-9c61-7f31be1a9163_u8isn4.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/304/product304_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776070124/4_347ee476-9829-4cfe-9b66-81f25d3f97b2_cwdim1.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776070128/2_d7a9294c-ef09-437a-9c61-7f31be1a9163_u8isn4.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776070131/IMG-20250426-WA0037_fyrwks.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/304/product304_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/304/product304_gallery2.jpg'
         ],
         category: 'Touring',
         subcategory: 'Saddle Bags',
@@ -7842,11 +7771,10 @@ const catalogProducts = [
         name: 'MODERN TECH HERO GPS MOUNT XPULSE 210',
         price: 1150,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776070259/WhatsApp_Image_2025-08-02_at_7.52.11_PM_mo0gth.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/305/product305_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776070240/IMG-20250426-WA0019_qifmy4.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776070237/IMG-20250426-WA0016_omntce.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776070240/IMG-20250426-WA0019_qifmy4.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/305/product305_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/305/product305_gallery2.jpg'
         ],
         category: 'Bike Accessories',
         subcategory: 'Tail Tidy',
@@ -7868,11 +7796,10 @@ const catalogProducts = [
         name: 'MODERN TECH HERO ENGINE GRAP GRILL XPULSE 210',
         price: 1500,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776070727/WhatsApp_Image_2025-08-02_at_7.38.00_PM_1_utujdw.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/306/product306_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776070725/WhatsApp_Image_2025-08-02_at_7.38.00_PM_rjpnlt.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776070721/IMG-20250426-WA0035_n7imhu.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776070720/IMG-20250426-WA0042_vaitv0.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/306/product306_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/306/product306_gallery2.jpg'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -7894,11 +7821,10 @@ const catalogProducts = [
         name: 'MODERN TECH HERO X PULSE 210 CRASH GUARD With Slider',
         price: 4800,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776071008/IMG-20250612-WA0085_ngx9zd.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/307/product307_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776071012/IMG-20250612-WA0086_nutj70.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776071005/IMG-20250426-WA0053_bqzg19.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775458493/1707563376_65c759701ec0e_xsrbvd.png'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/307/product307_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/307/product307_gallery2.jpg'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -7946,11 +7872,10 @@ const catalogProducts = [
         name: 'MODERN TECH HERO Radiator Grill / XPULSE BS6',
         price: 850,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776071508/9_577a221b-c8b4-4dfa-aabc-1acda35b1673_iookcw.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/309/product309_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776071505/5_10121f3c-2c52-48de-bba2-9bbfa80ec6c0_epp4xx.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776071502/1_b2aa1fe4-98fa-46cd-aeaf-6bf1b85cce64_art4rc.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776071498/6_d9d5abce-5cf3-49ba-a6b9-8a702065272c_fl3bod.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/309/product309_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/309/product309_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -7972,11 +7897,10 @@ const catalogProducts = [
         name: 'MODERN TECH Handlebar Riser - Black / XPULSE',
         price: 1800,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776071652/1_c73d7c64-0e0c-4931-bda8-76610b9f1b02_xucwpr.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/310/product310_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776071658/2_b9d69d45-7f51-4cbd-8329-e86d8596fdb6_gp578j.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776071659/4_54fe76c2-5d49-450b-926f-574b89bdfd37_wfcjhj.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776071652/1_c73d7c64-0e0c-4931-bda8-76610b9f1b02_xucwpr.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/310/product310_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/201-300/310/product310_gallery2.png'
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -7998,11 +7922,10 @@ const catalogProducts = [
         name: 'MADDOG Lycan Auxiliary Lights',
         price: 14799,
         discount: 25,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788432185/product_1752410035_4467479_mqkgff.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/311/product311_main.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788432187/product_1752410037_2496670_uug0az.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788432185/product_1752410035_4467479_mqkgff.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788432186/product_1752410035_6210319_z9a43n.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/311/product311_gallery1.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/311/product311_gallery2.webp'
         ],
         category: 'Lighting',
         subcategory: 'Fog Lamps',
@@ -8024,11 +7947,10 @@ const catalogProducts = [
         name: 'MADDOG Rage Auxiliary Lights',
         price: 11799,
         discount: 25,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788432306/product_1752410418_9244111_hbldxg.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/313/product313_main.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788432306/product_1752410419_2267757_eujm6f.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788432306/product_1752410418_9244111_hbldxg.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788432307/product_1752410035_6210319_jqjthf.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/313/product313_gallery1.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/313/product313_gallery2.webp'
         ],
         category: 'Lighting',
         subcategory: 'Fog Lamps',
@@ -8050,11 +7972,10 @@ const catalogProducts = [
         name: 'MADDOG Delta Auxiliary Lights',
         price: 7799,
         discount: 25,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788432519/product_1752410793_3455551_q2wmy3.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/314/product314_main.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788432519/product_1752410794_2585359_alrzbk.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788432519/product_1752410793_3455551_q2wmy3.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788432307/product_1752410035_6210319_jqjthf.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/314/product314_gallery1.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/314/product314_gallery2.webp'
         ],
         category: 'Lighting',
         subcategory: 'Fog Lamps',
@@ -8076,11 +7997,10 @@ const catalogProducts = [
         name: 'MADDOG ScoutX 2024 Auxiliary Lights',
         price: 5750,
         discount: 25,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788432653/Screenshot_2026-09-03_162000_a226af.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/315/product315_main.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788432653/Screenshot_2026-09-03_162023_rxxg28.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788432653/Screenshot_2026-09-03_162000_a226af.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788432654/Screenshot_2026-09-03_162034_ctmuem.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/315/product315_gallery1.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/315/product315_gallery2.webp'
         ],
         category: 'Lighting',
         subcategory: 'Fog Lamps',
@@ -8102,11 +8022,10 @@ const catalogProducts = [
         name: 'MADDOG Dimmer',
         price: 5999,
         discount: 25,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788432772/product_1752415773_9257121_kaj1rr.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/316/product316_main.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788432773/product_1752415774_5518942_xgjxpx.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788432772/product_1752415773_9257121_kaj1rr.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788432773/product_1752415774_4596988_przmvr.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/316/product316_gallery1.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/316/product316_gallery2.webp'
         ],
         category: 'Lighting',
         subcategory: 'Fog Lamps',
@@ -8128,11 +8047,10 @@ const catalogProducts = [
         name: 'MADDOG Scout 2024 Auxiliary Lights',
         price: 3799,
         discount: 25,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788432653/Screenshot_2026-09-03_162000_a226af.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/317/product317_main.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788432653/Screenshot_2026-09-03_162023_rxxg28.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788432653/Screenshot_2026-09-03_162000_a226af.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788432654/Screenshot_2026-09-03_162034_ctmuem.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/317/product317_gallery1.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/317/product317_gallery2.webp'
         ],
         category: 'Lighting',
         subcategory: 'Fog Lamps',
@@ -8154,11 +8072,10 @@ const catalogProducts = [
         name: 'MADDOG Alpha Auxiliary Light Filters',
         price: 1699,
         discount: 25,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788432992/product_1752430175_1177353_yk4dpp.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/318/product318_main.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788432993/product_1752430176_4188393_gmc98a.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788432992/product_1752430175_1177353_yk4dpp.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788432994/product_1752430176_6536941_qdrnnd.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/318/product318_gallery1.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/318/product318_gallery2.webp'
         ],
         category: 'Lighting',
         subcategory: 'Fog Lamps',
@@ -8180,11 +8097,10 @@ const catalogProducts = [
         name: 'MADDOG Switch',
         price: 599,
         discount: 25,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433078/product_1752430007_4455406_mg7kye.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/319/product319_main.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433079/product_1752430007_9102296_hrxna7.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433078/product_1752430007_4455406_mg7kye.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433080/product_1752430008_2849781_owga11.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/319/product319_gallery1.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/319/product319_gallery2.webp'
         ],
         category: 'Lighting',
         subcategory: 'Fog Lamps',
@@ -8206,11 +8122,10 @@ const catalogProducts = [
         name: 'MADDOG Mount KTM 390 Adventure Clamp for Scout and Scout',
         price: 799,
         discount: 25,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433142/product_1752431091_6015024_ftx5np.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/320/product320_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433143/product_1752431091_6360545_yvgvuf.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433142/product_1752431091_6015024_ftx5np.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433143/product_1752431091_6360545_yvgvuf.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/320/product320_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/320/product320_gallery2.jpg'
         ],
         category: 'Lighting',
         subcategory: 'Fog Lamps',
@@ -8232,11 +8147,10 @@ const catalogProducts = [
         name: 'MADDOG Mount Interceptor and Himalayan for Scout and Scoutx',
         price: 899,
         discount: 25,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433288/Screenshot_2026-09-03_163100_u2cgou.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/320/product320b_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433290/Screenshot_2026-09-03_163109_sb1kv2.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433288/Screenshot_2026-09-03_163100_u2cgou.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433291/Screenshot_2026-09-03_163116_ud5ih6.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/320/product320b_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/320/product320b_gallery2.jpg'
         ],
         category: 'Lighting',
         subcategory: 'Fog Lamps',
@@ -8258,11 +8172,10 @@ const catalogProducts = [
         name: 'MADDOG Claw X Phone Holder - Mobile Holder',
         price: 4499,
         discount: 25,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433403/Screenshot_2026-09-03_163246_vhjsih.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/321/product321_main.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433405/Screenshot_2026-09-03_163256_mhuzld.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433403/Screenshot_2026-09-03_163246_vhjsih.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433406/Screenshot_2026-09-03_163307_rwfut7.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/321/product321_gallery1.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/321/product321_gallery2.webp'
         ],
         category: 'Lighting',
         subcategory: 'Electricals',
@@ -8284,11 +8197,10 @@ const catalogProducts = [
         name: 'MADDOG Claw Pro Phone Holder - Mobile Holder',
         price: 3399,
         discount: 25,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433481/1_kccaio.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/322/product322_main.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433503/11_jvghen.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433481/1_kccaio.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433505/111_weajlx.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/322/product322_gallery1.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/322/product322_gallery2.webp'
         ],
         category: 'Lighting',
         subcategory: 'Electricals',
@@ -8983,11 +8895,10 @@ const catalogProducts = [
         name: 'BOBO BM1 Jaw-Grip Bike Phone Holder - Mobile Holder',
         price: 1799,
         discount: 12,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433754/51GtVp7CJrL._SX679__xlqwe0.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/351/product351_main.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433755/61o6PVCYKwL._SX679__esvmvi.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433754/51GtVp7CJrL._SX679__xlqwe0.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433757/61pkw1hwAoL._SX679__gn6tfd.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/351/product351_gallery1.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/351/product351_gallery2.webp'
         ],
         category: 'Lighting',
         subcategory: 'Electricals',
@@ -9009,11 +8920,10 @@ const catalogProducts = [
         name: 'BOBO BM1 PRO Jaw-Grip Bike Phone Holder (with fast USB 3.0 charger, SAE connector & Fast USB Cable) Mobile Holder',
         price: 2299,
         discount: 12,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433754/51GtVp7CJrL._SX679__xlqwe0.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/352/product352_main.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433755/61o6PVCYKwL._SX679__esvmvi.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433754/51GtVp7CJrL._SX679__xlqwe0.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433757/61pkw1hwAoL._SX679__gn6tfd.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/352/product352_gallery1.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/352/product352_gallery2.webp'
         ],
         category: 'Lighting',
         subcategory: 'Electricals',
@@ -9035,11 +8945,10 @@ const catalogProducts = [
         name: 'BOBO BM2 Aluminium Bike Phone Holder (with 2.5A USB charger) Mobile Holder',
         price: 1799,
         discount: 12,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433908/517-PEbz7gL._SY300_SX300_QL70_FMwebp__nvcf1m.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/353/product353_main.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433907/61-80-ttA9L._SX679__bppnkm.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433908/517-PEbz7gL._SY300_SX300_QL70_FMwebp__nvcf1m.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788433905/51E3WntEoGL._SX679__wconjc.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/353/product353_gallery1.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/353/product353_gallery2.webp'
         ],
         category: 'Lighting',
         subcategory: 'Electricals',
@@ -9061,11 +8970,10 @@ const catalogProducts = [
         name: 'BOBO BM23H (or BM23M) PRO Handlebar (or Mirror) Mount Anti-Vibration Anti-Theft and 15W Wireless / 36W USB-C Charger - Mobile Holder',
         price: 4999,
         discount: 12,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434018/BB-BM-023-111001_ddb2ae63-980c-4f70-910c-21fad4e7d10d_vk272j.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/354/product354_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434020/BB-BM-023-1110012_t4dfr2.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434018/BB-BM-023-111001_ddb2ae63-980c-4f70-910c-21fad4e7d10d_vk272j.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434020/BB-BM-023-1110012_t4dfr2.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/354/product354_gallery1.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/354/product354_gallery2.webp'
         ],
         category: 'Lighting',
         subcategory: 'Electricals',
@@ -9087,11 +8995,10 @@ const catalogProducts = [
         name: 'BOBO BOBO BM4 Jaw-Grip Bike / Cycle Phone Holder - Mobile Holder',
         price: 1199,
         discount: 12,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434108/41k5N1eGbjL._SX679__wlh9hv.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/355/product355_main.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434166/51POMML-LeL._SX679__haxffd.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434108/41k5N1eGbjL._SX679__wlh9hv.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434166/51POMML-LeL._SX679__haxffd.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/355/product355_gallery1.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/355/product355_gallery2.webp'
         ],
         category: 'Lighting',
         subcategory: 'Electricals',
@@ -9113,11 +9020,10 @@ const catalogProducts = [
         name: 'BOBO BM10 Fully Waterproof Bike / Cycle Phone Holder - Mobile Holder',
         price: 1999,
         discount: 12,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434241/41x9JtjZyeS._SY300_SX300_QL70_FMwebp__gbrefk.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/356/product356_main.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434241/41x9JtjZyeS._SY300_SX300_QL70_FMwebp__gbrefk.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434241/41x9JtjZyeS._SY300_SX300_QL70_FMwebp__gbrefk.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434241/41x9JtjZyeS._SY300_SX300_QL70_FMwebp__gbrefk.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/356/product356_gallery1.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/356/product356_gallery2.webp'
         ],
         category: 'Lighting',
         subcategory: 'Electricals',
@@ -9139,11 +9045,10 @@ const catalogProducts = [
         name: 'BOBO BM10H PRO PLUS Fully Waterproof Bike / Cycle Phone Holder with PRO PLUS Vibration Damper - Mobile Holder',
         price: 2499,
         discount: 12,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434241/41x9JtjZyeS._SY300_SX300_QL70_FMwebp__gbrefk.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/357/product357_main.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434336/61sconghmGL._SX679__mtbjtb.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434241/41x9JtjZyeS._SY300_SX300_QL70_FMwebp__gbrefk.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434336/61sconghmGL._SX679__mtbjtb.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/357/product357_gallery1.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/357/product357_gallery2.webp'
         ],
         category: 'Lighting',
         subcategory: 'Electricals',
@@ -9165,11 +9070,10 @@ const catalogProducts = [
         name: 'BOBO BM11H PRO Fully Waterproof Bike Phone Holder with Vibration Controller - Mobile Holder',
         price: 4399,
         discount: 12,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434413/51D-6ZLxHYL._SX679__yevtgm.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/358/product358_main.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434415/61hijFesrKL._SX679__zm9c8i.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434413/51D-6ZLxHYL._SX679__yevtgm.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434415/61hijFesrKL._SX679__zm9c8i.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/358/product358_gallery1.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/358/product358_gallery2.webp'
         ],
         category: 'Lighting',
         subcategory: 'Electricals',
@@ -9191,11 +9095,10 @@ const catalogProducts = [
         name: 'BOBO BM14 PRO PLUS Quick Release with PRO PLUS Vibration Damper Enhanced BM4 PRO PLUS Bike - Mobile Holder',
         price: 1799,
         discount: 12,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434524/51RW-CTjKNL_hja1pn.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/359/product359_main.webp',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434522/51pL64-5qzL_pxjztp.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434524/51RW-CTjKNL_hja1pn.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434513/51lO0YPF4kL_x52xhk.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/359/product359_gallery1.webp',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/359/product359_gallery2.webp'
         ],
         category: 'Lighting',
         subcategory: 'Electricals',
@@ -9243,11 +9146,10 @@ const catalogProducts = [
         name: 'Sena Intercom R35',
         price: 23999,
         discount: 0,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776151968/Gemini_Generated_Image_6x62v46x62v46x62_calxzb.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/361/product361_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776151968/Gemini_Generated_Image_6x62v46x62v46x62_calxzb.jpg',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776151968/Gemini_Generated_Image_6x62v46x62v46x62_calxzb.jpg',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776151968/Gemini_Generated_Image_6x62v46x62v46x62_calxzb.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/361/product361_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/361/product361_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Bluetooth & Intercom',
@@ -9269,11 +9171,9 @@ const catalogProducts = [
         name: 'Sena Intercom 60S Smart Communication Helmet Clamp Kit with Universal Microphone Kit',
         price: 16499,
         discount: 0,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776152269/image_-_2025-08-12T135209.912_qvinrd.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/362/product362_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776152269/image_-_2025-08-12T135209.912_qvinrd.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776152269/image_-_2025-08-12T135209.912_qvinrd.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776152269/image_-_2025-08-12T135209.912_qvinrd.webp'
+
         ],
         category: 'Riding Gear',
         subcategory: 'Bluetooth & Intercom',
@@ -9295,11 +9195,10 @@ const catalogProducts = [
         name: 'Sena Packtalk Special Edition Intercom (PTN00010)',
         price: 16999,
         discount: 0,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776152362/J30_overview-1400x714_lfgvc3.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/363/product363_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776152377/sena-b20-1536x1536_hktbav.jpg',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776152391/J30_grid_mesh_i48ls2.jpg',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776152397/sena-b20-1-1536x1536_xze6ce.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/363/product363_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/363/product363_gallery2.png'
         ],
         category: 'Riding Gear',
         subcategory: 'Bluetooth & Intercom',
@@ -9321,11 +9220,10 @@ const catalogProducts = [
         name: 'Sena 60S Motorcycle Communication Headset Dual pack Intercom ',
         price: 83999,
         discount: 0,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776152511/60S-01_1_award_rjaeiu.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/364/product364_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776152517/60S-01_5_ikkclc.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776152530/60S-01_8_ind0j3.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776152542/60S-Cradle-scaled_x9tqm0.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/364/product364_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/364/product364_gallery2.png'
         ],
         category: 'Riding Gear',
         subcategory: 'Bluetooth & Intercom',
@@ -9347,11 +9245,10 @@ const catalogProducts = [
         name: 'Sena Sena B10 #Bharat Version Intercom',
         price: 10999,
         discount: 0,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776152633/B10-features1_by8psr.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/365/product365_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776152627/B10_4_mzyasw.jpg',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776152615/B10_1_vjjnzz.jpg',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776152621/B10_2_xbymjd.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/365/product365_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/365/product365_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Bluetooth & Intercom',
@@ -9373,11 +9270,10 @@ const catalogProducts = [
         name: 'Sena 50S Mesh Intercom Headset with Premium SOUND BY Harman Kardon Single Pack Intercom',
         price: 38999,
         discount: 0,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776152796/50s2_xxkp6y.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/366/product366_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776152802/50S-10_3_h8p9cu.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776152790/50S-10_1_dippuy.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776152784/50s-3_uh9ygf.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/366/product366_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/366/product366_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Bluetooth & Intercom',
@@ -9399,11 +9295,10 @@ const catalogProducts = [
         name: 'Sena SF4 Bluetooth Communication System Intercom',
         price: 14699,
         discount: 0,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776152999/SF4-02_1_jvbrb0.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/367/product367_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776153032/SF4-02_5_zzwkkr.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776153006/SF4-02_2_zll2bx.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776153012/SF4-02_4_f3qdnj.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/367/product367_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/367/product367_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Bluetooth & Intercom',
@@ -9425,11 +9320,9 @@ const catalogProducts = [
         name: 'Sena 5S Bluetooth Communication System Single Pack Intercom',
         price: 12599,
         discount: 0,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776153215/5s3_x5edw7.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/368/product368_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776153201/5s_main_di9dyp.png',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776153208/5s-1_o4corl.jpg',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776153221/50s-3_l6jgbq.jpg'
+
         ],
         category: 'Riding Gear',
         subcategory: 'Bluetooth & Intercom',
@@ -9451,11 +9344,10 @@ const catalogProducts = [
         name: 'Sena SMH10 Motorcycle Bluetooth Headset & Intercom Single Pack Intercom',
         price: 13999,
         discount: 0,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776153359/SMH10-4_ciotjy.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/369/product369_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776153352/smh10_main_berxzq.png',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776153365/SMH10-5_lez3sb.jpg',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776153371/SMH10-6_oojmec.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/369/product369_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/369/product369_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Bluetooth & Intercom',
@@ -9477,11 +9369,10 @@ const catalogProducts = [
         name: 'Sena 10C EVO Motorcycle Bluetooth Camera & Communication System with HD Speakers',
         price: 31499,
         discount: 0,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776153501/10C-EVO-Motorcycle-Bluetooth-Camera-Communication-System-with-HD-Speakers-SENA-Dev-Store-VDS-2693_1_abf4nq.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/370/product370_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776153495/10C-EVO-02_4_mieyve.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776153489/10C_EVO_d3m0ce.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776153501/10C-EVO-Motorcycle-Bluetooth-Camera-Communication-System-with-HD-Speakers-SENA-Dev-Store-VDS-2693_1_abf4nq.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/370/product370_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/370/product370_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Bluetooth & Intercom',
@@ -9503,11 +9394,10 @@ const catalogProducts = [
         name: 'LGP PREMIUM BALACLAVA WITH SLOT FOR EYEGLASS, FEATURES A BREATHING, ICE SHRED INSULATION',
         price: 449,
         discount: 0,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776153978/PIX_8145_ulepsp.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/371/product371_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776153948/PIX_8140_hfv5jv.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776153972/PIX_8141_ldmga9.jpg',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776153978/PIX_8145_ulepsp.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/371/product371_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/371/product371_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -9528,11 +9418,10 @@ const catalogProducts = [
         name: 'LGP BALACLAVA NORMAL FACE MASK 4 WAY STRECH QUICK DRY',
         price: 199,
         discount: 0,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776154087/PIX_8228_o9kphb.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/372/product372_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776154074/PIX_8225_a2inwu.jpg',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776154080/PIX_8226_jfitpf.jpg',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776154074/PIX_8225_a2inwu.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/372/product372_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/372/product372_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -9553,11 +9442,10 @@ const catalogProducts = [
         name: 'EJEAS Intercom V6 Pro Bluetooth Motorcycle Helmet Intercom Headset',
         price: 3999,
         discount: 0,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776156206/shopping_n7ht9m.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/373/product373_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776156224/shopping_2_b4hqos.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776156156/shopping_3_jwgfdx.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776156162/shopping_1_irwpxz.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/373/product373_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/373/product373_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Bluetooth & Intercom',
@@ -9579,11 +9467,10 @@ const catalogProducts = [
         name: 'EJEAS Intercom Q8 Helmet Bluetooth Headset',
         price: 4999,
         discount: 0,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776156554/shopping_4_fexphs.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/374/product374_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776156543/shopping_5_hh7pzu.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776156562/shopping_7_jnyx6a.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776156548/shopping_6_jleouk.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/374/product374_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/374/product374_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Bluetooth & Intercom',
@@ -9605,11 +9492,10 @@ const catalogProducts = [
         name: 'EJEAS Intercom Vnetphone K1PRO Motorcycle Mesh Intercom with 2K Camera',
         price: 3999,
         discount: 0,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776156752/shopping_8_a5dl1d.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/375/product375_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776156759/shopping_9_x8eyab.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776156746/shopping_10_lrwaqb.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776156775/shopping_11_vnogwj.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/375/product375_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/375/product375_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Bluetooth & Intercom',
@@ -9631,11 +9517,10 @@ const catalogProducts = [
         name: 'LGP GLOVES 030',
         price: 1599,
         discount: 0,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776157255/PIX_8336_pafzli.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/376/product376_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776157248/PIX_8335_vaw5vs.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776157241/PIX_8338_sq1kj2.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776157234/PIX_8333_smexdt.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/376/product376_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/376/product376_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Gloves',
@@ -9656,11 +9541,10 @@ const catalogProducts = [
         name: 'LGP GLOVES 035',
         price: 599,
         discount: 0,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776157354/PIX_8339_wskrdm.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/377/product377_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776157362/PIX_8343_jw4iv9.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776157369/PIX_8342_agfgvf.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1776157354/PIX_8339_wskrdm.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/377/product377_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/377/product377_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Gloves',
@@ -9681,11 +9565,10 @@ const catalogProducts = [
         name: 'LGP GLOVES 040',
         price: 1599,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434746/Screenshot_2026-09-03_165459_tb2ah8.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/378/product378_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434749/Screenshot_2026-09-03_165524_cqkda7.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434746/Screenshot_2026-09-03_165459_tb2ah8.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434749/Screenshot_2026-09-03_165524_cqkda7.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/378/product378_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/378/product378_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Gloves',
@@ -9706,11 +9589,10 @@ const catalogProducts = [
         name: 'LGP GLOVES 045',
         price: 1099,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434822/Screenshot_2026-09-03_165631_iuk6yk.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/379/product379_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434825/Screenshot_2026-09-03_165646_tqdbao.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434822/Screenshot_2026-09-03_165631_iuk6yk.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434825/Screenshot_2026-09-03_165646_tqdbao.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/379/product379_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/379/product379_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Gloves',
@@ -9731,11 +9613,10 @@ const catalogProducts = [
         name: 'LGP GLOVES HALF',
         price: 499,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434941/Screenshot_2026-09-03_165831_upxydi.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/380/product380_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434941/Screenshot_2026-09-03_165831_upxydi.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434941/Screenshot_2026-09-03_165831_upxydi.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788434941/Screenshot_2026-09-03_165845_yr8kk0.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/380/product380_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/380/product380_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Gloves',
@@ -9781,11 +9662,10 @@ const catalogProducts = [
         name: 'LGP F20 Pro Helmet Bluetooth Headset for Bike Riders, Bluetooth 6.1, Two-Person Intercom,',
         price: 2499,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435086/lgp-f20-pro-helmet-bluetooth-headset-for-bike-riders-bluetooth-61-two-person-intercom-music-sharing-1000mah-battery-rgb-lights-3935276_xspi6m.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/382/product382_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435087/lgp-f20-pro-helmet-bluetooth-headset-for-bike-riders-bluetooth-61-two-person-intercom-music-sharing-1000mah-battery-rgb-lights-9143176_jkr2wa.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435086/lgp-f20-pro-helmet-bluetooth-headset-for-bike-riders-bluetooth-61-two-person-intercom-music-sharing-1000mah-battery-rgb-lights-3935276_xspi6m.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435089/lgp-f20-pro-helmet-bluetooth-headset-for-bike-riders-bluetooth-61-two-person-intercom-music-sharing-1000mah-battery-rgb-lights-9377156_sxskdv.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/382/product382_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/382/product382_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'BLUETOOTH & Intercom',
@@ -9831,11 +9711,10 @@ const catalogProducts = [
         name: 'LGP IND ASSY D152',
         price: 459,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435254/Screenshot_2026-09-03_170350_tvqx1f.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/384/product384_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435254/Screenshot_2026-09-03_170350_tvqx1f.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435254/Screenshot_2026-09-03_170350_tvqx1f.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435254/Screenshot_2026-09-03_170350_tvqx1f.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/384/product384_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/384/product384_gallery2.jpg'
         ],
         category: 'Lighting',
         subcategory: 'Indicators',
@@ -9856,11 +9735,10 @@ const catalogProducts = [
         name: 'LGP IND ASSY D28',
         price: 299,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435321/Screenshot_2026-09-03_170502_huysbj.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/385/product385_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435321/Screenshot_2026-09-03_170502_huysbj.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435321/Screenshot_2026-09-03_170502_huysbj.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435321/Screenshot_2026-09-03_170502_huysbj.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/385/product385_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/385/product385_gallery2.jpg'
         ],
         category: 'Lighting',
         subcategory: 'Indicators',
@@ -9881,11 +9759,10 @@ const catalogProducts = [
         name: 'LGP FOG LAMP 12LED ABS',
         price: 499,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435394/lgp-fog-lamp-12led-abs_deqawm.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/386/product386_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435394/lgp-fog-lamp-12led-abs_deqawm.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435394/lgp-fog-lamp-12led-abs_deqawm.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435394/lgp-fog-lamp-12led-abs_deqawm.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/386/product386_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/386/product386_gallery2.jpg'
         ],
         category: 'Lighting',
         subcategory: 'Fog Lamps',
@@ -9906,11 +9783,10 @@ const catalogProducts = [
         name: 'LGP FOG LAMP MINI DRIVE',
         price: 1499,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435493/61HwRT-GyeL._SX522__a50p4t.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/387/product387_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435495/71bwiWMqUmL._SX522__dclotg.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435493/61HwRT-GyeL._SX522__a50p4t.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435497/71SBOVp0qGL._SX522__yby8sn.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/387/product387_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/387/product387_gallery2.jpg'
         ],
         category: 'Lighting',
         subcategory: 'Fog Lamps',
@@ -9931,11 +9807,10 @@ const catalogProducts = [
         name: 'LGP FOG LAMP DK400',
         price: 2999,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435576/Screenshot_2026-09-03_170919_myfokf.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/388/product388_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435576/Screenshot_2026-09-03_170919_myfokf.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435576/Screenshot_2026-09-03_170919_myfokf.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435576/Screenshot_2026-09-03_170919_myfokf.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/388/product388_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/388/product388_gallery2.jpg'
         ],
         category: 'Lighting',
         subcategory: 'Fog Lamps',
@@ -9956,11 +9831,10 @@ const catalogProducts = [
         name: 'LGP TOP BOX 5L GRAPHICS',
         price: 3599,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435673/Screenshot_2026-09-03_171027_xjlg8g.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/389/product389_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435675/Screenshot_2026-09-03_171058_jpizap.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435673/Screenshot_2026-09-03_171027_xjlg8g.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435675/Screenshot_2026-09-03_171058_jpizap.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/389/product389_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/389/product389_gallery2.jpg'
         ],
         category: 'Touring',
         subcategory: 'Top Boxes',
@@ -9981,11 +9855,10 @@ const catalogProducts = [
         name: 'LGP TOP BOX 10L',
         price: 299,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435737/Screenshot_2026-09-03_171203_z8u0ii.jpg',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/390/product390_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435675/Screenshot_2026-09-03_171058_jpizap.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435737/Screenshot_2026-09-03_171203_z8u0ii.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1788435675/Screenshot_2026-09-03_171058_jpizap.jpg'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/390/product390_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/390/product390_gallery2.jpg'
         ],
         category: 'Touring',
         subcategory: 'Top Boxes',
@@ -10318,11 +10191,10 @@ const catalogProducts = [
         name: 'Red Rooster Rumbler Ace - Polish for Meteor 350',
         price: 10000,
         discount: 10,
-        image: 'https://res.cloudinary.com/dauynokmb/image/upload/v1781288376/Rumbler_Ace_-_Polish_for_Meteor_350__compressed_page-0007_1_q40t0t.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/403/product403_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dauynokmb/image/upload/v1781288375/Rumbler-Ace-p_hmoivy.webp',
-            'https://res.cloudinary.com/dauynokmb/image/upload/v1781288374/RRP-Rumbler-Ace-Polish-Side-View-1-scaled_bfj2jm.webpp',
-            'https://res.cloudinary.com/dauynokmb/image/upload/v1781288376/Rumbler_Ace_-_Polish_for_Meteor_350__compressed_page-0007_1_q40t0t.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/403/product403_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/403/product403_gallery2.jpg'
         ],
         category: 'Performance Parts',
         subcategory: 'Exhaust',
@@ -12814,11 +12686,10 @@ const catalogProducts = [
         name: 'RK TECH Swing Arm Spools For KAWASAKI Z900',
         price: 4200,
         discount: 10,
-        image: 'https://res.cloudinary.com/dauynokmb/image/upload/v1781300500/WhatsAppImage2024-12-06at31845AM-1733440314490_d58f2w.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/498/product498_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dauynokmb/image/upload/v1781300500/WhatsAppImage2024-12-06at31845AM-1733440314490_d58f2w.webp',
-            'https://res.cloudinary.com/dauynokmb/image/upload/v1781300500/WhatsAppImage2024-12-06at31845AM-1733440314490_d58f2w.webpp',
-            'https://res.cloudinary.com/dauynokmb/image/upload/v1781300500/WhatsAppImage2024-12-06at31845AM-1733440314490_d58f2w.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/498/product498_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/498/product498_gallery2.jpg'
         ],
         category: 'Bike Accessories',
         subcategory: '',
@@ -12866,11 +12737,10 @@ const catalogProducts = [
         name: 'RK TECH Frame Sliders For KAWASAKI Z900',
         price: 6999,
         discount: 10,
-        image: 'https://res.cloudinary.com/dauynokmb/image/upload/v1781300688/framesliders2-1775369498441_rv12zz.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/500/product500_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dauynokmb/image/upload/v1781300692/frameslidersz9-1775369499236_iyff9j.webp',
-            'https://res.cloudinary.com/dauynokmb/image/upload/v1781300688/framesliders2-1775369498441_rv12zz.webpp',
-            'https://res.cloudinary.com/dauynokmb/image/upload/v1781300692/frameslidersz9-1775369499236_iyff9j.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/500/product500_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/500/product500_gallery2.jpg'
         ],
         category: 'Bike Accessories',
         subcategory: '',
@@ -13568,11 +13438,10 @@ const catalogProducts = [
         name: 'Axor Apex Hunter Black Red',
         price: 4995,
         discount: 2,
-        image: 'https://res.cloudinary.com/dauynokmb/image/upload/v1781429951/AXORAPEXHUNTERBLKREDM3_1_gomqjn.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/527/product527_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/dauynokmb/image/upload/v1781429945/AXORAPEXHUNTERBLKREDM_1_ulyk7u.webp',
-            'https://res.cloudinary.com/dauynokmb/image/upload/v1781429940/AXORAPEXHUNTERBLKREDM1_1_hfbrum.webp',
-            'https://res.cloudinary.com/dauynokmb/image/upload/v1781429935/AXORAPEXHUNTERBLKREDM2_1_n91jcg.webpp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/527/product527_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/527/product527_gallery2.jpg'
         ],
         category: 'Riding Gear',
         subcategory: 'Helmets',
@@ -14400,11 +14269,10 @@ const catalogProducts = [
         name: 'BMC Air Filter FM782/08 for Royal Enfield 500',
         price: 5999,
         discount: 0,
-        image: 'https://res.cloudinary.com/p0mo4aaf/image/upload/v1783280628/bmcre500fm782081_1b60d5a8-24a7-49ec-89f8-9db527c0c638_hd7sgn.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/569/product569_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/p0mo4aaf/image/upload/v1783280628/bmcre500fm782081_1b60d5a8-24a7-49ec-89f8-9db527c0c638_hd7sgn.webp',
-            'https://res.cloudinary.com/p0mo4aaf/image/upload/v1783280628/bmcre500fm782081_1b60d5a8-24a7-49ec-89f8-9db527c0c638_hd7sgn.webpp',
-            'https://res.cloudinary.com/p0mo4aaf/image/upload/v1783280628/bmcre500fm782081_1b60d5a8-24a7-49ec-89f8-9db527c0c638_hd7sgn.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/569/product569_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/569/product569_gallery2.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -14478,11 +14346,10 @@ const catalogProducts = [
         name: 'BMC Air Filter KTM Duke 200 / DUKE 390 RC FM733 20',
         price: 5699,
         discount: 0,
-        image: 'https://res.cloudinary.com/p0mo4aaf/image/upload/v1783280868/bmcktmdukerc200FM733201_464518b6-2537-41b2-bd55-2b6c872ca94b_jsqa3x.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/572/product572_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/p0mo4aaf/image/upload/v1783280868/bmcktmdukerc200FM733201_464518b6-2537-41b2-bd55-2b6c872ca94b_jsqa3x.webpp',
-            'https://res.cloudinary.com/p0mo4aaf/image/upload/v1783280868/bmcktmdukerc200FM733201_464518b6-2537-41b2-bd55-2b6c872ca94b_jsqa3x.webp',
-            'https://res.cloudinary.com/p0mo4aaf/image/upload/v1783280868/bmcktmdukerc200FM733201_464518b6-2537-41b2-bd55-2b6c872ca94b_jsqa3x.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/572/product572_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/572/product572_gallery2.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -14530,11 +14397,10 @@ const catalogProducts = [
         name: 'BBMC Air Filter FM609/04 for Honda CBR 150R',
         price: 5499,
         discount: 0,
-        image: 'https://res.cloudinary.com/p0mo4aaf/image/upload/v1783281095/honda-cbr-150r_u5vl5o.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/574/product574_main.png',
         galleryImages: [
-            'https://res.cloudinary.com/p0mo4aaf/image/upload/v1783281095/honda-cbr-150r_u5vl5o.webpp',
-            'https://res.cloudinary.com/p0mo4aaf/image/upload/v1783281095/honda-cbr-150r_u5vl5o.webp',
-            'https://res.cloudinary.com/p0mo4aaf/image/upload/v1783281095/honda-cbr-150r_u5vl5o.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/574/product574_gallery1.png',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/574/product574_gallery2.png'
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -15388,11 +15254,10 @@ const catalogProducts = [
         name: 'Ngage Hyper Flow Air Filter for Royal Enfield Interceptor 650 / Continental GT 650',
         price: 3000,
         discount: 0,
-        image: 'https://res.cloudinary.com/p0mo4aaf/image/upload/v1783285145/AIR14256NGAGEHYPERFLOWAIRFILTERREINTERCEPTOR-GT6501_mb0t2r.webp',
+        image: 'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/606/product606_main.jpg',
         galleryImages: [
-            'https://res.cloudinary.com/p0mo4aaf/image/upload/v1783285147/AIR14256NGAGEHYPERFLOWAIRFILTERREINTERCEPTOR-GT6502_qfglqf.webp',
-            'https://res.cloudinary.com/p0mo4aaf/image/upload/v1783285150/AIR14256NGAGEHYPERFLOWAIRFILTERREINTERCEPTOR-GT6503_e15zvk.webpp',
-            'https://res.cloudinary.com/p0mo4aaf/image/upload/v1783285145/AIR14256NGAGEHYPERFLOWAIRFILTERREINTERCEPTOR-GT6501_mb0t2r.webp'
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/606/product606_gallery1.jpg',
+            'https://ik.imagekit.io/slcqmfwlv/product-images/301-400/606/product606_gallery2.jpg'
         ],
         category: 'Performance Parts',
         subcategory: '',
