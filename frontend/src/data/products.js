@@ -26337,11 +26337,11 @@ const catalogProducts = [
         name: 'Moto Care  HEADLIGHT GRILL FOR TRIUMPH SPEED T4',
         price: 1040,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524535/j_yng4y9.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1061-headlight-grill-speed-t4/product-1061-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524536/jj_tv7tgz.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524536/jjj_re56we.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524537/jjjj_tfa5eo.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1061-headlight-grill-for-speed-t4/product-1061-headlight-grill-for-speed-t4-image-2.jpg",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1061-headlight-grill-for-speed-t4/product-1061-headlight-grill-for-speed-t4-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1061-headlight-grill-for-speed-t4/product-1061-headlight-grill-for-speed-t4-image-4.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26363,11 +26363,13 @@ const catalogProducts = [
         name: 'Moto Care  TAIL TIDY FOR TRIUMPH SPEED T4',
         price: 880,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531899/r_qen5dq.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1062-tail-tidy-for-speed-t4/product-1062-tail-tidy-for-speed-t4-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531900/rrr_hqb2u6.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531900/rrrr_tyfcpe.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531900/rr_xxfu7t.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1062-tail-tidy-for-speed-t4/product-1062-tail-tidy-for-speed-t4-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1062-tail-tidy-for-speed-t4/product-1062-tail-tidy-for-speed-t4-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1062-tail-tidy-for-speed-t4/product-1062-tail-tidy-for-speed-t4-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1062-tail-tidy-for-speed-t4/product-1062-tail-tidy-for-speed-t4-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1062-tail-tidy-for-speed-t4/product-1062-tail-tidy-for-speed-t4-image-6.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26389,11 +26391,12 @@ const catalogProducts = [
         name: 'Moto Care  FOOTREST FOR TRIUMPH SPEED T4',
         price: 880,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531991/d_kax0ll.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1063-footrest-for-speed-t4/product-1063-footrest-for-speed-t4-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531991/ddd_lhyzfr.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531991/dd_fkklu9.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786531991/dddd_mf4adz.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1063-footrest-for-speed-t4/product-1063-footrest-for-speed-t4-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1063-footrest-for-speed-t4/product-1063-footrest-for-speed-t4-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1063-footrest-for-speed-t4/product-1063-footrest-for-speed-t4-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1063-footrest-for-speed-t4/product-1063-footrest-for-speed-t4-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26415,11 +26418,12 @@ const catalogProducts = [
         name: 'Moto Care  GPS MOUNT FOR TRIUMPH SPEED T4',
         price: 880,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532077/f_gc2mxi.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1064-gps-mount-for-speed-t4/product-1064-gps-mount-for-speed-t4-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532077/ff_njzmsz.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532077/f_gc2mxi.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532077/fff_psffbl.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1064-gps-mount-for-speed-t4/product-1064-gps-mount-for-speed-t4-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1064-gps-mount-for-speed-t4/product-1064-gps-mount-for-speed-t4-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1064-gps-mount-for-speed-t4/product-1064-gps-mount-for-speed-t4-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1064-gps-mount-for-speed-t4/product-1064-gps-mount-for-speed-t4-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26441,11 +26445,10 @@ const catalogProducts = [
         name: 'Moto Care  CNC STAND EXTENDER FOR TRIUMPH SPEED T4',
         price: 1360,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532157/g_xrshfr.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1065-cnc-stand-extender-for-speed-t4/product-1065-cnc-stand-extender-for-speed-t4-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532158/gg_rw8zaa.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532157/g_xrshfr.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532159/ggg_ukvpzj.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1065-cnc-stand-extender-for-speed-t4/product-1065-cnc-stand-extender-for-speed-t4-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1065-cnc-stand-extender-for-speed-t4/product-1065-cnc-stand-extender-for-speed-t4-image-3.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26467,11 +26470,10 @@ const catalogProducts = [
         name: 'Moto Care  STAND EXTENDER FOR TRIUMPH SPEED T4',
         price: 560,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523795/dd_prnsm1.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1066-stand-extender-for-speed-t4/product-1066-stand-extender-for-speed-t4-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523796/ddd_ezookg.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523795/dd_prnsm1.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786523795/d_pbkixn.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1066-stand-extender-for-speed-t4/product-1066-stand-extender-for-speed-t4-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1066-stand-extender-for-speed-t4/product-1066-stand-extender-for-speed-t4-image-3.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26493,11 +26495,12 @@ const catalogProducts = [
         name: 'Moto Care  FOG LIGHT CLAMP FOR TRIUMPH SPEED T4',
         price: 520,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524855/k_yfzndi.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1067-fog-light-clamp-for-speed-t4/product-1067-fog-light-clamp-for-speed-t4-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524856/kkk_irb1dq.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524856/kk_voog9j.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786524857/kkkk_hm36iw.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1067-fog-light-clamp-for-speed-t4/product-1067-fog-light-clamp-for-speed-t4-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1067-fog-light-clamp-for-speed-t4/product-1067-fog-light-clamp-for-speed-t4-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1067-fog-light-clamp-for-speed-t4/product-1067-fog-light-clamp-for-speed-t4-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1067-fog-light-clamp-for-speed-t4/product-1067-fog-light-clamp-for-speed-t4-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26519,11 +26522,11 @@ const catalogProducts = [
         name: 'Moto Care  NUMBER PLATE FRAME FOR TRIUMPH SPEED T4',
         price: 400,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532385/j_vjgguv.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1068-number-plate-frame-for-speed-t4/product-1068-number-plate-frame-for-speed-t4-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532386/jj_tfrwu9.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532385/j_vjgguv.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532386/jjj_p18kdx.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1068-number-plate-frame-for-speed-t4/product-1068-number-plate-frame-for-speed-t4-image-2.jpg",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1068-number-plate-frame-for-speed-t4/product-1068-number-plate-frame-for-speed-t4-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1068-number-plate-frame-for-speed-t4/product-1068-number-plate-frame-for-speed-t4-image-4.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26545,11 +26548,11 @@ const catalogProducts = [
         name: 'Moto Care  RESERVOIR OIL CAP FOR TRIUMPH SPEED T4',
         price: 320,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532512/k_zaoqgi.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1069-reservoir-oil-cap-for-speed-t4/product-1069-reservoir-oil-cap-for-speed-t4-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532513/kk_sy1awi.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532512/k_zaoqgi.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532513/kkk_epoaso.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1069-reservoir-oil-cap-for-speed-t4/product-1069-reservoir-oil-cap-for-speed-t4-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1069-reservoir-oil-cap-for-speed-t4/product-1069-reservoir-oil-cap-for-speed-t4-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1069-reservoir-oil-cap-for-speed-t4/product-1069-reservoir-oil-cap-for-speed-t4-image-4.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26571,11 +26574,11 @@ const catalogProducts = [
         name: 'Moto Care  DISC OIL CAP FOR TRIUMPH SPEED T4',
         price: 200,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532611/n_ieotmi.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1070-disc-oil-cap-for-speed-t4/product-1070-disc-oil-cap-for-speed-t4-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532611/n_ieotmi.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532612/nn_ebowsp.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786532612/nn_ebowsp.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1070-disc-oil-cap-for-speed-t4/product-1070-disc-oil-cap-for-speed-t4-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1070-disc-oil-cap-for-speed-t4/product-1070-disc-oil-cap-for-speed-t4-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1070-disc-oil-cap-for-speed-t4/product-1070-disc-oil-cap-for-speed-t4-image-4.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26597,11 +26600,12 @@ const catalogProducts = [
         name: 'Moto Care SEAT RING FOR YAMAHA MT 15',
         price: 400,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786535785/1739965300_67b5c374808b1_opmv2x.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1071-seat-ring-for-mt-15/product-1071-seat-ring-for-mt-15-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786535785/1739965300_67b5c374808b1_opmv2x.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786535785/1739965300_67b5c374808b1_opmv2x.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786535785/1739965300_67b5c374808b1_opmv2x.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1071-seat-ring-for-mt-15/product-1071-seat-ring-for-mt-15-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1071-seat-ring-for-mt-15/product-1071-seat-ring-for-mt-15-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1071-seat-ring-for-mt-15/product-1071-seat-ring-for-mt-15-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1071-seat-ring-for-mt-15/product-1071-seat-ring-for-mt-15-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26624,11 +26628,12 @@ const catalogProducts = [
         name: 'Moto Care DOUBLE FOOTREST FOR YAMAHA MT 15',
         price: 1600,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786535968/1729074858_670f96aa4d6ed_b1n1at.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1072-double-footrest-for-mt-15/product-1072-double-footrest-for-mt-15-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786535968/1729074841_670f969996663_cqrde8.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786535969/1729074866_670f96b265236_lrk3ff.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786535969/1729074866_670f96b265236_1_nr4qmn.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1072-double-footrest-for-mt-15/product-1072-double-footrest-for-mt-15-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1072-double-footrest-for-mt-15/product-1072-double-footrest-for-mt-15-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1072-double-footrest-for-mt-15/product-1072-double-footrest-for-mt-15-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1072-double-footrest-for-mt-15/product-1072-double-footrest-for-mt-15-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26649,11 +26654,9 @@ const catalogProducts = [
         name: 'Moto Care SINGLE FOOTREST FOR MT 15',
         price: 1040,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536046/Q_d1hj0y.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1073-single-footrest-for-mt-15/product-1073-single-footrest-for-mt-15-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536046/QQ_wllbe4.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536046/Q_d1hj0y.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536046/QQ_wllbe4.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1073-single-footrest-for-mt-15/product-1073-single-footrest-for-mt-15-image-2.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26674,11 +26677,12 @@ const catalogProducts = [
         name: 'Moto Care TAIL TIDY FOR YAMAHA MT-15',
         price: 560,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536142/AA_xy6dht.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1074-tail-tidy-for-mt-15/product-1074-tail-tidy-for-mt-15-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536142/AAA_v0ahsu.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536142/A_t9u6xx.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536142/AAAA_u2e1xz.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1074-tail-tidy-for-mt-15/product-1074-tail-tidy-for-mt-15-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1074-tail-tidy-for-mt-15/product-1074-tail-tidy-for-mt-15-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1074-tail-tidy-for-mt-15/product-1074-tail-tidy-for-mt-15-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1074-tail-tidy-for-mt-15/product-1074-tail-tidy-for-mt-15-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26699,11 +26703,12 @@ const catalogProducts = [
         name: 'Moto Care SADDLE STAY FOR YAMAHA MT-15',
         price: 1680,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536324/X_n0gr1d.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1075-saddle-stay-for-mt-15/product-1075-saddle-stay-for-mt-15-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536324/XX_a4ldbc.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536325/XXX_okzafj.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536324/XX_a4ldbc.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1075-saddle-stay-for-mt-15/product-1075-saddle-stay-for-mt-15-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1075-saddle-stay-for-mt-15/product-1075-saddle-stay-for-mt-15-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1075-saddle-stay-for-mt-15/product-1075-saddle-stay-for-mt-15-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1075-saddle-stay-for-mt-15/product-1075-saddle-stay-for-mt-15-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26724,11 +26729,10 @@ const catalogProducts = [
         name: 'Moto Care RADIATOR GUARD FOR YAMAHA MT-15',
         price: 400,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536414/CC_bqigai.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1076-radiator-guard-for-mt-15/product-1076-radiator-guard-for-mt-15-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536414/C_efiscj.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536414/CC_bqigai.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536414/C_efiscj.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1076-radiator-guard-for-mt-15/product-1076-radiator-guard-for-mt-15-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1076-radiator-guard-for-mt-15/product-1076-radiator-guard-for-mt-15-image-3.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26774,11 +26778,11 @@ const catalogProducts = [
         name: 'Moto Care FRAME SLIDERS FOR YAMAHA MT 15',
         price: 1200,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536580/VVV_pmz2fh.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1078-frame-sliders-for-mt-15/product-1078-frame-sliders-for-mt-15-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536579/V_gu1mzw.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536580/VVV_pmz2fh.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536579/VV_z6sscg.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1078-frame-sliders-for-mt-15/product-1078-frame-sliders-for-mt-15-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1078-frame-sliders-for-mt-15/product-1078-frame-sliders-for-mt-15-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1078-frame-sliders-for-mt-15/product-1078-frame-sliders-for-mt-15-image-4.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26799,11 +26803,12 @@ const catalogProducts = [
         name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR YAMAHA MT 15',
         price: 3840,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536671/B_so7ews.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1079-crash-guard-with-dual-sliders-for-mt-15/product-1079-crash-guard-with-dual-sliders-for-mt-15-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536671/BB_sjnbrk.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536672/BBB_denob4.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536671/BB_sjnbrk.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1079-crash-guard-with-dual-sliders-for-mt-15/product-1079-crash-guard-with-dual-sliders-for-mt-15-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1079-crash-guard-with-dual-sliders-for-mt-15/product-1079-crash-guard-with-dual-sliders-for-mt-15-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1079-crash-guard-with-dual-sliders-for-mt-15/product-1079-crash-guard-with-dual-sliders-for-mt-15-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1079-crash-guard-with-dual-sliders-for-mt-15/product-1079-crash-guard-with-dual-sliders-for-mt-15-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26824,11 +26829,12 @@ const catalogProducts = [
         name: 'Moto Care SMALL CRASH GUARD FOR YAMAHA MT 15',
         price: 3200,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536775/N_xhizxj.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1080-small-crash-guard-for-mt-15/product-1080-small-crash-guard-for-mt-15-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536775/NN_ijuuqa.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536775/N_xhizxj.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536672/BBB_denob4.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1080-small-crash-guard-for-mt-15/product-1080-small-crash-guard-for-mt-15-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1080-small-crash-guard-for-mt-15/product-1080-small-crash-guard-for-mt-15-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1080-small-crash-guard-for-mt-15/product-1080-small-crash-guard-for-mt-15-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1080-small-crash-guard-for-mt-15/product-1080-small-crash-guard-for-mt-15-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26849,11 +26855,14 @@ const catalogProducts = [
         name: 'Moto Care CARRIER WITH BACKREST FOR YAMAHA MT 15',
         price: 2960,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536859/M_ebx4zn.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1081-carrier-with-backrest-for-mt-15/product-1081-carrier-with-backrest-for-mt-15-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536859/MM_vgutim.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536859/M_ebx4zn.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536860/MMM_botlja.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1081-carrier-with-backrest-for-mt-15/product-1081-carrier-with-backrest-for-mt-15-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1081-carrier-with-backrest-for-mt-15/product-1081-carrier-with-backrest-for-mt-15-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1081-carrier-with-backrest-for-mt-15/product-1081-carrier-with-backrest-for-mt-15-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1081-carrier-with-backrest-for-mt-15/product-1081-carrier-with-backrest-for-mt-15-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1081-carrier-with-backrest-for-mt-15/product-1081-carrier-with-backrest-for-mt-15-image-6.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1081-carrier-with-backrest-for-mt-15/product-1081-carrier-with-backrest-for-mt-15-image-7.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26874,11 +26883,13 @@ const catalogProducts = [
         name: 'Moto Care TYPE 2 CARRIER WITH PLATE FOR YAMAHA MT 15',
         price: 1200,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536951/SSS_e0tlyg.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1082-type-2-carrier-with-plate-for-mt-15/product-1082-type-2-carrier-with-plate-for-mt-15-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536949/S_ulvgva.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536951/SSS_e0tlyg.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786536951/SSS_e0tlyg.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1082-type-2-carrier-with-plate-for-mt-15/product-1082-type-2-carrier-with-plate-for-mt-15-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1082-type-2-carrier-with-plate-for-mt-15/product-1082-type-2-carrier-with-plate-for-mt-15-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1082-type-2-carrier-with-plate-for-mt-15/product-1082-type-2-carrier-with-plate-for-mt-15-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1082-type-2-carrier-with-plate-for-mt-15/product-1082-type-2-carrier-with-plate-for-mt-15-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1082-type-2-carrier-with-plate-for-mt-15/product-1082-type-2-carrier-with-plate-for-mt-15-image-6.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26899,11 +26910,12 @@ const catalogProducts = [
         name: 'Moto Care CARRIER WITH PLATE FOR YAMAHA MT 15',
         price: 1920,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537025/D_ovcda8.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1083-carrier-with-plate-for-mt-15/product-1083-carrier-with-plate-for-mt-15-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537026/DD_a8ciph.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537025/D_ovcda8.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537026/DD_a8ciph.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1083-carrier-with-plate-for-mt-15/product-1083-carrier-with-plate-for-mt-15-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1083-carrier-with-plate-for-mt-15/product-1083-carrier-with-plate-for-mt-15-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1083-carrier-with-plate-for-mt-15/product-1083-carrier-with-plate-for-mt-15-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1083-carrier-with-plate-for-mt-15/product-1083-carrier-with-plate-for-mt-15-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26924,11 +26936,11 @@ const catalogProducts = [
         name: 'Moto Care RADIATOR GUARD FOR YAMAHA R15 V4',
         price: 560,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537142/F_m7ay5y.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1084-radiator-guard-for-r15-v4/product-1084-radiator-guard-for-r15-v4-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537142/F_m7ay5y.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537142/F_m7ay5y.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537142/F_m7ay5y.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1084-radiator-guard-for-r15-v4/product-1084-radiator-guard-for-r15-v4-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1084-radiator-guard-for-r15-v4/product-1084-radiator-guard-for-r15-v4-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1084-radiator-guard-for-r15-v4/product-1084-radiator-guard-for-r15-v4-image-4.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26949,11 +26961,10 @@ const catalogProducts = [
         name: 'Moto Care SADDLE STAY FOR YAMAHA R15 V3/ V4',
         price: 1680,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537472/1739950266_67b588bab4818_j0maof.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1085-saddle-stay-for-r15-v3-v4/product-1085-saddle-stay-for-r15-v3-v4-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537473/1739950203_67b5887b51c61_nvydsp.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537472/1739950266_67b588bab4818_j0maof.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537473/1739950203_67b5887b51c61_nvydsp.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1085-saddle-stay-for-r15-v3-v4/product-1085-saddle-stay-for-r15-v3-v4-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1085-saddle-stay-for-r15-v3-v4/product-1085-saddle-stay-for-r15-v3-v4-image-3.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26974,11 +26985,13 @@ const catalogProducts = [
         name: 'Moto Care TAIL TIDY FOR YAMAHA R15 V3/V4',
         price: 800,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537590/1718554789_666f10a55a347_wlmkrs.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1086-tail-tidy-for-r15-v3v4/product-1086-tail-tidy-for-r15-v3v4-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537592/1718554781_666f109d4473a_k3bgqp.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537590/1718554789_666f10a55a347_wlmkrs.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537594/1718554906_666f111a39a3e_lq9kyv.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1086-tail-tidy-for-r15-v3v4/product-1086-tail-tidy-for-r15-v3v4-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1086-tail-tidy-for-r15-v3v4/product-1086-tail-tidy-for-r15-v3v4-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1086-tail-tidy-for-r15-v3v4/product-1086-tail-tidy-for-r15-v3v4-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1086-tail-tidy-for-r15-v3v4/product-1086-tail-tidy-for-r15-v3v4-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1086-tail-tidy-for-r15-v3v4/product-1086-tail-tidy-for-r15-v3v4-image-6.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -26999,11 +27012,12 @@ const catalogProducts = [
         name: 'Moto Care RADIATOR GUARD FOR YAMAHA R15 V3/V4',
         price: 560,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537672/1718553096_666f0a0879d61_vwoxwy.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1087-radiator-guard-for-r15-v3v4/product-1087-radiator-guard-for-r15-v3v4-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537672/1718553096_666f0a0879d61_vwoxwy.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537672/1718553096_666f0a0879d61_vwoxwy.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537672/1718553096_666f0a0879d61_vwoxwy.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1087-radiator-guard-for-r15-v3v4/product-1087-radiator-guard-for-r15-v3v4-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1087-radiator-guard-for-r15-v3v4/product-1087-radiator-guard-for-r15-v3v4-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1087-radiator-guard-for-r15-v3v4/product-1087-radiator-guard-for-r15-v3v4-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1087-radiator-guard-for-r15-v3v4/product-1087-radiator-guard-for-r15-v3v4-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27024,11 +27038,11 @@ const catalogProducts = [
         name: 'Moto Care HANDLE BAR RISER FOR YAMAHA R15 V3/V4',
         price: 1760,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537747/1718552497_666f07b186ad8_dw81za.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1088-handle-bar-riser-for-r15-v3v4/product-1088-handle-bar-riser-for-r15-v3v4-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537747/1718552497_666f07b186ad8_dw81za.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537747/1718552497_666f07b186ad8_dw81za.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537747/1718552497_666f07b186ad8_dw81za.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1088-handle-bar-riser-for-r15-v3v4/product-1088-handle-bar-riser-for-r15-v3v4-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1088-handle-bar-riser-for-r15-v3v4/product-1088-handle-bar-riser-for-r15-v3v4-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1088-handle-bar-riser-for-r15-v3v4/product-1088-handle-bar-riser-for-r15-v3v4-image-4.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27049,11 +27063,12 @@ const catalogProducts = [
         name: 'Moto Care FRAME SLIDERS FOR YAMAHA R15 V3',
         price: 1600,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537810/1710058684_65ed6cbca6e9c_ygj2ea.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1089-frame-sliders-for-r15-v3/product-1089-frame-sliders-for-r15-v3-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537810/1710058684_65ed6cbca6e9c_ygj2ea.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537810/1710058684_65ed6cbca6e9c_ygj2ea.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537810/1710058684_65ed6cbca6e9c_ygj2ea.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1089-frame-sliders-for-r15-v3/product-1089-frame-sliders-for-r15-v3-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1089-frame-sliders-for-r15-v3/product-1089-frame-sliders-for-r15-v3-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1089-frame-sliders-for-r15-v3/product-1089-frame-sliders-for-r15-v3-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1089-frame-sliders-for-r15-v3/product-1089-frame-sliders-for-r15-v3-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27074,11 +27089,12 @@ const catalogProducts = [
         name: 'Moto Care GRAB RAIL FOR YAMAHA R15 V3',
         price: 2240,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537894/A_ellvsw.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1090-grab-rail-for-r15-v3/product-1090-grab-rail-for-r15-v3-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537897/AA_sjeqw9.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537896/AAA_uvshbl.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537897/AA_sjeqw9.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1090-grab-rail-for-r15-v3/product-1090-grab-rail-for-r15-v3-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1090-grab-rail-for-r15-v3/product-1090-grab-rail-for-r15-v3-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1090-grab-rail-for-r15-v3/product-1090-grab-rail-for-r15-v3-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1090-grab-rail-for-r15-v3/product-1090-grab-rail-for-r15-v3-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27099,11 +27115,12 @@ const catalogProducts = [
         name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR YAMAHA R15 V4',
         price: 4160,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537991/Q_xuz7pl.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1091-crash-guard-with-dual-sliders-for-r15-v4/product-1091-crash-guard-with-dual-sliders-for-r15-v4-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537996/QQQ_yiohql.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537991/Q_xuz7pl.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786537997/QQ_nhaaz8.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1091-crash-guard-with-dual-sliders-for-r15-v4/product-1091-crash-guard-with-dual-sliders-for-r15-v4-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1091-crash-guard-with-dual-sliders-for-r15-v4/product-1091-crash-guard-with-dual-sliders-for-r15-v4-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1091-crash-guard-with-dual-sliders-for-r15-v4/product-1091-crash-guard-with-dual-sliders-for-r15-v4-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1091-crash-guard-with-dual-sliders-for-r15-v4/product-1091-crash-guard-with-dual-sliders-for-r15-v4-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27124,11 +27141,11 @@ const catalogProducts = [
         name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR YAMAHA R15 V3',
         price: 3200,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786538109/Z_gnwqne.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1092-crash-guard-with-dual-sliders-for-r15-v3/product-1092-crash-guard-with-dual-sliders-for-r15-v3-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786535785/1739965300_67b5c374808b1_opmv2x.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786538109/Z_gnwqne.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786535785/1739965300_67b5c374808b1_opmv2x.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1092-crash-guard-with-dual-sliders-for-r15-v3/product-1092-crash-guard-with-dual-sliders-for-r15-v3-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1092-crash-guard-with-dual-sliders-for-r15-v3/product-1092-crash-guard-with-dual-sliders-for-r15-v3-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1092-crash-guard-with-dual-sliders-for-r15-v3/product-1092-crash-guard-with-dual-sliders-for-r15-v3-image-4.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27149,11 +27166,11 @@ const catalogProducts = [
         name: 'Moto Care GRAB RAIL WITH PLATE FOR YAMAHA R15 V4',
         price: 3040,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786538225/X_hp334a.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1093-grab-rail-with-plate-for-r15-v4/product-1093-grab-rail-with-plate-for-r15-v4-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786538227/XX_nxtoce.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786538225/X_hp334a.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786538227/XX_nxtoce.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1093-grab-rail-with-plate-for-r15-v4/product-1093-grab-rail-with-plate-for-r15-v4-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1093-grab-rail-with-plate-for-r15-v4/product-1093-grab-rail-with-plate-for-r15-v4-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1093-grab-rail-with-plate-for-r15-v4/product-1093-grab-rail-with-plate-for-r15-v4-image-4.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27174,11 +27191,9 @@ const catalogProducts = [
         name: 'Moto Care GRAB RAIL FOR YAMAHA R15 V4',
         price: 2240,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786538332/C_p2z7vc.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1094-grab-rail-for-r15-v4/product-1094-grab-rail-for-r15-v4-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786538333/CC_vybltm.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786538332/C_p2z7vc.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786538333/CC_vybltm.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1094-grab-rail-for-r15-v4/product-1094-grab-rail-for-r15-v4-image-2.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27199,11 +27214,9 @@ const catalogProducts = [
         name: 'Moto Care CARRIER WITH PLATE FOR YAMAHA R15',
         price: 1920,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786538410/V_q8dq6w.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1095-carrier-with-plate-for-r15/product-1095-carrier-with-plate-for-r15-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786538411/VV_ke9ac8.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786538410/V_q8dq6w.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786538411/VV_ke9ac8.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1095-carrier-with-plate-for-r15/product-1095-carrier-with-plate-for-r15-image-2.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27224,11 +27237,14 @@ const catalogProducts = [
         name: 'Moto Care CNC CARRIER WITH PLATE FOR YAMAHA AEROX 155',
         price: 2560,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539310/WWW_k9plby.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1096-cnc-carrier-with-plate-for-yamaha-aerox-155/product-1096-cnc-carrier-with-plate-for-yamaha-aerox-155-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539312/WW_ygq4y9.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539316/W_ull5wd.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539312/WW_ygq4y9.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1096-cnc-carrier-with-plate-for-yamaha-aerox-155/product-1096-cnc-carrier-with-plate-for-yamaha-aerox-155-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1096-cnc-carrier-with-plate-for-yamaha-aerox-155/product-1096-cnc-carrier-with-plate-for-yamaha-aerox-155-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1096-cnc-carrier-with-plate-for-yamaha-aerox-155/product-1096-cnc-carrier-with-plate-for-yamaha-aerox-155-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1096-cnc-carrier-with-plate-for-yamaha-aerox-155/product-1096-cnc-carrier-with-plate-for-yamaha-aerox-155-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1096-cnc-carrier-with-plate-for-yamaha-aerox-155/product-1096-cnc-carrier-with-plate-for-yamaha-aerox-155-image-6.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1096-cnc-carrier-with-plate-for-yamaha-aerox-155/product-1096-cnc-carrier-with-plate-for-yamaha-aerox-155-image-7.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27250,11 +27266,14 @@ const catalogProducts = [
         name: 'Moto Care CNC CARRIER WITH BACKREST FOR YAMAHA AEROX 155',
         price: 3600,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539425/EE_er1oqq.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1097-cnc-carrier-with-backrest-for-yamaha-aerox-155/product-1097-cnc-carrier-with-backrest-for-yamaha-aerox-155-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539424/EEE_zwis31.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539425/EE_er1oqq.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539427/E_eyiqlr.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1097-cnc-carrier-with-backrest-for-yamaha-aerox-155/product-1097-cnc-carrier-with-backrest-for-yamaha-aerox-155-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1097-cnc-carrier-with-backrest-for-yamaha-aerox-155/product-1097-cnc-carrier-with-backrest-for-yamaha-aerox-155-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1097-cnc-carrier-with-backrest-for-yamaha-aerox-155/product-1097-cnc-carrier-with-backrest-for-yamaha-aerox-155-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1097-cnc-carrier-with-backrest-for-yamaha-aerox-155/product-1097-cnc-carrier-with-backrest-for-yamaha-aerox-155-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1097-cnc-carrier-with-backrest-for-yamaha-aerox-155/product-1097-cnc-carrier-with-backrest-for-yamaha-aerox-155-image-6.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1097-cnc-carrier-with-backrest-for-yamaha-aerox-155/product-1097-cnc-carrier-with-backrest-for-yamaha-aerox-155-image-7.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27276,11 +27295,14 @@ const catalogProducts = [
         name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR YAMAHA AEROX',
         price: 4800,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539590/RR_unkxcu.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1098-crash-guard-with-dual-sliders-for-yamaha-aerox/product-1098-crash-guard-with-dual-sliders-for-yamaha-aerox-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539593/R_pvgqpn.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539590/RR_unkxcu.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539593/R_pvgqpn.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1098-crash-guard-with-dual-sliders-for-yamaha-aerox/product-1098-crash-guard-with-dual-sliders-for-yamaha-aerox-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1098-crash-guard-with-dual-sliders-for-yamaha-aerox/product-1098-crash-guard-with-dual-sliders-for-yamaha-aerox-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1098-crash-guard-with-dual-sliders-for-yamaha-aerox/product-1098-crash-guard-with-dual-sliders-for-yamaha-aerox-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1098-crash-guard-with-dual-sliders-for-yamaha-aerox/product-1098-crash-guard-with-dual-sliders-for-yamaha-aerox-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1098-crash-guard-with-dual-sliders-for-yamaha-aerox/product-1098-crash-guard-with-dual-sliders-for-yamaha-aerox-image-6.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1098-crash-guard-with-dual-sliders-for-yamaha-aerox/product-1098-crash-guard-with-dual-sliders-for-yamaha-aerox-image-7.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27303,11 +27325,10 @@ const catalogProducts = [
         name: 'Moto Care SMALL VISOR WITH CLAMP FOR YAMAHA F Z- X',
         price: 960,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539755/TT_x7dqzj.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1099-small-visor-with-clamp-for-f-z-x/product-1099-small-visor-with-clamp-for-f-z-x-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539756/T_hclonm.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539755/TT_x7dqzj.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539756/T_hclonm.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1099-small-visor-with-clamp-for-f-z-x/product-1099-small-visor-with-clamp-for-f-z-x-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1099-small-visor-with-clamp-for-f-z-x/product-1099-small-visor-with-clamp-for-f-z-x-image-3.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27329,11 +27350,13 @@ const catalogProducts = [
         name: 'Moto Care SADDLE STAY FOR YAMAHA F X- Z',
         price: 1680,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539858/D_p4fw1t.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1200-saddle-stay-for-f-x-z/product-1200-saddle-stay-for-f-x-z-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539859/DD_br1edk.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539858/D_p4fw1t.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539859/DD_br1edk.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1200-saddle-stay-for-f-x-z/product-1200-saddle-stay-for-f-x-z-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1200-saddle-stay-for-f-x-z/product-1200-saddle-stay-for-f-x-z-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1200-saddle-stay-for-f-x-z/product-1200-saddle-stay-for-f-x-z-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1200-saddle-stay-for-f-x-z/product-1200-saddle-stay-for-f-x-z-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1200-saddle-stay-for-f-x-z/product-1200-saddle-stay-for-f-x-z-image-6.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27355,11 +27378,12 @@ const catalogProducts = [
         name: 'Moto Care PIPE CARRIER WITH BACKREST FOR YAMAHA F Z- X',
         price: 2960,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539939/FF_cwhlmz.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1201-pipe-carrier-with-backrest-for-f-z-x/product-1201-pipe-carrier-with-backrest-for-f-z-x-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539945/F_bo0qjx.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539939/FF_cwhlmz.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786539941/FFF_t0jasr.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1201-pipe-carrier-with-backrest-for-f-z-x/product-1201-pipe-carrier-with-backrest-for-f-z-x-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1201-pipe-carrier-with-backrest-for-f-z-x/product-1201-pipe-carrier-with-backrest-for-f-z-x-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1201-pipe-carrier-with-backrest-for-f-z-x/product-1201-pipe-carrier-with-backrest-for-f-z-x-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1201-pipe-carrier-with-backrest-for-f-z-x/product-1201-pipe-carrier-with-backrest-for-f-z-x-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27381,11 +27405,12 @@ const catalogProducts = [
         name: 'Moto Care PIPE CARRIER FOR YAMAHA F Z- X',
         price: 1920,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540077/G_npjbve.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1202-pipe-carrier-for-f-z-x/product-1202-pipe-carrier-for-f-z-x-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540078/GG_n4hixh.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540077/G_npjbve.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540076/GGG_bcchsl.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1202-pipe-carrier-for-f-z-x/product-1202-pipe-carrier-for-f-z-x-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1202-pipe-carrier-for-f-z-x/product-1202-pipe-carrier-for-f-z-x-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1202-pipe-carrier-for-f-z-x/product-1202-pipe-carrier-for-f-z-x-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1202-pipe-carrier-for-f-z-x/product-1202-pipe-carrier-for-f-z-x-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27407,11 +27432,12 @@ const catalogProducts = [
         name: 'Moto Care FOOTREST FOR YAMAHA F Z- X',
         price: 1760,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540377/H_uhipav.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1203-footrest-for-f-z-x/product-1203-footrest-for-f-z-x-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540377/HH_nhfgd7.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540377/H_uhipav.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540372/HHH_dvjes6.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1203-footrest-for-f-z-x/product-1203-footrest-for-f-z-x-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1203-footrest-for-f-z-x/product-1203-footrest-for-f-z-x-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1203-footrest-for-f-z-x/product-1203-footrest-for-f-z-x-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1203-footrest-for-f-z-x/product-1203-footrest-for-f-z-x-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27433,11 +27459,11 @@ const catalogProducts = [
         name: 'Moto Care CNC CARRIER PLATE FOR YAMAHA F Z- X',
         price: 2560,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540472/J_g9twy1.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1204-cnc-carrier-plate-for-f-z-x/product-1204-cnc-carrier-plate-for-f-z-x-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540472/J_g9twy1.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540472/J_g9twy1.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540472/J_g9twy1.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1204-cnc-carrier-plate-for-f-z-x/product-1204-cnc-carrier-plate-for-f-z-x-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1204-cnc-carrier-plate-for-f-z-x/product-1204-cnc-carrier-plate-for-f-z-x-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1204-cnc-carrier-plate-for-f-z-x/product-1204-cnc-carrier-plate-for-f-z-x-image-4.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27459,11 +27485,11 @@ const catalogProducts = [
         name: 'Moto Care CNC CARRIER PLATE WITH BACKREST FOR YAMAHA F Z- X',
         price: 3600,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540600/K_wgvkf7.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1205-cnc-carrier-plate-with-backrest-for-f-z-x/product-1205-cnc-carrier-plate-with-backrest-for-f-z-x-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540600/KK_ikavto.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540600/K_wgvkf7.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540600/KK_ikavto.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1205-cnc-carrier-plate-with-backrest-for-f-z-x/product-1205-cnc-carrier-plate-with-backrest-for-f-z-x-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1205-cnc-carrier-plate-with-backrest-for-f-z-x/product-1205-cnc-carrier-plate-with-backrest-for-f-z-x-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1205-cnc-carrier-plate-with-backrest-for-f-z-x/product-1205-cnc-carrier-plate-with-backrest-for-f-z-x-image-4.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27485,11 +27511,13 @@ const catalogProducts = [
         name: 'Moto Care 4 SLIDER CRASH GUARD FOR YAMAHA F Z- X',
         price: 4160,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540704/1713608960_6623990048248_jqc249.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1206-4-slider-crash-guard-for-f-z-x/product-1206-4-slider-crash-guard-for-f-z-x-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540704/1713608960_6623990048248_jqc249.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540704/1713608960_6623990048248_jqc249.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786540704/1713608960_6623990048248_jqc249.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1206-4-slider-crash-guard-for-f-z-x/product-1206-4-slider-crash-guard-for-f-z-x-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1206-4-slider-crash-guard-for-f-z-x/product-1206-4-slider-crash-guard-for-f-z-x-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1206-4-slider-crash-guard-for-f-z-x/product-1206-4-slider-crash-guard-for-f-z-x-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1206-4-slider-crash-guard-for-f-z-x/product-1206-4-slider-crash-guard-for-f-z-x-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1206-4-slider-crash-guard-for-f-z-x/product-1206-4-slider-crash-guard-for-f-z-x-image-6.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27511,11 +27539,14 @@ const catalogProducts = [
         name: 'Moto Care SMALL CRASH GUARD FOR YAMAHA FZS 25',
         price: 3040,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786552794/1718551232_666f02c024cae_maexwb.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1207-small-crash-guard-for-fzs-25/product-1207-small-crash-guard-for-fzs-25-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786552794/1718551242_666f02ca3086b_qi4wo8.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786552794/1718551232_666f02c024cae_maexwb.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786552793/1718551270_666f02e68606d_vganel.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1207-small-crash-guard-for-fzs-25/product-1207-small-crash-guard-for-fzs-25-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1207-small-crash-guard-for-fzs-25/product-1207-small-crash-guard-for-fzs-25-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1207-small-crash-guard-for-fzs-25/product-1207-small-crash-guard-for-fzs-25-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1207-small-crash-guard-for-fzs-25/product-1207-small-crash-guard-for-fzs-25-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1207-small-crash-guard-for-fzs-25/product-1207-small-crash-guard-for-fzs-25-image-6.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1207-small-crash-guard-for-fzs-25/product-1207-small-crash-guard-for-fzs-25-image-7.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27536,11 +27567,13 @@ const catalogProducts = [
         name: 'Moto Care SADDLE STAY FOR YAMAHA FZS 25',
         price: 1680,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786552915/q_mdhjg3.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1208-saddle-stay-for-fzs-25/product-1208-saddle-stay-for-fzs-25-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786552915/qq_ms0qe6.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786552915/q_mdhjg3.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786552915/qq_ms0qe6.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1208-saddle-stay-for-fzs-25/product-1208-saddle-stay-for-fzs-25-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1208-saddle-stay-for-fzs-25/product-1208-saddle-stay-for-fzs-25-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1208-saddle-stay-for-fzs-25/product-1208-saddle-stay-for-fzs-25-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1208-saddle-stay-for-fzs-25/product-1208-saddle-stay-for-fzs-25-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1208-saddle-stay-for-fzs-25/product-1208-saddle-stay-for-fzs-25-image-6.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27561,11 +27594,13 @@ const catalogProducts = [
         name: 'Moto Care PIPE CARRIER WITH BACKREST FOR YAMAHA FZS 25',
         price: 2800,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786553005/a_c7lgye.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1209-pipe-carrier-with-backrest-for-fzs-25/product-1209-pipe-carrier-with-backrest-for-fzs-25-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786553005/aa_boxmkm.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786553005/aaa_ibrchm.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786553005/aa_boxmkm.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1209-pipe-carrier-with-backrest-for-fzs-25/product-1209-pipe-carrier-with-backrest-for-fzs-25-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1209-pipe-carrier-with-backrest-for-fzs-25/product-1209-pipe-carrier-with-backrest-for-fzs-25-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1209-pipe-carrier-with-backrest-for-fzs-25/product-1209-pipe-carrier-with-backrest-for-fzs-25-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1209-pipe-carrier-with-backrest-for-fzs-25/product-1209-pipe-carrier-with-backrest-for-fzs-25-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1209-pipe-carrier-with-backrest-for-fzs-25/product-1209-pipe-carrier-with-backrest-for-fzs-25-image-6.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27586,11 +27621,13 @@ const catalogProducts = [
         name: 'Moto Care PIPE CARRIER FOR YAMAHA FZS 25',
         price: 1760,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786553113/z_mcz8m7.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1210-pipe-carrier-for-fzs-25/product-1210-pipe-carrier-for-fzs-25-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786553113/zz_wfwdkk.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786553113/z_mcz8m7.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786553113/zz_wfwdkk.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1210-pipe-carrier-for-fzs-25/product-1210-pipe-carrier-for-fzs-25-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1210-pipe-carrier-for-fzs-25/product-1210-pipe-carrier-for-fzs-25-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1210-pipe-carrier-for-fzs-25/product-1210-pipe-carrier-for-fzs-25-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1210-pipe-carrier-for-fzs-25/product-1210-pipe-carrier-for-fzs-25-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1210-pipe-carrier-for-fzs-25/product-1210-pipe-carrier-for-fzs-25-image-6.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27611,11 +27648,13 @@ const catalogProducts = [
         name: 'Moto Care CNC CARRIER PLATE AND BACKREST FOR YAMAHA FZS 25',
         price: 3600,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786553233/x_wzkfxv.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1211-cnc-carrier-plate-and-backrest-for-fzs-25/product-1211-cnc-carrier-plate-and-backrest-for-fzs-25-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786553234/xx_pcqh1f.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786553233/x_wzkfxv.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786553234/xxx_tjw7hf.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1211-cnc-carrier-plate-and-backrest-for-fzs-25/product-1211-cnc-carrier-plate-and-backrest-for-fzs-25-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1211-cnc-carrier-plate-and-backrest-for-fzs-25/product-1211-cnc-carrier-plate-and-backrest-for-fzs-25-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1211-cnc-carrier-plate-and-backrest-for-fzs-25/product-1211-cnc-carrier-plate-and-backrest-for-fzs-25-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1211-cnc-carrier-plate-and-backrest-for-fzs-25/product-1211-cnc-carrier-plate-and-backrest-for-fzs-25-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1211-cnc-carrier-plate-and-backrest-for-fzs-25/product-1211-cnc-carrier-plate-and-backrest-for-fzs-25-image-6.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27636,11 +27675,13 @@ const catalogProducts = [
         name: 'Moto Care CNC CARRIER PLATE FOR YAMAHA FZS 25',
         price: 2560,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786553322/s_gapxi1.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1212-cnc-carrier-plate-for-fzs-25/product-1212-cnc-carrier-plate-for-fzs-25-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786553323/ss_hyajz7.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786553323/sss_awevyb.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786553324/ssss_c9cep9.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1212-cnc-carrier-plate-for-fzs-25/product-1212-cnc-carrier-plate-for-fzs-25-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1212-cnc-carrier-plate-for-fzs-25/product-1212-cnc-carrier-plate-for-fzs-25-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1212-cnc-carrier-plate-for-fzs-25/product-1212-cnc-carrier-plate-for-fzs-25-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1212-cnc-carrier-plate-for-fzs-25/product-1212-cnc-carrier-plate-for-fzs-25-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1212-cnc-carrier-plate-for-fzs-25/product-1212-cnc-carrier-plate-for-fzs-25-image-6.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27661,11 +27702,13 @@ const catalogProducts = [
         name: 'Moto Care 4 SLIDER CRASH GUARD (WITH PLATE) FOR YAMAHA FZS 25',
         price: 4800,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786553423/w_x6korx.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1213-4-slider-crash-guard-with-plate-for-fzs-25/product-1213-4-slider-crash-guard-with-plate-for-fzs-25-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786553424/ww_lcj3dm.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786553423/w_x6korx.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786553425/www_wdlbzd.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1213-4-slider-crash-guard-with-plate-for-fzs-25/product-1213-4-slider-crash-guard-with-plate-for-fzs-25-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1213-4-slider-crash-guard-with-plate-for-fzs-25/product-1213-4-slider-crash-guard-with-plate-for-fzs-25-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1213-4-slider-crash-guard-with-plate-for-fzs-25/product-1213-4-slider-crash-guard-with-plate-for-fzs-25-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1213-4-slider-crash-guard-with-plate-for-fzs-25/product-1213-4-slider-crash-guard-with-plate-for-fzs-25-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1213-4-slider-crash-guard-with-plate-for-fzs-25/product-1213-4-slider-crash-guard-with-plate-for-fzs-25-image-6.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27686,11 +27729,12 @@ const catalogProducts = [
         name: 'Moto Care 4 SLIDER CRASH GUARD FOR YAMAHA FZS 25',
         price: 4800,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786553510/e_b7aoko.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1214-4-slider-crash-guard-for-fzs-25/product-1214-4-slider-crash-guard-for-fzs-25-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786553511/ee_wgl9en.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786553510/e_b7aoko.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786553512/eee_wv3244.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1214-4-slider-crash-guard-for-fzs-25/product-1214-4-slider-crash-guard-for-fzs-25-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1214-4-slider-crash-guard-for-fzs-25/product-1214-4-slider-crash-guard-for-fzs-25-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1214-4-slider-crash-guard-for-fzs-25/product-1214-4-slider-crash-guard-for-fzs-25-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1214-4-slider-crash-guard-for-fzs-25/product-1214-4-slider-crash-guard-for-fzs-25-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27711,11 +27755,12 @@ const catalogProducts = [
         name: 'Moto Care PIPE CARRIER FOR YAMAHA FZ V3',
         price: 1760,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786596563/a_fwzfoz.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1215-pipe-carrier-for-f-z-x/product-1215-pipe-carrier-for-f-z-x-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786596563/aaa_fcz850.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786596563/a_fwzfoz.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786596563/aa_chza0k.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1215-pipe-carrier-for-f-z-x/product-1215-pipe-carrier-for-f-z-x-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1215-pipe-carrier-for-f-z-x/product-1215-pipe-carrier-for-f-z-x-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1215-pipe-carrier-for-f-z-x/product-1215-pipe-carrier-for-f-z-x-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1215-pipe-carrier-for-f-z-x/product-1215-pipe-carrier-for-f-z-x-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27736,11 +27781,11 @@ const catalogProducts = [
         name: 'Moto Care POLYCARBONATE VISOR FOR YAMAHA FZ-S V3/ V4',
         price: 2080,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786596656/1710827217_65f926d1f19a4_iquarj.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1216-polycarbonate-visor-for-fz-s-v3-v4/product-1216-polycarbonate-visor-for-fz-s-v3-v4-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786596656/1710827258_65f926fa448e5_xv6vsa.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786596656/1710827217_65f926d1f19a4_iquarj.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786596656/1710827258_65f926fa448e5_xv6vsa.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1216-polycarbonate-visor-for-fz-s-v3-v4/product-1216-polycarbonate-visor-for-fz-s-v3-v4-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1216-polycarbonate-visor-for-fz-s-v3-v4/product-1216-polycarbonate-visor-for-fz-s-v3-v4-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1216-polycarbonate-visor-for-fz-s-v3-v4/product-1216-polycarbonate-visor-for-fz-s-v3-v4-image-4.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27762,11 +27807,9 @@ const catalogProducts = [
         name: 'Moto Care RESERVOIR OIL CAP FOR YAMAHA FZ-S V3/ V4',
         price: 400,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786596748/1709896920_65eaf4d83e03b_hs37ey.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1217-reservoir-oil-cap-for-fz-s-v3-v4/product-1217-reservoir-oil-cap-for-fz-s-v3-v4-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786596748/1709896978_65eaf512601a7_q2gp62.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786596748/1709896920_65eaf4d83e03b_hs37ey.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786596748/1709896978_65eaf512601a7_q2gp62.jpg'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1217-reservoir-oil-cap-for-fz-s-v3-v4/product-1217-reservoir-oil-cap-for-fz-s-v3-v4-image-2.jpg"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27787,11 +27830,9 @@ const catalogProducts = [
         name: 'Moto Care DISC OIL CAP FOR YAMAHA FZ-S V3/ V4',
         price: 200,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786596837/1709896679_65eaf3e7e6bd4_sg08zv.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1218-disc-oil-cap-for-fz-s-v3-v4/product-1218-disc-oil-cap-for-fz-s-v3-v4-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786596837/1709897012_65eaf53435caf_dknr5v.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786596837/1709896679_65eaf3e7e6bd4_sg08zv.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786596837/1709897012_65eaf53435caf_dknr5v.jpg'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1218-disc-oil-cap-for-fz-s-v3-v4/product-1218-disc-oil-cap-for-fz-s-v3-v4-image-2.jpg"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27812,11 +27853,14 @@ const catalogProducts = [
         name: 'Moto Care SADDLE STAY FOR YAMAHA FZ-S V3/V4',
         price: 2400,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786596924/q_ycez09.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1219-saddle-stay-for-fz-s-v3v4/product-1219-saddle-stay-for-fz-s-v3v4-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786596924/qq_g5xbal.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786596924/q_ycez09.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786596925/qqq_opapvz.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1219-saddle-stay-for-fz-s-v3v4/product-1219-saddle-stay-for-fz-s-v3v4-image-2.jpg",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1219-saddle-stay-for-fz-s-v3v4/product-1219-saddle-stay-for-fz-s-v3v4-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1219-saddle-stay-for-fz-s-v3v4/product-1219-saddle-stay-for-fz-s-v3v4-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1219-saddle-stay-for-fz-s-v3v4/product-1219-saddle-stay-for-fz-s-v3v4-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1219-saddle-stay-for-fz-s-v3v4/product-1219-saddle-stay-for-fz-s-v3v4-image-6.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1219-saddle-stay-for-fz-s-v3v4/product-1219-saddle-stay-for-fz-s-v3v4-image-7.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27837,11 +27881,12 @@ const catalogProducts = [
         name: 'Moto Care NUMBER PLATE HOLDER FOR YAMAHA FZ-S V3/V4',
         price: 1120,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597001/z_kfsjyh.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1220-number-plate-holder-for-fz-s-v3v4/product-1220-number-plate-holder-for-fz-s-v3v4-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597001/zz_q25dxi.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597001/z_kfsjyh.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597002/zzz_jyq2uq.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1220-number-plate-holder-for-fz-s-v3v4/product-1220-number-plate-holder-for-fz-s-v3v4-image-2.jpg",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1220-number-plate-holder-for-fz-s-v3v4/product-1220-number-plate-holder-for-fz-s-v3v4-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1220-number-plate-holder-for-fz-s-v3v4/product-1220-number-plate-holder-for-fz-s-v3v4-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1220-number-plate-holder-for-fz-s-v3v4/product-1220-number-plate-holder-for-fz-s-v3v4-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27862,11 +27907,10 @@ const catalogProducts = [
         name: 'Moto Care FOOTREST FOR FZ-S V3/V4',
         price: 1600,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597077/x_txggzj.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1221-footrest-for-fz-s-v3v4/product-1221-footrest-for-fz-s-v3v4-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597077/xx_wg4ot1.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597077/x_txggzj.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597078/xxx_id3s4l.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1221-footrest-for-fz-s-v3v4/product-1221-footrest-for-fz-s-v3v4-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1221-footrest-for-fz-s-v3v4/product-1221-footrest-for-fz-s-v3v4-image-3.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27887,11 +27931,13 @@ const catalogProducts = [
         name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR YAMAHA FZ-S V3/V4',
         price: 4160,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597172/s_ekx0nx.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1222-crash-guard-with-dual-sliders-for-fz-s-v3v4/product-1222-crash-guard-with-dual-sliders-for-fz-s-v3v4-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597172/ss_nhdngh.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597173/sss_rqcffe.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597173/ssss_srsiig.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1222-crash-guard-with-dual-sliders-for-fz-s-v3v4/product-1222-crash-guard-with-dual-sliders-for-fz-s-v3v4-image-2.jpg",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1222-crash-guard-with-dual-sliders-for-fz-s-v3v4/product-1222-crash-guard-with-dual-sliders-for-fz-s-v3v4-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1222-crash-guard-with-dual-sliders-for-fz-s-v3v4/product-1222-crash-guard-with-dual-sliders-for-fz-s-v3v4-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1222-crash-guard-with-dual-sliders-for-fz-s-v3v4/product-1222-crash-guard-with-dual-sliders-for-fz-s-v3v4-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1222-crash-guard-with-dual-sliders-for-fz-s-v3v4/product-1222-crash-guard-with-dual-sliders-for-fz-s-v3v4-image-6.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27912,11 +27958,13 @@ const catalogProducts = [
         name: 'Moto Care CNC CARRIER PLATE FOR YAMAHA FZ-S V3/V4',
         price: 2560,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597292/w_cuicbp.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1223-cnc-carrier-plate-for-fz-s-v3v4/product-1223-cnc-carrier-plate-for-fz-s-v3v4-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597292/ww_ldhdqa.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597293/www_rlrzfg.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597293/wwww_wowmth.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1223-cnc-carrier-plate-for-fz-s-v3v4/product-1223-cnc-carrier-plate-for-fz-s-v3v4-image-2.jpg",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1223-cnc-carrier-plate-for-fz-s-v3v4/product-1223-cnc-carrier-plate-for-fz-s-v3v4-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1223-cnc-carrier-plate-for-fz-s-v3v4/product-1223-cnc-carrier-plate-for-fz-s-v3v4-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1223-cnc-carrier-plate-for-fz-s-v3v4/product-1223-cnc-carrier-plate-for-fz-s-v3v4-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1223-cnc-carrier-plate-for-fz-s-v3v4/product-1223-cnc-carrier-plate-for-fz-s-v3v4-image-6.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27937,11 +27985,13 @@ const catalogProducts = [
         name: 'Moto Care CNC CARRIER PLATE WITH BACKREST FOR YAMAHA FZ-S V3/V4',
         price: 3600,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597391/e_n1fquf.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1224-cnc-carrier-plate-with-backrest-for-fz-s-v3v4/product-1224-cnc-carrier-plate-with-backrest-for-fz-s-v3v4-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597392/ee_bpsr0k.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597394/eee_ern8jh.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597395/eeee_s39ca0.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1224-cnc-carrier-plate-with-backrest-for-fz-s-v3v4/product-1224-cnc-carrier-plate-with-backrest-for-fz-s-v3v4-image-2.jpg",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1224-cnc-carrier-plate-with-backrest-for-fz-s-v3v4/product-1224-cnc-carrier-plate-with-backrest-for-fz-s-v3v4-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1224-cnc-carrier-plate-with-backrest-for-fz-s-v3v4/product-1224-cnc-carrier-plate-with-backrest-for-fz-s-v3v4-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1224-cnc-carrier-plate-with-backrest-for-fz-s-v3v4/product-1224-cnc-carrier-plate-with-backrest-for-fz-s-v3v4-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1224-cnc-carrier-plate-with-backrest-for-fz-s-v3v4/product-1224-cnc-carrier-plate-with-backrest-for-fz-s-v3v4-image-6.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27962,11 +28012,14 @@ const catalogProducts = [
         name: 'Moto Care 4 SLIDER CRASH GUARD FOR YAMAHA FZ-S V3/V4',
         price: 4800,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597530/d_amfewx.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1225-4-slider-crash-guard-for-fz-s-v3v4/product-1225-4-slider-crash-guard-for-fz-s-v3v4-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597530/dd_koarxe.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597531/ddd_uwovma.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597532/dddd_tg2r8g.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1225-4-slider-crash-guard-for-fz-s-v3v4/product-1225-4-slider-crash-guard-for-fz-s-v3v4-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1225-4-slider-crash-guard-for-fz-s-v3v4/product-1225-4-slider-crash-guard-for-fz-s-v3v4-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1225-4-slider-crash-guard-for-fz-s-v3v4/product-1225-4-slider-crash-guard-for-fz-s-v3v4-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1225-4-slider-crash-guard-for-fz-s-v3v4/product-1225-4-slider-crash-guard-for-fz-s-v3v4-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1225-4-slider-crash-guard-for-fz-s-v3v4/product-1225-4-slider-crash-guard-for-fz-s-v3v4-image-6.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1225-4-slider-crash-guard-for-fz-s-v3v4/product-1225-4-slider-crash-guard-for-fz-s-v3v4-image-7.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -27987,11 +28040,13 @@ const catalogProducts = [
         name: 'Moto Care STAND EXTENDER FOR YAMAHA XSR 155',
         price: 720,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597648/cc_cam2ef.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1226-stand-extender-for-yamaha-xsr-155/product-1226-stand-extender-for-yamaha-xsr-155-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597648/c_nneiq0.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597648/cc_cam2ef.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597649/ccc_y8jftq.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1226-stand-extender-for-yamaha-xsr-155/product-1226-stand-extender-for-yamaha-xsr-155-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1226-stand-extender-for-yamaha-xsr-155/product-1226-stand-extender-for-yamaha-xsr-155-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1226-stand-extender-for-yamaha-xsr-155/product-1226-stand-extender-for-yamaha-xsr-155-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1226-stand-extender-for-yamaha-xsr-155/product-1226-stand-extender-for-yamaha-xsr-155-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1226-stand-extender-for-yamaha-xsr-155/product-1226-stand-extender-for-yamaha-xsr-155-image-6.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28012,11 +28067,12 @@ const catalogProducts = [
         name: 'Moto Care HANDLE BAR RISER FOR YAMAHA XSR 155',
         price: 1760,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597774/r_ad1m9q.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1227-handle-bar-riser-for-yamaha-xsr-155/product-1227-handle-bar-riser-for-yamaha-xsr-155-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597776/rr_zayr66.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597774/r_ad1m9q.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597776/rr_zayr66.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1227-handle-bar-riser-for-yamaha-xsr-155/product-1227-handle-bar-riser-for-yamaha-xsr-155-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1227-handle-bar-riser-for-yamaha-xsr-155/product-1227-handle-bar-riser-for-yamaha-xsr-155-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1227-handle-bar-riser-for-yamaha-xsr-155/product-1227-handle-bar-riser-for-yamaha-xsr-155-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1227-handle-bar-riser-for-yamaha-xsr-155/product-1227-handle-bar-riser-for-yamaha-xsr-155-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28037,11 +28093,12 @@ const catalogProducts = [
         name: 'Moto CareHEADLIGHT GRILL FOR YAMAHA XSR 155',
         price: 1040,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597898/1769942057_697f2c29c0fa1_ir0g0y.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1228-headlight-grill-for-yamaha-xsr-155/product-1228-headlight-grill-for-yamaha-xsr-155-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597899/1769942087_697f2c477890b_cyesfn.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597900/qqqq_gesm6u.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597899/1769942087_697f2c477890b_cyesfn.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1228-headlight-grill-for-yamaha-xsr-155/product-1228-headlight-grill-for-yamaha-xsr-155-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1228-headlight-grill-for-yamaha-xsr-155/product-1228-headlight-grill-for-yamaha-xsr-155-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1228-headlight-grill-for-yamaha-xsr-155/product-1228-headlight-grill-for-yamaha-xsr-155-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1228-headlight-grill-for-yamaha-xsr-155/product-1228-headlight-grill-for-yamaha-xsr-155-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28062,11 +28119,12 @@ const catalogProducts = [
         name: 'Moto Care PIPE SEAT RING FOR YAMAHA XSR 155',
         price: 1280,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597986/v_mhtbit.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1229-pipe-seat-ring-for-yamaha-xsr-155/product-1229-pipe-seat-ring-for-yamaha-xsr-155-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597987/vv_d7phoi.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597986/v_mhtbit.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786597988/vvv_eggius.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1229-pipe-seat-ring-for-yamaha-xsr-155/product-1229-pipe-seat-ring-for-yamaha-xsr-155-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1229-pipe-seat-ring-for-yamaha-xsr-155/product-1229-pipe-seat-ring-for-yamaha-xsr-155-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1229-pipe-seat-ring-for-yamaha-xsr-155/product-1229-pipe-seat-ring-for-yamaha-xsr-155-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1229-pipe-seat-ring-for-yamaha-xsr-155/product-1229-pipe-seat-ring-for-yamaha-xsr-155-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28087,11 +28145,11 @@ const catalogProducts = [
         name: 'Moto Care RADIATOR GUARDS FOR YAMAHA XSR 155',
         price: 720,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598127/1768576616_696a5668ca210_twq28a.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1230-radiator-guards-for-yamaha-xsr-155/product-1230-radiator-guards-for-yamaha-xsr-155-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598129/1768576626_696a5672532b2_wm5cqq.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598127/1768576616_696a5668ca210_twq28a.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598129/1768576626_696a5672532b2_wm5cqq.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1230-radiator-guards-for-yamaha-xsr-155/product-1230-radiator-guards-for-yamaha-xsr-155-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1230-radiator-guards-for-yamaha-xsr-155/product-1230-radiator-guards-for-yamaha-xsr-155-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1230-radiator-guards-for-yamaha-xsr-155/product-1230-radiator-guards-for-yamaha-xsr-155-image-4.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28112,11 +28170,12 @@ const catalogProducts = [
         name: 'Moto Care SADDLE STAY WITH PLATE FOR YAMAHA XSR 155',
         price: 2720,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598308/f_dztisw.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1231-saddle-stay-with-plate-for-yamaha-xsr-155/product-1231-saddle-stay-with-plate-for-yamaha-xsr-155-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598309/ff_od3hfr.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598308/f_dztisw.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598310/fff_lwjvr8.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1231-saddle-stay-with-plate-for-yamaha-xsr-155/product-1231-saddle-stay-with-plate-for-yamaha-xsr-155-image-2.jpg",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1231-saddle-stay-with-plate-for-yamaha-xsr-155/product-1231-saddle-stay-with-plate-for-yamaha-xsr-155-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1231-saddle-stay-with-plate-for-yamaha-xsr-155/product-1231-saddle-stay-with-plate-for-yamaha-xsr-155-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1231-saddle-stay-with-plate-for-yamaha-xsr-155/product-1231-saddle-stay-with-plate-for-yamaha-xsr-155-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28137,11 +28196,13 @@ const catalogProducts = [
         name: 'Moto Care RADIATOR GUARD FOR YAMAHA XSR 155',
         price: 720,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598434/t_rhunot.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1232-radiator-guard-for-yamaha-xsr-155/product-1232-radiator-guard-for-yamaha-xsr-155-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598435/tt_ztegkd.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598434/t_rhunot.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598435/ttt_uih2py.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1232-radiator-guard-for-yamaha-xsr-155/product-1232-radiator-guard-for-yamaha-xsr-155-image-2.jpg",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1232-radiator-guard-for-yamaha-xsr-155/product-1232-radiator-guard-for-yamaha-xsr-155-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1232-radiator-guard-for-yamaha-xsr-155/product-1232-radiator-guard-for-yamaha-xsr-155-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1232-radiator-guard-for-yamaha-xsr-155/product-1232-radiator-guard-for-yamaha-xsr-155-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1232-radiator-guard-for-yamaha-xsr-155/product-1232-radiator-guard-for-yamaha-xsr-155-image-6.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28162,11 +28223,11 @@ const catalogProducts = [
         name: 'Moto Care SMALL VISOR WITH CLAMP FOR YAMAHA XSR 155',
         price: 960,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598509/b_wfuocx.jpg',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1233-small-visor-with-clamp-for-yamaha-xsr-155/product-1233-small-visor-with-clamp-for-yamaha-xsr-155-image-1.jpg",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598511/bb_f4rjdd.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598509/b_wfuocx.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598511/bb_f4rjdd.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1233-small-visor-with-clamp-for-yamaha-xsr-155/product-1233-small-visor-with-clamp-for-yamaha-xsr-155-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1233-small-visor-with-clamp-for-yamaha-xsr-155/product-1233-small-visor-with-clamp-for-yamaha-xsr-155-image-3.jpg",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1233-small-visor-with-clamp-for-yamaha-xsr-155/product-1233-small-visor-with-clamp-for-yamaha-xsr-155-image-4.jpg"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28187,11 +28248,11 @@ const catalogProducts = [
         name: 'Moto Care DISC OIL CAP FOR YAMAHA XSR 155',
         price: 200,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598596/y_l4rbas.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1234-disc-oil-cap-for-yamaha-xsr-155/product-1234-disc-oil-cap-for-yamaha-xsr-155-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598597/yy_a84qam.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598596/y_l4rbas.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598599/yyy_a2zfvq.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1234-disc-oil-cap-for-yamaha-xsr-155/product-1234-disc-oil-cap-for-yamaha-xsr-155-image-2.jpg",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1234-disc-oil-cap-for-yamaha-xsr-155/product-1234-disc-oil-cap-for-yamaha-xsr-155-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1234-disc-oil-cap-for-yamaha-xsr-155/product-1234-disc-oil-cap-for-yamaha-xsr-155-image-4.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28212,11 +28273,12 @@ const catalogProducts = [
         name: 'Moto Care SEAT RING WITH BACKREST FOR YAMAHA XSR 155',
         price: 2560,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598673/g_q0ti7o.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1235-seat-ring-with-backrest-for-yamaha-xsr-155/product-1235-seat-ring-with-backrest-for-yamaha-xsr-155-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598674/gg_sfo295.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598673/g_q0ti7o.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598675/ggg_xdbqn4.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1235-seat-ring-with-backrest-for-yamaha-xsr-155/product-1235-seat-ring-with-backrest-for-yamaha-xsr-155-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1235-seat-ring-with-backrest-for-yamaha-xsr-155/product-1235-seat-ring-with-backrest-for-yamaha-xsr-155-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1235-seat-ring-with-backrest-for-yamaha-xsr-155/product-1235-seat-ring-with-backrest-for-yamaha-xsr-155-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1235-seat-ring-with-backrest-for-yamaha-xsr-155/product-1235-seat-ring-with-backrest-for-yamaha-xsr-155-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28237,11 +28299,11 @@ const catalogProducts = [
         name: 'Moto Care SEAT RING FOR YAMAHA XSR 155',
         price: 1520,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598763/n_ygfn90.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1236-seat-ring-for-yamaha-xsr-155/product-1236-seat-ring-for-yamaha-xsr-155-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598765/nn_jfof9t.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598763/n_ygfn90.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598766/nnn_dffhhx.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1236-seat-ring-for-yamaha-xsr-155/product-1236-seat-ring-for-yamaha-xsr-155-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1236-seat-ring-for-yamaha-xsr-155/product-1236-seat-ring-for-yamaha-xsr-155-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1236-seat-ring-for-yamaha-xsr-155/product-1236-seat-ring-for-yamaha-xsr-155-image-4.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28262,11 +28324,13 @@ const catalogProducts = [
         name: 'Moto Care 4 SLIDER CRASH GUARD FOR YAMAHA XSR 155',
         price: 4800,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598883/u_usrtzd.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1237-4-slider-crash-guard-for-yamaha-xsr-155/product-1237-4-slider-crash-guard-for-yamaha-xsr-155-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598884/uu_xisxgl.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598883/u_usrtzd.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598886/uuu_kfnwpu.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1237-4-slider-crash-guard-for-yamaha-xsr-155/product-1237-4-slider-crash-guard-for-yamaha-xsr-155-image-2.jpg",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1237-4-slider-crash-guard-for-yamaha-xsr-155/product-1237-4-slider-crash-guard-for-yamaha-xsr-155-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1237-4-slider-crash-guard-for-yamaha-xsr-155/product-1237-4-slider-crash-guard-for-yamaha-xsr-155-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1237-4-slider-crash-guard-for-yamaha-xsr-155/product-1237-4-slider-crash-guard-for-yamaha-xsr-155-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1237-4-slider-crash-guard-for-yamaha-xsr-155/product-1237-4-slider-crash-guard-for-yamaha-xsr-155-image-6.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28287,11 +28351,14 @@ const catalogProducts = [
         name: 'Moto Care FOOTREST FOR YAMAHA XSR 155',
         price: 1280,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598969/m_uyiyth.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1238-footrest-for-yamaha-xsr-155/product-1238-footrest-for-yamaha-xsr-155-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598971/mm_mjfxt2.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598973/mmm_lnyp4l.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786598971/mm_mjfxt2.jpg'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1238-footrest-for-yamaha-xsr-155/product-1238-footrest-for-yamaha-xsr-155-image-2.jpg",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1238-footrest-for-yamaha-xsr-155/product-1238-footrest-for-yamaha-xsr-155-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1238-footrest-for-yamaha-xsr-155/product-1238-footrest-for-yamaha-xsr-155-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1238-footrest-for-yamaha-xsr-155/product-1238-footrest-for-yamaha-xsr-155-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1238-footrest-for-yamaha-xsr-155/product-1238-footrest-for-yamaha-xsr-155-image-6.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1238-footrest-for-yamaha-xsr-155/product-1238-footrest-for-yamaha-xsr-155-image-7.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28312,11 +28379,12 @@ const catalogProducts = [
         name: 'Moto Care TYPE 1 TYRE HUGGER FOR YAMAHA XSR 155',
         price: 1600,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786599076/i_bwjtkq.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1240-type-1-tyre-hugger-for-yamaha-xsr-155/product-1240-type-1-tyre-hugger-for-yamaha-xsr-155-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786599078/ii_jxofs3.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786599080/iii_gjrr7k.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786599078/ii_jxofs3.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1240-type-1-tyre-hugger-for-yamaha-xsr-155/product-1240-type-1-tyre-hugger-for-yamaha-xsr-155-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1240-type-1-tyre-hugger-for-yamaha-xsr-155/product-1240-type-1-tyre-hugger-for-yamaha-xsr-155-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1240-type-1-tyre-hugger-for-yamaha-xsr-155/product-1240-type-1-tyre-hugger-for-yamaha-xsr-155-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1240-type-1-tyre-hugger-for-yamaha-xsr-155/product-1240-type-1-tyre-hugger-for-yamaha-xsr-155-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28337,11 +28405,13 @@ const catalogProducts = [
         name: 'Moto Care PIPE CARRIER FOR YAMAHA XSR 155',
         price: 2880,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786599164/o_q5ndsy.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1241-pipe-carrier-for-yamaha-xsr-155/product-1241-pipe-carrier-for-yamaha-xsr-155-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786599165/oo_syrgvh.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786599167/ooo_e8h0mi.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786599168/oooo_swpqje.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1241-pipe-carrier-for-yamaha-xsr-155/product-1241-pipe-carrier-for-yamaha-xsr-155-image-2.jpg",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1241-pipe-carrier-for-yamaha-xsr-155/product-1241-pipe-carrier-for-yamaha-xsr-155-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1241-pipe-carrier-for-yamaha-xsr-155/product-1241-pipe-carrier-for-yamaha-xsr-155-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1241-pipe-carrier-for-yamaha-xsr-155/product-1241-pipe-carrier-for-yamaha-xsr-155-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1241-pipe-carrier-for-yamaha-xsr-155/product-1241-pipe-carrier-for-yamaha-xsr-155-image-6.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28363,11 +28433,13 @@ const catalogProducts = [
         name: 'Moto Care PIPE CARRIER WITH BACKREST FOR YAMAHA XSR 155',
         price: 3920,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786599304/j_qr3hor.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1242-pipe-carrier-with-backrest-for-yamaha-xsr-155/product-1242-pipe-carrier-with-backrest-for-yamaha-xsr-155-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786599306/jj_npyfms.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786599309/jjj_u8n9f8.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786599311/jjjj_osngqx.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1242-pipe-carrier-with-backrest-for-yamaha-xsr-155/product-1242-pipe-carrier-with-backrest-for-yamaha-xsr-155-image-2.jpg",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1242-pipe-carrier-with-backrest-for-yamaha-xsr-155/product-1242-pipe-carrier-with-backrest-for-yamaha-xsr-155-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1242-pipe-carrier-with-backrest-for-yamaha-xsr-155/product-1242-pipe-carrier-with-backrest-for-yamaha-xsr-155-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1242-pipe-carrier-with-backrest-for-yamaha-xsr-155/product-1242-pipe-carrier-with-backrest-for-yamaha-xsr-155-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1242-pipe-carrier-with-backrest-for-yamaha-xsr-155/product-1242-pipe-carrier-with-backrest-for-yamaha-xsr-155-image-6.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28389,11 +28461,11 @@ const catalogProducts = [
         name: 'Moto Care POLYCARBONATE VISOR FOR YAMAHA XSR 155',
         price: 2240,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786599414/pp_jzacap.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1243-polycarbonate-visor-for-yamaha-xsr-155/product-1243-polycarbonate-visor-for-yamaha-xsr-155-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786599415/ppp_toqboa.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786599414/pp_jzacap.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786599415/ppp_toqboa.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1243-polycarbonate-visor-for-yamaha-xsr-155/product-1243-polycarbonate-visor-for-yamaha-xsr-155-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1243-polycarbonate-visor-for-yamaha-xsr-155/product-1243-polycarbonate-visor-for-yamaha-xsr-155-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1243-polycarbonate-visor-for-yamaha-xsr-155/product-1243-polycarbonate-visor-for-yamaha-xsr-155-image-4.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28415,11 +28487,13 @@ const catalogProducts = [
         name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR YAMAHA XSR 155',
         price: 3840,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786599495/l_kzsixx.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1244-crash-guard-with-dual-sliders-for-yamaha-xsr-155/product-1244-crash-guard-with-dual-sliders-for-yamaha-xsr-155-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786599498/ll_edvnqs.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786599495/l_kzsixx.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786599499/lll_nu1eqe.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1244-crash-guard-with-dual-sliders-for-yamaha-xsr-155/product-1244-crash-guard-with-dual-sliders-for-yamaha-xsr-155-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1244-crash-guard-with-dual-sliders-for-yamaha-xsr-155/product-1244-crash-guard-with-dual-sliders-for-yamaha-xsr-155-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1244-crash-guard-with-dual-sliders-for-yamaha-xsr-155/product-1244-crash-guard-with-dual-sliders-for-yamaha-xsr-155-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1244-crash-guard-with-dual-sliders-for-yamaha-xsr-155/product-1244-crash-guard-with-dual-sliders-for-yamaha-xsr-155-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1244-crash-guard-with-dual-sliders-for-yamaha-xsr-155/product-1244-crash-guard-with-dual-sliders-for-yamaha-xsr-155-image-6.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28441,11 +28515,13 @@ const catalogProducts = [
         name: 'Moto Care 4 SLIDER CRASH GUARD FOR GIXXER 250',
         price: 4860,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601221/1709887819_65ead14b79d1d_nd45vv.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1245-4-slider-crash-guard-for-gixxer-250/product-1245-4-slider-crash-guard-for-gixxer-250-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601223/1709887828_65ead15457fe5_bx1squ.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601221/1709887819_65ead14b79d1d_nd45vv.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601225/1709887843_65ead163d22b0_esym8d.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1245-4-slider-crash-guard-for-gixxer-250/product-1245-4-slider-crash-guard-for-gixxer-250-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1245-4-slider-crash-guard-for-gixxer-250/product-1245-4-slider-crash-guard-for-gixxer-250-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1245-4-slider-crash-guard-for-gixxer-250/product-1245-4-slider-crash-guard-for-gixxer-250-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1245-4-slider-crash-guard-for-gixxer-250/product-1245-4-slider-crash-guard-for-gixxer-250-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1245-4-slider-crash-guard-for-gixxer-250/product-1245-4-slider-crash-guard-for-gixxer-250-image-6.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28467,11 +28543,10 @@ const catalogProducts = [
         name: 'Moto Care PIPE CARRIER WITH BACKREST FOR SUZUKI GIXXER 250',
         price: 2960,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601221/1709887819_65ead14b79d1d_nd45vv.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1245-pipe-carrier-with-backrest-for-gixxer-250/product-1245-pipe-carrier-with-backrest-for-gixxer-250-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601223/1709887828_65ead15457fe5_bx1squ.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601221/1709887819_65ead14b79d1d_nd45vv.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601225/1709887843_65ead163d22b0_esym8d.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1245-pipe-carrier-with-backrest-for-gixxer-250/product-1245-pipe-carrier-with-backrest-for-gixxer-250-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1245-pipe-carrier-with-backrest-for-gixxer-250/product-1245-pipe-carrier-with-backrest-for-gixxer-250-image-3.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28492,11 +28567,11 @@ const catalogProducts = [
         name: 'Moto Care PIPE CARRIER FOR SUZUKI GIXXER 250',
         price: 1920,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601308/A_c3xoph.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1246-pipe-carrier-for-gixxer-250/product-1246-pipe-carrier-for-gixxer-250-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601310/AA_azfnmt.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601308/A_c3xoph.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601310/AA_azfnmt.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1246-pipe-carrier-for-gixxer-250/product-1246-pipe-carrier-for-gixxer-250-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1246-pipe-carrier-for-gixxer-250/product-1246-pipe-carrier-for-gixxer-250-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1246-pipe-carrier-for-gixxer-250/product-1246-pipe-carrier-for-gixxer-250-image-4.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28517,11 +28592,12 @@ const catalogProducts = [
         name: 'Moto Care SADDLE STAY FOR SUZUKI GIXXER 250',
         price: 1680,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601407/Z_mqlazg.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1247-saddle-stay-for-gixxer-250/product-1247-saddle-stay-for-gixxer-250-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601409/ZZ_bwmhny.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601407/Z_mqlazg.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601409/ZZ_bwmhny.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1247-saddle-stay-for-gixxer-250/product-1247-saddle-stay-for-gixxer-250-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1247-saddle-stay-for-gixxer-250/product-1247-saddle-stay-for-gixxer-250-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1247-saddle-stay-for-gixxer-250/product-1247-saddle-stay-for-gixxer-250-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1247-saddle-stay-for-gixxer-250/product-1247-saddle-stay-for-gixxer-250-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28542,11 +28618,12 @@ const catalogProducts = [
         name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR SUZUKI GIXXER 250',
         price: 4160,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601496/Q_dapjme.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1248-crash-guard-with-dual-sliders-for-gixxer-250/product-1248-crash-guard-with-dual-sliders-for-gixxer-250-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601498/QQ_sewzcx.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601500/QQQ_akuqyu.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601498/QQ_sewzcx.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1248-crash-guard-with-dual-sliders-for-gixxer-250/product-1248-crash-guard-with-dual-sliders-for-gixxer-250-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1248-crash-guard-with-dual-sliders-for-gixxer-250/product-1248-crash-guard-with-dual-sliders-for-gixxer-250-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1248-crash-guard-with-dual-sliders-for-gixxer-250/product-1248-crash-guard-with-dual-sliders-for-gixxer-250-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1248-crash-guard-with-dual-sliders-for-gixxer-250/product-1248-crash-guard-with-dual-sliders-for-gixxer-250-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28567,11 +28644,13 @@ const catalogProducts = [
         name: 'Moto Care NEW DOUBLE FOOTREST FOR SUZUKI V STROM SX 250',
         price: 1280,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601696/W_udogvv.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1249-new-double-footrest-for-v-strom-sx-250/product-1249-new-double-footrest-for-v-strom-sx-250-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601697/WW_uoyoao.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601696/W_udogvv.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601700/WWW_qz1adf.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1249-new-double-footrest-for-v-strom-sx-250/product-1249-new-double-footrest-for-v-strom-sx-250-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1249-new-double-footrest-for-v-strom-sx-250/product-1249-new-double-footrest-for-v-strom-sx-250-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1249-new-double-footrest-for-v-strom-sx-250/product-1249-new-double-footrest-for-v-strom-sx-250-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1249-new-double-footrest-for-v-strom-sx-250/product-1249-new-double-footrest-for-v-strom-sx-250-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1249-new-double-footrest-for-v-strom-sx-250/product-1249-new-double-footrest-for-v-strom-sx-250-image-6.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28592,11 +28671,12 @@ const catalogProducts = [
         name: 'Moto Care UPPER LOWER CRASH GUARD WITH SLIDERS (RED) FOR SUZUKI V STROM',
         price: 5600,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601783/1764073801_6925a149133c1_r3q9m5.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1250-upper-lower-crash-guard-with-sliders-red-for-v-strom/product-1250-upper-lower-crash-guard-with-sliders-red-for-v-strom-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601785/1764073809_6925a151cab62_crc5xt.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601783/1764073801_6925a149133c1_r3q9m5.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601785/1764073809_6925a151cab62_crc5xt.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1250-upper-lower-crash-guard-with-sliders-red-for-v-strom/product-1250-upper-lower-crash-guard-with-sliders-red-for-v-strom-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1250-upper-lower-crash-guard-with-sliders-red-for-v-strom/product-1250-upper-lower-crash-guard-with-sliders-red-for-v-strom-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1250-upper-lower-crash-guard-with-sliders-red-for-v-strom/product-1250-upper-lower-crash-guard-with-sliders-red-for-v-strom-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1250-upper-lower-crash-guard-with-sliders-red-for-v-strom/product-1250-upper-lower-crash-guard-with-sliders-red-for-v-strom-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28617,11 +28697,12 @@ const catalogProducts = [
         name: 'Moto Care UPPER LOWER CRASH GUARD WITH SLIDERS (SILVER) FOR SUZUKI V STROM',
         price: 5600,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601865/1764073667_6925a0c33b4aa_waa90p.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1251-upper-lower-crash-guard-with-sliders-silver-for-v-strom/product-1251-upper-lower-crash-guard-with-sliders-silver-for-v-strom-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601867/1764073680_6925a0d0366e2_xfzwtw.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601865/1764073667_6925a0c33b4aa_waa90p.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601867/1764073680_6925a0d0366e2_xfzwtw.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1251-upper-lower-crash-guard-with-sliders-silver-for-v-strom/product-1251-upper-lower-crash-guard-with-sliders-silver-for-v-strom-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1251-upper-lower-crash-guard-with-sliders-silver-for-v-strom/product-1251-upper-lower-crash-guard-with-sliders-silver-for-v-strom-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1251-upper-lower-crash-guard-with-sliders-silver-for-v-strom/product-1251-upper-lower-crash-guard-with-sliders-silver-for-v-strom-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1251-upper-lower-crash-guard-with-sliders-silver-for-v-strom/product-1251-upper-lower-crash-guard-with-sliders-silver-for-v-strom-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28642,11 +28723,14 @@ const catalogProducts = [
         name: 'Moto Care CRASH GUARD (RED) WITH DUAL SLIDERS FOR SUZUKI V STROM',
         price: 4800,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601964/E_qx74ci.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1252-crash-guard-red-with-dual-sliders-for-v-strom/product-1252-crash-guard-red-with-dual-sliders-for-v-strom-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601966/EE_mifb88.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601964/E_qx74ci.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786601966/EE_mifb88.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1252-crash-guard-red-with-dual-sliders-for-v-strom/product-1252-crash-guard-red-with-dual-sliders-for-v-strom-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1252-crash-guard-red-with-dual-sliders-for-v-strom/product-1252-crash-guard-red-with-dual-sliders-for-v-strom-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1252-crash-guard-red-with-dual-sliders-for-v-strom/product-1252-crash-guard-red-with-dual-sliders-for-v-strom-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1252-crash-guard-red-with-dual-sliders-for-v-strom/product-1252-crash-guard-red-with-dual-sliders-for-v-strom-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1252-crash-guard-red-with-dual-sliders-for-v-strom/product-1252-crash-guard-red-with-dual-sliders-for-v-strom-image-6.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1252-crash-guard-red-with-dual-sliders-for-v-strom/product-1252-crash-guard-red-with-dual-sliders-for-v-strom-image-7.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28667,11 +28751,14 @@ const catalogProducts = [
         name: 'Moto Care CRASH GUARD (SILVER) WITH DUAL SLIDERS FOR SUZUKI V STROM',
         price: 4800,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602116/S_pshwed.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1253-crash-guard-silver-with-dual-sliders-for-v-strom/product-1253-crash-guard-silver-with-dual-sliders-for-v-strom-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602118/SS_siwxbn.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602116/S_pshwed.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602118/SS_siwxbn.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1253-crash-guard-silver-with-dual-sliders-for-v-strom/product-1253-crash-guard-silver-with-dual-sliders-for-v-strom-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1253-crash-guard-silver-with-dual-sliders-for-v-strom/product-1253-crash-guard-silver-with-dual-sliders-for-v-strom-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1253-crash-guard-silver-with-dual-sliders-for-v-strom/product-1253-crash-guard-silver-with-dual-sliders-for-v-strom-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1253-crash-guard-silver-with-dual-sliders-for-v-strom/product-1253-crash-guard-silver-with-dual-sliders-for-v-strom-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1253-crash-guard-silver-with-dual-sliders-for-v-strom/product-1253-crash-guard-silver-with-dual-sliders-for-v-strom-image-6.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1253-crash-guard-silver-with-dual-sliders-for-v-strom/product-1253-crash-guard-silver-with-dual-sliders-for-v-strom-image-7.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28692,11 +28779,12 @@ const catalogProducts = [
         name: 'Moto Care HEADLIGHT GRILL FOR SUZUKI V STROM SX 250',
         price: 1200,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602202/1732985315_674b41e363ccd_nojkue.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1254-headlight-grill-for-suzuki-v-strom-sx-250/product-1254-headlight-grill-for-suzuki-v-strom-sx-250-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602204/1732985321_674b41e91da49_n7am23.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602202/1732985315_674b41e363ccd_nojkue.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602207/1732985342_674b41fedf536_yye4xd.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1254-headlight-grill-for-suzuki-v-strom-sx-250/product-1254-headlight-grill-for-suzuki-v-strom-sx-250-image-2.jpg",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1254-headlight-grill-for-suzuki-v-strom-sx-250/product-1254-headlight-grill-for-suzuki-v-strom-sx-250-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1254-headlight-grill-for-suzuki-v-strom-sx-250/product-1254-headlight-grill-for-suzuki-v-strom-sx-250-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1254-headlight-grill-for-suzuki-v-strom-sx-250/product-1254-headlight-grill-for-suzuki-v-strom-sx-250-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28717,11 +28805,9 @@ const catalogProducts = [
         name: 'Moto Care DOUBLE FOOTREST FOR SUZUKI V STROM SX 250',
         price: 1600,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602321/1732702023_6746ef47659bc_cktjaw.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1255-double-footrest-for-v-strom-sx-250/product-1255-double-footrest-for-v-strom-sx-250-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602323/1732702031_6746ef4f40d79_bokb6r.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602321/1732702023_6746ef47659bc_cktjaw.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602323/1732702031_6746ef4f40d79_bokb6r.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1255-double-footrest-for-v-strom-sx-250/product-1255-double-footrest-for-v-strom-sx-250-image-2.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28742,11 +28828,13 @@ const catalogProducts = [
         name: 'Moto Care 4 SLIDER CRASH GUARD FOR SUZUKI GIXXER 250',
         price: 1600,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602406/1732263903_67403fdf89b68_winmtm.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1256-4-slider-crash-guard-for-gixxer-250/product-1256-4-slider-crash-guard-for-gixxer-250-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602409/1732263916_67403fec1c86d_tkxcez.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602406/1732263903_67403fdf89b68_winmtm.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602409/1732263916_67403fec1c86d_tkxcez.jpg'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1256-4-slider-crash-guard-for-gixxer-250/product-1256-4-slider-crash-guard-for-gixxer-250-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1256-4-slider-crash-guard-for-gixxer-250/product-1256-4-slider-crash-guard-for-gixxer-250-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1256-4-slider-crash-guard-for-gixxer-250/product-1256-4-slider-crash-guard-for-gixxer-250-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1256-4-slider-crash-guard-for-gixxer-250/product-1256-4-slider-crash-guard-for-gixxer-250-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1256-4-slider-crash-guard-for-gixxer-250/product-1256-4-slider-crash-guard-for-gixxer-250-image-6.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28767,11 +28855,11 @@ const catalogProducts = [
         name: 'Moto Care POLYCARBONATE VISOR FOR SUZUKI V STROM SX 250',
         price: 2080,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602486/1732263698_67403f1271d37_f64qfq.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1257-polycarbonate-visor-for-v-strom-sx-250/product-1257-polycarbonate-visor-for-v-strom-sx-250-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602490/1732263710_67403f1ecec1f_zkjxrs.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602486/1732263698_67403f1271d37_f64qfq.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602490/1732263710_67403f1ecec1f_zkjxrs.jpg'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1257-polycarbonate-visor-for-v-strom-sx-250/product-1257-polycarbonate-visor-for-v-strom-sx-250-image-2.jpg",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1257-polycarbonate-visor-for-v-strom-sx-250/product-1257-polycarbonate-visor-for-v-strom-sx-250-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1257-polycarbonate-visor-for-v-strom-sx-250/product-1257-polycarbonate-visor-for-v-strom-sx-250-image-4.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28792,11 +28880,11 @@ const catalogProducts = [
         name: 'Moto Care SADDLE STAY WITH PLATE TYPE 2 FOR SUZUKI V STROM',
         price: 2400,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602580/R_jdxvf5.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1258-saddle-stay-with-plate-type-2-for-v-strom/product-1258-saddle-stay-with-plate-type-2-for-v-strom-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602583/RR_y1f5gv.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602580/R_jdxvf5.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602585/RRR_lj2le6.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1258-saddle-stay-with-plate-type-2-for-v-strom/product-1258-saddle-stay-with-plate-type-2-for-v-strom-image-2.jpg",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1258-saddle-stay-with-plate-type-2-for-v-strom/product-1258-saddle-stay-with-plate-type-2-for-v-strom-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1258-saddle-stay-with-plate-type-2-for-v-strom/product-1258-saddle-stay-with-plate-type-2-for-v-strom-image-4.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28817,11 +28905,12 @@ const catalogProducts = [
         name: 'Moto Care UPPER LOWER CRASH GUARD WITH SLIDERS FOR SUZUKI V STROM',
         price: 5600,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602683/X_khfaf7.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1259-upper-lower-crash-guard-with-sliders-for-v-strom/product-1259-upper-lower-crash-guard-with-sliders-for-v-strom-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602686/XX_hv2oh5.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602689/XXX_kszvqf.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602691/XXXX_my23qg.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1259-upper-lower-crash-guard-with-sliders-for-v-strom/product-1259-upper-lower-crash-guard-with-sliders-for-v-strom-image-2.jpg",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1259-upper-lower-crash-guard-with-sliders-for-v-strom/product-1259-upper-lower-crash-guard-with-sliders-for-v-strom-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1259-upper-lower-crash-guard-with-sliders-for-v-strom/product-1259-upper-lower-crash-guard-with-sliders-for-v-strom-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1259-upper-lower-crash-guard-with-sliders-for-v-strom/product-1259-upper-lower-crash-guard-with-sliders-for-v-strom-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28842,11 +28931,12 @@ const catalogProducts = [
         name: 'Moto Care SADDLE STAY WITH PLATE FOR SUZUKI V STROM',
         price: 2400,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602801/C_ty2so7.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1260-saddle-stay-with-plate-for-v-strom/product-1260-saddle-stay-with-plate-for-v-strom-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602804/CC_srro35.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602801/C_ty2so7.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602804/CC_srro35.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1260-saddle-stay-with-plate-for-v-strom/product-1260-saddle-stay-with-plate-for-v-strom-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1260-saddle-stay-with-plate-for-v-strom/product-1260-saddle-stay-with-plate-for-v-strom-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1260-saddle-stay-with-plate-for-v-strom/product-1260-saddle-stay-with-plate-for-v-strom-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1260-saddle-stay-with-plate-for-v-strom/product-1260-saddle-stay-with-plate-for-v-strom-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28867,11 +28957,13 @@ const catalogProducts = [
         name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR V STROM',
         price: 4800,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602897/V_ctmabh.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1261-crash-guard-with-dual-sliders-for-v-strom/product-1261-crash-guard-with-dual-sliders-for-v-strom-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602900/VV_qbklwq.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602897/V_ctmabh.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602900/VV_qbklwq.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1261-crash-guard-with-dual-sliders-for-v-strom/product-1261-crash-guard-with-dual-sliders-for-v-strom-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1261-crash-guard-with-dual-sliders-for-v-strom/product-1261-crash-guard-with-dual-sliders-for-v-strom-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1261-crash-guard-with-dual-sliders-for-v-strom/product-1261-crash-guard-with-dual-sliders-for-v-strom-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1261-crash-guard-with-dual-sliders-for-v-strom/product-1261-crash-guard-with-dual-sliders-for-v-strom-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1261-crash-guard-with-dual-sliders-for-v-strom/product-1261-crash-guard-with-dual-sliders-for-v-strom-image-6.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -28892,11 +28984,12 @@ const catalogProducts = [
         name: 'Moto Care SUM GUARD FOR SUZUKI V STROM',
         price: 1920,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602988/B_ibe6sd.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1262-sum-guard-for-v-strom/product-1262-sum-guard-for-v-strom-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602993/BB_dehhen.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602988/B_ibe6sd.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786602996/BBB_gcjjxj.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1262-sum-guard-for-v-strom/product-1262-sum-guard-for-v-strom-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1262-sum-guard-for-v-strom/product-1262-sum-guard-for-v-strom-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1262-sum-guard-for-v-strom/product-1262-sum-guard-for-v-strom-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-6/1262-sum-guard-for-v-strom/product-1262-sum-guard-for-v-strom-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
