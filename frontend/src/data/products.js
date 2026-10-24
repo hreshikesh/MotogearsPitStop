@@ -29010,11 +29010,10 @@ const catalogProducts = [
         name: 'Moto Care STAND EXTENDER FOR SUZUKI V STROM',
         price: 400,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603148/Y_kqykzh.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1263-stand-extender-for-v-strom/product-1263-stand-extender-for-v-strom-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603152/YY_qs50nc.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603148/Y_kqykzh.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603152/YY_qs50nc.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1263-stand-extender-for-v-strom/product-1263-stand-extender-for-v-strom-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1263-stand-extender-for-v-strom/product-1263-stand-extender-for-v-strom-image-3.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29036,11 +29035,11 @@ const catalogProducts = [
         name: 'Moto Care RESERVOIR OIL CAP FOR SUZUKI V STROM',
         price: 320,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603235/U_oib7vg.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1264-reservoir-oil-cap-for-v-strom/product-1264-reservoir-oil-cap-for-v-strom-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603238/UU_zrb1zp.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603235/U_oib7vg.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603241/UUU_vjyzbm.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1264-reservoir-oil-cap-for-v-strom/product-1264-reservoir-oil-cap-for-v-strom-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1264-reservoir-oil-cap-for-v-strom/product-1264-reservoir-oil-cap-for-v-strom-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1264-reservoir-oil-cap-for-v-strom/product-1264-reservoir-oil-cap-for-v-strom-image-4.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29061,11 +29060,9 @@ const catalogProducts = [
         name: 'Moto Care PIPE CARRIER WITH BACKREST FOR SUZUKI V STROM',
         price: 2960,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603326/FF_bm6owg.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1265-pipe-carrier-with-backrest-for-v-strom/product-1265-pipe-carrier-with-backrest-for-v-strom-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603413/J_flamcw.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603326/FF_bm6owg.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603413/J_flamcw.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1265-pipe-carrier-with-backrest-for-v-strom/product-1265-pipe-carrier-with-backrest-for-v-strom-image-2.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29086,11 +29083,11 @@ const catalogProducts = [
         name: 'Moto Care PIPE CARRIER FOR SUZUKI V STROM',
         price: 1920,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603413/J_flamcw.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1266-pipe-carrier-for-v-strom/product-1266-pipe-carrier-for-v-strom-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603415/JJ_cwxnmj.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603413/J_flamcw.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603415/JJ_cwxnmj.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1266-pipe-carrier-for-v-strom/product-1266-pipe-carrier-for-v-strom-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1266-pipe-carrier-for-v-strom/product-1266-pipe-carrier-for-v-strom-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1266-pipe-carrier-for-v-strom/product-1266-pipe-carrier-for-v-strom-image-4.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29111,11 +29108,11 @@ const catalogProducts = [
         name: 'Moto Care GPS MOUNT FOR SUZUKI V STROM',
         price: 960,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603554/K_ia0drj.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1267-gps-mount-for-v-strom/product-1267-gps-mount-for-v-strom-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603557/KK_a4pwud.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603554/K_ia0drj.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603560/KKK_w0fuuc.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1267-gps-mount-for-v-strom/product-1267-gps-mount-for-v-strom-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1267-gps-mount-for-v-strom/product-1267-gps-mount-for-v-strom-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1267-gps-mount-for-v-strom/product-1267-gps-mount-for-v-strom-image-4.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29136,11 +29133,12 @@ const catalogProducts = [
         name: 'Moto Care SINGLE FOOTREST FOR SUZUKI V STROM',
         price: 880,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603652/M_qpxc5u.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1268-single-footrest-for-v-strom/product-1268-single-footrest-for-v-strom-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603655/MM_b2l82v.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603660/MMM_pvm3oj.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603655/MM_b2l82v.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1268-single-footrest-for-v-strom/product-1268-single-footrest-for-v-strom-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1268-single-footrest-for-v-strom/product-1268-single-footrest-for-v-strom-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1268-single-footrest-for-v-strom/product-1268-single-footrest-for-v-strom-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1268-single-footrest-for-v-strom/product-1268-single-footrest-for-v-strom-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29161,11 +29159,11 @@ const catalogProducts = [
         name: 'Moto Care CNC CARRIER PLATE FOR SUZUKI V STROM',
         price: 1440,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603753/1708236546_65d19f023dc7c_diarvt.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1269-cnc-carrier-plate-for-v-strom/product-1269-cnc-carrier-plate-for-v-strom-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603763/1708236554_65d19f0a613d9_g9mefk.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603753/1708236546_65d19f023dc7c_diarvt.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603766/1708236566_65d19f16d8224_k5ovln.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1269-cnc-carrier-plate-for-v-strom/product-1269-cnc-carrier-plate-for-v-strom-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1269-cnc-carrier-plate-for-v-strom/product-1269-cnc-carrier-plate-for-v-strom-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1269-cnc-carrier-plate-for-v-strom/product-1269-cnc-carrier-plate-for-v-strom-image-4.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29186,11 +29184,9 @@ const catalogProducts = [
         name: 'Moto Care UPPER LOWER CRASH GUARD FOR SUZUKI V STROM',
         price: 5600,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603866/O_inqa6o.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1270-upper-lower-crash-guard-for-v-strom/product-1270-upper-lower-crash-guard-for-v-strom-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603869/OO_yagzj1.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603866/O_inqa6o.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603869/OO_yagzj1.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1270-upper-lower-crash-guard-for-v-strom/product-1270-upper-lower-crash-guard-for-v-strom-image-2.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29211,11 +29207,12 @@ const catalogProducts = [
         name: 'Moto Care SADDLE STAY WITHOUT PLATE FOR SUZUKI V STROM',
         price: 1680,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603951/1707406703_65c4f56fae29a_cqpjwl.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1271-saddle-stay-without-plate-for-v-strom/product-1271-saddle-stay-without-plate-for-v-strom-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603955/1707406716_65c4f57c672ee_lopzgy.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603951/1707406703_65c4f56fae29a_cqpjwl.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786603958/1707406744_65c4f598c4d87_zynwjh.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1271-saddle-stay-without-plate-for-v-strom/product-1271-saddle-stay-without-plate-for-v-strom-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1271-saddle-stay-without-plate-for-v-strom/product-1271-saddle-stay-without-plate-for-v-strom-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1271-saddle-stay-without-plate-for-v-strom/product-1271-saddle-stay-without-plate-for-v-strom-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1271-saddle-stay-without-plate-for-v-strom/product-1271-saddle-stay-without-plate-for-v-strom-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29237,11 +29234,12 @@ const catalogProducts = [
         name: 'Moto Care TYRE HUGGER FOR APRILLA RS 457',
         price: 1599,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786604282/1750576802_6857aea24270d_pzlu7a.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1272-tyre-hugger-for-aprilla-rs-457/product-1272-tyre-hugger-for-aprilla-rs-457-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786604285/1750576820_6857aeb4b6aae_ub1she.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786604282/1750576802_6857aea24270d_pzlu7a.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786604289/1750576834_6857aec2ce84c_pswkpj.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1272-tyre-hugger-for-aprilla-rs-457/product-1272-tyre-hugger-for-aprilla-rs-457-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1272-tyre-hugger-for-aprilla-rs-457/product-1272-tyre-hugger-for-aprilla-rs-457-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1272-tyre-hugger-for-aprilla-rs-457/product-1272-tyre-hugger-for-aprilla-rs-457-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1272-tyre-hugger-for-aprilla-rs-457/product-1272-tyre-hugger-for-aprilla-rs-457-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29263,11 +29261,11 @@ const catalogProducts = [
         name: 'Moto Care CNC CARRIER WITH BACKREST FOR APRILLA RS 457',
         price: 3600,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786604403/1739427795_67ad8fd327dc9_akoc5i.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1273-cnc-carrier-with-backrest-for-aprilla-rs-457/product-1273-cnc-carrier-with-backrest-for-aprilla-rs-457-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786604408/1739427820_67ad8fec723b7_uisumy.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786604403/1739427795_67ad8fd327dc9_akoc5i.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786604411/1739427835_67ad8ffb6e387_kprort.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1273-cnc-carrier-with-backrest-for-aprilla-rs-457/product-1273-cnc-carrier-with-backrest-for-aprilla-rs-457-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1273-cnc-carrier-with-backrest-for-aprilla-rs-457/product-1273-cnc-carrier-with-backrest-for-aprilla-rs-457-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1273-cnc-carrier-with-backrest-for-aprilla-rs-457/product-1273-cnc-carrier-with-backrest-for-aprilla-rs-457-image-4.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29288,11 +29286,11 @@ const catalogProducts = [
         name: 'Moto Care CNC CARRIER WITH PLATE FOR APRILLA RS 457',
         price: 2560,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786604403/1739427795_67ad8fd327dc9_akoc5i.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1274-cnc-carrier-with-plate-for-aprilla-rs-457/product-1274-cnc-carrier-with-plate-for-aprilla-rs-457-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786604408/1739427820_67ad8fec723b7_uisumy.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786604411/1739427835_67ad8ffb6e387_kprort.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786604408/1739427820_67ad8fec723b7_uisumy.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1274-cnc-carrier-with-plate-for-aprilla-rs-457/product-1274-cnc-carrier-with-plate-for-aprilla-rs-457-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1274-cnc-carrier-with-plate-for-aprilla-rs-457/product-1274-cnc-carrier-with-plate-for-aprilla-rs-457-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1274-cnc-carrier-with-plate-for-aprilla-rs-457/product-1274-cnc-carrier-with-plate-for-aprilla-rs-457-image-4.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29313,11 +29311,12 @@ const catalogProducts = [
         name: 'Moto Care SADDLE STAY WITH PLATE FOR APRILLA RS 457',
         price: 2400,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786604553/1739427374_67ad8e2ecabdf_cpkvy0.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1275-saddle-stay-with-plate-for-aprilla-rs-457/product-1275-saddle-stay-with-plate-for-aprilla-rs-457-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786604558/1739427393_67ad8e4190ce6_kuaaud.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786604553/1739427374_67ad8e2ecabdf_cpkvy0.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786604569/1739427412_67ad8e5477034_kxwf2w.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1275-saddle-stay-with-plate-for-aprilla-rs-457/product-1275-saddle-stay-with-plate-for-aprilla-rs-457-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1275-saddle-stay-with-plate-for-aprilla-rs-457/product-1275-saddle-stay-with-plate-for-aprilla-rs-457-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1275-saddle-stay-with-plate-for-aprilla-rs-457/product-1275-saddle-stay-with-plate-for-aprilla-rs-457-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1275-saddle-stay-with-plate-for-aprilla-rs-457/product-1275-saddle-stay-with-plate-for-aprilla-rs-457-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29338,11 +29337,10 @@ const catalogProducts = [
         name: 'Moto Care FORK SLIDERS FOR APRILLA RS 457',
         price: 2240,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786604627/1739427182_67ad8d6ed51ab_mr2fdz.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1276-fork-sliders-for-aprilla-rs-457/product-1276-fork-sliders-for-aprilla-rs-457-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786604627/1739427182_67ad8d6ed51ab_mr2fdz.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786604627/1739427182_67ad8d6ed51ab_mr2fdz.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786604627/1739427182_67ad8d6ed51ab_mr2fdz.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1276-fork-sliders-for-aprilla-rs-457/product-1276-fork-sliders-for-aprilla-rs-457-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1276-fork-sliders-for-aprilla-rs-457/product-1276-fork-sliders-for-aprilla-rs-457-image-3.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29363,11 +29361,10 @@ const catalogProducts = [
         name: 'Moto Care FRAME SLIDERS FOR APRILLA RS 457',
         price: 1600,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786604712/1739426896_67ad8c50754f0_sz1nc1.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1277-frame-sliders-for-aprilla-rs-457/product-1277-frame-sliders-for-aprilla-rs-457-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786604716/1739426916_67ad8c64daa0a_i9gawd.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786604712/1739426896_67ad8c50754f0_sz1nc1.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786604716/1739426916_67ad8c64daa0a_i9gawd.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1277-frame-sliders-for-aprilla-rs-457/product-1277-frame-sliders-for-aprilla-rs-457-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1277-frame-sliders-for-aprilla-rs-457/product-1277-frame-sliders-for-aprilla-rs-457-image-3.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29388,11 +29385,14 @@ const catalogProducts = [
         name: 'Moto Care SADDLE STAY FOR MAHINDRA MOJO',
         price: 3200,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786604883/1711545678_66041d4e75d25_wesmm7.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1278-saddle-stay-for-mojo/product-1278-saddle-stay-for-mojo-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786604886/1711545705_66041d6908767_gs3pib.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786604883/1711545678_66041d4e75d25_wesmm7.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786604889/1711546111_66041eff8bff3_t8mfqq.jpg'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1278-saddle-stay-for-mojo/product-1278-saddle-stay-for-mojo-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1278-saddle-stay-for-mojo/product-1278-saddle-stay-for-mojo-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1278-saddle-stay-for-mojo/product-1278-saddle-stay-for-mojo-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1278-saddle-stay-for-mojo/product-1278-saddle-stay-for-mojo-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1278-saddle-stay-for-mojo/product-1278-saddle-stay-for-mojo-image-6.jpg",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1278-saddle-stay-for-mojo/product-1278-saddle-stay-for-mojo-image-7.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29413,11 +29413,12 @@ const catalogProducts = [
         name: 'Moto Care PIPE CARRIER WITH BACKREST FOR MAHINDRA MOJO',
         price: 4240,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605009/A_h44jfo.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1279-pipe-carrier-with-backrest-for-mojo/product-1279-pipe-carrier-with-backrest-for-mojo-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605014/AA_frmfps.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605009/A_h44jfo.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605023/AAA_l3zlmi.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1279-pipe-carrier-with-backrest-for-mojo/product-1279-pipe-carrier-with-backrest-for-mojo-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1279-pipe-carrier-with-backrest-for-mojo/product-1279-pipe-carrier-with-backrest-for-mojo-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1279-pipe-carrier-with-backrest-for-mojo/product-1279-pipe-carrier-with-backrest-for-mojo-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1279-pipe-carrier-with-backrest-for-mojo/product-1279-pipe-carrier-with-backrest-for-mojo-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29438,11 +29439,13 @@ const catalogProducts = [
         name: 'Moto Care PIPE CARRIER FOR MAHINDRA MOJO',
         price: 3200,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605102/1711545374_66041c1e6b87a_n1hmvt.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1280-pipe-carrier-for-mojo/product-1280-pipe-carrier-for-mojo-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605114/1711546062_66041ece06421_pauhrn.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605102/1711545374_66041c1e6b87a_n1hmvt.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605117/1711546071_66041ed7d3626_dxe5di.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1280-pipe-carrier-for-mojo/product-1280-pipe-carrier-for-mojo-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1280-pipe-carrier-for-mojo/product-1280-pipe-carrier-for-mojo-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1280-pipe-carrier-for-mojo/product-1280-pipe-carrier-for-mojo-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1280-pipe-carrier-for-mojo/product-1280-pipe-carrier-for-mojo-image-5.jpg",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1280-pipe-carrier-for-mojo/product-1280-pipe-carrier-for-mojo-image-6.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29463,11 +29466,14 @@ const catalogProducts = [
         name: 'Moto Care 4 SLIDER CRASH GUARD FOR MAHINDRA MOJO',
         price: 5600,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605209/1711545212_66041b7c23822_ginmav.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1281-4-slider-crash-guard-for-mojo/product-1281-4-slider-crash-guard-for-mojo-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605213/1711545220_66041b846c333_tjg1m3.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605209/1711545212_66041b7c23822_ginmav.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605224/1711545959_66041e67eda7d_sk246w.jpg'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1281-4-slider-crash-guard-for-mojo/product-1281-4-slider-crash-guard-for-mojo-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1281-4-slider-crash-guard-for-mojo/product-1281-4-slider-crash-guard-for-mojo-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1281-4-slider-crash-guard-for-mojo/product-1281-4-slider-crash-guard-for-mojo-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1281-4-slider-crash-guard-for-mojo/product-1281-4-slider-crash-guard-for-mojo-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1281-4-slider-crash-guard-for-mojo/product-1281-4-slider-crash-guard-for-mojo-image-6.jpg",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1281-4-slider-crash-guard-for-mojo/product-1281-4-slider-crash-guard-for-mojo-image-7.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29488,11 +29494,12 @@ const catalogProducts = [
         name: 'Moto Care DISC OIL CAP (STAINLESS STEEL) FOR HARLEY DAVIDSON X440',
         price: 200,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605328/1753598035_6885c85333e1d_jou4wu.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1282-disc-oil-cap-stainless-steel-for-harley-davidson-x440/product-1282-disc-oil-cap-stainless-steel-for-harley-davidson-x440-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605332/1753598043_6885c85b85f73_pwkr5p.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605328/1753598035_6885c85333e1d_jou4wu.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605332/1753598043_6885c85b85f73_pwkr5p.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1282-disc-oil-cap-stainless-steel-for-harley-davidson-x440/product-1282-disc-oil-cap-stainless-steel-for-harley-davidson-x440-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1282-disc-oil-cap-stainless-steel-for-harley-davidson-x440/product-1282-disc-oil-cap-stainless-steel-for-harley-davidson-x440-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1282-disc-oil-cap-stainless-steel-for-harley-davidson-x440/product-1282-disc-oil-cap-stainless-steel-for-harley-davidson-x440-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1282-disc-oil-cap-stainless-steel-for-harley-davidson-x440/product-1282-disc-oil-cap-stainless-steel-for-harley-davidson-x440-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29514,11 +29521,12 @@ const catalogProducts = [
         name: 'Moto Care PIPE BACKREST FOR HARLEY DAVIDSON X440',
         price: 2240,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605576/1717780862_6663417e7fab4_jpc22j.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1283-pipe-backrest-for-harley-davidson-x440/product-1283-pipe-backrest-for-harley-davidson-x440-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605592/1717780878_6663418e8e27a_idxnop.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605576/1717780862_6663417e7fab4_jpc22j.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605592/1717780878_6663418e8e27a_idxnop.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1283-pipe-backrest-for-harley-davidson-x440/product-1283-pipe-backrest-for-harley-davidson-x440-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1283-pipe-backrest-for-harley-davidson-x440/product-1283-pipe-backrest-for-harley-davidson-x440-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1283-pipe-backrest-for-harley-davidson-x440/product-1283-pipe-backrest-for-harley-davidson-x440-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1283-pipe-backrest-for-harley-davidson-x440/product-1283-pipe-backrest-for-harley-davidson-x440-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29539,11 +29547,12 @@ const catalogProducts = [
         name: 'Moto Care FOOTREST FOR HARLEY DAVIDSON X440',
         price: 1600,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605680/1713603945_66238569d4369_rkuoys.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1284-footrest-for-harley-davidson-x440/product-1284-footrest-for-harley-davidson-x440-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605688/1713603966_6623857ea666a_onclpn.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605680/1713603945_66238569d4369_rkuoys.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605708/1713603973_66238585e0263_wr8rrg.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1284-footrest-for-harley-davidson-x440/product-1284-footrest-for-harley-davidson-x440-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1284-footrest-for-harley-davidson-x440/product-1284-footrest-for-harley-davidson-x440-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1284-footrest-for-harley-davidson-x440/product-1284-footrest-for-harley-davidson-x440-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1284-footrest-for-harley-davidson-x440/product-1284-footrest-for-harley-davidson-x440-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29564,11 +29573,12 @@ const catalogProducts = [
         name: 'Moto Care HANDLE BALANCER FOR HARLEY DAVIDSON X440',
         price: 800,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605776/1709899295_65eafe1f87858_soexvv.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1285-handle-balancer-for-harley-davidson-x440/product-1285-handle-balancer-for-harley-davidson-x440-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605785/1709899355_65eafe5be5885_ca4k8s.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605776/1709899295_65eafe1f87858_soexvv.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605785/1709899355_65eafe5be5885_ca4k8s.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1285-handle-balancer-for-harley-davidson-x440/product-1285-handle-balancer-for-harley-davidson-x440-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1285-handle-balancer-for-harley-davidson-x440/product-1285-handle-balancer-for-harley-davidson-x440-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1285-handle-balancer-for-harley-davidson-x440/product-1285-handle-balancer-for-harley-davidson-x440-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1285-handle-balancer-for-harley-davidson-x440/product-1285-handle-balancer-for-harley-davidson-x440-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29589,11 +29599,10 @@ const catalogProducts = [
         name: 'Moto Care HEADLIGHT GRILL FOR HARLEY DAVIDSON X440',
         price: 1040,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605880/1713604126_6623861ef0087_lbdd4m.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1286-headlight-grill-for-harley-davidson-x440/product-1286-headlight-grill-for-harley-davidson-x440-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605893/1713604133_66238625c714c_dbxlyf.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605880/1713604126_6623861ef0087_lbdd4m.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786605904/1713604140_6623862cea553_we72ru.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1286-headlight-grill-for-harley-davidson-x440/product-1286-headlight-grill-for-harley-davidson-x440-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1286-headlight-grill-for-harley-davidson-x440/product-1286-headlight-grill-for-harley-davidson-x440-image-3.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29614,11 +29623,12 @@ const catalogProducts = [
         name: 'Moto Care CNC CARRIER PLATE FOR HARLEY DAVIDSON X440',
         price: 2560,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606002/1713604194_662386628720b_jsytlb.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1287-cnc-carrier-plate-for-harley-davidson-x440/product-1287-cnc-carrier-plate-for-harley-davidson-x440-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606011/1713604201_66238669d16a1_e2r4um.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606002/1713604194_662386628720b_jsytlb.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606011/1713604201_66238669d16a1_e2r4um.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1287-cnc-carrier-plate-for-harley-davidson-x440/product-1287-cnc-carrier-plate-for-harley-davidson-x440-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1287-cnc-carrier-plate-for-harley-davidson-x440/product-1287-cnc-carrier-plate-for-harley-davidson-x440-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1287-cnc-carrier-plate-for-harley-davidson-x440/product-1287-cnc-carrier-plate-for-harley-davidson-x440-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1287-cnc-carrier-plate-for-harley-davidson-x440/product-1287-cnc-carrier-plate-for-harley-davidson-x440-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29639,11 +29649,13 @@ const catalogProducts = [
         name: 'Moto Care POLYCARBONATE VISOR FOR HARLEY DAVIDSON X440',
         price: 2240,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606103/1709373086_65e2f69eaa01a_symzxv.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1288-polycarbonate-visor-for-harley-davidson-x440/product-1288-polycarbonate-visor-for-harley-davidson-x440-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606110/1709373229_65e2f72d99279_edlmmp.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606126/1709373371_65e2f7bb2a10c_ovbwg4.jpg',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606136/1709373423_65e2f7efa7178_t8nsfm.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1288-polycarbonate-visor-for-harley-davidson-x440/product-1288-polycarbonate-visor-for-harley-davidson-x440-image-2.jpeg",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1288-polycarbonate-visor-for-harley-davidson-x440/product-1288-polycarbonate-visor-for-harley-davidson-x440-image-3.jpg",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1288-polycarbonate-visor-for-harley-davidson-x440/product-1288-polycarbonate-visor-for-harley-davidson-x440-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1288-polycarbonate-visor-for-harley-davidson-x440/product-1288-polycarbonate-visor-for-harley-davidson-x440-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1288-polycarbonate-visor-for-harley-davidson-x440/product-1288-polycarbonate-visor-for-harley-davidson-x440-image-6.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29664,11 +29676,11 @@ const catalogProducts = [
         name: 'Moto Care SEAT RING WITH BACKREST FOR HARLEY DAVIDSON X440',
         price: 2880,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606308/1707551581_65c72b5d917ee_uu9zlh.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1289-seat-ring-with-backrest-for-harley-davidson-x440/product-1289-seat-ring-with-backrest-for-harley-davidson-x440-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606308/1707551581_65c72b5d917ee_uu9zlh.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606325/1707551710_65c72bdeabcc0_jtbz8b.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606308/1707551581_65c72b5d917ee_uu9zlh.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1289-seat-ring-with-backrest-for-harley-davidson-x440/product-1289-seat-ring-with-backrest-for-harley-davidson-x440-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1289-seat-ring-with-backrest-for-harley-davidson-x440/product-1289-seat-ring-with-backrest-for-harley-davidson-x440-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1289-seat-ring-with-backrest-for-harley-davidson-x440/product-1289-seat-ring-with-backrest-for-harley-davidson-x440-image-4.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29689,11 +29701,13 @@ const catalogProducts = [
         name: 'Moto Care SEAT RING FOR HARLEY DAVIDSON X440',
         price: 1840,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606456/1707551097_65c729792e0d2_klcsaw.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1290-seat-ring-for-harley-davidson-x440/product-1290-seat-ring-for-harley-davidson-x440-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606463/1707551710_65c72bdeabcc0_orb01g.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606456/1707551097_65c729792e0d2_klcsaw.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606463/1707551710_65c72bdeabcc0_orb01g.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1290-seat-ring-for-harley-davidson-x440/product-1290-seat-ring-for-harley-davidson-x440-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1290-seat-ring-for-harley-davidson-x440/product-1290-seat-ring-for-harley-davidson-x440-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1290-seat-ring-for-harley-davidson-x440/product-1290-seat-ring-for-harley-davidson-x440-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1290-seat-ring-for-harley-davidson-x440/product-1290-seat-ring-for-harley-davidson-x440-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1290-seat-ring-for-harley-davidson-x440/product-1290-seat-ring-for-harley-davidson-x440-image-6.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29714,11 +29728,14 @@ const catalogProducts = [
         name: 'Moto Care SADDLE STAY WITH PLATE FOR HARLEY DAVIDSON X440',
         price: 2400,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606589/Q_fscvux.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1291-saddle-stay-with-plate-for-harley-davidson-x440/product-1291-saddle-stay-with-plate-for-harley-davidson-x440-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606600/QQ_cb0k2w.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606589/Q_fscvux.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606614/QQQ_dj4jey.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1291-saddle-stay-with-plate-for-harley-davidson-x440/product-1291-saddle-stay-with-plate-for-harley-davidson-x440-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1291-saddle-stay-with-plate-for-harley-davidson-x440/product-1291-saddle-stay-with-plate-for-harley-davidson-x440-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1291-saddle-stay-with-plate-for-harley-davidson-x440/product-1291-saddle-stay-with-plate-for-harley-davidson-x440-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1291-saddle-stay-with-plate-for-harley-davidson-x440/product-1291-saddle-stay-with-plate-for-harley-davidson-x440-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1291-saddle-stay-with-plate-for-harley-davidson-x440/product-1291-saddle-stay-with-plate-for-harley-davidson-x440-image-6.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1291-saddle-stay-with-plate-for-harley-davidson-x440/product-1291-saddle-stay-with-plate-for-harley-davidson-x440-image-7.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29739,11 +29756,12 @@ const catalogProducts = [
         name: 'Moto Care RADIATOR GUARD FOR HARLEY DAVIDSON X440',
         price: 560,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606722/Z_jsbtpq.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1292-radiator-guard-for-harley-davidson-x440/product-1292-radiator-guard-for-harley-davidson-x440-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606740/ZZ_uptp0e.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606722/Z_jsbtpq.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606740/ZZ_uptp0e.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1292-radiator-guard-for-harley-davidson-x440/product-1292-radiator-guard-for-harley-davidson-x440-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1292-radiator-guard-for-harley-davidson-x440/product-1292-radiator-guard-for-harley-davidson-x440-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1292-radiator-guard-for-harley-davidson-x440/product-1292-radiator-guard-for-harley-davidson-x440-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1292-radiator-guard-for-harley-davidson-x440/product-1292-radiator-guard-for-harley-davidson-x440-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29764,11 +29782,14 @@ const catalogProducts = [
         name: 'Moto Care FOG LIGHT CLAMP FOR HARLEY DAVIDSON X440',
         price: 720,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606821/X_y19qkv.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1293-fog-light-clamp-for-harley-davidson-x440/product-1293-fog-light-clamp-for-harley-davidson-x440-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606837/XX_qipnhd.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606821/X_y19qkv.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606837/XX_qipnhd.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1293-fog-light-clamp-for-harley-davidson-x440/product-1293-fog-light-clamp-for-harley-davidson-x440-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1293-fog-light-clamp-for-harley-davidson-x440/product-1293-fog-light-clamp-for-harley-davidson-x440-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1293-fog-light-clamp-for-harley-davidson-x440/product-1293-fog-light-clamp-for-harley-davidson-x440-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1293-fog-light-clamp-for-harley-davidson-x440/product-1293-fog-light-clamp-for-harley-davidson-x440-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1293-fog-light-clamp-for-harley-davidson-x440/product-1293-fog-light-clamp-for-harley-davidson-x440-image-6.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1293-fog-light-clamp-for-harley-davidson-x440/product-1293-fog-light-clamp-for-harley-davidson-x440-image-7.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29789,11 +29810,11 @@ const catalogProducts = [
         name: 'Moto Care DISC OIL CAP FOR HARLEY DAVIDSON X440',
         price: 200,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606912/S_ty4ltl.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1294-disc-oil-cap-for-harley-davidson-x440/product-1294-disc-oil-cap-for-harley-davidson-x440-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606928/SS_yn2aor.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606912/S_ty4ltl.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786606928/SS_yn2aor.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1294-disc-oil-cap-for-harley-davidson-x440/product-1294-disc-oil-cap-for-harley-davidson-x440-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1294-disc-oil-cap-for-harley-davidson-x440/product-1294-disc-oil-cap-for-harley-davidson-x440-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1294-disc-oil-cap-for-harley-davidson-x440/product-1294-disc-oil-cap-for-harley-davidson-x440-image-4.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29814,11 +29835,12 @@ const catalogProducts = [
         name: 'Moto Care CNC CARRIER PLATE WITH BACKREST FOR HARLEY DAVIDSON X440',
         price: 3600,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786607002/W_sstlvl.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1295-cnc-carrier-plate-with-backrest-for-harley-davidson-x440/product-1295-cnc-carrier-plate-with-backrest-for-harley-davidson-x440-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786607018/WW_ty6nih.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786607002/W_sstlvl.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786607018/WW_ty6nih.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1295-cnc-carrier-plate-with-backrest-for-harley-davidson-x440/product-1295-cnc-carrier-plate-with-backrest-for-harley-davidson-x440-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1295-cnc-carrier-plate-with-backrest-for-harley-davidson-x440/product-1295-cnc-carrier-plate-with-backrest-for-harley-davidson-x440-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1295-cnc-carrier-plate-with-backrest-for-harley-davidson-x440/product-1295-cnc-carrier-plate-with-backrest-for-harley-davidson-x440-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1295-cnc-carrier-plate-with-backrest-for-harley-davidson-x440/product-1295-cnc-carrier-plate-with-backrest-for-harley-davidson-x440-image-5.png"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29839,11 +29861,13 @@ const catalogProducts = [
         name: 'Moto Care CRASH GUARD WITH DUAL SLIDERS FOR HARLEY DAVIDSON X440',
         price: 4160,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786607100/E_qd3zs6.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1296-crash-guard-with-dual-sliders-for-harley-davidson-x440/product-1296-crash-guard-with-dual-sliders-for-harley-davidson-x440-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786607116/EE_pvlain.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786607100/E_qd3zs6.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786607129/EEE_fqupa6.png'
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1296-crash-guard-with-dual-sliders-for-harley-davidson-x440/product-1296-crash-guard-with-dual-sliders-for-harley-davidson-x440-image-2.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1296-crash-guard-with-dual-sliders-for-harley-davidson-x440/product-1296-crash-guard-with-dual-sliders-for-harley-davidson-x440-image-3.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1296-crash-guard-with-dual-sliders-for-harley-davidson-x440/product-1296-crash-guard-with-dual-sliders-for-harley-davidson-x440-image-4.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1296-crash-guard-with-dual-sliders-for-harley-davidson-x440/product-1296-crash-guard-with-dual-sliders-for-harley-davidson-x440-image-5.png",
+            "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1296-crash-guard-with-dual-sliders-for-harley-davidson-x440/product-1296-crash-guard-with-dual-sliders-for-harley-davidson-x440-image-6.jpg"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29865,11 +29889,9 @@ const catalogProducts = [
         name: 'Moto Care SMALL CRASH GUARD FOR JAWA 42',
         price: 3840,
         discount: 0,
-        image: 'https://res.cloudinary.com/px1co5qc/image/upload/v1786615227/1739962408_67b5b82846735.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1297-small-crash-guard-for-jawa-42/product-1297-small-crash-guard-for-jawa-42-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/px1co5qc/image/upload/v1786615227/1739962408_67b5b82846735.png',
-            'https://res.cloudinary.com/px1co5qc/image/upload/v1786615227/1739962408_67b5b82846735.png',
-            'https://res.cloudinary.com/px1co5qc/image/upload/v1786615227/1739962408_67b5b82846735.png'
+
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29890,11 +29912,9 @@ const catalogProducts = [
         name: 'Moto Care CNC CARRIER WITH PLATE FOR JAWA 42',
         price: 2560,
         discount: 0,
-        image: 'https://res.cloudinary.com/px1co5qc/image/upload/v1786615317/1739962290_67b5b7b2332ef.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1298-cnc-carrier-with-plate-for-jawa-42/product-1298-cnc-carrier-with-plate-for-jawa-42-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/px1co5qc/image/upload/v1786615317/1739962290_67b5b7b2332ef.png',
-            'https://res.cloudinary.com/px1co5qc/image/upload/v1786615317/1739962290_67b5b7b2332ef.png',
-            'https://res.cloudinary.com/px1co5qc/image/upload/v1786615317/1739962290_67b5b7b2332ef.png'
+
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -29915,11 +29935,9 @@ const catalogProducts = [
         name: 'Moto Care CNC CARRIER WITH BACKREST FOR JAWA 42',
         price: 3600,
         discount: 0,
-        image: 'https://res.cloudinary.com/px1co5qc/image/upload/v1786615388/1739962173_67b5b73db3011.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/product-images/batch-7/1299-cnc-carrier-with-backrest-for-jawa-42/product-1299-cnc-carrier-with-backrest-for-jawa-42-image-1.png",
         galleryImages: [
-            'https://res.cloudinary.com/px1co5qc/image/upload/v1786615388/1739962173_67b5b73db3011.png',
-            'https://res.cloudinary.com/px1co5qc/image/upload/v1786615388/1739962173_67b5b73db3011.png',
-            'https://res.cloudinary.com/px1co5qc/image/upload/v1786615388/1739962173_67b5b73db3011.png'
+
         ],
         category: 'Performance Parts',
         subcategory: '',
