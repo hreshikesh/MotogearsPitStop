@@ -13,3 +13,8 @@ export const getWhatsAppUrl = (message) => {
   const query = message ? `?text=${encodeURIComponent(message)}` : '';
   return `https://wa.me/${SUPPORT_WHATSAPP_NUMBER}${query}`;
 };
+
+/** Override with `VITE_WHATSAPP_COMMUNITY_URL` in `.env` */
+export const WHATSAPP_COMMUNITY_URL =
+  import.meta.env.VITE_WHATSAPP_COMMUNITY_URL ||
+  'https://chat.whatsapp.com/FnAHNpKug3MJ6G9dEenbxI';

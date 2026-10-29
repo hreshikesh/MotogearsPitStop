@@ -18,6 +18,7 @@ import Wishlist from '@/pages/Wishlist';
 import ShopByBike from '@/pages/ShopByBike';
 import About from '@/pages/About';
 import Contact from '@/pages/Contact';
+import JoinCommunity from '@/pages/JoinCommunity';
 import WhatsAppButton from '@/components/WhatsAppButton';
 import ScrollToTop from '@/components/ScrollToTop';
 import { Toaster } from '@/components/ui/toaster';
@@ -52,6 +53,8 @@ function App() {
           <Route path="users" element={<AdminUsers />} />
           <Route path="revenue" element={<AdminRevenue />} />
         </Route>
+
+        <Route path="/community" element={<JoinCommunity />} />
 
         {/* ─── Public Routes (with Header/Footer) ─── */}
         <Route path="/*" element={

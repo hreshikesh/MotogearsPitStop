@@ -11,6 +11,7 @@ import {
 } from '@/utils/jsonLd';
 import { productImageAlt } from '@/utils/imageSeo';
 import { trackViewItem, trackAddToCart } from '@/utils/analytics';
+import { trackMetaAddToWishlist } from '@/utils/metaPixel';
 import { getProductIdentifier } from '@/utils/urlUtils';
 import { motion } from 'framer-motion';
 import { Heart, Minus, Plus, Star } from 'lucide-react';
@@ -113,6 +114,7 @@ const ProductDetail = () => {
       toast({ title: "Removed from wishlist" });
     } else {
       addToWishlist(product);
+      trackMetaAddToWishlist(product);
       toast({ title: "Added to wishlist!" });
     }
   };

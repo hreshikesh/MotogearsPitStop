@@ -5,6 +5,7 @@ import { DEFAULT_DESCRIPTION, DEFAULT_OG_IMAGE } from '@/config/seo';
 import { buildTitle } from '@/utils/seoText';
 import { organizationSchema, websiteSchema } from '@/utils/jsonLd';
 import CategoryShowcase from '@/components/home/CategoryShowcase';
+import WhatsAppCommunity from '@/components/home/WhatsAppCommunity';
 import FeaturedDealsBanner from '@/components/home/FeaturedDealsBanner';
 import ShopByBrands from '@/components/home/ShopByBrands';
 import ShopBySpecificBike from '@/components/home/ShopBySpecificBike';
@@ -32,6 +33,7 @@ const HomePage = () => {
       <div className="bg-white min-h-screen">
         <HeroSection />
         <CategoryShowcase />
+        <WhatsAppCommunity />
         <FeaturedDealsBanner />
         <ShopByBrands />
         <ShopBySpecificBike />

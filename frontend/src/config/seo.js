@@ -29,6 +29,7 @@ export const NOINDEX_PATH_PREFIXES = [
   '/forgot-password',
   '/reset-password',
   '/admin',
+  '/community',
 ];
 
 export const SITEMAP_CHUNK_SIZE = 500;

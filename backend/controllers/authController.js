@@ -87,10 +87,56 @@ export const register = asyncHandler(async (req, res) => {
   });
 });
 
+const getAdminCredentials = () => ({
+  name: String(process.env.ADMIN_NAME || 'admin').trim().toLowerCase(),
+  password: String(process.env.ADMIN_PASSWORD || 'admin123'),
+});
+
+const safeEqual = (a, b) => {
+  const bufA = Buffer.from(String(a));
+  const bufB = Buffer.from(String(b));
+  return bufA.length === bufB.length && crypto.timingSafeEqual(bufA, bufB);
+};
+
+const sendAuthUser = (res, user) => {
+  const token = generateToken(res, user._id);
+
+  res.json({
+    success: true,
+    user: {
+      _id: user._id,
+      name: user.name,
+      email: user.email,
+      phone: user.phone,
+      role: user.role,
+      avatar: user.avatar
+    },
+    token
+  });
+};
+
 // @POST /api/auth/login
 export const login = asyncHandler(async (req, res) => {
   const { name, phone, password } = req.body;
   const phoneDigits = normalizePhone(phone);
+  const admin = getAdminCredentials();
+
+  if (!phoneDigits && String(name || '').trim().toLowerCase() === admin.name) {
+    if (!password || !safeEqual(password, admin.password)) {
+      res.status(401);
+      throw new Error('Invalid admin name or password');
+    }
+
+    let adminUser = await User.findOne({ role: 'admin', name: admin.name });
+    if (!adminUser) {
+      adminUser = new User({ name: admin.name, password: admin.password, role: 'admin' });
+      // phone is unique+sparse, so leave it unset instead of the '' default
+      adminUser.set('phone', undefined);
+      await adminUser.save();
+    }
+
+    return sendAuthUser(res, adminUser);
+  }
 
   if (!name?.trim() || !phoneDigits || !password) {
     res.status(400);
@@ -112,20 +158,7 @@ export const login = asyncHandler(async (req, res) => {
     throw new Error('Invalid name, phone number, or password');
   }
 
-  const token = generateToken(res, user._id);
-
-  res.json({
-    success: true,
-    user: {
-      _id: user._id,
-      name: user.name,
-      email: user.email,
-      phone: user.phone,
-      role: user.role,
-      avatar: user.avatar
-    },
-    token
-  });
+  sendAuthUser(res, user);
 });
 
 // @POST /api/auth/logout

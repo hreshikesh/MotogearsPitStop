@@ -10,6 +10,7 @@ import {
   calculateFirstPurchaseDiscount,
   isFirstPurchaseEligible
 } from '../utils/firstPurchasePromo.js';
+import { sendMetaPurchaseFromOrder } from '../utils/metaCapi.js';
 
 const escapeHtml = (value = '') => String(value)
   .replace(/&/g, '&amp;')
@@ -151,7 +152,13 @@ const sendOrderEmails = async (order, user) => {
 
 // @POST /api/orders
 export const createOrder = asyncHandler(async (req, res) => {
-  const { shippingAddress, paymentInfo = {}, paymentMethod = 'cod', items: clientItems = [] } = req.body;
+  const {
+    shippingAddress,
+    paymentInfo = {},
+    paymentMethod = 'cod',
+    items: clientItems = [],
+    metaTracking = {},
+  } = req.body;
 
   const cart = await Cart.findOne({ user: req.user._id }).populate('items.product');
   let items = [];
@@ -235,6 +242,17 @@ export const createOrder = asyncHandler(async (req, res) => {
 
   sendOrderEmails(order, req.user).catch((err) => {
     console.error('Order email failed:', err?.message || err);
+  });
+
+  sendMetaPurchaseFromOrder({
+    order,
+    user: req.user,
+    metaTracking: {
+      ...metaTracking,
+      clientUserAgent: metaTracking.clientUserAgent || req.headers['user-agent'],
+      clientIpAddress: metaTracking.clientIpAddress || req.ip,
+    },
+    req,
   });
 });
 

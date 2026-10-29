@@ -1,4 +1,5 @@
 import React from 'react';
+import { trackMetaContact } from '@/utils/metaPixel';
 import SeoHead from '@/components/SeoHead';
 import { buildTitle, truncateMeta } from '@/utils/seoText';
 import { breadcrumbSchema, organizationSchema } from '@/utils/jsonLd';
@@ -13,6 +14,7 @@ const Contact = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
+    trackMetaContact();
     toast({
       title: "Message Sent!",
       description: "We've received your message and will get back to you shortly.",

@@ -7,6 +7,7 @@ import { shopCategories } from '@/components/MegaMenu';
 import { getBikeSearchTarget, searchProducts } from '@/utils/searchUtils';
 import { productUrl, productsUrl } from '@/utils/urlUtils';
 import { getProductImage, handleProductImageError } from '@/utils/imageUtils';
+import { trackMetaSearch } from '@/utils/metaPixel';
 
 const SearchBar = ({ onSearchTriggered, autoFocus = false, compact = false }) => {
   const [query, setQuery] = useState('');
@@ -65,6 +66,7 @@ const SearchBar = ({ onSearchTriggered, autoFocus = false, compact = false }) =>
       const bikeSearchTarget = getBikeSearchTarget(trimmedTerm);
 
       saveRecentSearch(trimmedTerm);
+      trackMetaSearch(trimmedTerm);
       navigate(
         bikeSearchTarget
           ? productsUrl({ bike: bikeSearchTarget })
