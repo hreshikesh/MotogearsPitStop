@@ -385,7 +385,7 @@
 
 
 
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { Check, CreditCard, Banknote } from 'lucide-react';
@@ -406,6 +406,12 @@ import { getProductImage, handleProductImageError } from '@/utils/imageUtils';
 import IndianPhoneInput from '@/components/IndianPhoneInput';
 import { toIndianLocalDigits } from '@/utils/phoneUtils';
 import { formatUserPhone } from '@/utils/userDisplay';
+import { trackBeginCheckout } from '@/utils/analytics';
+import {
+  createMetaEventId,
+  getMetaBrowserIds,
+  trackMetaAddPaymentInfo,
+} from '@/utils/metaPixel';
 
 const getItemId = (item) => item?.product?._id || item?.product?.id || item?._id || item?.id;
 const getItemName = (item) => item?.product?.name || item?.name || 'Product';
@@ -456,6 +462,7 @@ const Checkout = () => {
   const [showAuth, setShowAuth] = useState(false);
   const [loading, setLoading] = useState(false);
   const [firstPurchaseEligible, setFirstPurchaseEligible] = useState(false);
+  const checkoutTracked = useRef(false);
   const [formData, setFormData] = useState({
     fullName: user?.name || '',
     phone: toIndianLocalDigits(user?.phone || ''),
@@ -508,6 +515,19 @@ const Checkout = () => {
   const codAdvanceAmount = Math.round(total * (COD_ADVANCE_PERCENTAGE / 100));
   const codLeftoverAmount = Math.max(total - codAdvanceAmount, 0);
   const paymentAmount = formData.paymentMethod === 'cod' ? codAdvanceAmount : total;
+
+  useEffect(() => {
+    if (!isAuthenticated || items.length === 0 || checkoutTracked.current) return;
+    checkoutTracked.current = true;
+    trackBeginCheckout(
+      items.map((item) => ({
+        id: getItemId(item),
+        _id: getItemId(item),
+        quantity: item.quantity,
+      })),
+      total,
+    );
+  }, [isAuthenticated, items, total]);
 
   if (items.length === 0) {
     navigate('/cart');
@@ -591,6 +611,22 @@ const Checkout = () => {
         try {
           const verified = await verifyPayment(response);
           if (verified.success) {
+            const nameParts = formData.fullName.trim().split(/\s+/);
+            trackMetaAddPaymentInfo({
+              value: paymentAmount,
+              contentIds: items.map((item) => String(getItemId(item))).filter(Boolean),
+              orderId: rzpOrder.id,
+              eventId: createMetaEventId(),
+              userData: {
+                email: formData.email,
+                phone: formData.phone,
+                firstName: nameParts[0],
+                lastName: nameParts.length > 1 ? nameParts.slice(1).join(' ') : undefined,
+                city: formData.city,
+                state: formData.state,
+                zip: formData.pincode,
+              },
+            });
             await placeOrder(response);
           } else {
             toast({ title: 'Payment Failed', description: 'Verification failed', variant: 'destructive' });
@@ -634,6 +670,8 @@ const Checkout = () => {
 
   const placeOrder = async (paymentInfo = null) => {
     setLoading(true);
+    const purchaseEventId = createMetaEventId();
+    const { fbp, fbc } = getMetaBrowserIds();
     const orderData = {
       items: items.map((item) => ({
         productId: getItemId(item),
@@ -652,7 +690,13 @@ const Checkout = () => {
         pincode: formData.pincode
       },
       paymentInfo: paymentInfo || {},
-      paymentMethod: formData.paymentMethod
+      paymentMethod: formData.paymentMethod,
+      metaTracking: {
+        eventId: purchaseEventId,
+        eventSourceUrl: window.location.href,
+        fbp,
+        fbc,
+      },
     };
 
     const result = await createOrder(orderData);
@@ -671,7 +715,7 @@ const Checkout = () => {
       }
       navigate(`/orders/${result.order._id}?placed=1`, {
         replace: true,
-        state: { orderPlaced: true }
+        state: { orderPlaced: true, metaPurchaseEventId: purchaseEventId },
       });
     } else {
       toast({ title: 'Order Failed', description: result.message, variant: 'destructive' });

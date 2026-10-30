@@ -8,6 +8,8 @@ import { useToast } from '@/components/ui/use-toast';
 import { productUrl } from '@/utils/urlUtils';
 import { getProductImage, handleProductImageError } from '@/utils/imageUtils';
 import { productImageAlt } from '@/utils/imageSeo';
+import { trackAddToCart } from '@/utils/analytics';
+import { trackMetaAddToWishlist } from '@/utils/metaPixel';
 
 const ProductCard = ({ product }) => {
   const addToCart = useCartStore((state) => state.addToCart);
@@ -24,6 +26,7 @@ const ProductCard = ({ product }) => {
     e.preventDefault();
     e.stopPropagation();
     addToCart(product);
+    trackAddToCart(product, 1);
     toast({
       title: 'Added to cart!',
       description: `${product.name} added to your cart.`,
@@ -38,6 +41,7 @@ const ProductCard = ({ product }) => {
       toast({ title: 'Removed from wishlist', description: product.name });
     } else {
       addToWishlist(product);
+      trackMetaAddToWishlist(product);
       toast({ title: 'Added to wishlist!', description: product.name });
     }
   };

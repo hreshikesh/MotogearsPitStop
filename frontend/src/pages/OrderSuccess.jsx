@@ -26,10 +26,23 @@ const OrderSuccess = () => {
       return;
     }
     purchaseTracked.current = true;
+    const lineItems = order.items || order.orderItems || [];
+    const shipping = order.shippingAddress || {};
+    const nameParts = String(shipping.fullName || '').trim().split(/\s+/);
     trackPurchase({
       transactionId: order._id || id,
       value: order.totalPrice,
-      items: (order.orderItems || []).map((item) => ({
+      metaEventId: location.state?.metaPurchaseEventId,
+      userData: {
+        email: order.user?.email,
+        phone: shipping.phone,
+        firstName: nameParts[0],
+        lastName: nameParts.length > 1 ? nameParts.slice(1).join(' ') : undefined,
+        city: shipping.city,
+        state: shipping.state,
+        zip: shipping.pincode,
+      },
+      items: lineItems.map((item) => ({
         id: item.product?._id || item.product,
         name: item.name,
         price: item.price,

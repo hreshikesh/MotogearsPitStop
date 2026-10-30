@@ -3,6 +3,13 @@
  * Does not send PII; ecommerce helpers use transaction id + INR value only.
  */
 
+import {
+  trackMetaViewContent,
+  trackMetaAddToCart,
+  trackMetaInitiateCheckout,
+  trackMetaPurchase,
+} from '@/utils/metaPixel';
+
 const MEASUREMENT_ID = import.meta.env.VITE_GA4_MEASUREMENT_ID;
 
 let initialized = false;
@@ -39,6 +46,7 @@ export const trackEcommerce = (eventName, params) => {
 
 export const trackViewItem = (product) => {
   if (!product) return;
+  trackMetaViewContent(product);
   trackEcommerce('view_item', {
     currency: 'INR',
     value: product.price,
@@ -54,6 +62,7 @@ export const trackViewItem = (product) => {
 
 export const trackAddToCart = (product, quantity = 1) => {
   if (!product) return;
+  trackMetaAddToCart(product, quantity);
   trackEcommerce('add_to_cart', {
     currency: 'INR',
     value: product.price * quantity,
@@ -67,6 +76,7 @@ export const trackAddToCart = (product, quantity = 1) => {
 };
 
 export const trackBeginCheckout = (items, value) => {
+  trackMetaInitiateCheckout(items, value);
   trackEcommerce('begin_checkout', {
     currency: 'INR',
     value,
@@ -80,8 +90,15 @@ export const trackBeginCheckout = (items, value) => {
 };
 
 /** Call once per completed order with server-confirmed transaction id */
-export const trackPurchase = ({ transactionId, value, items }) => {
+export const trackPurchase = ({ transactionId, value, items, metaEventId, userData }) => {
   if (!transactionId) return;
+  trackMetaPurchase({
+    transactionId,
+    value,
+    items,
+    eventId: metaEventId,
+    userData,
+  });
   trackEcommerce('purchase', {
     transaction_id: transactionId,
     currency: 'INR',

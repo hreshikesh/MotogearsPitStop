@@ -6,6 +6,9 @@ import { Eye, EyeOff } from 'lucide-react';
 import useAuthStore from '../store/authStore';
 import IndianPhoneInput from '@/components/IndianPhoneInput';
 import { toIndianLocalDigits } from '@/utils/phoneUtils';
+import { trackMetaCompleteRegistration } from '@/utils/metaPixel';
+
+const ADMIN_NAME = (import.meta.env.VITE_ADMIN_NAME || 'admin').trim().toLowerCase();
 
 export default function AuthModal({ isOpen, onClose, onSuccess, initialMode = 'login' }) {
   const [mode, setMode] = useState(initialMode);
@@ -24,16 +27,20 @@ export default function AuthModal({ isOpen, onClose, onSuccess, initialMode = 'l
 
   if (!isOpen) return null;
 
+  const isAdminLogin = mode === 'login' && form.name.trim().toLowerCase() === ADMIN_NAME;
+
   const handleSubmit = async (event) => {
     event?.preventDefault();
     setError('');
 
     if (!form.name.trim()) return setError('Full name is required');
 
-    const phoneDigits = toIndianLocalDigits(form.phone);
-    if (!phoneDigits) return setError('Phone number is required');
-    if (phoneDigits.length < 10) {
-      return setError('Please enter a valid 10-digit mobile number');
+    const phoneDigits = isAdminLogin ? '' : toIndianLocalDigits(form.phone);
+    if (!isAdminLogin) {
+      if (!phoneDigits) return setError('Phone number is required');
+      if (phoneDigits.length < 10) {
+        return setError('Please enter a valid 10-digit mobile number');
+      }
     }
 
     if (!form.password) return setError('Password is required');
@@ -67,8 +74,18 @@ export default function AuthModal({ isOpen, onClose, onSuccess, initialMode = 'l
           });
 
     if (result.success) {
+      if (mode === 'register') {
+        const nameParts = form.name.trim().split(/\s+/);
+        trackMetaCompleteRegistration({
+          email: form.email.trim(),
+          phone: phoneDigits,
+          firstName: nameParts[0],
+          lastName: nameParts.length > 1 ? nameParts.slice(1).join(' ') : undefined,
+        });
+      }
       await onSuccess?.();
       onClose();
+      if (isAdminLogin) navigate('/admin');
     } else {
       setError(result.message || 'Something went wrong');
     }
@@ -114,16 +131,18 @@ export default function AuthModal({ isOpen, onClose, onSuccess, initialMode = 'l
           />
         </div>
 
-        <div className="mb-3">
-          <label className="mb-1 block text-sm font-medium text-[#0a0a0a]">Phone Number *</label>
-          <IndianPhoneInput
-            value={form.phone}
-            onChange={(phone) => setForm({ ...form, phone })}
-            containerClassName="border-[#0a0a0a]/15 bg-white/90"
-            prefixClassName="border-[#0a0a0a]/15 bg-[#F7F7F5]"
-            inputClassName="text-[#0a0a0a] placeholder:text-gray-500"
-          />
-        </div>
+        {!isAdminLogin && (
+          <div className="mb-3">
+            <label className="mb-1 block text-sm font-medium text-[#0a0a0a]">Phone Number *</label>
+            <IndianPhoneInput
+              value={form.phone}
+              onChange={(phone) => setForm({ ...form, phone })}
+              containerClassName="border-[#0a0a0a]/15 bg-white/90"
+              prefixClassName="border-[#0a0a0a]/15 bg-[#F7F7F5]"
+              inputClassName="text-[#0a0a0a] placeholder:text-gray-500"
+            />
+          </div>
+        )}
 
         {mode === 'register' && (
           <div className="mb-3">

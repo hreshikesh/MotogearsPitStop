@@ -1,4 +1,5 @@
-import React from 'react';
+import React, { useEffect, useRef } from 'react';
+import { trackMetaFindLocation } from '@/utils/metaPixel';
 import { Link } from 'react-router-dom';
 import { MapPin, Clock, Phone, Mail, ExternalLink } from 'lucide-react';
 import SeoHead from '@/components/SeoHead';
@@ -32,6 +33,13 @@ const STORE_FAQ = [
 ];
 
 const StoreLocation = () => {
+  const locationTracked = useRef(false);
+  useEffect(() => {
+    if (locationTracked.current) return;
+    locationTracked.current = true;
+    trackMetaFindLocation();
+  }, []);
+
   const title = buildTitle('Motorcycle Accessories Store — Whitefield, Bengaluru');
   const description = truncateMeta(
     'Visit MotoGearsPitstop in Whitefield, Bengaluru for motorcycle riding gear, helmets, accessories and touring products. Directions, hours, phone and WhatsApp support.',
