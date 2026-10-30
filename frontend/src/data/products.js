@@ -2882,7 +2882,7 @@ const catalogProducts = [
     {
         id: 112,
         name: 'MOTO CARE Royal Enfield AIR FLY WITH ROPE FOR CLASSIC 350',
-        price: 2560,
+        price: 3800,
         discount: 10,
         image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784092159/product112_ia3zdu.png',
         galleryImages: [
@@ -4180,7 +4180,7 @@ const catalogProducts = [
     {
         id: 162,
         name: 'MOTO CARE Royal Enfield 4 SLIDER CRASH GUARD FOR REBORN CLASSIC 350',
-        price: 4000,
+        price: 5000,
         discount: 10,
         image: 'https://res.cloudinary.com/j9ii8zfn/image/upload/v1784202372/pro162_arpapo.png',
         galleryImages: [
@@ -6491,11 +6491,11 @@ const catalogProducts = [
         name: 'MODERN TECH Royal Enfield Ladies Foot Rest',
         price: 1150,
         discount: 10,
-        image: 'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775807099/3_da09988c-d53d-4f45-a473-ee551984ce5f_tiu7me.webp',
+        image: "https://ik.imagekit.io/dn7dxkj70/products/modern-tech/254/product254_moderntech_hunter_footrest_1_NKz-a5YQt.png",
         galleryImages: [
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775807097/2_67a5e276-a03d-4cf8-9ce4-624ff128fef0_cwo55c.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775807095/1_219a2b4c-5fb5-499b-979d-06df74c2d533_lofxbi.webp',
-            'https://res.cloudinary.com/dbplgk8d8/image/upload/v1775807095/1_219a2b4c-5fb5-499b-979d-06df74c2d533_lofxbi.webp'
+            "https://ik.imagekit.io/dn7dxkj70/products/modern-tech/254/product254_moderntech_hunter_footrest_2_4PCIesNt_.png",
+            "https://ik.imagekit.io/dn7dxkj70/products/modern-tech/254/product254_moderntech_hunter_footrest_3_xHn8zuUIO.png",
+            "https://ik.imagekit.io/dn7dxkj70/products/modern-tech/254/product254_moderntech_hunter_footrest_4_QePlPKFFP.png"
         ],
         category: 'Bike Accessories',
         subcategory: 'Crash Guards',
@@ -23281,11 +23281,11 @@ const catalogProducts = [
         name: 'RK TECH Frame Sliders for KAWASAKI NINJA 300',
         price: 5000,
         discount: 0,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099043/333_nnrapr.webp',
+        image: "https://ik.imagekit.io/dn7dxkj70/products/batch-937/product937_rktech_ninja300_frame_slider_NxalT20Xi.webp",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099043/333_nnrapr.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099043/333_nnrapr.webp',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786099043/333_nnrapr.webp'
+            "https://ik.imagekit.io/dn7dxkj70/products/batch-937/product937_rktech_ninja300_frame_slider_NxalT20Xi.webp",
+            "https://ik.imagekit.io/dn7dxkj70/products/batch-937/product937_rktech_ninja300_frame_slider_NxalT20Xi.webp",
+            "https://ik.imagekit.io/dn7dxkj70/products/batch-937/product937_rktech_ninja300_frame_slider_NxalT20Xi.webp"
         ],
         category: 'Performance Parts',
         subcategory: '',
@@ -23829,11 +23829,11 @@ const catalogProducts = [
         name: 'NGK BR6HIX Iridium Spark Plug',
         price: 830,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105247/Screenshot_2026-08-07_175025_dmqmsl.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/products/batch-944-1000/product958_ngk_br6hix_verified_HNk89OuQV.jpg",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105247/Screenshot_2026-08-07_175025_dmqmsl.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105247/Screenshot_2026-08-07_175025_dmqmsl.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786105247/Screenshot_2026-08-07_175025_dmqmsl.png'
+            "https://ik.imagekit.io/dn7dxkj70/products/batch-944-1000/product958_ngk_br6hix_verified_HNk89OuQV.jpg",
+            "https://ik.imagekit.io/dn7dxkj70/products/batch-944-1000/product958_ngk_br6hix_verified_HNk89OuQV.jpg",
+            "https://ik.imagekit.io/dn7dxkj70/products/batch-944-1000/product958_ngk_br6hix_verified_HNk89OuQV.jpg"
         ],
         category: 'Performance Parts',
         subcategory: 'Spark Plug',
@@ -23910,11 +23910,11 @@ const catalogProducts = [
         name: 'NGK BPR5EIX Iridium Spark Plug',
         price: 865,
         discount: 10,
-        image: 'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104995/Screenshot_2026-08-07_174618_evlfgw.png',
+        image: "https://ik.imagekit.io/dn7dxkj70/products/batch-944-1000/product961_ngk_verified_PB-lFXLBF.jpg",
         galleryImages: [
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104995/Screenshot_2026-08-07_174618_evlfgw.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104995/Screenshot_2026-08-07_174618_evlfgw.png',
-            'https://res.cloudinary.com/k4uklwi4/image/upload/v1786104995/Screenshot_2026-08-07_174618_evlfgw.png'
+            "https://ik.imagekit.io/dn7dxkj70/products/batch-944-1000/product961_ngk_verified_PB-lFXLBF.jpg",
+            "https://ik.imagekit.io/dn7dxkj70/products/batch-944-1000/product961_ngk_verified_PB-lFXLBF.jpg",
+            "https://ik.imagekit.io/dn7dxkj70/products/batch-944-1000/product961_ngk_verified_PB-lFXLBF.jpg"
         ],
         category: 'Performance Parts',
         subcategory: 'Spark Plug',
